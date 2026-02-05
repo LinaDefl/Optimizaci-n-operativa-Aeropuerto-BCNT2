@@ -42,3 +42,5 @@ Se entrenan 3 modelos para predecir la afluencia en cada zona: Series temporales
 
 #### Visualización e interfaz:
 El proyecto incluye una aplicación Streamlit con: KPIs diarios por zona, gráficos históricos por horas, días y semanas, mapa interactivo (Folium). Esto permite: análisis histórico, toma de decisiones visual e intuitiva.
+
+Puedes visualizar la app en este link: https://app-afluencia-aeropuertobcnt2.streamlit.app/
