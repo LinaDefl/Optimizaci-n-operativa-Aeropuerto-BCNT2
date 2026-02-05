@@ -6,6 +6,7 @@ Este proyecto aborda uno de los mayores retos operativos de un aeropuerto:
 La gestión de la afluencia de pasajeros en las distintas zonas clave (check-in, control de seguridad, pasaportes), anticipando picos de ocupación para mejorar la planificación de recursos y reducir congestiones.Ante la ausencia de datos reales de  sensores, el proyecto combina; datos operativos de vuelos, reglas empíricas basadas en experiencia aeroportuaria y modelos de machine learning, para reconstruir, modelizar y predecir la afluencia de pasajeros en el tiempo.
 
 -------------------------------
+*Para una mayor privacidad se limita la visualización de datos del notebook 12 y 13 en el cual se trabaja con datos internos.
 #### INDEX DEL PROYECTO: 
 1. RECOGIDA DE DATOS : (notebook 1, 2, 3 y 4)
 2. Limpieza y la variable Aircraft (notebook 5, 6, 7, 8, 9, 10, 11) + (notebook 12 limpieza de datos internos de ocupación 1 día) + (notebook 13 limpieza de datos internos de ocupación)
@@ -13,7 +14,6 @@ La gestión de la afluencia de pasajeros en las distintas zonas clave (check-in,
 4. limpieza de clima (notebook 16)
 5. DIstribución y conversion a tabla por horas (notebook 17)
 6. Modelo de afluencia (notebook 18,19,20)
-Para una mayor privacidad se limita la visualización de datos del notebook 12 y 13 en el cual se trabaja con datos internos.
 -------------------------------
 #### OBJETIVO: 
 Reconstruir la afluencia real de pasajeros por zona aeroportuaria.
