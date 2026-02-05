@@ -1,0 +1,1781 @@
+,Unnamed: 0,fecha_scrapeo,Name_company,Num_flight,Name_Destiny,Time_flight,flight_state,flight_capacity,Aircraft,Gate
+0,118.0,17/11/2025 14-06-56,Ryanair,FR3180,Rome (FCO),06:00,Ha salido,189.0,Boeing 737-800,U
+1,119.0,17/11/2025 14-06-56,Ryanair,FR846,Milan (BGY),06:10,"Retrasado, Ha salido",189.0,Boeing 737-800,S
+2,120.0,17/11/2025 14-06-56,easyJet Europe,EC7105,Geneva (GVA),06:15,Ha salido,156.0,Airbus A319,R
+3,121.0,17/11/2025 14-06-56,Ryanair,FR2233,Al Aaroui (NDR),06:20,"Retrasado, Ha salido",189.0,Boeing 737-800,
+4,122.0,17/11/2025 14-06-56,Ryanair,FR8384,Budapest (BUD),06:25,Ha salido,189.0,Boeing 737-800,R
+5,123.0,17/11/2025 14-06-56,Ryanair,FR3078,Lisbon (LIS),06:30,Ha salido,189.0,Boeing 737-800,U
+6,124.0,17/11/2025 14-06-56,easyJet Europe,EC8062,London (LGW),06:45,"Retrasado, Ha salido",156.0,Airbus A319,R
+7,125.0,17/11/2025 14-06-56,Ryanair,FR3035,Krakow (KRK),06:45,Ha salido,189.0,Boeing 737-800,S
+8,126.0,17/11/2025 14-06-56,Ryanair,FR8215,London (STN),06:45,Ha salido,197.0,Boeing 737 MAX 8,Y
+9,127.0,17/11/2025 14-06-56,easyJet Europe,EC7141,Strasbourg (SXB),07:20,Ha salido,156.0,Airbus A319,R
+10,128.0,17/11/2025 14-06-56,easyJet Europe,EC7151,Milan (MXP),07:20,Ha salido,156.0,Airbus A319,R
+11,129.0,17/11/2025 14-06-56,Ryanair,FR3028,Ibiza (IBZ),07:35,Ha salido,189.0,Boeing 737-800,U
+12,130.0,17/11/2025 14-06-56,Lauda Europe,LW1342,Palma de Mallorca (PMI),07:40,Ha salido,180.0,Airbus A320,R
+13,131.0,17/11/2025 14-06-56,Ryanair,FR1165,Sevilla (SVQ),07:55,Ha salido,189.0,Boeing 737-800,S
+14,132.0,17/11/2025 14-06-56,Norwegian Air Sweden AOC,D85510,Copenhagen (CPH),08:00,Ha salido,189.0,Boeing 737-800,U
+15,133.0,17/11/2025 14-06-56,Ryanair,FR58,Napoli (NAP),08:35,Ha salido,197.0,Boeing 737 MAX 8,U
+16,134.0,17/11/2025 14-06-56,Ryanair,FR575,Bologna (BLQ),08:40,Ha salido,189.0,Boeing 737-800,S
+17,135.0,17/11/2025 14-06-56,easyJet Europe,EC1376,Geneva (GVA),08:45,Ha salido,156.0,Airbus A319,R
+18,136.0,17/11/2025 14-06-56,Lauda Europe,LW12,Vienna (VIE),09:00,Ha salido,180.0,Airbus A320,R
+19,137.0,17/11/2025 14-06-56,Ryanair,FR6078,Ouarzazate (OZZ),09:05,Ha salido,189.0,Boeing 737-800,W
+20,138.0,17/11/2025 14-06-56,Wizz Air,W62048,Krakow (KRK),09:05,Ha salido,239.0,Airbus A321neo,S
+21,139.0,17/11/2025 14-06-56,Volotea,V72327,Strasbourg (SXB),09:10,"Retrasado, Ha salido",180.0,Airbus A320,U
+22,140.0,17/11/2025 14-06-56,Air Arabia Maroc,3O398,Rabat (RBA),09:20,Ha salido,180.0,Airbus A320,
+23,141.0,17/11/2025 14-06-56,Eurowings,EW2521,Stuttgart (STR),09:20,Ha salido,180.0,Airbus A320,S
+24,142.0,17/11/2025 14-06-56,Wizz Air Malta,W43176,Bucharest (OTP),09:25,Ha salido,230.0,Airbus A321,U
+25,143.0,17/11/2025 14-06-56,Wizz Air Malta,W45088,Tirana (TIA),09:25,Ha salido,239.0,Airbus A321neo,W
+26,144.0,17/11/2025 14-06-56,Wizz Air,W62376,Budapest (BUD),09:25,Ha salido,239.0,Airbus A321neo,U
+27,145.0,17/11/2025 14-06-56,Volotea,V73573,Asturias (OVD),09:30,"Retrasado, Ha salido",156.0,Airbus A319,S
+28,146.0,17/11/2025 14-06-56,easyJet Europe,EC1030,"Basel, Switzerland/Mulhouse (BSL)",09:35,Ha salido,180.0,Airbus A320,R
+29,147.0,17/11/2025 14-06-56,Ryanair,FR2834,Charleroi (CRL),09:40,"Retrasado, Ha salido",189.0,Boeing 737-800,U
+30,148.0,17/11/2025 14-06-56,Transavia,HV6062,Rotterdam (RTM),09:40,Ha salido,189.0,Boeing 737-800,S
+31,149.0,17/11/2025 14-06-56,Eurowings,EW9441,Dusseldorf (DUS),09:45,Ha salido,180.0,Airbus A320,S
+32,150.0,17/11/2025 14-06-56,Ryanair,FR2495,Palma de Mallorca (PMI),09:45,"Retrasado, Ha salido",189.0,Boeing 737-800,R
+33,151.0,17/11/2025 14-06-56,Ryanair,FR4545,Porto (OPO),09:50,Ha salido,189.0,Boeing 737-800,R
+34,152.0,17/11/2025 14-06-56,Air Serbia,JU581,Belgrade (BEG),09:55,Ha salido,156.0,Airbus A319,W
+35,153.0,17/11/2025 14-06-56,easyJet Europe,EC7656,Lisbon (LIS),10:00,Ha salido,230.0,Airbus A321,R
+36,154.0,17/11/2025 14-06-56,Transavia,HV5132,Amsterdam (AMS),10:05,Ha salido,189.0,Boeing 737-800,U
+37,155.0,17/11/2025 14-06-56,Transavia,TO4751,Paris (ORY),10:05,"Retrasado, Ha salido",189.0,Boeing 737-800,
+38,156.0,17/11/2025 14-06-56,Wizz Air Malta,W46018,Rome (FCO),10:05,"Retrasado, Ha salido",239.0,Airbus A321neo,U
+39,157.0,17/11/2025 14-06-56,Ryanair,FR6559,Liverpool (LPL),10:15,Ha salido,189.0,Boeing 737-800,W
+40,158.0,17/11/2025 14-06-56,Wizz Air,W61476,Warsaw (WAW),10:15,"Retrasado, Ha salido",230.0,Airbus A321,S
+41,159.0,17/11/2025 14-06-56,Ryanair,FR3143,Milan (BGY),10:20,"Retrasado, Ha salido",189.0,Boeing 737-800,U
+42,160.0,17/11/2025 14-06-56,Easyjet,U22324,London (LTN),10:25,"Retrasado, Ha salido",186.0,Airbus A320neo,M
+43,161.0,17/11/2025 14-06-56,Ryanair,FR7808,London (LTN),10:35,Ha salido,197.0,Boeing 737 MAX 8,Y
+44,162.0,17/11/2025 14-06-56,easyJet Europe,EC7131,Nice/Cote D'Azur (NCE),10:40,Ha salido,156.0,Airbus A319,R
+45,163.0,17/11/2025 14-06-56,Easyjet,U28056,London (LGW),10:40,"Retrasado, Ha salido",180.0,Airbus A320,M
+46,164.0,17/11/2025 14-06-56,Ryanair,FR2239,Marrakech (RAK),10:45,Ha salido,189.0,Boeing 737-800,Y
+47,165.0,17/11/2025 14-06-56,Ryanair,FR3121,Beauvais (BVA),10:45,Ha salido,189.0,Boeing 737-800,U
+48,166.0,17/11/2025 14-06-56,Ryanair,FR3976,Dublin (DUB),10:45,Ha salido,189.0,Boeing 737-800,W
+49,167.0,17/11/2025 14-06-56,Ryanair,FR3039,Prague (PRG),10:55,"Retrasado, Programado",189.0,Boeing 737-800,U
+50,168.0,17/11/2025 14-06-56,Ryanair,FR9045,London (STN),11:00,Programado,189.0,Boeing 737-800,W
+51,169.0,17/11/2025 14-06-56,Easyjet,U22002,Manchester (MAN),11:20,"Retrasado, Ha salido",180.0,Airbus A320,M
+52,170.0,17/11/2025 14-06-56,FLYONE Armenia,3F232,Yerevan (EVN),11:30,Ha salido,180.0,Airbus A320,Y
+53,171.0,17/11/2025 14-06-56,Aer Lingus,EI563,Dublin (DUB),11:30,Ha salido,180.0,Airbus A320,Y
+54,172.0,17/11/2025 14-06-56,Ryanair,FR7539,Milan (MXP),11:30,Ha salido,189.0,Boeing 737-800,R
+55,173.0,17/11/2025 14-06-56,Transavia,TO4755,Paris (ORY),11:30,Ha salido,189.0,Boeing 737-800,
+56,174.0,17/11/2025 14-06-56,Ryanair,FR1279,Copenhagen (CPH),11:35,Ha salido,189.0,Boeing 737-800,S
+57,175.0,17/11/2025 14-06-56,easyJet Europe,EC7197,Birmingham (BHX),11:40,Ha salido,156.0,Airbus A319,R
+58,176.0,17/11/2025 14-06-56,Ryanair,FR777,Venice (VCE),11:55,Ha salido,197.0,Boeing 737 MAX 8,S
+59,177.0,17/11/2025 14-06-56,Ryanair,FR8217,London (STN),12:00,Ha salido,189.0,Boeing 737-800,W
+60,178.0,17/11/2025 14-06-56,Jet2,LS232,Leeds Bradford (LBA),12:00,Ha salido,189.0,Boeing 737-800,W
+61,179.0,17/11/2025 14-06-56,Ryanair,FR3129,Ibiza (IBZ),12:35,"Retrasado, Ha salido",189.0,Boeing 737-800,R
+62,180.0,17/11/2025 14-06-56,Ryanair,FR6973,Rome (FCO),12:35,"Retrasado, Ha salido",197.0,Boeing 737 MAX 8,S
+63,181.0,17/11/2025 14-06-56,Ryanair,FR774,Torino (TRN),12:40,Ha salido,189.0,Boeing 737-800,S
+64,182.0,17/11/2025 14-06-56,Pegasus Airlines,PC1092,Istanbul (SAW),12:45,Ha salido,180.0,Airbus A320,W
+65,183.0,17/11/2025 14-06-56,Norwegian Air Sweden AOC,D83657,Copenhagen (CPH),12:50,Ha salido,197.0,Boeing 737 MAX 8,S
+66,184.0,17/11/2025 14-06-56,easyJet Europe,EC7137,Lyon (LYS),12:55,Ha salido,156.0,Airbus A319,R
+67,185.0,17/11/2025 14-06-56,Wizz Air,W67022,Bratislava (BTS),12:55,"Retrasado, Ha salido",239.0,Airbus A321neo,S
+68,186.0,17/11/2025 14-06-56,Ryanair,FR3108,Luxembourg (LUX),13:00,"Retrasado, Ha salido",197.0,Boeing 737 MAX 8,U
+69,187.0,17/11/2025 14-06-56,Wizz Air Malta,W46330,Milan (MXP),13:10,Ha salido,239.0,Airbus A321neo,U
+70,188.0,17/11/2025 14-06-56,Ryanair,FR8631,Tanger (TNG),13:20,Ha salido,189.0,Boeing 737-800,Y
+71,189.0,17/11/2025 14-06-56,HiSky,H4264,Bucharest (OTP),13:20,Ha salido,180.0,Airbus A320,S
+72,190.0,17/11/2025 14-06-56,Norwegian Air Sweden AOC,D81741,Oslo (OSL),13:25,Ha salido,189.0,Boeing 737-800,U
+73,191.0,17/11/2025 14-06-56,Eurowings,EW521,Cologne-Bonn (CGN),13:25,Ha salido,180.0,Airbus A320,U
+74,192.0,17/11/2025 14-06-56,Pegasus Airlines,PC1528,Izmir (ADB),13:30,Ha salido,180.0,Airbus A320,Y
+75,193.0,17/11/2025 14-06-56,Luxair,LG3592,Luxembourg (LUX),13:35,"Retrasado, Ha salido",76.0,de Havilland Dash 8-400,U
+76,194.0,17/11/2025 14-06-56,easyJet Europe,EC7153,Milan (MXP),13:40,"Retrasado, Ha salido",156.0,Airbus A319,R
+77,195.0,17/11/2025 14-06-56,Ryanair,FR4585,Porto (OPO),13:40,"Retrasado, Ha salido",189.0,Boeing 737-800,S
+78,196.0,17/11/2025 14-06-56,Turkish Airlines,TK608,Ankara (ESB),13:40,"Retrasado, Ha salido",189.0,Boeing 737-800,Y
+79,197.0,17/11/2025 14-06-56,Ryanair,FR3189,Fes (FEZ),13:50,"Retrasado, Ha salido",189.0,Boeing 737-800,W
+80,198.0,17/11/2025 14-06-56,Jet2,LS804,Manchester (MAN),13:50,Ha salido,189.0,Boeing 737-800,W
+81,199.0,17/11/2025 14-06-56,Ryanair,FR3792,Birmingham (BHX),13:55,Ha salido,189.0,Boeing 737-800,W
+82,200.0,17/11/2025 14-06-56,Air Baltic,BT684,Riga (RIX),14:05,"Retrasado, Ha salido",148.0,Airbus A220-300,U
+83,201.0,17/11/2025 14-06-56,Ryanair,FR2889,Palma de Mallorca (PMI),14:05,"Retrasado, Ha salido",189.0,Boeing 737-800,S
+84,202.0,17/11/2025 14-06-56,Norwegian Air Sweden AOC,D85502,Stockholm (ARN),14:40,Ha salido,189.0,Boeing 737-800,U
+85,203.0,17/11/2025 14-06-56,Bluebird Airways,BZ251,Tel Aviv (TLV),14:45,Ha salido,189.0,Boeing 737-800,W
+86,204.0,17/11/2025 14-06-56,easyJet Europe,EC7107,Geneva (GVA),14:45,"Retrasado, Ha salido",156.0,Airbus A319,R
+87,205.0,17/11/2025 14-06-56,Volotea,V71443,Ancona (AOI),14:45,Ha salido,180.0,Airbus A320,S
+88,206.0,17/11/2025 14-06-56,Wizz Air,W64406,Sofia (SOF),14:50,"Retrasado, Ha salido",239.0,Airbus A321neo,S
+89,207.0,17/11/2025 14-06-56,easyJet Europe,EC4212,Napoli (NAP),14:55,Ha salido,180.0,Airbus A320,R
+90,208.0,17/11/2025 14-06-56,SmartWings,QS1059,Prague (PRG),14:55,"Retrasado, Ha salido",189.0,Boeing 737-800,S
+91,209.0,17/11/2025 14-06-56,Air Arabia Maroc,3O376,Al Aaroui (NDR),15:00,Ha salido,180.0,Airbus A320,
+92,210.0,17/11/2025 14-06-56,Ryanair,FR3146,Oujda (OUD),15:10,Ha salido,189.0,Boeing 737-800,Y
+93,211.0,17/11/2025 14-06-56,Ryanair,FR1681,Frankfurt-Hahn (HHN),15:35,Ha salido,189.0,Boeing 737-800,
+94,212.0,17/11/2025 14-06-56,Wizz Air Malta,W46728,Venice (VCE),15:40,Ha salido,230.0,Airbus A321,S
+95,213.0,17/11/2025 14-06-56,Pegasus Airlines,PC1094,Istanbul (SAW),15:45,"Retrasado, Ha salido",239.0,Airbus A321neo,W
+96,214.0,17/11/2025 14-06-56,Ryanair,FR867,Venice (VCE),16:05,Ha salido,189.0,Boeing 737-800,U
+97,215.0,17/11/2025 14-06-56,Ryanair,FR9811,London (STN),16:05,Ha salido,189.0,Boeing 737-800,Y
+98,216.0,17/11/2025 14-06-56,Wizz Air Malta,W43564,Timisoara (TSR),16:25,"Retrasado, Ha salido",180.0,Airbus A320,S
+99,217.0,17/11/2025 14-06-56,Volotea,V73735,Murcia (RMU),16:35,Ha salido,180.0,Airbus A320,R
+100,218.0,17/11/2025 14-06-56,Ryanair,FR2507,Cologne-Bonn (CGN),16:45,Ha salido,197.0,Boeing 737 MAX 8,U
+101,219.0,17/11/2025 14-06-56,Ryanair,FR5718,Bratislava (BTS),16:50,Ha salido,189.0,Boeing 737-800,U
+102,220.0,17/11/2025 14-06-56,Ryanair,FR6305,Milan (BGY),16:50,Ha salido,189.0,Boeing 737-800,S
+103,221.0,17/11/2025 14-06-56,BUZZ,RR6874,Dublin (DUB),16:55,"Retrasado, Ha salido",189.0,Boeing 737-800,W
+104,222.0,17/11/2025 14-06-56,Easyjet,U23372,Liverpool (LPL),17:00,Ha salido,156.0,Airbus A319,M
+105,223.0,17/11/2025 14-06-56,Ryanair,FR5270,Manchester (MAN),17:05,Ha salido,189.0,Boeing 737-800,Y
+106,224.0,17/11/2025 14-06-56,BUZZ,RR6300,Sofia (SOF),17:05,Ha salido,189.0,Boeing 737-800,S
+107,225.0,17/11/2025 14-06-56,easyJet Europe,EC7173,Berlin (BER),17:10,Ha salido,156.0,Airbus A319,R
+108,226.0,17/11/2025 14-06-56,Volotea,V73700,Vitoria (VIT),17:15,Ha salido,156.0,Airbus A319,S
+109,227.0,17/11/2025 14-06-56,Wizz Air,W67920,Kopitnari (KUT),17:15,"Retrasado, Ha salido",239.0,Airbus A321neo,W
+110,228.0,17/11/2025 14-06-56,Ryanair,FR1786,Vilnius (VNO),17:30,Ha salido,189.0,Boeing 737-800,S
+111,229.0,17/11/2025 14-06-56,Ryanair,FR2922,Brussels (BRU),17:30,Ha salido,189.0,Boeing 737-800,U
+112,230.0,17/11/2025 14-06-56,easyJet Europe,EC3737,Milan (MXP),17:35,Ha salido,180.0,Airbus A320,R
+113,231.0,17/11/2025 14-06-56,easyJet Europe,EC7199,Edinburgh (EDI),17:35,Ha salido,156.0,Airbus A319,R
+114,232.0,17/11/2025 14-06-56,Transavia,HV5134,Amsterdam (AMS),17:50,"Retrasado, Ha salido",239.0,Airbus A321neo,R
+115,233.0,17/11/2025 14-06-56,BUZZ,RR333,Gdansk (GDN),17:55,Ha salido,189.0,Boeing 737-800,U
+116,234.0,17/11/2025 14-06-56,Ryanair,FR269,Milan (MXP),18:00,"Retrasado, Ha salido",189.0,Boeing 737-800,U
+117,235.0,17/11/2025 14-06-56,easyJet Europe,EC7205,Southampton (SOU),18:05,Ha salido,156.0,Airbus A319,R
+118,236.0,17/11/2025 14-06-56,Ryanair,FR3320,Milan (BGY),18:30,Ha salido,197.0,Boeing 737 MAX 8,S
+119,237.0,17/11/2025 14-06-56,Wizz Air Malta,W43686,Iasi (IAS),18:30,Ha salido,180.0,Airbus A320,R
+120,238.0,17/11/2025 14-06-56,Ryanair,FR3174,Ibiza (IBZ),18:45,"Retrasado, Ha salido",189.0,Boeing 737-800,S
+121,239.0,17/11/2025 14-06-56,Wizz Air,W61478,Warsaw (WAW),19:00,Ha salido,239.0,Airbus A321neo,S
+122,240.0,17/11/2025 14-06-56,Ryanair,FR3185,Rabat (RBA),19:05,"Retrasado, Ha salido",189.0,Boeing 737-800,Y
+123,241.0,17/11/2025 14-06-56,Ryanair,FR9307,Cork (ORK),19:15,Ha salido,189.0,Boeing 737-800,Y
+124,242.0,17/11/2025 14-06-56,Ryanair,FR8231,London (STN),19:25,Ha salido,189.0,Boeing 737-800,Y
+125,243.0,17/11/2025 14-06-56,Eurowings,E69443,Dusseldorf (DUS),19:35,"Retrasado, Ha salido",,,
+126,244.0,17/11/2025 14-06-56,Eurowings,EW7521,Hamburg (HAM),19:40,Ha salido,180.0,Airbus A320,U
+127,245.0,17/11/2025 14-06-56,Lauda Europe,LW2896,Palma de Mallorca (PMI),19:40,Ha salido,180.0,Airbus A320,S
+128,246.0,17/11/2025 14-06-56,Wizz Air,W61706,Gdansk (GDN),19:40,Ha salido,239.0,Airbus A321neo,S
+129,247.0,17/11/2025 14-06-56,Ryanair,FR133,Berlin (BER),19:45,Ha salido,197.0,Boeing 737 MAX 8,R
+130,248.0,17/11/2025 14-06-56,Lauda Europe,LW7351,Vienna (VIE),19:45,Ha salido,180.0,Airbus A320,R
+131,249.0,17/11/2025 14-06-56,Easyjet,U28058,London (LGW),19:45,Ha salido,156.0,Airbus A319,M
+132,250.0,17/11/2025 14-06-56,Volotea,V71415,Verona (VRN),19:55,Ha salido,180.0,Airbus A320,U
+133,251.0,17/11/2025 14-06-56,Wizz Air,W64666,Larnaca (LCA),19:55,Ha salido,230.0,Airbus A321,W
+134,252.0,17/11/2025 14-06-56,Ryanair,FR3080,Malaga (AGP),20:00,Ha salido,189.0,Boeing 737-800,S
+135,253.0,17/11/2025 14-06-56,Air Arabia Maroc,3O378,Tanger (TNG),20:05,Ha salido,180.0,Airbus A320,W
+136,254.0,17/11/2025 14-06-56,Ryanair,FR3807,Charleroi (CRL),20:05,Ha salido,189.0,Boeing 737-800,S
+137,255.0,17/11/2025 14-06-56,Ryanair,FR6341,Rome (FCO),20:10,Ha salido,189.0,Boeing 737-800,S
+138,256.0,17/11/2025 14-06-56,Ryanair,FR6597,Manchester (MAN),20:10,Ha salido,189.0,Boeing 737-800,Y
+139,257.0,17/11/2025 14-06-56,easyJet Europe,EC1956,Milan (LIN),20:15,Ha salido,180.0,Airbus A320,R
+140,258.0,17/11/2025 14-06-56,Wizz Air Malta,W42940,Vienna (VIE),20:20,"Retrasado, Ha salido",239.0,Airbus A321neo,S
+141,259.0,17/11/2025 14-06-56,easyJet Europe,EC1010,"Basel, Switzerland/Mulhouse (BSL)",20:30,Ha salido,156.0,Airbus A319,R
+142,260.0,17/11/2025 14-06-56,T'Way Air,TW408,Seoul/Incheon (ICN),20:30,Ha salido,246.0,Airbus A330-200,W
+143,261.0,17/11/2025 14-06-56,Volotea,V72135,Bordeaux (BOD),20:30,Ha salido,180.0,Airbus A320,S
+144,262.0,17/11/2025 14-06-56,Air Serbia,JU585,Belgrade (BEG),20:35,Ha salido,156.0,Airbus A319,W
+145,263.0,17/11/2025 14-06-56,Ryanair,FR5710,Napoli (NAP),20:40,Ha salido,189.0,Boeing 737-800,U
+146,264.0,17/11/2025 14-06-56,BUZZ,RR8394,Budapest (BUD),20:40,"Retrasado, Ha salido",197.0,Boeing 737 MAX 8,U
+147,265.0,17/11/2025 14-06-56,Transavia,TO4759,Paris (ORY),20:45,Ha salido,186.0,Airbus A320neo,U
+148,266.0,17/11/2025 14-06-56,Wizz Air,W62378,Budapest (BUD),20:45,"Retrasado, Ha salido",239.0,Airbus A321neo,U
+149,267.0,17/11/2025 14-06-56,Ryanair,FR2098,Bologna (BLQ),20:50,Ha salido,189.0,Boeing 737-800,U
+150,268.0,17/11/2025 14-06-56,Ryanair,FR3928,Trieste (TRS),20:50,Ha salido,189.0,Boeing 737-800,R
+151,269.0,17/11/2025 14-06-56,Volotea,V72165,Nantes/Atlantique (NTE),20:50,"Retrasado, Ha salido",156.0,Airbus A319,R
+152,270.0,17/11/2025 14-06-56,Ryanair,FR878,Venice (VCE),20:55,Ha salido,189.0,Boeing 737-800,U
+153,271.0,17/11/2025 14-06-56,Aer Lingus,EI565,Dublin (DUB),21:05,Ha salido,180.0,Airbus A320,Y
+154,272.0,17/11/2025 14-06-56,Ryanair,FR6275,Edinburgh (EDI),21:05,Ha salido,197.0,Boeing 737 MAX 8,Y
+155,273.0,17/11/2025 14-06-56,Ryanair,FR6920,Dublin (DUB),21:10,Ha salido,189.0,Boeing 737-800,Y
+156,274.0,17/11/2025 14-06-56,easyJet Europe,EC1380,Geneva (GVA),21:20,"Retrasado, Ha salido",180.0,Airbus A320,R
+157,275.0,17/11/2025 14-06-56,Wizz Air Malta,W43178,Bucharest (BBU),21:20,"Retrasado, Ha salido",230.0,Airbus A321,
+158,276.0,17/11/2025 14-06-56,Wizz Air Malta,W43406,Cluj-Napoca (CLJ),21:25,Ha salido,180.0,Airbus A320,S
+159,277.0,17/11/2025 14-06-56,Ryanair,FR2402,Sevilla (SVQ),21:30,"Retrasado, Ha salido",189.0,Boeing 737-800,U
+160,278.0,17/11/2025 14-06-56,BUZZ,RR4084,Warsaw (WMI),21:30,"Retrasado, Ha salido",189.0,Boeing 737-800,R
+161,279.0,17/11/2025 14-06-56,Wizz Air Malta,W46020,Rome (FCO),21:35,"Retrasado, Ha salido",239.0,Airbus A321neo,S
+162,280.0,17/11/2025 14-06-56,Ryanair,FR3168,Newcastle (NCL),21:45,Ha salido,189.0,Boeing 737-800,W
+163,281.0,17/11/2025 14-06-56,Ryanair,FR4587,Porto (OPO),21:45,Ha salido,197.0,Boeing 737 MAX 8,S
+164,282.0,17/11/2025 14-06-56,Ryanair,FR1527,Valletta (MLA),21:50,"Retrasado, Ha salido",197.0,Boeing 737 MAX 8,S
+165,283.0,17/11/2025 14-06-56,Ryanair,FR2250,Marrakech (RAK),21:50,Ha salido,197.0,Boeing 737 MAX 8,S
+166,284.0,17/11/2025 14-06-56,Easyjet,U22706,Bristol (BRS),21:55,Ha salido,180.0,Airbus A320,M
+167,285.0,17/11/2025 14-06-56,Wizz Air,W64116,Belgrade (BEG),21:55,Ha salido,239.0,Airbus A321neo,Y
+168,286.0,17/11/2025 14-06-56,Ryanair,FR8574,Rome (FCO),22:20,Ha salido,189.0,Boeing 737-800,U
+169,287.0,17/11/2025 14-06-56,Wizz Air Malta,W45154,Tirana (TIA),22:45,Ha salido,230.0,Airbus A321,W
+170,288.0,18/11/2025 14-12-47,easyJet Europe,EC7105,Geneva (GVA),06:00,Ha salido,156.0,Airbus A319,R
+171,289.0,18/11/2025 14-12-47,Ryanair,FR3189,Fes (FEZ),06:15,Ha salido,189.0,Boeing 737-800,W
+172,290.0,18/11/2025 14-12-47,Ryanair,FR2507,Cologne-Bonn (CGN),06:20,Ha salido,197.0,Boeing 737 MAX 8,U
+173,291.0,18/11/2025 14-12-47,Ryanair,FR4545,Porto (OPO),06:35,Ha salido,197.0,Boeing 737 MAX 8,U
+174,292.0,18/11/2025 14-12-47,easyJet Europe,EC8062,London (LGW),07:30,Ha salido,156.0,Airbus A319,R
+175,293.0,18/11/2025 14-12-47,Ryanair,FR3166,Palermo (PMO),07:35,Ha salido,189.0,Boeing 737-800,S
+176,294.0,18/11/2025 14-12-47,Ryanair,FR5718,Bratislava (BTS),07:35,Ha salido,189.0,Boeing 737-800,U
+177,295.0,18/11/2025 14-12-47,Ryanair,FR3193,Riga (RIX),07:55,Ha salido,189.0,Boeing 737-800,U
+178,296.0,18/11/2025 14-12-47,easyJet Europe,EC3737,Milan (MXP),08:00,Ha salido,180.0,Airbus A320,R
+179,297.0,18/11/2025 14-12-47,Ryanair,FR133,Berlin (BER),08:50,Ha salido,189.0,Boeing 737-800,S
+180,298.0,18/11/2025 14-12-47,Wizz Air Malta,W43938,Chisinau (KIV),09:00,Ha salido,180.0,Airbus A320,W
+181,299.0,18/11/2025 14-12-47,Wizz Air,W62048,Krakow (KRK),09:05,Ha salido,239.0,Airbus A321neo,S
+182,300.0,18/11/2025 14-12-47,Ryanair,FR3035,Krakow (KRK),09:10,Ha salido,189.0,Boeing 737-800,R
+183,301.0,18/11/2025 14-12-47,Ryanair,FR3807,Charleroi (CRL),09:10,Ha salido,189.0,Boeing 737-800,U
+184,302.0,18/11/2025 14-12-47,Wizz Air,W61914,Vilnius (VNO),09:20,Ha salido,239.0,Airbus A321neo,U
+185,303.0,18/11/2025 14-12-47,Wizz Air Malta,W43176,Bucharest (OTP),09:25,Ha salido,239.0,Airbus A321neo,U
+186,304.0,18/11/2025 14-12-47,Wizz Air,W62376,Budapest (BUD),09:25,"Retrasado, Ha salido",239.0,Airbus A321neo,S
+187,305.0,18/11/2025 14-12-47,Transavia,TO4751,Paris (ORY),09:30,Ha salido,239.0,Airbus A321neo,U
+188,306.0,18/11/2025 14-12-47,Wizz Air Malta,W42938,Vienna (VIE),09:35,Ha salido,239.0,Airbus A321neo,U
+189,307.0,18/11/2025 14-12-47,Air Arabia Maroc,3O378,Tanger (TNG),09:45,Programado,180.0,Airbus A320,Y
+190,308.0,18/11/2025 14-12-47,Eurowings,EW9441,Dusseldorf (DUS),09:45,Ha salido,156.0,Airbus A319,S
+191,309.0,18/11/2025 14-12-47,Air Serbia,JU581,Belgrade (BEG),09:55,Ha salido,156.0,Airbus A319,Y
+192,310.0,18/11/2025 14-12-47,Lauda Europe,LW12,Vienna (VIE),10:15,Ha salido,180.0,Airbus A320,U
+193,311.0,18/11/2025 14-12-47,Wizz Air,W61476,Warsaw (WAW),10:15,Ha salido,239.0,Airbus A321neo,S
+194,312.0,18/11/2025 14-12-47,Ryanair,FR1279,Copenhagen (CPH),10:25,Ha salido,197.0,Boeing 737 MAX 8,S
+195,313.0,18/11/2025 14-12-47,Ryanair,FR5270,Manchester (MAN),10:30,Ha salido,197.0,Boeing 737 MAX 8,W
+196,314.0,18/11/2025 14-12-47,Azerbaijan Airlines,J246,Baku (GYD),10:45,Ha salido,186.0,Airbus A320neo,Y
+197,315.0,18/11/2025 14-12-47,Aer Lingus,EI563,Dublin (DUB),11:30,Ha salido,180.0,Airbus A320,W
+198,316.0,18/11/2025 14-12-47,Ryanair,FR58,Napoli (NAP),11:40,Ha salido,189.0,Boeing 737-800,S
+199,317.0,18/11/2025 14-12-47,Icelandair,FI597,Keflavik (KEF),11:50,Ha salido,197.0,Boeing 737 MAX 8,U
+200,318.0,18/11/2025 14-12-47,Ryanair,FR3108,Luxembourg (LUX),12:15,Ha salido,189.0,Boeing 737-800,U
+201,319.0,18/11/2025 14-12-47,easyJet Europe,EC7151,Milan (MXP),12:20,Ha salido,156.0,Airbus A319,R
+202,320.0,18/11/2025 14-12-47,Norwegian Air Sweden AOC,D83657,Copenhagen (CPH),12:30,Ha salido,197.0,Boeing 737 MAX 8,U
+203,321.0,18/11/2025 14-12-47,Ryanair,FR8384,Budapest (BUD),12:35,Ha salido,197.0,Boeing 737 MAX 8,U
+204,322.0,18/11/2025 14-12-47,Pegasus Airlines,PC1092,Istanbul (SAW),12:45,"Retrasado, Ha salido",239.0,Airbus A321neo,W
+205,323.0,18/11/2025 14-12-47,Ryanair,FR6267,Edinburgh (EDI),12:55,Ha salido,197.0,Boeing 737 MAX 8,Y
+206,324.0,18/11/2025 14-12-47,Norwegian Air Shuttle,DY1741,Oslo (OSL),13:25,"Retrasado, Ha salido",197.0,Boeing 737 MAX 8,U
+207,325.0,18/11/2025 14-12-47,FlyOne,5F5512,Chisinau (KIV),13:30,Ha salido,230.0,Airbus A321,W
+208,326.0,18/11/2025 14-12-47,Luxair,LG3592,Luxembourg (LUX),13:40,Ha salido,189.0,Boeing 737-800,U
+209,327.0,18/11/2025 14-12-47,Ryanair,FR2239,Marrakech (RAK),14:00,Ha salido,189.0,Boeing 737-800,W
+210,328.0,18/11/2025 14-12-47,Ryanair,FR3076,Stockholm (ARN),14:05,"Retrasado, Ha salido",189.0,Boeing 737-800,S
+211,329.0,18/11/2025 14-12-47,Kuwait Airways,KU136,Kuwait City (KWI),14:25,"Retrasado, Ha salido",235.0,Airbus A330-800,W
+212,330.0,18/11/2025 14-12-47,Bluebird Airways,BZ251,Tel Aviv (TLV),14:45,"Retrasado, Ha salido",189.0,Boeing 737-800,Y
+213,331.0,18/11/2025 14-12-47,Ryanair,FR3792,Birmingham (BHX),16:20,Ha salido,197.0,Boeing 737 MAX 8,Y
+214,332.0,18/11/2025 14-12-47,Ryanair,FR846,Milan (BGY),16:55,Ha salido,189.0,Boeing 737-800,U
+215,333.0,18/11/2025 14-12-47,Ryanair,FR1165,Sevilla (SVQ),17:05,Ha salido,197.0,Boeing 737 MAX 8,S
+216,334.0,18/11/2025 14-12-47,Ryanair,FR575,Bologna (BLQ),17:25,Ha salido,197.0,Boeing 737 MAX 8,U
+217,335.0,18/11/2025 14-12-47,Transavia,HV5134,Amsterdam (AMS),17:45,Ha salido,189.0,Boeing 737-800,U
+218,336.0,18/11/2025 14-12-47,Ryanair,FR3180,Rome (FCO),18:00,Ha salido,189.0,Boeing 737-800,U
+219,337.0,18/11/2025 14-12-47,easyJet Europe,EC7103,"Basel, Switzerland/Mulhouse (BSL)",18:10,Ha salido,156.0,Airbus A319,R
+220,338.0,18/11/2025 14-12-47,BUZZ,RR6300,Sofia (SOF),18:15,Ha salido,197.0,Boeing 737 MAX 8,U
+221,339.0,18/11/2025 14-12-47,Ryanair,FR777,Venice (VCE),18:40,Ha salido,189.0,Boeing 737-800,U
+222,340.0,18/11/2025 14-12-47,Ryanair,FR2834,Charleroi (CRL),18:45,Ha salido,197.0,Boeing 737 MAX 8,U
+223,341.0,18/11/2025 14-12-47,Wizz Air,W61176,Katowice (KTW),18:55,Ha salido,239.0,Airbus A321neo,S
+224,342.0,18/11/2025 14-12-47,Wizz Air,W61478,Warsaw (WAW),19:00,Ha salido,239.0,Airbus A321neo,S
+225,343.0,18/11/2025 14-12-47,Ryanair,FR9015,London (STN),19:25,Ha salido,189.0,Boeing 737-800,Y
+226,344.0,18/11/2025 14-12-47,Eurowings,EW9443,Dusseldorf (DUS),19:35,Ha salido,180.0,Airbus A320,S
+227,345.0,18/11/2025 14-12-47,Wizz Air,W64406,Sofia (SOF),19:35,Ha salido,230.0,Airbus A321,S
+228,346.0,18/11/2025 14-12-47,Easyjet,U28058,London (LGW),19:45,Ha salido,156.0,Airbus A319,M
+229,347.0,18/11/2025 14-12-47,Transavia,HV6790,Eindhoven (EIN),19:55,Ha salido,189.0,Boeing 737-800,U
+230,348.0,18/11/2025 14-12-47,Air Arabia Maroc,3O642,Tanger (TNG),20:00,Ha salido,180.0,Airbus A320,Y
+231,349.0,18/11/2025 14-12-47,easyJet Europe,EC1956,Milan (LIN),20:15,Ha salido,180.0,Airbus A320,R
+232,350.0,18/11/2025 14-12-47,BUZZ,RR4084,Warsaw (WMI),20:15,"Retrasado, Ha salido",189.0,Boeing 737-800,U
+233,351.0,18/11/2025 14-12-47,Transavia,TO4759,Paris (ORY),20:45,Ha salido,186.0,Airbus A320neo,S
+234,352.0,18/11/2025 14-12-47,easyJet Europe,EC1380,Geneva (GVA),21:15,Ha salido,180.0,Airbus A320,R
+235,353.0,18/11/2025 14-12-47,Ryanair,FR6394,Dublin (DUB),21:15,Programado,197.0,Boeing 737 MAX 8,W
+236,354.0,18/11/2025 14-12-47,Wizz Air Malta,W46020,Rome (FCO),21:35,Ha salido,239.0,Airbus A321neo,S
+237,355.0,18/11/2025 14-12-47,Ryanair,FR4585,Porto (OPO),22:00,Ha salido,197.0,Boeing 737 MAX 8,U
+238,356.0,19/11/2025 14-33-06,Ryanair,FR2918,Brussels (BRU),06:05,Ha salido,189.0,Boeing 737-800,U
+239,357.0,19/11/2025 14-33-06,Ryanair,FR3185,Rabat (RBA),06:05,Ha salido,189.0,Boeing 737-800,Y
+240,358.0,19/11/2025 14-33-06,Ryanair,FR9406,Fes (FEZ),06:05,Ha salido,189.0,Boeing 737-800,
+241,360.0,19/11/2025 14-33-06,Ryanair,FR483,Malaga (AGP),06:15,Ha salido,189.0,Boeing 737-800,U
+242,361.0,19/11/2025 14-33-06,easyJet Europe,EC7193,Leeds Bradford (LBA),06:30,Ha salido,156.0,Airbus A319,R
+243,362.0,19/11/2025 14-33-06,Ryanair,FR2239,Marrakech (RAK),06:35,Ha salido,189.0,Boeing 737-800,Y
+244,363.0,19/11/2025 14-33-06,Ryanair,FR3028,Ibiza (IBZ),06:45,Ha salido,189.0,Boeing 737-800,U
+245,364.0,19/11/2025 14-33-06,Ryanair,FR3108,Luxembourg (LUX),06:50,Ha salido,197.0,Boeing 737 MAX 8,U
+246,365.0,19/11/2025 14-33-06,easyJet Europe,EC8062,London (LGW),07:20,Ha salido,156.0,Airbus A319,R
+247,366.0,19/11/2025 14-33-06,easyJet Europe,EC3737,Milan (MXP),08:25,Ha salido,180.0,Airbus A320,R
+248,367.0,19/11/2025 14-33-06,easyJet Europe,EC7161,Napoli (NAP),09:20,Ha salido,156.0,Airbus A319,R
+249,368.0,19/11/2025 14-33-06,Wizz Air Malta,W43176,Bucharest (OTP),09:25,Ha salido,230.0,Airbus A321,U
+250,369.0,19/11/2025 14-33-06,Wizz Air,W62376,Budapest (BUD),09:25,Ha salido,239.0,Airbus A321neo,U
+251,370.0,19/11/2025 14-33-06,BUZZ,RR8384,Budapest (BUD),09:30,"Retrasado, Ha salido",189.0,Boeing 737-800,R
+252,371.0,19/11/2025 14-33-06,Air Arabia Maroc,3O376,Al Aaroui (NDR),09:35,Ha salido,180.0,Airbus A320,
+253,372.0,19/11/2025 14-33-06,Wizz Air Malta,W42940,Vienna (VIE),09:35,"Retrasado, Ha salido",239.0,Airbus A321neo,S
+254,373.0,19/11/2025 14-33-06,Eurowings,EW9441,Dusseldorf (DUS),09:45,Ha salido,156.0,Airbus A319,S
+255,374.0,19/11/2025 14-33-06,Ryanair,FR2834,Charleroi (CRL),09:45,Ha salido,197.0,Boeing 737 MAX 8,U
+256,375.0,19/11/2025 14-33-06,Ryanair,FR4545,Porto (OPO),09:45,Ha salido,197.0,Boeing 737 MAX 8,U
+257,376.0,19/11/2025 14-33-06,BUZZ,RR3049,Krakow (KRK),09:55,"Retrasado, Ha salido",197.0,Boeing 737 MAX 8,U
+258,377.0,19/11/2025 14-33-06,Air Arabia Maroc,3O642,Tanger (TNG),10:05,Ha salido,180.0,Airbus A320,W
+259,378.0,19/11/2025 14-33-06,Transavia,HV5132,Amsterdam (AMS),10:05,Ha salido,239.0,Airbus A321neo,U
+260,379.0,19/11/2025 14-33-06,Ryanair,FR3078,Lisbon (LIS),10:15,Ha salido,189.0,Boeing 737-800,S
+261,380.0,19/11/2025 14-33-06,Wizz Air,W61476,Warsaw (WAW),10:15,Ha salido,230.0,Airbus A321,S
+262,381.0,19/11/2025 14-33-06,Ryanair,FR3039,Prague (PRG),10:20,Ha salido,189.0,Boeing 737-800,S
+263,382.0,19/11/2025 14-33-06,Air Baltic,BT878,Tallinn (TLL),10:35,"Retrasado, Ha salido",148.0,Airbus A220-300,U
+264,383.0,19/11/2025 14-33-06,Ryanair,FR6267,Edinburgh (EDI),10:45,"Retrasado, Ha salido",197.0,Boeing 737 MAX 8,W
+265,384.0,19/11/2025 14-33-06,SkyUp MT,U5406,Chisinau (KIV),10:50,"Retrasado, Ha salido",149.0,Boeing 737-700,Y
+266,385.0,19/11/2025 14-33-06,Easyjet,U22704,Bristol (BRS),10:55,Ha salido,186.0,Airbus A320neo,M
+267,386.0,19/11/2025 14-33-06,Ryanair,FR2507,Cologne-Bonn (CGN),11:00,Ha salido,197.0,Boeing 737 MAX 8,R
+268,387.0,19/11/2025 14-33-06,Aer Lingus,EI563,Dublin (DUB),11:30,Ha salido,180.0,Airbus A320,Y
+269,388.0,19/11/2025 14-33-06,Ryanair,FR575,Bologna (BLQ),11:40,Ha salido,189.0,Boeing 737-800,U
+270,389.0,19/11/2025 14-33-06,Ryanair,FR9925,Frankfurt-Hahn (HHN),12:35,Ha salido,189.0,Boeing 737-800,U
+271,390.0,19/11/2025 14-33-06,Pegasus Airlines,PC1092,Istanbul (SAW),12:45,"Retrasado, Ha salido",239.0,Airbus A321neo,Y
+272,391.0,19/11/2025 14-33-06,Ryanair,FR6597,Manchester (MAN),13:00,Ha salido,197.0,Boeing 737 MAX 8,Y
+273,392.0,19/11/2025 14-33-06,Ryanair,FR3792,Birmingham (BHX),13:10,Ha salido,189.0,Boeing 737-800,W
+274,393.0,19/11/2025 14-33-06,HiSky,H4264,Bucharest (OTP),13:20,Ha salido,180.0,Airbus A320,R
+275,394.0,19/11/2025 14-33-06,Norwegian Air Shuttle,DY1741,Oslo (OSL),13:25,"Retrasado, Ha salido",189.0,Boeing 737-800,U
+276,395.0,19/11/2025 14-33-06,Eurowings,EW521,Cologne-Bonn (CGN),13:25,"Retrasado, Ha salido",230.0,Airbus A321,U
+277,396.0,19/11/2025 14-33-06,Luxair,LG3592,Luxembourg (LUX),13:40,"Retrasado, Ha salido",76.0,de Havilland Dash 8-400,U
+278,397.0,19/11/2025 14-33-06,Turkish Airlines,TK608,Ankara (ESB),13:40,"Retrasado, Ha salido",189.0,Boeing 737-800,W
+279,398.0,19/11/2025 14-33-06,Bluebird Airways,BZ251,Tel Aviv (TLV),14:45,Ha salido,180.0,Airbus A320,Y
+280,399.0,19/11/2025 14-33-06,Norwegian Air Sweden AOC,D83659,Copenhagen (CPH),14:45,Ha salido,189.0,Boeing 737-800,S
+281,400.0,19/11/2025 14-33-06,Eurowings,EW2521,Stuttgart (STR),15:10,"Retrasado, Ha salido",156.0,Airbus A319,S
+282,401.0,19/11/2025 14-33-06,Ryanair,FR777,Venice (VCE),15:10,"Retrasado, Ha salido",197.0,Boeing 737 MAX 8,
+283,402.0,19/11/2025 14-33-06,Ryanair,FR12,Vienna (VIE),15:15,Ha salido,197.0,Boeing 737 MAX 8,U
+284,403.0,19/11/2025 14-33-06,Pegasus Airlines,PC1094,Istanbul (SAW),15:45,"Retrasado, Ha salido",230.0,Airbus A321,W
+285,404.0,19/11/2025 14-33-06,Volotea,V71415,Verona (VRN),15:45,Ha salido,180.0,Airbus A320,R
+286,405.0,19/11/2025 14-33-06,Ryanair,FR3035,Krakow (KRK),16:15,Ha salido,197.0,Boeing 737 MAX 8,U
+287,406.0,19/11/2025 14-33-06,Transavia,TO4755,Paris (ORY),16:45,Ha salido,186.0,Airbus A320neo,
+288,407.0,19/11/2025 14-33-06,Ryanair,FR3928,Trieste (TRS),16:50,Ha salido,189.0,Boeing 737-800,U
+289,408.0,19/11/2025 14-33-06,Ryanair,FR5718,Bratislava (BTS),16:50,Ha salido,189.0,Boeing 737-800,U
+290,409.0,19/11/2025 14-33-06,Wizz Air,W67920,Kopitnari (KUT),17:15,Ha salido,239.0,Airbus A321neo,Y
+291,410.0,19/11/2025 14-33-06,Ryanair,FR4585,Porto (OPO),17:30,Ha salido,189.0,Boeing 737-800,U
+292,411.0,19/11/2025 14-33-06,Iberojet,E9803,Palmerola (XPL),17:40,Ha salido,432.0,Airbus A350-900,S
+293,412.0,19/11/2025 14-33-06,Ryanair,FR3180,Rome (FCO),18:00,Ha salido,189.0,Boeing 737-800,S
+294,413.0,19/11/2025 14-33-06,Wizz Air Malta,W43686,Iasi (IAS),18:30,Ha salido,180.0,Airbus A320,
+295,414.0,19/11/2025 14-33-06,easyJet Europe,EC7103,"Basel, Switzerland/Mulhouse (BSL)",18:35,Ha salido,156.0,Airbus A319,R
+296,415.0,19/11/2025 14-33-06,easyJet Europe,EC7155,Milan (MXP),19:00,Ha salido,156.0,Airbus A319,R
+297,416.0,19/11/2025 14-33-06,Ryanair,FR8231,London (STN),19:00,Ha salido,189.0,Boeing 737-800,W
+298,417.0,19/11/2025 14-33-06,Wizz Air,W61478,Warsaw (WAW),19:00,"Retrasado, Ha salido",239.0,Airbus A321neo,S
+299,418.0,19/11/2025 14-33-06,Ryanair,FR1165,Sevilla (SVQ),19:10,Ha salido,197.0,Boeing 737 MAX 8,S
+300,419.0,19/11/2025 14-33-06,Ryanair,FR9334,Marrakech (RAK),19:10,Ha salido,189.0,Boeing 737-800,W
+301,420.0,19/11/2025 14-33-06,Ryanair,FR1342,Palma de Mallorca (PMI),19:15,Ha salido,189.0,Boeing 737-800,U
+302,421.0,19/11/2025 14-33-06,Eurowings,EW9443,Dusseldorf (DUS),19:35,"Retrasado, Ha salido",180.0,Airbus A320,S
+303,422.0,19/11/2025 14-33-06,Ryanair,FR133,Berlin (BER),19:35,Ha salido,197.0,Boeing 737 MAX 8,U
+304,423.0,19/11/2025 14-33-06,Transavia,HV6064,Rotterdam (RTM),19:40,"Retrasado, Ha salido",189.0,Boeing 737-800,U
+305,424.0,19/11/2025 14-33-06,Easyjet,U28058,London (LGW),19:45,Ha salido,180.0,Airbus A320,M
+306,425.0,19/11/2025 14-33-06,Wizz Air,W61706,Gdansk (GDN),19:50,"Retrasado, Ha salido",239.0,Airbus A321neo,U
+307,426.0,19/11/2025 14-33-06,Ryanair,FR3143,Milan (BGY),19:55,Ha salido,189.0,Boeing 737-800,U
+308,427.0,19/11/2025 14-33-06,Ryanair,FR58,Napoli (NAP),20:10,Ha salido,197.0,Boeing 737 MAX 8,U
+309,428.0,19/11/2025 14-33-06,BUZZ,RR5246,Vilnius (VNO),20:10,"Retrasado, Ha salido",197.0,Boeing 737 MAX 8,U
+310,429.0,19/11/2025 14-33-06,easyJet Europe,EC1956,Milan (LIN),20:15,Ha salido,180.0,Airbus A320,R
+311,430.0,19/11/2025 14-33-06,Air Arabia Maroc,3O378,Tanger (TNG),20:20,Ha salido,180.0,Airbus A320,Y
+312,431.0,19/11/2025 14-33-06,T'Way Air,TW408,Seoul/Incheon (ICN),20:30,"Retrasado, Ha salido",294.0,BOEING 777-300ER,Y
+313,432.0,19/11/2025 14-33-06,Air Serbia,JU585,Belgrade (BEG),20:35,Ha salido,156.0,Airbus A319,Y
+314,433.0,19/11/2025 14-33-06,Wizz Air,W62378,Budapest (BUD),20:45,"Retrasado, Ha salido",239.0,Airbus A321neo,
+315,434.0,19/11/2025 14-33-06,Transavia,TO4759,Paris (ORY),20:50,"Retrasado, Ha salido",186.0,Airbus A320neo,S
+316,435.0,19/11/2025 14-33-06,Easyjet,U22326,London (LTN),20:55,Ha salido,156.0,Airbus A319,M
+317,436.0,19/11/2025 14-33-06,easyJet Europe,EC1380,Geneva (GVA),21:15,"Retrasado, Ha salido",180.0,Airbus A320,R
+318,437.0,19/11/2025 14-33-06,Wizz Air Malta,W43406,Cluj-Napoca (CLJ),21:25,"Retrasado, Ha salido",180.0,Airbus A320,U
+319,438.0,19/11/2025 14-33-06,Wizz Air Malta,W46020,Rome (FCO),21:35,Ha salido,239.0,Airbus A321neo,R
+320,439.0,19/11/2025 14-33-06,Ryanair,FR6394,Dublin (DUB),22:05,Ha salido,189.0,Boeing 737-800,W
+321,0.0,20/11/2025 14-38-34,Ryanair,FR8215,London (STN),06:00,Ha salido,189.0,Boeing 737-800,Y
+322,1.0,20/11/2025 14-38-34,Ryanair,FR2918,Brussels (BRU),06:05,Ha salido,189.0,Boeing 737-800,U
+323,2.0,20/11/2025 14-38-34,easyJet Europe,EC7105,Geneva (GVA),06:10,Ha salido,156.0,Airbus A319,R
+324,3.0,20/11/2025 14-38-34,Ryanair,FR3976,Dublin (DUB),06:15,Ha salido,197.0,Boeing 737 MAX 8,W
+325,4.0,20/11/2025 14-38-34,easyJet Europe,EC7191,Glasgow (GLA),06:40,Ha salido,156.0,Airbus A319,R
+326,5.0,20/11/2025 14-38-34,Ryanair,FR3049,Krakow (KRK),06:40,Ha salido,197.0,Boeing 737 MAX 8,S
+327,6.0,20/11/2025 14-38-34,Ryanair,FR3028,Ibiza (IBZ),06:45,Ha salido,189.0,Boeing 737-800,S
+328,7.0,20/11/2025 14-38-34,Lauda Europe,LW2495,Palma de Mallorca (PMI),07:20,Ha salido,180.0,Airbus A320,R
+329,8.0,20/11/2025 14-38-34,Ryanair,FR133,Berlin (BER),07:25,Ha salido,189.0,Boeing 737-800,U
+330,9.0,20/11/2025 14-38-34,easyJet Europe,EC7101,"Basel, Switzerland/Mulhouse (BSL)",07:30,Ha salido,156.0,Airbus A319,R
+331,10.0,20/11/2025 14-38-34,easyJet Europe,EC7151,Milan (MXP),07:30,"Retrasado, Ha salido",156.0,Airbus A319,R
+332,11.0,20/11/2025 14-38-34,Ryanair,FR2507,Cologne-Bonn (CGN),07:45,Ha salido,197.0,Boeing 737 MAX 8,S
+333,12.0,20/11/2025 14-38-34,Norwegian Air Sweden AOC,D85510,Copenhagen (CPH),07:55,Ha salido,189.0,Boeing 737-800,S
+334,13.0,20/11/2025 14-38-34,Ryanair,FR575,Bologna (BLQ),08:05,Ha salido,189.0,Boeing 737-800,S
+335,14.0,20/11/2025 14-38-34,Ryanair,FR774,Torino (TRN),08:05,"Retrasado, Ha salido",189.0,Boeing 737-800,U
+336,15.0,20/11/2025 14-38-34,Ryanair,FR3928,Trieste (TRS),08:40,Ha salido,189.0,Boeing 737-800,U
+337,16.0,20/11/2025 14-38-34,Ryanair,FR6973,Rome (FCO),08:40,Ha salido,189.0,Boeing 737-800,S
+338,17.0,20/11/2025 14-38-34,Wizz Air Malta,W43938,Chisinau (KIV),09:00,"Retrasado, Ha salido",180.0,Airbus A320,Y
+339,18.0,20/11/2025 14-38-34,Ryanair,FR5710,Napoli (NAP),09:05,Ha salido,189.0,Boeing 737-800,S
+340,19.0,20/11/2025 14-38-34,Wizz Air,W62048,Krakow (KRK),09:05,"Retrasado, Ha salido",239.0,Airbus A321neo,U
+341,20.0,20/11/2025 14-38-34,Lauda Europe,LW12,Vienna (VIE),09:10,"Retrasado, Ha salido",180.0,Airbus A320,U
+342,21.0,20/11/2025 14-38-34,Wizz Air,W61914,Vilnius (VNO),09:20,"Retrasado, Ha salido",239.0,Airbus A321neo,
+343,22.0,20/11/2025 14-38-34,Wizz Air Malta,W43176,Bucharest (OTP),09:25,"Retrasado, Ha salido",239.0,Airbus A321neo,U
+344,23.0,20/11/2025 14-38-34,Wizz Air,W62376,Budapest (BUD),09:25,"Retrasado, Ha salido",239.0,Airbus A321neo,U
+345,24.0,20/11/2025 14-38-34,Ryanair,FR3320,Milan (BGY),09:30,Ha salido,189.0,Boeing 737-800,U
+346,25.0,20/11/2025 14-38-34,Wizz Air Malta,W42938,Vienna (VIE),09:35,"Retrasado, Ha salido",239.0,Airbus A321neo,S
+347,27.0,20/11/2025 14-38-34,Air Serbia,JU581,Belgrade (BEG),09:55,"Retrasado, Ha salido",156.0,Airbus A319,W
+348,28.0,20/11/2025 14-38-34,easyJet Europe,EC7656,Lisbon (LIS),10:00,Ha salido,230.0,Airbus A321,R
+349,29.0,20/11/2025 14-38-34,Ryanair,FR1279,Copenhagen (CPH),10:00,Ha salido,197.0,Boeing 737 MAX 8,S
+350,30.0,20/11/2025 14-38-34,Transavia,HV5132,Amsterdam (AMS),10:05,"Retrasado, Ha salido",239.0,Airbus A321neo,S
+351,31.0,20/11/2025 14-38-34,Wizz Air,W61476,Warsaw (WAW),10:15,"Retrasado, Ha salido",239.0,Airbus A321neo,U
+352,32.0,20/11/2025 14-38-34,Ryanair,FR1165,Sevilla (SVQ),10:20,"Retrasado, Ha salido",189.0,Boeing 737-800,U
+353,33.0,20/11/2025 14-38-34,Ryanair,FR3121,Beauvais (BVA),10:25,Ha salido,189.0,Boeing 737-800,U
+354,34.0,20/11/2025 14-38-34,BUZZ,RR8384,Budapest (BUD),10:25,"Retrasado, Ha salido",189.0,Boeing 737-800,S
+355,35.0,20/11/2025 14-38-34,Easyjet,U28056,London (LGW),10:35,Ha salido,186.0,Airbus A320neo,M
+356,36.0,20/11/2025 14-38-34,Easyjet,U25716,Southend (SEN),10:40,Ha salido,186.0,Airbus A320neo,M
+357,37.0,20/11/2025 14-38-34,Azerbaijan Airlines,J246,Baku (GYD),10:45,"Retrasado, Ha salido",186.0,Airbus A320neo,W
+358,38.0,20/11/2025 14-38-34,Ryanair,FR3792,Birmingham (BHX),11:00,Ha salido,189.0,Boeing 737-800,Y
+359,39.0,20/11/2025 14-38-34,Ryanair,FR4545,Porto (OPO),11:00,Ha salido,197.0,Boeing 737 MAX 8,U
+360,40.0,20/11/2025 14-38-34,Easyjet,U22704,Bristol (BRS),11:05,Ha salido,180.0,Airbus A320,M
+361,41.0,20/11/2025 14-38-34,Ryanair,FR3076,Stockholm (ARN),11:10,"Retrasado, Ha salido",189.0,Boeing 737-800,U
+362,42.0,20/11/2025 14-38-34,Ryanair,FR483,Malaga (AGP),11:10,Ha salido,189.0,Boeing 737-800,S
+363,43.0,20/11/2025 14-38-34,Ryanair,FR6597,Manchester (MAN),11:20,"Retrasado, Ha salido",189.0,Boeing 737-800,Y
+364,44.0,20/11/2025 14-38-34,Aer Lingus,EI563,Dublin (DUB),11:30,Ha salido,180.0,Airbus A320,Y
+365,45.0,20/11/2025 14-38-34,Jet2,LS1338,Birmingham (BHX),11:30,"Retrasado, Ha salido",189.0,Boeing 737-800,W
+366,46.0,20/11/2025 14-38-34,easyJet Europe,EC7131,Nice/Cote D'Azur (NCE),12:00,Ha salido,156.0,Airbus A319,R
+367,47.0,20/11/2025 14-38-34,easyJet Europe,EC8064,London (LGW),12:10,Ha salido,156.0,Airbus A319,R
+368,48.0,20/11/2025 14-38-34,Ryanair,FR2239,Marrakech (RAK),12:30,Ha salido,189.0,Boeing 737-800,Y
+369,49.0,20/11/2025 14-38-34,Ryanair,FR3160,Bristol (BRS),12:45,Ha salido,189.0,Boeing 737-800,W
+370,50.0,20/11/2025 14-38-34,Pegasus Airlines,PC1092,Istanbul (SAW),12:45,"Retrasado, Ha salido",239.0,Airbus A321neo,W
+371,51.0,20/11/2025 14-38-34,Wizz Air,W67022,Bratislava (BTS),12:55,Ha salido,239.0,Airbus A321neo,U
+372,52.0,20/11/2025 14-38-34,Ryanair,FR1681,Frankfurt-Hahn (HHN),13:00,Ha salido,189.0,Boeing 737-800,R
+373,53.0,20/11/2025 14-38-34,Volotea,V71445,Olbia (OLB),13:05,Ha salido,180.0,Airbus A320,S
+374,54.0,20/11/2025 14-38-34,Norwegian Air Sweden AOC,D81741,Oslo (OSL),13:25,Ha salido,197.0,Boeing 737 MAX 8,U
+375,55.0,20/11/2025 14-38-34,Eurowings,EW521,Cologne-Bonn (CGN),13:25,"Retrasado, Ha salido",156.0,Airbus A319,S
+376,56.0,20/11/2025 14-38-34,Ryanair,FR3039,Prague (PRG),13:30,Ha salido,197.0,Boeing 737 MAX 8,S
+377,57.0,20/11/2025 14-38-34,Luxair,LG3592,Luxembourg (LUX),13:35,"Retrasado, Programado",76.0,De Havilland Dash 8-400,U
+378,58.0,20/11/2025 14-38-34,Ryanair,FR269,Milan (MXP),13:40,Ha salido,189.0,DBoeing 737-800,S
+379,59.0,20/11/2025 14-38-34,Ryanair,FR6267,Edinburgh (EDI),13:45,"Retrasado, Programado",197.0,Boeing 737 MAX 8,Y
+380,60.0,20/11/2025 14-38-34,Ryanair,FR846,Milan (BGY),13:45,Ha salido,197.0,Boeing 737 MAX 8,U
+381,61.0,20/11/2025 14-38-34,Transavia,TO4755,Paris (ORY),13:45,"Retrasado, Ha salido",186.0,Airbus A320neo,U
+382,62.0,20/11/2025 14-38-34,Jet2,LS804,Manchester (MAN),13:50,"Retrasado, Ha salido",189.0,Boeing 737-800,Y
+383,63.0,20/11/2025 14-38-34,Ryanair,FR2233,Al Aaroui (NDR),14:00,Ha salido,189.0,Boeing 737-800,Y
+384,64.0,20/11/2025 14-38-34,Air Baltic,BT684,Riga (RIX),14:05,Programado,145.0,Airbus A220-300,U
+385,65.0,20/11/2025 14-38-34,easyJet Europe,EC7153,Milan (MXP),14:10,Ha salido,156.0,Airbus A319,R
+386,66.0,20/11/2025 14-38-34,SunExpress,XQ895,Izmir (ADB),14:15,Programado,189.0,Boeing 737-800,W
+387,67.0,20/11/2025 14-38-34,Kuwait Airways,KU136,Kuwait City (KWI),14:25,Programado,278.0,Airbus A330-900,W
+388,68.0,20/11/2025 14-38-34,Norwegian Air Sweden AOC,D85502,Stockholm (ARN),14:40,"Retrasado, Programado",189.0,Boeing 737-800,R
+389,69.0,20/11/2025 14-38-34,Bluebird Airways,BZ251,Tel Aviv (TLV),14:45,Programado,189.0,Boeing 737-800,W
+390,70.0,20/11/2025 14-38-34,Eurowings,EW7521,Hamburg (HAM),14:45,"Retrasado, Programado",180.0,Airbus A320,U
+391,71.0,20/11/2025 14-38-34,SmartWings,QS1059,Prague (PRG),14:55,Programado,189.0,Boeing 737-800,S
+392,72.0,20/11/2025 14-38-34,Ryanair,FR3189,Fes (FEZ),15:00,Programado,189.0,Boeing 737-800,Y
+393,73.0,20/11/2025 14-38-34,Ryanair,FR149,Berlin (BER),15:40,Programado,189.0,Boeing 737-800,S
+394,74.0,20/11/2025 14-38-34,Wizz Air Malta,W46728,Venice (VCE),15:40,Programado,239.0,Airbus A321neo,U
+395,75.0,20/11/2025 14-38-34,Ryanair,FR2922,Brussels (BRU),16:05,Programado,189.0,Boeing 737-800,U
+396,76.0,20/11/2025 14-38-34,Volotea,V73573,Asturias (OVD),16:05,Programado,156.0,Airbus A319,S
+397,77.0,20/11/2025 14-38-34,Volotea,V73700,Vitoria (VIT),16:15,Programado,180.0,Airbus A320,S
+398,78.0,20/11/2025 14-38-34,Ryanair,FR9045,London (STN),16:30,Programado,197.0,Boeing 737 MAX 8,W
+399,79.0,20/11/2025 14-38-34,Ryanair,FR9913,Tallinn (TLL),16:30,Programado,197.0,Boeing 737 MAX 8,U
+400,80.0,20/11/2025 14-38-34,Ryanair,FR4585,Porto (OPO),16:35,Programado,197.0,Boeing 737 MAX 8,U
+401,81.0,20/11/2025 14-38-34,easyJet Europe,EC1378,Geneva (GVA),16:50,Programado,180.0,Airbus A320,R
+402,82.0,20/11/2025 14-38-34,Ryanair,FR2098,Bologna (BLQ),17:15,Programado,189.0,Boeing 737-800,U
+403,83.0,20/11/2025 14-38-34,easyJet Europe,EC7173,Berlin (BER),17:25,Programado,156.0,Airbus A319,R
+404,84.0,20/11/2025 14-38-34,BUZZ,RR8394,Budapest (BUD),17:30,Programado,189.0,Boeing 737-800,U
+405,85.0,20/11/2025 14-38-34,Volotea,V72327,Strasbourg (SXB),17:30,Programado,180.0,Airbus A320,S
+406,86.0,20/11/2025 14-38-34,Transavia,HV5136,Amsterdam (AMS),17:45,Programado,189.0,Boeing 737-800,U
+407,87.0,20/11/2025 14-38-34,BUZZ,RR6300,Sofia (SOF),17:45,Programado,189.0,Boeing 737-800,U
+408,88.0,20/11/2025 14-38-34,Ryanair,FR5718,Bratislava (BTS),18:00,Programado,189.0,Boeing 737-800,U
+409,89.0,20/11/2025 14-38-34,Ryanair,FR6341,Rome (FCO),18:00,Programado,189.0,Boeing 737-800,R
+410,90.0,20/11/2025 14-38-34,easyJet Europe,EC7139,Rennes/Saint-Jacques (RNS),18:15,Programado,180.0,Airbus A320,R
+411,91.0,20/11/2025 14-38-34,Ryanair,FR3078,Lisbon (LIS),18:30,Programado,189.0,Boeing 737-800,S
+412,92.0,20/11/2025 14-38-34,Ryanair,FR6394,Dublin (DUB),18:30,Programado,197.0,Boeing 737 MAX 8,W
+413,93.0,20/11/2025 14-38-34,easyJet Europe,EC7103,"Basel, Switzerland/Mulhouse (BSL)",18:40,Programado,156.0,Airbus A319,R
+414,94.0,20/11/2025 14-38-34,Ryanair,FR3800,Birmingham (BHX),18:45,Programado,189.0,Boeing 737-800,Y
+415,95.0,20/11/2025 14-38-34,Wizz Air Malta,W43180,Bucharest (OTP),18:45,Programado,230.0,Airbus A321,U
+416,96.0,20/11/2025 14-38-34,Wizz Air,W61176,Katowice (KTW),18:55,Programado,180.0,Airbus A320,U
+417,97.0,20/11/2025 14-38-34,BUZZ,RR3193,Riga (RIX),19:05,Programado,189.0,Boeing 737-800,R
+418,98.0,20/11/2025 14-38-34,easyJet Europe,EC7155,Milan (MXP),19:15,Programado,156.0,Airbus A319,R
+419,99.0,20/11/2025 14-38-34,Ryanair,FR1342,Palma de Mallorca (PMI),19:25,Programado,189.0,Boeing 737-800,U
+420,100.0,20/11/2025 14-38-34,Ryanair,FR8217,London (STN),19:25,Programado,189.0,Boeing 737-800,W
+421,101.0,20/11/2025 14-38-34,Eurowings,EW9443,Dusseldorf (DUS),19:35,Programado,180.0,Airbus A320,S
+422,102.0,20/11/2025 14-38-34,Wizz Air,W64406,Sofia (SOF),19:35,Programado,239.0,Airbus A321neo,U
+423,103.0,20/11/2025 14-38-34,Air Arabia Maroc,3O378,Tanger (TNG),19:40,Programado,180.0,Airbus A320,W
+424,104.0,20/11/2025 14-38-34,Eurowings,EW2521,Stuttgart (STR),19:40,Programado,180.0,Airbus A320,S
+425,105.0,20/11/2025 14-38-34,Wizz Air,W61478,Warsaw (WAW),19:40,Programado,239.0,Airbus A321neo,S
+426,106.0,20/11/2025 14-38-34,Ryanair,FR8598,Reggio Calabria (REG),19:45,Programado,189.0,Boeing 737-800,S
+427,107.0,20/11/2025 14-38-34,Easyjet,U28058,London (LGW),19:45,Programado,156.0,Airbus A319,M
+428,108.0,20/11/2025 14-38-34,Ryanair,FR8631,Tanger (TNG),19:55,Programado,189.0,Boeing 737-800,W
+429,109.0,20/11/2025 14-38-34,Volotea,V72167,Lille/Lesquin (LIL),19:55,Programado,180.0,Airbus A320,R
+430,110.0,20/11/2025 14-38-34,Transavia,HV6788,Eindhoven (EIN),20:00,Programado,189.0,Boeing 737-800,U
+431,111.0,20/11/2025 14-38-34,easyJet Europe,EC1956,Milan (LIN),20:15,Programado,180.0,Airbus A320,R
+432,112.0,20/11/2025 14-38-34,Air Arabia Maroc,3O376,Al Aaroui (NDR),20:25,Programado,180.0,Airbus A320,Y
+433,113.0,20/11/2025 14-38-34,Ryanair,FR3143,Milan (BGY),20:25,Programado,189.0,Boeing 737-800,U
+434,114.0,20/11/2025 14-38-34,Transavia,HV6064,Rotterdam (RTM),20:30,Programado,189.0,Boeing 737-800,U
+435,115.0,20/11/2025 14-38-34,Ryanair,FR4587,Porto (OPO),20:45,Programado,189.0,Boeing 737-800,S
+436,116.0,20/11/2025 14-38-34,Wizz Air,W62378,Budapest (BUD),20:45,Programado,239.0,Airbus A321neo,U
+437,117.0,20/11/2025 14-38-34,Transavia,TO4759,Paris (ORY),20:50,Programado,186.0,Airbus A320neo,U
+438,118.0,20/11/2025 14-38-34,Easyjet,U22324,London (LTN),20:55,Programado,186.0,Airbus A320neo,M
+439,119.0,20/11/2025 14-38-34,Wizz Air,W64738,Skopje (SKP),20:55,Programado,239.0,Airbus A321neo,W
+440,120.0,20/11/2025 14-38-34,BUZZ,RR333,Gdansk (GDN),21:00,Programado,189.0,Boeing 737-800,S
+441,121.0,20/11/2025 14-38-34,Aer Lingus,EI565,Dublin (DUB),21:05,Programado,180.0,Airbus A320,W
+442,122.0,20/11/2025 14-38-34,easyJet Europe,EC1380,Geneva (GVA),21:15,Programado,180.0,Airbus A320,R
+443,123.0,20/11/2025 14-38-34,Ryanair,FR1527,Valletta (MLA),21:20,Programado,189.0,Boeing 737-800,U
+444,124.0,20/11/2025 14-38-34,Wizz Air Malta,W43178,Bucharest (BBU),21:20,Programado,230.0,Airbus A321,U
+445,125.0,20/11/2025 14-38-34,Wizz Air Malta,W43406,Cluj-Napoca (CLJ),21:25,Programado,186.0,Airbus A320neo,S
+446,126.0,20/11/2025 14-38-34,BUZZ,RR3035,Krakow (KRK),21:30,Programado,197.0,Boeing 737 MAX 8,R
+447,127.0,20/11/2025 14-38-34,BUZZ,RR4084,Warsaw (WMI),21:30,Programado,189.0,Boeing 737-800,S
+448,128.0,20/11/2025 14-38-34,Wizz Air Malta,W46020,Rome (FCO),21:35,Programado,230.0,Airbus A321,U
+449,129.0,20/11/2025 14-38-34,Wizz Air,W64116,Belgrade (BEG),22:10,Programado,230.0,Airbus A321,W
+450,130.0,20/11/2025 14-38-34,Wizz Air Malta,W45154,Tirana (TIA),22:45,Programado,239.0,Airbus A321neo,
+451,571.0,21/11/2025 14-58-40,easyJet Europe,EC7105,Geneva (GVA),06:10,Ha salido,156.0,Airbus A319,R
+452,572.0,21/11/2025 14-58-40,Ryanair,FR8183,Bologna (BLQ),06:10,Ha salido,189.0,Boeing 737-800,U
+453,573.0,21/11/2025 14-58-40,Ryanair,FR8231,London (STN),06:10,Ha salido,189.0,Boeing 737-800,Y
+454,574.0,21/11/2025 14-58-40,Ryanair,FR777,Venice (VCE),06:20,Ha salido,189.0,Boeing 737-800,S
+455,575.0,21/11/2025 14-58-40,Ryanair,FR846,Milan (BGY),06:25,Ha salido,189.0,Boeing 737-800,S
+456,576.0,21/11/2025 14-58-40,Ryanair,FR133,Berlin (BER),06:35,Ha salido,189.0,Boeing 737-800,S
+457,577.0,21/11/2025 14-58-40,Ryanair,FR4545,Porto (OPO),06:45,Ha salido,197.0,Boeing 737 MAX 8,S
+458,578.0,21/11/2025 14-58-40,easyJet Europe,EC7101,"Basel, Switzerland/Mulhouse (BSL)",07:20,Ha salido,156.0,Airbus A319,R
+459,579.0,21/11/2025 14-58-40,easyJet Europe,EC7199,Edinburgh (EDI),07:20,Ha salido,156.0,Airbus A319,R
+460,580.0,21/11/2025 14-58-40,Lauda Europe,LW2889,Palma de Mallorca (PMI),07:40,Ha salido,180.0,Airbus A320,S
+461,581.0,21/11/2025 14-58-40,Norwegian Air Sweden AOC,D85502,Stockholm (ARN),08:00,Ha salido,189.0,Boeing 737-800,U
+462,582.0,21/11/2025 14-58-40,Ryanair,FR3976,Dublin (DUB),08:00,Ha salido,189.0,Boeing 737-800,W
+463,583.0,21/11/2025 14-58-40,Ryanair,FR3185,Rabat (RBA),08:10,Ha salido,189.0,Boeing 737-800,W
+464,584.0,21/11/2025 14-58-40,Ryanair,FR6973,Rome (FCO),08:15,Ha salido,189.0,Boeing 737-800,S
+465,585.0,21/11/2025 14-58-40,easyJet Europe,EC1376,Geneva (GVA),08:40,"Retrasado, Ha salido",156.0,Airbus A319,R
+466,586.0,21/11/2025 14-58-40,Ryanair,FR5752,Valletta (MLA),08:40,Ha salido,197.0,Boeing 737 MAX 8,U
+467,587.0,21/11/2025 14-58-40,Ryanair,FR1165,Sevilla (SVQ),09:00,Ha salido,189.0,Boeing 737-800,U
+468,588.0,21/11/2025 14-58-40,Wizz Air,W62048,Krakow (KRK),09:05,"Retrasado, Ha salido",239.0,Airbus A321neo,U
+469,589.0,21/11/2025 14-58-40,easyJet Europe,EC3737,Milan (MXP),09:10,Ha salido,180.0,Airbus A320,R
+470,590.0,21/11/2025 14-58-40,Ryanair,FR2834,Charleroi (CRL),09:15,Ha salido,197.0,Boeing 737 MAX 8,S
+471,591.0,21/11/2025 14-58-40,Air Arabia Maroc,3O374,Casablanca (CMN),09:25,Ha salido,180.0,Airbus A320,W
+472,592.0,21/11/2025 14-58-40,Lauda Europe,LW12,Vienna (VIE),09:25,"Retrasado, Ha salido",180.0,Airbus A320,R
+473,593.0,21/11/2025 14-58-40,Wizz Air Malta,W43176,Bucharest (OTP),09:25,Ha salido,230.0,Airbus A321,U
+474,594.0,21/11/2025 14-58-40,Wizz Air Malta,W45088,Tirana (TIA),09:25,"Retrasado, Ha salido",230.0,Airbus A321,Y
+475,595.0,21/11/2025 14-58-40,Wizz Air,W62376,Budapest (BUD),09:25,Ha salido,239.0,Airbus A321neo,U
+476,596.0,21/11/2025 14-58-40,Ryanair,FR3028,Ibiza (IBZ),09:40,Ha salido,189.0,Boeing 737-800,U
+477,598.0,21/11/2025 14-58-40,Ryanair,FR3320,Milan (BGY),09:45,Ha salido,189.0,Boeing 737-800,U
+478,599.0,21/11/2025 14-58-40,Transavia,HV6788,Eindhoven (EIN),09:45,Ha salido,189.0,Boeing 737-800,S
+479,600.0,21/11/2025 14-58-40,Easyjet,U26654,Birmingham (BHX),09:45,Ha salido,180.0,Airbus A320,M
+480,601.0,21/11/2025 14-58-40,Air Arabia Maroc,3O378,Tanger (TNG),09:50,"Retrasado, Ha salido",180.0,Airbus A320,Y
+481,602.0,21/11/2025 14-58-40,easyJet Europe,EC7656,Lisbon (LIS),09:55,"Retrasado, Ha salido",230.0,Airbus A321,R
+482,603.0,21/11/2025 14-58-40,Air Serbia,JU581,Belgrade (BEG),09:55,"Retrasado, Ha salido",157.0,Airbus A319,Y
+483,604.0,21/11/2025 14-58-40,Ryanair,FR9015,London (STN),10:00,Ha salido,197.0,Boeing 737 MAX 8,W
+484,605.0,21/11/2025 14-58-40,Wizz Air Malta,W46018,Rome (FCO),10:00,Ha salido,239.0,Airbus A321neo,S
+485,606.0,21/11/2025 14-58-40,Ryanair,FR6920,Dublin (DUB),10:05,Ha salido,197.0,Boeing 737 MAX 8,W
+486,607.0,21/11/2025 14-58-40,Transavia,HV5132,Amsterdam (AMS),10:05,"Retrasado, Ha salido",239.0,Airbus A321neo,S
+487,608.0,21/11/2025 14-58-40,Eurowings,EW7521,Hamburg (HAM),10:10,"Retrasado, Ha salido",180.0,Airbus A320,S
+488,609.0,21/11/2025 14-58-40,Wizz Air,W61476,Warsaw (WAW),10:15,"Retrasado, Ha salido",239.0,Airbus A321neo,U
+489,610.0,21/11/2025 14-58-40,Ryanair,FR2239,Marrakech (RAK),10:20,"Retrasado, Ha salido",189.0,Boeing 737-800,Y
+490,611.0,21/11/2025 14-58-40,Easyjet,U22002,Manchester (MAN),10:25,Ha salido,186.0,Airbus A320neo,M
+491,612.0,21/11/2025 14-58-40,easyJet Europe,EC7131,Nice/Cote D'Azur (NCE),10:30,Ha salido,156.0,Airbus A319,R
+492,613.0,21/11/2025 14-58-40,Ryanair,FR6267,Edinburgh (EDI),10:30,"Retrasado, Ha salido",189.0,Boeing 737-800,W
+493,614.0,21/11/2025 14-58-40,easyJet Europe,EC4212,Napoli (NAP),10:35,"Retrasado, Ha salido",180.0,Airbus A320,R
+494,615.0,21/11/2025 14-58-40,Transavia,HV6064,Rotterdam (RTM),10:40,"Retrasado, Ha salido",189.0,Boeing 737-800,U
+495,616.0,21/11/2025 14-58-40,Easyjet,U22704,Bristol (BRS),10:50,Ha salido,180.0,Airbus A320,M
+496,617.0,21/11/2025 14-58-40,Ryanair,FR5270,Manchester (MAN),10:55,"Retrasado, Ha salido",197.0,Boeing 737 MAX 8,W
+497,618.0,21/11/2025 14-58-40,BUZZ,RR8384,Budapest (BUD),11:00,"Retrasado, Ha salido",189.0,Boeing 737-800,R
+498,619.0,21/11/2025 14-58-40,Ryanair,FR3166,Palermo (PMO),11:10,Ha salido,189.0,Boeing 737-800,S
+499,620.0,21/11/2025 14-58-40,Ryanair,FR269,Milan (MXP),11:20,Ha salido,189.0,Boeing 737-800,U
+500,621.0,21/11/2025 14-58-40,FLYONE Armenia,3F232,Yerevan (EVN),11:30,"Retrasado, Ha salido",180.0,Airbus A320,Y
+501,622.0,21/11/2025 14-58-40,Aer Lingus,EI563,Dublin (DUB),11:35,"Retrasado, Ha salido",180.0,Airbus A320,Y
+502,623.0,21/11/2025 14-58-40,Ryanair,FR3121,Beauvais (BVA),11:35,Ha salido,197.0,Boeing 737 MAX 8,R
+503,624.0,21/11/2025 14-58-40,Lauda Europe,LW2896,Palma de Mallorca (PMI),11:35,Ha salido,180.0,Airbus A320,S
+504,625.0,21/11/2025 14-58-40,easyJet Europe,EC7141,Strasbourg (SXB),11:45,Ha salido,156.0,Airbus A319,R
+505,626.0,21/11/2025 14-58-40,BUZZ,RR3049,Krakow (KRK),11:45,"Retrasado, Ha salido",189.0,Boeing 737-800,S
+506,627.0,21/11/2025 14-58-40,Easyjet,U28056,London (LGW),11:45,Ha salido,156.0,Airbus A319,M
+507,628.0,21/11/2025 14-58-40,Icelandair,FI597,Keflavik (KEF),11:50,"Retrasado, Ha salido",197.0,Boeing 737 MAX 8,S
+508,629.0,21/11/2025 14-58-40,Ryanair,FR774,Torino (TRN),11:55,"Retrasado, Ha salido",197.0,Boeing 737 MAX 8,S
+509,630.0,21/11/2025 14-58-40,Jet2,LS232,Leeds Bradford (LBA),12:00,"Retrasado, Ha salido",197.0,Boeing 737 MAX 8,W
+510,631.0,21/11/2025 14-58-40,easyJet Europe,EC8064,London (LGW),12:15,Ha salido,156.0,Airbus A319,M
+511,632.0,21/11/2025 14-58-40,Ryanair,FR4585,Porto (OPO),12:15,Ha salido,189.0,Boeing 737-800,S
+512,633.0,21/11/2025 14-58-40,Norwegian Air Sweden AOC,D83657,Copenhagen (CPH),12:30,"Retrasado, Ha salido",197.0,Boeing 737 MAX 8,S
+513,634.0,21/11/2025 14-58-40,Ryanair,FR575,Bologna (BLQ),12:45,"Retrasado, Ha salido",189.0,Boeing 737-800,U
+514,635.0,21/11/2025 14-58-40,Ryanair,FR58,Napoli (NAP),12:45,"Retrasado, Ha salido",189.0,Boeing 737-800,U
+515,636.0,21/11/2025 14-58-40,Pegasus Airlines,PC1092,Istanbul (SAW),12:45,"Retrasado, Ha salido",230.0,Airbus A321,Y
+516,637.0,21/11/2025 14-58-40,Ryanair,FR6874,Dublin (DUB),12:55,"Retrasado, Ha salido",189.0,Boeing 737-800,W
+517,638.0,21/11/2025 14-58-40,Wizz Air,W67022,Bratislava (BTS),12:55,"Retrasado, Ha salido",239.0,Airbus A321neo,U
+518,639.0,21/11/2025 14-58-40,Wizz Air Malta,W46330,Milan (MXP),13:10,"Retrasado, Ha salido",230.0,Airbus A321,U
+519,640.0,21/11/2025 14-58-40,Norwegian Air Shuttle,DY1741,Oslo (OSL),13:25,Ha salido,189.0,Boeing 737-800,U
+520,641.0,21/11/2025 14-58-40,Pegasus Airlines,PC1528,Izmir (ADB),13:30,"Retrasado, Ha salido",180.0,Airbus A320,Y
+521,642.0,21/11/2025 14-58-40,Turkish Airlines,TK608,Ankara (ESB),13:40,"Retrasado, Ha salido",189.0,Boeing 737-800,W
+522,643.0,21/11/2025 14-58-40,Ryanair,FR6078,Ouarzazate (OZZ),13:50,Ha salido,189.0,Boeing 737-800,Y
+523,644.0,21/11/2025 14-58-40,Jet2,LS804,Manchester (MAN),13:50,Ha salido,189.0,Boeing 737-800,Y
+524,645.0,21/11/2025 14-58-40,Ryanair,FR3180,Rome (FCO),13:55,Ha salido,189.0,Boeing 737-800,S
+525,646.0,21/11/2025 14-58-40,Air Baltic,BT684,Riga (RIX),14:05,"Retrasado, Ha salido",148.0,Airbus A220-300,S
+526,647.0,21/11/2025 14-58-40,Azores Airlines,S4507,Ponta Delgada (PDL),14:10,Ha salido,186.0,Airbus A320neo,U
+527,648.0,21/11/2025 14-58-40,easyJet Europe,EC7153,Milan (MXP),14:20,Ha salido,156.0,Airbus A319,R
+528,649.0,21/11/2025 14-58-40,Lauda Europe,LW7351,Vienna (VIE),14:20,Ha salido,180.0,Airbus A320,R
+529,650.0,21/11/2025 14-58-40,Transavia,TO4755,Paris (ORY),14:20,Ha salido,186.0,Airbus A320neo,S
+530,651.0,21/11/2025 14-58-40,Ryanair,FR8215,London (STN),14:35,Ha salido,189.0,Boeing 737-800,W
+531,652.0,21/11/2025 14-58-40,easyJet Europe,EC7107,Geneva (GVA),14:40,Ha salido,156.0,Airbus A319,R
+532,653.0,21/11/2025 14-58-40,Volotea,V71443,Ancona (AOI),14:45,Programado,180.0,Airbus A320,S
+533,654.0,21/11/2025 14-58-40,Wizz Air,W64406,Sofia (SOF),14:50,"Retrasado, Programado",239.0,Airbus A321neo,U
+534,655.0,21/11/2025 14-58-40,Ryanair,FR2507,Cologne-Bonn (CGN),14:55,Programado,189.0,Boeing 737-800,R
+535,656.0,21/11/2025 14-58-40,Ryanair,FR867,Venice (VCE),14:55,Programado,189.0,Boeing 737-800,S
+536,657.0,21/11/2025 14-58-40,SmartWings,QS1059,Prague (PRG),14:55,Ha salido,189.0,Boeing 737-800,U
+537,658.0,21/11/2025 14-58-40,Ryanair,FR1342,Palma de Mallorca (PMI),15:00,Ha salido,189.0,Boeing 737-800,R
+538,659.0,21/11/2025 14-58-40,Ryanair,FR5718,Bratislava (BTS),15:10,Ha salido,189.0,Boeing 737-800,U
+539,660.0,21/11/2025 14-58-40,Volotea,V73735,Murcia (RMU),15:15,"Retrasado, Ha salido",156.0,Airbus A319,S
+540,662.0,21/11/2025 14-58-40,Ryanair,FR483,Malaga (AGP),15:25,Ha salido,197.0,Boeing 737 MAX 8,U
+541,663.0,21/11/2025 14-58-40,Wizz Air Malta,W46728,Venice (VCE),15:40,Ha salido,239.0,Airbus A321neo,S
+542,664.0,21/11/2025 14-58-40,Pegasus Airlines,PC1094,Istanbul (SAW),15:45,"Retrasado, Ha salido",230.0,Airbus A321,W
+543,665.0,21/11/2025 14-58-40,Ryanair,FR9045,London (STN),16:05,Ha salido,189.0,Boeing 737-800,W
+544,666.0,21/11/2025 14-58-40,Norwegian Air Sweden AOC,D85510,Copenhagen (CPH),16:15,"Retrasado, Ha salido",189.0,Boeing 737-800,U
+545,667.0,21/11/2025 14-58-40,Ryanair,FR2925,Brussels (BRU),16:15,Ha salido,189.0,Boeing 737-800,S
+546,668.0,21/11/2025 14-58-40,Ryanair,FR6985,Rome (FCO),16:15,"Retrasado, Ha salido",189.0,Boeing 737-800,U
+547,669.0,21/11/2025 14-58-40,Wizz Air Malta,W43564,Timisoara (TSR),16:25,Ha salido,180.0,Airbus A320,U
+548,670.0,21/11/2025 14-58-40,Ryanair,FR3129,Ibiza (IBZ),16:45,Ha salido,189.0,Boeing 737-800,U
+549,671.0,21/11/2025 14-58-40,easyJet Europe,EC7173,Berlin (BER),16:50,Ha salido,156.0,Airbus A319,R
+550,672.0,21/11/2025 14-58-40,Volotea,V73700,Vitoria (VIT),16:50,"Retrasado, Ha salido",180.0,Airbus A320,R
+551,673.0,21/11/2025 14-58-40,Ryanair,FR878,Venice (VCE),16:55,Ha salido,189.0,Boeing 737-800,S
+552,674.0,21/11/2025 14-58-40,Ryanair,FR4587,Porto (OPO),17:05,Ha salido,189.0,Boeing 737-800,S
+553,675.0,21/11/2025 14-58-40,Wizz Air,W67920,Kopitnari (KUT),17:15,Ha salido,239.0,Airbus A321neo,W
+554,676.0,21/11/2025 14-58-40,Ryanair,FR3076,Stockholm (ARN),17:30,Ha salido,197.0,Boeing 737 MAX 8,U
+555,677.0,21/11/2025 14-58-40,Volotea,V73573,Asturias (OVD),17:40,Ha salido,156.0,Airbus A319,S
+556,678.0,21/11/2025 14-58-40,Transavia,HV5134,Amsterdam (AMS),17:45,Ha salido,189.0,Boeing 737-800,U
+557,679.0,21/11/2025 14-58-40,Ryanair,FR6341,Rome (FCO),18:00,Ha salido,189.0,Boeing 737-800,S
+558,680.0,21/11/2025 14-58-40,Ryanair,FR6353,Milan (BGY),18:00,"Retrasado, Ha salido",197.0,Boeing 737 MAX 8,R
+559,681.0,21/11/2025 14-58-40,easyJet Europe,EC7205,Southampton (SOU),18:10,Ha salido,156.0,Airbus A319,R
+560,682.0,21/11/2025 14-58-40,Air Arabia Maroc,3O398,Rabat (RBA),18:30,Ha salido,180.0,Airbus A320,W
+561,683.0,21/11/2025 14-58-40,FlyOne,5F5512,Chisinau (KIV),18:30,"Retrasado, Ha salido",180.0,Airbus A320,Y
+562,684.0,21/11/2025 14-58-40,Wizz Air Malta,W43686,Iasi (IAS),18:30,"Retrasado, Ha salido",180.0,Airbus A320,U
+563,685.0,21/11/2025 14-58-40,Ryanair,FR2098,Bologna (BLQ),18:35,Ha salido,189.0,Boeing 737-800,U
+564,686.0,21/11/2025 14-58-40,easyJet Europe,EC7103,"Basel, Switzerland/Mulhouse (BSL)",18:45,Ha salido,156.0,Airbus A319,R
+565,687.0,21/11/2025 14-58-40,Ryanair,FR3189,Fes (FEZ),18:50,"Retrasado, Ha salido",189.0,Boeing 737-800,Y
+566,688.0,21/11/2025 14-58-40,Wizz Air,W61478,Warsaw (WAW),19:00,Ha salido,239.0,Airbus A321neo,U
+567,689.0,21/11/2025 14-58-40,easyJet Europe,EC7155,Milan (MXP),19:10,Ha salido,156.0,Airbus A319,R
+568,690.0,21/11/2025 14-58-40,Ryanair,FR149,Berlin (BER),19:15,"Retrasado, Ha salido",197.0,Boeing 737 MAX 8,R
+569,691.0,21/11/2025 14-58-40,Ryanair,FR3078,Lisbon (LIS),19:20,"Retrasado, Ha salido",189.0,Boeing 737-800,S
+570,692.0,21/11/2025 14-58-40,BUZZ,RR6330,Sofia (SOF),19:20,"Retrasado, Ha salido",189.0,Boeing 737-800,U
+571,693.0,21/11/2025 14-58-40,Volotea,V72165,Nantes/Atlantique (NTE),19:30,Ha salido,156.0,Airbus A319,S
+572,694.0,21/11/2025 14-58-40,Eurowings,EW9443,Dusseldorf (DUS),19:35,"Retrasado, Ha salido",239.0,Airbus A321neo,S
+573,695.0,21/11/2025 14-58-40,Ryanair,FR2330,Al Aaroui (NDR),19:35,Ha salido,189.0,Boeing 737-800,Y
+574,696.0,21/11/2025 14-58-40,Lauda Europe,LW7362,Vienna (VIE),19:40,"Retrasado, Ha salido",180.0,Airbus A320,S
+575,697.0,21/11/2025 14-58-40,Easyjet,U28058,London (LGW),19:40,Ha salido,156.0,Airbus A319,M
+576,698.0,21/11/2025 14-58-40,Ryanair,FR6374,Beauvais (BVA),19:45,"Retrasado, Ha salido",189.0,Boeing 737-800,U
+577,699.0,21/11/2025 14-58-40,Eurowings,EW2521,Stuttgart (STR),19:55,"Retrasado, Ha salido",230.0,Airbus A321,U
+578,700.0,21/11/2025 14-58-40,Volotea,V71415,Verona (VRN),19:55,"Retrasado, Ha salido",180.0,Airbus A320,U
+579,701.0,21/11/2025 14-58-40,Wizz Air,W64666,Larnaca (LCA),19:55,"Retrasado, Ha salido",230.0,Airbus A321,Y
+580,702.0,21/11/2025 14-58-40,Ryanair,FR1527,Valletta (MLA),20:05,Ha salido,189.0,Boeing 737-800,U
+581,703.0,21/11/2025 14-58-40,Ryanair,FR2402,Sevilla (SVQ),20:10,"Retrasado, Ha salido",197.0,Boeing 737 MAX 8,R
+582,704.0,21/11/2025 14-58-40,Ryanair,FR6275,Edinburgh (EDI),20:10,Programado,197.0,Boeing 737 MAX 8,W
+583,705.0,21/11/2025 14-58-40,Ryanair,FR6305,Milan (BGY),20:10,"Retrasado, Ha salido",189.0,Boeing 737-800,R
+584,706.0,21/11/2025 14-58-40,Wizz Air,W62096,Krakow (KRK),20:10,"Retrasado, Ha salido",239.0,Airbus A321neo,S
+585,707.0,21/11/2025 14-58-40,easyJet Europe,EC1956,Milan (LIN),20:15,"Retrasado, Ha salido",180.0,Airbus A320,R
+586,708.0,21/11/2025 14-58-40,Wizz Air Malta,W42940,Vienna (VIE),20:20,"Retrasado, Ha salido",239.0,Airbus A321neo,S
+587,709.0,21/11/2025 14-58-40,Ryanair,FR3792,Birmingham (BHX),20:25,Ha salido,189.0,Boeing 737-800,Y
+588,710.0,21/11/2025 14-58-40,T'Way Air,TW408,Seoul/Incheon (ICN),20:30,"Retrasado, Ha salido",246.0,Airbus A330-200,W
+589,711.0,21/11/2025 14-58-40,Volotea,V72135,Bordeaux (BOD),20:30,"Retrasado, Ha salido",180.0,Airbus A320,R
+590,712.0,21/11/2025 14-58-40,Ryanair,FR7539,Milan (MXP),20:35,Ha salido,189.0,Boeing 737-800,U
+591,713.0,21/11/2025 14-58-40,Ryanair,FR8631,Tanger (TNG),20:35,"Retrasado, Ha salido",189.0,Boeing 737-800,W
+592,714.0,21/11/2025 14-58-40,Air Serbia,JU585,Belgrade (BEG),20:35,"Retrasado, Ha salido",157.0,Airbus A319,Y
+593,715.0,21/11/2025 14-58-40,BUZZ,RR1786,Vilnius (VNO),20:35,"Retrasado, Ha salido",197.0,Boeing 737 MAX 8,U
+594,716.0,21/11/2025 14-58-40,Luxair,LG3592,Luxembourg (LUX),20:40,"Retrasado, Ha salido",189.0,Boeing 737-800,S
+595,717.0,21/11/2025 14-58-40,Wizz Air,W62378,Budapest (BUD),20:45,"Retrasado, Ha salido",239.0,Airbus A321neo,S
+596,718.0,21/11/2025 14-58-40,Ryanair,FR5710,Napoli (NAP),20:50,Ha salido,197.0,Boeing 737 MAX 8,U
+597,719.0,21/11/2025 14-58-40,Transavia,TO4759,Paris (ORY),20:50,"Retrasado, Ha salido",186.0,Airbus A320neo,U
+598,720.0,21/11/2025 14-58-40,Easyjet,U22326,London (LTN),20:55,Ha salido,180.0,Airbus A320,M
+599,721.0,21/11/2025 14-58-40,BUZZ,RR8394,Budapest (BUD),21:00,Ha salido,189.0,Boeing 737-800,S
+600,722.0,21/11/2025 14-58-40,Aer Lingus,EI565,Dublin (DUB),21:05,Ha salido,180.0,Airbus A320,Y
+601,723.0,21/11/2025 14-58-40,Easyjet,U23374,Liverpool (LPL),21:05,Ha salido,180.0,Airbus A320,M
+602,724.0,21/11/2025 14-58-40,Ryanair,FR3174,Ibiza (IBZ),21:10,Ha salido,189.0,Boeing 737-800,R
+603,725.0,21/11/2025 14-58-40,easyJet Europe,EC1380,Geneva (GVA),21:15,"Retrasado, Ha salido",180.0,Airbus A320,R
+604,726.0,21/11/2025 14-58-40,Wizz Air Malta,W43178,Bucharest (BBU),21:20,Ha salido,230.0,Airbus A321,U
+605,727.0,21/11/2025 14-58-40,Wizz Air Malta,W43406,Cluj-Napoca (CLJ),21:25,Ha salido,186.0,Airbus A320neo,R
+606,728.0,21/11/2025 14-58-40,BUZZ,RR6944,Warsaw (WMI),21:30,Ha salido,189.0,Boeing 737-800,U
+607,729.0,21/11/2025 14-58-40,Ryanair,FR7808,London (LTN),21:35,"Retrasado, Ha salido",189.0,Boeing 737-800,Y
+608,730.0,21/11/2025 14-58-40,Wizz Air Malta,W46020,Rome (FCO),21:35,"Retrasado, Programado",239.0,Airbus A321neo,S
+609,731.0,21/11/2025 14-58-40,Ryanair,FR8669,Dublin (DUB),21:40,"Retrasado, Ha salido",189.0,Boeing 737-800,Y
+610,732.0,21/11/2025 14-58-40,Ryanair,FR9811,London (STN),21:40,"Retrasado, Ha salido",189.0,Boeing 737-800,Y
+611,733.0,21/11/2025 14-58-40,Ryanair,FR2495,Palma de Mallorca (PMI),21:45,Ha salido,189.0,Boeing 737-800,S
+612,734.0,21/11/2025 14-58-40,Ryanair,FR6597,Manchester (MAN),21:45,Programado,189.0,Boeing 737-800,W
+613,735.0,21/11/2025 14-58-40,Ryanair,FR2250,Marrakech (RAK),21:55,Ha salido,189.0,Boeing 737-800,W
+614,736.0,21/11/2025 14-58-40,Wizz Air,W64116,Belgrade (BEG),21:55,"Retrasado, Ha salido",239.0,Airbus A321neo,W
+615,737.0,21/11/2025 14-58-40,Ryanair,FR3080,Malaga (AGP),22:30,Programado,197.0,Boeing 737 MAX 8,S
+616,738.0,21/11/2025 14-58-40,Wizz Air Malta,W45154,Tirana (TIA),22:45,Programado,230.0,Airbus A321,Y
+617,739.0,21/11/2025 14-58-40,Wizz Air,W61706,Gdansk (GDN),22:50,Ha salido,239.0,Airbus A321neo,S
+618,740.0,21/11/2025 14-58-40,Ryanair,FR9814,London (STN),23:10,Programado,189.0,Boeing 737-800,W
+619,,22/Nov/2025,Ryanair,FR846,Milan (BGY),06:00,"Retrasado, Ha salido 06:15",189.0,Boeing 737-800,S21
+620,,22/Nov/2025,easyJet Europe,EC7105,Geneva (GVA),06:10,"En hora, Ha salido",156.0,Airbus A319,R9
+621,,22/Nov/2025,Ryanair,FR5718,Bratislava (BTS),06:10,"En hora, Ha salido",189.0,Boeing 737-800,S22
+622,,22/Nov/2025,Ryanair,FR4545,Porto (OPO),06:15,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U31
+623,,22/Nov/2025,Ryanair,FR1342,Palma de Mallorca (PMI),06:20,"En hora, Ha salido",189.0,Boeing 737-800,S24
+624,,22/Nov/2025,Ryanair,FR777,Venice (VCE),06:30,"Retrasado, Ha salido 06:43",189.0,Boeing 737-800,S23
+625,,22/Nov/2025,easyJet Europe,EC7151,Milan (MXP),07:30,"En hora, Ha salido",156.0,Airbus A319,R10
+626,,22/Nov/2025,Ryanair,FR2918,Brussels (BRU),08:05,"En hora, Ha salido",189.0,Boeing 737-800,S20
+627,,22/Nov/2025,Ryanair,FR3180,Rome (FCO),08:15,"En hora, Ha salido",189.0,Boeing 737-800,U32
+628,,22/Nov/2025,Air Arabia Maroc,3O376,Al Aaroui (NDR),08:35,"En hora, Ha salido",180.0,Airbus A320,W45
+629,,22/Nov/2025,Ryanair,FR1165,Palma de Mallorca (PMI),08:50,"En hora, Ha salido",189.0,Boeing 737-800,R12
+630,,22/Nov/2025,Ryanair,FR575,Bologna (BLQ),08:50,"En hora, Ha salido",189.0,Boeing 737-800,U35
+631,,22/Nov/2025,Ryanair,FR3166,Palermo (PMO),09:00,"En hora, Ha salido",189.0,Boeing 737-800,S25
+632,,22/Nov/2025,Wizz Air Malta,W43938,Chisinau (KIV),09:00,"En hora, Ha salido",180.0,Airbus A320,Y57
+633,,22/Nov/2025,Wizz Air,W62048,Krakow (KRK),09:05,"En hora, Ha salido",239.0,Airbus A321neo,S21
+634,,22/Nov/2025,Ryanair,FR2834,Charleroi (CRL),09:15,"Retrasado, Ha salido 10:20",189.0,Boeing 737-800,U32
+635,,22/Nov/2025,Transavia,TO4751,Paris (ORY),09:15,"En hora, Ha salido",189.0,Boeing 737-800,U36
+636,,22/Nov/2025,Ryanair,FR133,Berlin (BER),09:20,"En hora, Ha salido",189.0,Boeing 737-800,U31
+637,,22/Nov/2025,Ryanair,FR2239,Marrakech (RAK),09:20,"En hora, Ha salido",189.0,Boeing 737-800,W44
+638,,22/Nov/2025,Ryanair,FR3028,Ibiza (IBZ),09:20,"En hora, Ha salido",189.0,Boeing 737-800,S24
+639,,22/Nov/2025,Wizz Air,W61914,Vilnius (VNO),09:20,"En hora, Ha salido",239.0,Airbus A321neo,S23
+640,,22/Nov/2025,Wizz Air Malta,W43176,Bucharest (OTP),09:25,"Retrasado, Ha salido 09:48",239.0,Airbus A321neo,U38
+641,,22/Nov/2025,Wizz Air,W62376,Budapest (BUD),09:25,"En hora, Ha salido",239.0,Airbus A321neo,U34
+642,,22/Nov/2025,BUZZ,RR3049,Krakow (KRK),09:30,"En hora, Ha salido",189.0,Boeing 737-800,U33
+643,,22/Nov/2025,Wizz Air Malta,W42938,Vienna (VIE),09:35,"En hora, Ha salido",239.0,Airbus A321neo,S22
+644,,22/Nov/2025,Air Serbia,JU581,Belgrade (BEG),09:55,"En hora, Ha salido",156.0,Airbus A319,Y58
+645,,22/Nov/2025,Ryanair,FR6559,Liverpool (LPL),10:00,"En hora, Ha salido",189.0,Boeing 737-800,W45
+646,,22/Nov/2025,Wizz Air Malta,W46018,Rome (FCO),10:00,"En hora, Ha salido",239.0,Airbus A321neo,S20
+647,,22/Nov/2025,Transavia,HV5132,Amsterdam (AMS),10:05,"Retrasado, Ha salido 10:24",239.0,Airbus A321neo,U35
+648,,22/Nov/2025,Wizz Air,W61476,Warsaw (WAW),10:15,"En hora, Ha salido",239.0,Airbus A321neo,R14
+649,,22/Nov/2025,Ryanair,FR9171,Stockholm (ARN),10:20,"En hora, Ha salido",197.0,Boeing 737 MAX 8,R11
+650,,22/Nov/2025,Easyjet,U22326,London (LTN),10:20,"En hora, Ha salido",180.0,Airbus A320,M6
+651,,22/Nov/2025,Ryanair,FR3168,Newcastle (NCL),10:25,"En hora, Ha salido",189.0,Boeing 737-800,W42
+652,,22/Nov/2025,Ryanair,FR9307,Cork (ORK),10:30,"En hora, Ha salido",197.0,Boeing 737 MAX 8,Y55
+653,,22/Nov/2025,Lauda Europe,LW12,Vienna (VIE),10:30,"Retrasado, Ha salido 10:50",180.0,Airbus A320,R13
+654,,22/Nov/2025,Easyjet,U28056,London (LGW),10:35,"En hora, Ha salido",156.0,Airbus A319,M8
+655,,22/Nov/2025,Azerbaijan Airlines,J246,Baku (GYD),10:45,"En hora, Ha salido",186.0,Airbus A320neo,Y57
+656,,22/Nov/2025,SkyUp MT,U5406,Chisinau (KIV),10:50,"En hora, Ha salido",149.0,Boeing 737-700,W46
+657,,22/Nov/2025,Easyjet,U22704,Bristol (BRS),10:55,"En hora, Ha salido",180.0,Airbus A320,M3
+658,,22/Nov/2025,Ryanair,FR6394,Dublin (DUB),11:00,"En hora, Ha salido",197.0,Boeing 737 MAX 8,W49
+659,,22/Nov/2025,Ryanair,FR4597,Porto (OPO),11:20,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U31
+660,,22/Nov/2025,easyJet Europe,EC7193,Leeds Bradford (LBA),11:30,"En hora, Ha salido",156.0,Airbus A319,M6
+661,,22/Nov/2025,Aer Lingus,EI563,Dublin (DUB),11:30,"En hora, Ha salido",180.0,Airbus A320,Y54
+662,,22/Nov/2025,Ryanair,FR2507,Cologne-Bonn (CGN),11:55,"En hora, Ha salido",189.0,Boeing 737-800,U37
+663,,22/Nov/2025,Ryanair,FR3108,Luxembourg (LUX),12:05,"En hora, Ha salido",189.0,Boeing 737-800,U41
+664,,22/Nov/2025,easyJet Europe,EC8064,London (LGW),12:10,"En hora, Ha salido",156.0,Airbus A319,M3
+665,,22/Nov/2025,Ryanair,FR8231,London (STN),12:25,"En hora, Ha salido",189.0,Boeing 737-800,Y58
+666,,22/Nov/2025,Pegasus Airlines,PC1092,Istanbul (SAW),12:45,"Retrasado, Ha salido 12:59",230.0,Airbus A321,Y57
+667,,22/Nov/2025,Wizz Air,W67022,Bratislava (BTS),12:55,"En hora, Ha salido",239.0,Airbus A321neo,U32
+668,,22/Nov/2025,Ryanair,FR483,Malaga (AGP),13:05,"Retrasado, Ha salido 13:24",189.0,Boeing 737-800,S21
+669,,22/Nov/2025,Boliviana de Aviacion,OB775,Santa Cruz (VVI),13:10,"Retrasado, Programado 14:45",246.0,Airbus A330-200,Y55
+670,,22/Nov/2025,Wizz Air Malta,W46330,Milan (MXP),13:10,"En hora, Ha salido",230.0,Airbus A321,U31
+671,,22/Nov/2025,easyJet Europe,EC7101,"Basel, Switzerland/Mulhouse (BSL)",13:20,"En hora, Ha salido",156.0,Airbus A319,R15
+672,,22/Nov/2025,Ryanair,FR7808,London (LTN),13:20,"En hora, Ha salido",197.0,Boeing 737 MAX 8,W46
+673,,22/Nov/2025,Ryanair UK,RK6597,Manchester (MAN),13:25,"En hora, Ha salido",189.0,Boeing 737-800,Y54
+674,,22/Nov/2025,Ryanair,FR2098,Bologna (BLQ),13:30,"En hora, Ha salido",189.0,Boeing 737-800,U33
+675,,22/Nov/2025,Air Arabia Maroc,3O378,Tanger (TNG),13:35,"Retrasado, Ha salido 14:05",180.0,Airbus A320,Y58
+676,,22/Nov/2025,easyJet Europe,EC7153,Milan (MXP),13:35,"En hora, Ha salido",156.0,Airbus A319,R19
+677,,22/Nov/2025,Ajet,VF608,Ankara (ESB),13:40,"Retrasado, Ha salido 13:56",180.0,Airbus A320,W45
+678,,22/Nov/2025,Ryanair,FR1681,Frankfurt-Hahn (HHN),14:00,"En hora, Ha salido",189.0,Boeing 737-800,U35
+679,,22/Nov/2025,Air Baltic,BT684,Riga (RIX),14:05,"Retrasado, Programado 15:00",148.0,Airbus A220-300,S20
+680,,22/Nov/2025,BUZZ,RR6920,Dublin (DUB),14:05,"Retrasado, Ha salido 14:33",189.0,Boeing 737-800,Y57
+681,,22/Nov/2025,Ryanair,FR58,Napoli (NAP),14:15,"En hora, Ha salido",189.0,Boeing 737-800,U34
+682,,22/Nov/2025,Kuwait Airways,KU136,Kuwait City (KWI),14:25,"En hora, Ha salido",278.0,Airbus A330-900,W44
+683,,22/Nov/2025,Ryanair,FR3070,Palma de Mallorca (PMI),14:40,"Retrasado, Ha salido 14:51",189.0,Boeing 737-800,S24
+684,,22/Nov/2025,Ryanair,FR774,Torino (TRN),14:45,"En hora, Ha salido",189.0,Boeing 737-800,S22
+685,,22/Nov/2025,Ryanair,FR3121,Beauvais (BVA),14:50,"En hora, Ha salido",189.0,Boeing 737-800,U37
+686,,22/Nov/2025,Ryanair,FR6300,Sofia (SOF),14:55,"En hora, Programado",189.0,Boeing 737-800,R12
+687,,22/Nov/2025,Ryanair,FR3189,Fes (FEZ),15:30,"En hora, Programado",189.0,Boeing 737-800,W42
+688,,22/Nov/2025,Wizz Air Malta,W46728,Venice (VCE),15:40,"En hora, Ha salido",239.0,Airbus A321neo,S21
+689,,22/Nov/2025,Ryanair,FR3807,Charleroi (CRL),16:05,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U32
+690,,22/Nov/2025,BUZZ,RR8384,Budapest (BUD),16:10,"Retrasado, Ha salido 16:40",189.0,Boeing 737-800,S25
+691,,22/Nov/2025,Ryanair,FR7543,Manchester (MAN),16:20,"En hora, Ha salido",189.0,Boeing 737-800,Y54
+692,,22/Nov/2025,Ryanair,FR3146,Oujda (OUD),16:45,"En hora, Ha salido",189.0,Boeing 737-800,W49
+693,,22/Nov/2025,Ryanair,FR269,Milan (MXP),16:50,"En hora, Ha salido",189.0,Boeing 737-800,U37
+694,,22/Nov/2025,Ryanair,FR9015,London (STN),17:00,"En hora, Ha salido",197.0,Boeing 737 MAX 8,W44
+695,,22/Nov/2025,Ryanair,FR5752,Valletta (MLA),17:10,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U34
+696,,22/Nov/2025,Ryanair,FR6874,Dublin (DUB),17:40,"En hora, Ha salido",189.0,Boeing 737-800,Y54
+697,,22/Nov/2025,Ryanair,FR2233,Al Aaroui (NDR),17:50,"Retrasado, Ha salido 18:08",189.0,Boeing 737-800,W42
+698,,22/Nov/2025,Ryanair,FR2925,Brussels (BRU),17:50,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U33
+699,,22/Nov/2025,Ryanair,FR6353,Milan (BGY),17:55,"En hora, Ha salido",189.0,Boeing 737-800,S24
+700,,22/Nov/2025,easyJet Europe,EC7103,"Basel, Switzerland/Mulhouse (BSL)",18:00,"En hora, Ha salido",156.0,Airbus A319,R11
+701,,22/Nov/2025,Norwegian Air Sweden AOC,D81741,Oslo (OSL),18:15,"En hora, Ha salido",189.0,Boeing 737-800,U32
+702,,22/Nov/2025,Ryanair,FR878,Venice (VCE),18:15,"En hora, Ha salido",189.0,Boeing 737-800,U32
+703,,22/Nov/2025,Transavia,HV5134,Amsterdam (AMS),18:15,"En hora, Ha salido",239.0,Airbus A321neo,U36
+704,,22/Nov/2025,Ryanair,FR3035,Krakow (KRK),18:20,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U41
+705,,22/Nov/2025,Ryanair,FR3792,Birmingham (BHX),18:55,"En hora, Ha salido",197.0,Boeing 737 MAX 8,Y58
+706,,22/Nov/2025,Wizz Air,W61176,Katowice (KTW),18:55,"En hora, Ha salido",239.0,Airbus A321neo,S20
+707,,22/Nov/2025,Wizz Air,W61478,Warsaw (WAW),19:00,"En hora, Ha salido",239.0,Airbus A321neo,S21
+708,,22/Nov/2025,Ryanair,FR9045,London (STN),19:05,"En hora, Ha salido",189.0,Boeing 737-800,W42
+709,,22/Nov/2025,Ryanair,FR5270,Manchester (MAN),19:20,"En hora, Ha salido",189.0,Boeing 737-800,Y57
+710,,22/Nov/2025,Ryanair,FR149,Berlin (BER),19:35,"Retrasado, Ha salido 19:59",197.0,Boeing 737 MAX 8,U34
+711,,22/Nov/2025,Wizz Air,W64406,Sofia (SOF),19:35,"En hora, Ha salido",239.0,Airbus A321neo,S22
+712,,22/Nov/2025,Air Baltic,BT878,Tallinn (TLL),19:40,"En hora, Ha salido",148.0,Airbus A220-300,U35
+713,,22/Nov/2025,Ryanair,FR3078,Lisbon (LIS),19:55,"En hora, Ha salido",189.0,Boeing 737-800,S24
+714,,22/Nov/2025,Lauda Europe,LW7351,Vienna (VIE),20:05,"En hora, Ha salido",180.0,Airbus A320,R14
+715,,22/Nov/2025,easyJet Europe,EC1380,Geneva (GVA),20:10,"En hora, Ha salido",180.0,Airbus A320,R11
+716,,22/Nov/2025,Ryanair,FR867,Venice (VCE),20:20,"En hora, Ha salido",189.0,Boeing 737-800,U36
+717,,22/Nov/2025,Ryanair,FR9581,Sevilla (SVQ),20:25,"En hora, Ha salido",197.0,Boeing 737 MAX 8,R13
+718,,22/Nov/2025,T'Way Air,TW408,Seoul/Incheon (ICN),20:30,"En hora, Ha salido",294.0,BOEING 777-300ER,Y55
+719,,22/Nov/2025,Ryanair,FR3182,Malaga (AGP),20:45,"En hora, Ha salido",189.0,Boeing 737-800,U33
+720,,22/Nov/2025,Ryanair,FR3928,Trieste (TRS),20:45,"En hora, Ha salido",189.0,Boeing 737-800,S25
+721,,22/Nov/2025,Transavia,TO4759,Paris (ORY),20:45,"Retrasado, Ha salido 21:41",186.0,Airbus A320neo,U31
+722,,22/Nov/2025,Wizz Air,W62378,Budapest (BUD),20:45,"Retrasado, Ha salido 20:55",239.0,Airbus A321neo,U32
+723,,22/Nov/2025,Ryanair,FR4585,Porto (OPO),20:50,"Retrasado, Ha salido 21:10",189.0,Boeing 737-800,S23
+724,,22/Nov/2025,Ryanair,FR6267,Edinburgh (EDI),20:55,"En hora, Ha salido",189.0,Boeing 737-800,W42
+725,,22/Nov/2025,Ryanair,FR3174,Ibiza (IBZ),21:20,"En hora, Ha salido",189.0,Boeing 737-800,U34
+726,,22/Nov/2025,Wizz Air Malta,W43178,Bucharest (BBU),21:20,"En hora, Ha salido",230.0,Airbus A321,S20
+727,,22/Nov/2025,Wizz Air Malta,W43406,Cluj-Napoca (CLJ),21:25,"En hora, Ha salido",180.0,Airbus A320,S21
+728,,22/Nov/2025,Ryanair,FR5220,Bologna (BLQ),21:30,"En hora, Ha salido",189.0,Boeing 737-800,U35
+729,,22/Nov/2025,BUZZ,RR3039,Prague (PRG),21:35,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U36
+730,,22/Nov/2025,Wizz Air Malta,W46020,Rome (FCO),21:35,"En hora, Ha salido",239.0,Airbus A321neo,S22
+731,,22/Nov/2025,Ryanair,FR3800,Birmingham (BHX),21:55,"En hora, Ha salido",189.0,Boeing 737-800,Y57
+732,,22/Nov/2025,Ryanair,FR8574,Rome (FCO),22:10,"Retrasado, Ha salido 22:28",189.0,Boeing 737-800,U34
+733,,22/Nov/2025,Wizz Air,W64116,Belgrade (BEG),22:10,"En hora, Ha salido",239.0,Airbus A321neo,Y58
+734,,22/Nov/2025,Air Arabia Maroc,3O642,Tanger (TNG),22:15,"En hora, Ha salido",180.0,Airbus A320,W44
+735,,23/11/2025 15-34-22,Ryanair,FR3180,Rome (FCO),06:00,Ha salido,189.0,Boeing 737-800,U34
+736,,23/11/2025 15-34-22,Ryanair,FR2834,Charleroi (CRL),06:10,Ha salido,197.0,Boeing 737 MAX 8,S20
+737,,23/11/2025 15-34-22,Ryanair,FR2918,Brussels (BRU),06:25,Ha salido,189.0,Boeing 737-800,R12
+738,,23/11/2025 15-34-22,Ryanair,FR4084,Warsaw (WMI),06:25,"Retrasado, Ha salido",189.0,Boeing 737-800,S21
+739,,23/11/2025 15-34-22,Ryanair,FR2239,Marrakech (RAK),06:30,Ha salido,189.0,Boeing 737-800,W46
+740,,23/11/2025 15-34-22,Ryanair,FR2507,Cologne-Bonn (CGN),06:40,Ha salido,189.0,Boeing 737-800,U33
+741,,23/11/2025 15-34-22,easyJet Europe,EC7101,"Basel, Switzerland/Mulhouse (BSL)",06:50,Ha salido,156.0,Airbus A319,R15
+742,,23/11/2025 15-34-22,easyJet Europe,EC7191,Glasgow (GLA),07:20,Ha salido,156.0,Airbus A319,M3
+743,,23/11/2025 15-34-22,Ryanair,FR6597,Manchester (MAN),07:30,Ha salido,189.0,Boeing 737-800,W45
+744,,23/11/2025 15-34-22,Ryanair,FR3108,Luxembourg (LUX),07:35,Ha salido,189.0,Boeing 737-800,S22
+745,,23/11/2025 15-34-22,Ryanair,FR1165,Sevilla (SVQ),07:50,Ha salido,189.0,Boeing 737-800,S24
+746,,23/11/2025 15-34-22,Norwegian Air Sweden AOC,D85510,Copenhagen (CPH),08:00,Ha salido,189.0,Boeing 737-800,U37
+747,,23/11/2025 15-34-22,easyJet Europe,EC7131,Nice/Cote D'Azur (NCE),08:00,Ha salido,156.0,Airbus A319,R10
+748,,23/11/2025 15-34-22,easyJet Europe,EC3754,Milan (MXP),08:25,Ha salido,180.0,Airbus A320,R11
+749,,23/11/2025 15-34-22,Ryanair,FR878,Venice (VCE),08:30,Ha salido,189.0,Boeing 737-800,U34
+750,,23/11/2025 15-34-22,easyJet Europe,EC1376,Geneva (GVA),08:35,Ha salido,156.0,Airbus A319,R12
+751,,23/11/2025 15-34-22,Volotea,V73735,Murcia (RMU),08:40,"Retrasado, Ha salido",180.0,Airbus A320,U35
+752,,23/11/2025 15-34-22,BUZZ,RR1786,Vilnius (VNO),09:00,Ha salido,197.0,Boeing 737 MAX 8,S25
+753,,23/11/2025 15-34-22,Ryanair,FR3028,Ibiza (IBZ),09:05,Ha salido,197.0,Boeing 737 MAX 8,U31
+754,,23/11/2025 15-34-22,Wizz Air,W62048,Krakow (KRK),09:05,"Retrasado, Ha salido",239.0,Airbus A321neo,S20
+755,,23/11/2025 15-34-22,BUZZ,RR3193,Riga (RIX),09:10,Ha salido,189.0,Boeing 737-800,S22
+756,,23/11/2025 15-34-22,Eurowings,EW7521,Hamburg (HAM),09:25,Ha salido,150.0,Airbus A319,S24
+757,,23/11/2025 15-34-22,Wizz Air Malta,W43176,Bucharest (OTP),09:25,Ha salido,239.0,Airbus A321neo,U33
+758,,23/11/2025 15-34-22,Wizz Air Malta,W45088,Tirana (TIA),09:25,Ha salido,239.0,Airbus A321neo,W46
+759,,23/11/2025 15-34-22,Wizz Air,W62376,Budapest (BUD),09:25,"Retrasado, Ha salido",239.0,Airbus A321neo,U32
+760,,23/11/2025 15-34-22,Ryanair,FR4545,Porto (OPO),09:35,Ha salido,189.0,Boeing 737-800,U36
+761,,23/11/2025 15-34-22,Wizz Air Malta,W42938,Vienna (VIE),09:35,"Retrasado, Ha salido",239.0,Airbus A321neo,R12
+762,,23/11/2025 15-34-22,easyJet Europe,EC7656,Lisbon (LIS),09:45,Ha salido,230.0,Airbus A321,R10
+763,,23/11/2025 15-34-22,BUZZ,RR333,Gdansk (GDN),09:45,Ha salido,189.0,Boeing 737-800,U35
+764,,23/11/2025 15-34-22,BUZZ,RR8384,Budapest (BUD),09:45,"Retrasado, Ha salido",197.0,Boeing 737 MAX 8,U34
+765,,23/11/2025 15-34-22,Ryanair,FR2495,Palma de Mallorca (PMI),09:50,Ha salido,189.0,Boeing 737-800,R14
+766,,23/11/2025 15-34-22,Ryanair,FR6341,Rome (FCO),09:55,Ha salido,189.0,Boeing 737-800,U37
+767,,23/11/2025 15-34-22,BUZZ,RR3049,Krakow (KRK),09:55,"Retrasado, Ha salido",197.0,Boeing 737 MAX 8,S21
+768,,23/11/2025 15-34-22,Ryanair,FR8231,London (STN),10:00,Ha salido,189.0,Boeing 737-800,Y55
+769,,23/11/2025 15-34-22,Wizz Air Malta,W46018,Rome (FCO),10:00,Ha salido,239.0,Airbus A321neo,S23
+770,,23/11/2025 15-34-22,Ryanair,FR6874,Dublin (DUB),10:05,Ha salido,197.0,Boeing 737 MAX 8,W45
+771,,23/11/2025 15-34-22,Lauda Europe,LW7351,Vienna (VIE),10:10,"Retrasado, Ha salido",180.0,Airbus A320,R11
+772,,23/11/2025 15-34-22,Wizz Air,W61476,Warsaw (WAW),10:15,Ha salido,239.0,Airbus A321neo,S22
+773,,23/11/2025 15-34-22,Ryanair,FR575,Bologna (BLQ),10:20,Ha salido,189.0,Boeing 737-800,R13
+774,,23/11/2025 15-34-22,Ryanair,FR6267,Edinburgh (EDI),10:30,Ha salido,189.0,Boeing 737-800,Y58
+775,,23/11/2025 15-34-22,Ryanair,FR7543,Manchester (MAN),10:40,Ha salido,197.0,Boeing 737 MAX 8,Y57
+776,,23/11/2025 15-34-22,Ryanair,FR1279,Copenhagen (CPH),10:45,"Retrasado, Ha salido",189.0,Boeing 737-800,U31
+777,,23/11/2025 15-34-22,Ryanair,FR3143,Milan (BGY),10:45,Ha salido,197.0,Boeing 737 MAX 8,S20
+778,,23/11/2025 15-34-22,Azerbaijan Airlines,J246,Baku (GYD),10:45,"Retrasado, Ha salido",122.0,Airbus A319,W44
+779,,23/11/2025 15-34-22,Ryanair,FR3166,Palermo (PMO),11:00,Ha salido,189.0,Boeing 737-800,U33
+780,,23/11/2025 15-34-22,Norwegian Air Sweden AOC,D81741,Oslo (OSL),11:15,Ha salido,189.0,Boeing 737-800,U35
+781,,23/11/2025 15-34-22,Aer Lingus,EI563,Dublin (DUB),11:30,Ha salido,186.0,Airbus A320neo,W46
+782,,23/11/2025 15-34-22,easyJet Europe,EC7139,Rennes/Saint-Jacques (RNS),11:45,Ha salido,,,R15
+783,,23/11/2025 15-34-22,Icelandair,FI597,Keflavik (KEF),11:50,"Retrasado, Ha salido",197.0,Boeing 737 MAX 8,U41
+784,,23/11/2025 15-34-22,Lauda Europe,LW2889,Palma de Mallorca (PMI),11:55,Ha salido,180.0,Airbus A320,R14
+785,,23/11/2025 15-34-22,Ryanair,FR3129,Ibiza (IBZ),12:05,Ha salido,189.0,Boeing 737-800,S23
+786,,23/11/2025 15-34-22,Ryanair,FR3976,Dublin (DUB),12:25,Ha salido,197.0,Boeing 737 MAX 8,W42
+787,,23/11/2025 15-34-22,Ryanair,FR1527,Valletta (MLA),12:30,Ha salido,189.0,Boeing 737-800,U34
+788,,23/11/2025 15-34-22,Ryanair,FR2402,Sevilla (SVQ),12:30,"Retrasado, Ha salido",189.0,Boeing 737-800,S25
+789,,23/11/2025 15-34-22,Volotea,V72167,Lille/Lesquin (LIL),12:35,"Retrasado, Ha salido",180.0,Airbus A320,U35
+790,,23/11/2025 15-34-22,Ryanair,FR6300,Sofia (SOF),12:45,"Retrasado, Ha salido",189.0,Boeing 737-800,S22
+791,,23/11/2025 15-34-22,Pegasus Airlines,PC1092,Istanbul (SAW),12:45,Ha salido,220.0,Airbus A321,Y54
+792,,23/11/2025 15-34-22,Ryanair,FR2511,Cologne-Bonn (CGN),12:55,Ha salido,189.0,Boeing 737-800,U33
+793,,23/11/2025 15-34-22,Ryanair,FR8598,Reggio Calabria (REG),13:05,"Retrasado, Ha salido",189.0,Boeing 737-800,U31
+794,,23/11/2025 15-34-22,Volotea,V71445,Olbia (OLB),13:05,Ha salido,180.0,Airbus A320,U36
+795,,23/11/2025 15-34-22,Wizz Air Malta,W46330,Milan (MXP),13:10,Ha salido,239.0,Airbus A321neo,U32
+796,,23/11/2025 15-34-22,Ryanair,FR3121,Beauvais (BVA),13:20,Ha salido,189.0,Boeing 737-800,S20
+797,,23/11/2025 15-34-22,Easyjet,U28056,London (LGW),13:25,Ha salido,156.0,Airbus A319,M6
+798,,23/11/2025 15-34-22,easyJet Europe,EC1380,Geneva (GVA),13:40,Ha salido,180.0,Airbus A320,R10
+799,,23/11/2025 15-34-22,Ryanair,FR9811,London (STN),13:40,Ha salido,189.0,Boeing 737-800,W45
+800,,23/11/2025 15-34-22,Ryanair,FR483,Malaga (AGP),13:50,Ha salido,189.0,Boeing 737-800,R13
+801,,23/11/2025 15-34-22,Air Baltic,BT684,Riga (RIX),14:05,Ha salido,148.0,Airbus A220-300,S24
+802,,23/11/2025 15-34-22,easyJet Europe,EC7153,Milan (MXP),14:05,"Retrasado, Ha salido",156.0,Airbus A319,R12
+803,,23/11/2025 15-34-22,Ryanair,FR1342,Palma de Mallorca (PMI),14:05,"Retrasado, Ha salido",189.0,Boeing 737-800,S23
+804,,23/11/2025 15-34-22,Ryanair,FR6920,Dublin (DUB),14:05,"Retrasado, Ha salido",197.0,Boeing 737 MAX 8,W44
+805,,23/11/2025 15-34-22,Ryanair,FR4585,Porto (OPO),14:10,Ha salido,189.0,Boeing 737-800,U34
+806,,23/11/2025 15-34-22,SunExpress,XQ895,Izmir (ADB),14:15,"Retrasado, Ha salido",189.0,Boeing 737-800,Y58
+807,,23/11/2025 15-34-22,Transavia,HV5132,Amsterdam (AMS),14:20,"Retrasado, Ha salido",189.0,Boeing 737-800,U32
+808,,23/11/2025 15-34-22,easyJet Europe,EC7107,Geneva (GVA),14:25,Ha salido,156.0,Airbus A319,R11
+809,,23/11/2025 15-34-22,Norwegian Air Sweden AOC,D85502,Stockholm (ARN),14:40,"Retrasado, Programado",189.0,Boeing 737-800,S22
+810,,23/11/2025 15-34-22,Bluebird Airways,BZ251,Tel Aviv (TLV),14:45,Programado,180.0,Airbus A320,Y
+811,,23/11/2025 15-34-22,Ryanair,FR269,Milan (MXP),14:55,"Retrasado, Ha salido",189.0,Boeing 737-800,S25
+812,,23/11/2025 15-34-22,SmartWings,QS1059,Prague (PRG),14:55,Ha salido,189.0,Boeing 737-800,U35
+813,,23/11/2025 15-34-22,Ryanair,FR3320,Milan (BGY),15:00,Ha salido,189.0,Boeing 737-800,R14
+814,,23/11/2025 15-34-22,Ryanair,FR774,Torino (TRN),15:15,"En hora, Ha salido",189.0,Boeing 737-800,U33
+815,,23/11/2025 15-34-22,BUZZ,RR3072,Prague (PRG),15:15,"Retrasado, Ha salido 15:30",189.0,Boeing 737-800,S21
+816,,23/11/2025 15-34-22,Transavia,TO4755,Paris (ORY),15:15,"En hora, Ha salido",186.0,Airbus A320neo,U36
+817,,23/11/2025 15-34-22,easyJet Europe,EC7694,Lisbon (LIS),15:20,"Retrasado, Ha salido 15:25",180.0,Airbus A320,R10
+818,,23/11/2025 15-34-22,Ryanair,FR6973,Rome (FCO),15:30,"Retrasado, Ha salido 15:40",197.0,Boeing 737 MAX 8,S20
+819,,23/11/2025 15-34-22,Air Arabia Maroc,3O378,Tanger (TNG),15:35,"En hora, Ha salido",174.0,Airbus A320,Y55
+820,,23/11/2025 15-34-22,Wizz Air Malta,W46728,Venice (VCE),15:40,"En hora, Ha salido",239.0,Airbus A321neo,U34
+821,,23/11/2025 15-34-22,Ryanair,FR133,Berlin (BER),16:15,"En hora, Ha salido",189.0,Boeing 737-800,U31
+822,,23/11/2025 15-34-22,Ryanair,FR2922,Brussels (BRU),16:15,"En hora, Ha salido",189.0,Boeing 737-800,U32
+823,,23/11/2025 15-34-22,easyJet Europe,EC7173,Berlin (BER),16:30,"Retrasado, Ha salido 16:30",156.0,Airbus A319,R11
+824,,23/11/2025 15-34-22,Ryanair,FR9814,London (STN),16:40,"En hora, Ha salido",189.0,Boeing 737-800,W42
+825,,23/11/2025 15-34-22,Ryanair,FR8669,Dublin (DUB),16:55,"Retrasado, Ha salido 17:10",189.0,Boeing 737-800,W45
+826,,23/11/2025 15-34-22,Air Arabia Maroc,3O374,Casablanca (CMN),17:00,"En hora, Ha salido",174.0,Airbus A320,W46
+827,,23/11/2025 15-34-22,Ryanair,FR2250,Marrakech (RAK),17:00,"Retrasado, Ha salido 17:14",189.0,Boeing 737-800,Y55
+828,,23/11/2025 15-34-22,BUZZ,RR8394,Budapest (BUD),17:15,"Retrasado, Ha salido 17:20",197.0,Boeing 737 MAX 8,S21
+829,,23/11/2025 15-34-22,Ryanair,FR5718,Bratislava (BTS),17:20,"Retrasado, Ha salido 17:32",189.0,Boeing 737-800,S22
+830,,23/11/2025 15-34-22,Ryanair,FR12,Vienna (VIE),17:40,"Retrasado, Ha salido 17:31",189.0,Boeing 737-800,U34
+831,,23/11/2025 15-34-22,Volotea,V73573,Asturias (OVD),17:40,"En hora, Ha salido",156.0,Airbus A319,S25
+832,,23/11/2025 15-34-22,BUZZ,RR5252,Krakow (KRK),17:50,"En hora, Ha salido",189.0,Boeing 737-800,R9
+833,,23/11/2025 15-34-22,Ryanair,FR1681,Frankfurt-Hahn (HHN),18:00,"Retrasado, Ha salido 21:04",189.0,Boeing 737-800,R10
+834,,23/11/2025 15-34-22,Ryanair,FR777,Venice (VCE),18:00,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U37
+835,,23/11/2025 15-34-22,Ryanair,FR6305,Milan (BGY),18:05,"En hora, Ha salido",189.0,Boeing 737-800,S20
+836,,23/11/2025 15-34-22,easyJet Europe,EC7109,Geneva (GVA),18:15,"En hora, Ha salido",156.0,Airbus A319,R15
+837,,23/11/2025 15-34-22,Volotea,V73700,Vitoria (VIT),18:20,"En hora, Ha salido",180.0,Airbus A320,S24
+838,,23/11/2025 15-34-22,Ryanair,FR2406,Sevilla (SVQ),18:30,"En hora, Ha salido",189.0,Boeing 737-800,S26
+839,,23/11/2025 15-34-22,Wizz Air Malta,W43686,Iasi (IAS),18:30,"En hora, Ha salido",180.0,Airbus A320,S23
+840,,23/11/2025 15-34-22,Jet2,LS804,Manchester (MAN),18:35,"En hora, Ha salido",189.0,Boeing 737-800,Y54
+841,,23/11/2025 15-34-22,easyJet Europe,EC7103,"Basel, Switzerland/Mulhouse (BSL)",18:45,"Retrasado, Ha salido 19:32",156.0,Airbus A319,R11
+842,,23/11/2025 15-34-22,Ryanair,FR8631,Tanger (TNG),18:45,"Retrasado, Ha salido 18:58",189.0,Boeing 737-800,W42
+843,,23/11/2025 15-34-22,Transavia,HV6066,Rotterdam (RTM),18:50,"Retrasado, Ha salido 19:20",189.0,Boeing 737-800,U31
+844,,23/11/2025 15-34-22,Easyjet,U25716,Southend (SEN),18:55,"En hora, Ha salido",186.0,Airbus A320neo,M6
+845,,23/11/2025 15-34-22,Wizz Air,W61176,Katowice (KTW),18:55,"Retrasado, Ha salido 19:14",180.0,Airbus A320,U32
+846,,23/11/2025 15-34-22,Wizz Air,W61478,Warsaw (WAW),19:00,"En hora, Ha salido",239.0,Airbus A321neo,U33
+847,,23/11/2025 15-34-22,easyJet Europe,EC7159,Milan (LIN),19:05,"Retrasado, Ha salido 19:50",156.0,Airbus A319,R12
+848,,23/11/2025 15-34-22,Wizz Air Malta,W43180,Bucharest (OTP),19:05,"En hora, Ha salido",230.0,Airbus A321,U35
+849,,23/11/2025 15-34-22,Ryanair,FR6394,Dublin (DUB),19:10,"En hora, Ha salido",197.0,Boeing 737 MAX 8,Y57
+850,,23/11/2025 15-34-22,Ryanair,FR3160,Bristol (BRS),19:25,"En hora, Ha salido",189.0,Boeing 737-800,Y58
+851,,23/11/2025 15-34-22,Volotea,V72165,Nantes/Atlantique (NTE),19:30,"En hora, Ha salido",156.0,Airbus A319,S25
+852,,23/11/2025 15-34-22,Eurowings,EW9443,Dusseldorf (DUS),19:35,"En hora, Ha salido",150.0,Airbus A319,U34
+853,,23/11/2025 15-34-22,Wizz Air,W64406,Sofia (SOF),19:35,"En hora, Ha salido",239.0,Airbus A321neo,U36
+854,,23/11/2025 15-34-22,Ryanair,FR2233,Al Aaroui (NDR),19:40,"En hora, Ha salido",189.0,Boeing 737-800,W
+855,,23/11/2025 15-34-22,easyJet Europe,EC3750,Milan (MXP),19:45,"Retrasado, Ha salido 20:25",180.0,Airbus A320,R13
+856,,23/11/2025 15-34-22,Ryanair,FR5710,Napoli (NAP),19:45,"Retrasado, Ha salido 20:23",189.0,Boeing 737-800,R10
+857,,23/11/2025 15-34-22,Ryanair,FR9015,London (STN),19:45,"Retrasado, Ha salido 20:05",189.0,Boeing 737-800,W49
+858,,23/11/2025 15-34-22,Easyjet,U28058,London (LGW),19:45,"En hora, Ha salido",156.0,Airbus A319,M8
+859,,23/11/2025 15-34-22,Jet2,LS1338,Birmingham (BHX),19:55,"Retrasado, Programado 01:15",232.0,Airbus A321neo,W46
+860,,23/11/2025 15-34-22,Wizz Air,W64666,Larnaca (LCA),19:55,"Retrasado, Ha salido 20:27",230.0,Airbus A321,W45
+861,,23/11/2025 15-34-22,Ryanair,FR8136,Ibiza (IBZ),20:10,"Retrasado, Ha salido 21:08",189.0,Boeing 737-800,S20
+862,,23/11/2025 15-34-22,Wizz Air,W62096,Krakow (KRK),20:10,"Retrasado, Programado 01:44",239.0,Airbus A321neo,
+863,,23/11/2025 15-34-22,easyJet Europe,EC4212,Napoli (NAP),20:20,"En hora, Ha salido",180.0,Airbus A320,R12
+864,,23/11/2025 15-34-22,Transavia,HV6788,Eindhoven (EIN),20:20,"Retrasado, Ha salido 20:35",189.0,Boeing 737-800,S22
+865,,23/11/2025 15-34-22,Wizz Air,W67022,Bratislava (BTS),20:20,"En hora, Ha salido",239.0,Airbus A321neo,S24
+866,,23/11/2025 15-34-22,Ryanair,FR6985,Rome (FCO),20:30,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U35
+867,,23/11/2025 15-34-22,Air Serbia,JU585,Belgrade (BEG),20:35,"En hora, Ha salido",144.0,Airbus A319,Y55
+868,,23/11/2025 15-34-22,Norwegian Air Sweden AOC,D83659,Copenhagen (CPH),20:40,"En hora, Ha salido",197.0,Boeing 737 MAX 8,S21
+869,,23/11/2025 15-34-22,Eurowings,EW2521,Stuttgart (STR),20:40,"Retrasado, Ha salido 21:03",186.0,Airbus A320neo,U31
+870,,23/11/2025 15-34-22,Ryanair,FR4587,Porto (OPO),20:40,"En hora, Ha salido",189.0,Boeing 737-800,R11
+871,,23/11/2025 15-34-22,Luxair,LG3596,Luxembourg (LUX),20:40,"Retrasado, Ha salido 21:51",189.0,Boeing 737-800,R10
+872,,23/11/2025 15-34-22,Transavia,TO4759,Paris (ORY),20:45,"En hora, Ha salido",186.0,Airbus A320neo,U32
+873,,23/11/2025 15-34-22,Wizz Air,W62378,Budapest (BUD),20:45,"Retrasado, Ha salido 20:57",239.0,Airbus A321neo,S25
+874,,23/11/2025 15-34-22,Ryanair,FR6275,Edinburgh (EDI),20:50,"En hora, Ha salido",189.0,Boeing 737-800,W42
+875,,23/11/2025 15-34-22,Transavia,HV5134,Amsterdam (AMS),20:50,"Retrasado, Ha salido 21:02",189.0,Boeing 737-800,U34
+876,,23/11/2025 15-34-22,BUZZ,RR6944,Warsaw (WMI),20:50,"Retrasado, Ha salido 21:40",189.0,Boeing 737-800,S22
+877,,23/11/2025 15-34-22,Easyjet,U22326,London (LTN),20:55,"En hora, Ha salido",186.0,Airbus A320neo,M6
+878,,23/11/2025 15-34-22,Wizz Air,W64738,Skopje (SKP),20:55,"En hora, Ha salido",239.0,Airbus A321neo,Y54
+879,,23/11/2025 15-34-22,BUZZ,RR8615,Budapest (BUD),21:00,"Retrasado, Ha salido 21:15",189.0,Boeing 737-800,U36
+880,,23/11/2025 15-34-22,Aer Lingus,EI565,Dublin (DUB),21:05,"Retrasado, Ha salido 21:15",174.0,Airbus A320,W44
+881,,23/11/2025 15-34-22,Ryanair,FR2896,Palma de Mallorca (PMI),21:15,"Retrasado, Ha salido 22:01",189.0,Boeing 737-800,R14
+882,,23/11/2025 15-34-22,Ryanair,FR3792,Birmingham (BHX),21:20,"Retrasado, Ha salido 22:06",189.0,Boeing 737-800,Y57
+883,,23/11/2025 15-34-22,Wizz Air Malta,W43178,Bucharest (BBU),21:20,"En hora, Ha salido",230.0,Airbus A321,U33
+884,,23/11/2025 15-34-22,Wizz Air Malta,W43406,Cluj-Napoca (CLJ),21:25,"En hora, Ha salido",180.0,Airbus A320,S24
+885,,23/11/2025 15-34-22,Easyjet,U28060,London (LGW),21:30,"En hora, Ha salido",156.0,Airbus A319,M8
+886,,23/11/2025 15-34-22,Wizz Air Malta,W46020,Rome (FCO),21:35,"Retrasado, Ha salido 22:14",239.0,Airbus A321neo,S21
+887,,23/11/2025 15-34-22,Ryanair,FR5752,Valletta (MLA),21:45,"Retrasado, Ha salido 22:20",197.0,Boeing 737 MAX 8,S20
+888,,23/11/2025 15-34-22,Easyjet,U22706,Bristol (BRS),21:50,"En hora, Ha salido",186.0,Airbus A320neo,M6
+889,,23/11/2025 15-34-22,Volotea,V71415,Verona (VRN),21:55,"Retrasado, Ha salido 22:21",180.0,Airbus A320,S23
+890,,23/11/2025 15-34-22,Wizz Air,W64116,Belgrade (BEG),21:55,"Retrasado, Ha salido 22:11",230.0,Airbus A321,W45
+891,,23/11/2025 15-34-22,Wizz Air Malta,W45154,Tirana (TIA),22:45,"En hora, Programado",,,W42
+892,,23/11/2025 15-34-22,Ryanair,FR5220,Bologna (BLQ),22:50,"En hora, Programado",189.0,Boeing 737-800,R13
+893,,23/11/2025 15-34-22,Wizz Air,W61706,Gdansk (GDN),22:50,"En hora, Ha salido",239.0,Airbus A321neo,U31
+894,,23/11/2025 15-34-22,Ryanair,FR9406,Fes (FEZ),23:15,"En hora, Ha salido",189.0,Boeing 737-800,W44
+895,,24/Nov/2025,Ryanair,FR3180,Rome (FCO),06:00,"En hora, Ha salido",189.0,Boeing 737-800,U36
+896,,24/Nov/2025,Ryanair,FR846,Milan (BGY),06:10,"En hora, Ha salido",189.0,Boeing 737-800,S21
+897,,24/Nov/2025,easyJet Europe,EC7105,Geneva (GVA),06:15,"En hora, Ha salido",156.0,Airbus A319,R11
+898,,24/Nov/2025,Ryanair,FR2233,Al Aaroui (NDR),06:20,"En hora, Ha salido",189.0,Boeing 737-800,W44
+899,,24/Nov/2025,Ryanair,FR8384,Budapest (BUD),06:25,"En hora, Ha salido",197.0,Boeing 737 MAX 8,S24
+900,,24/Nov/2025,Ryanair,FR3078,Lisbon (LIS),06:30,"En hora, Ha salido",189.0,Boeing 737-800,U35
+901,,24/Nov/2025,easyJet Europe,EC8062,London (LGW),06:45,"En hora, Ha salido",156.0,Airbus A319,M8
+902,,24/Nov/2025,Ryanair,FR3035,Krakow (KRK),06:45,"Retrasado, Ha salido 07:00",189.0,Boeing 737-800,U32
+903,,24/Nov/2025,Ryanair,FR8215,London (STN),06:45,"En hora, Ha salido",197.0,Boeing 737 MAX 8,Y55
+904,,24/Nov/2025,easyJet Europe,EC7141,Strasbourg (SXB),07:20,"En hora, Ha salido",156.0,Airbus A319,R10
+905,,24/Nov/2025,easyJet Europe,EC7151,Milan (MXP),07:20,"En hora, Ha salido",156.0,Airbus A319,R12
+906,,24/Nov/2025,Ryanair,FR3028,Ibiza (IBZ),07:35,"En hora, Ha salido",189.0,Boeing 737-800,U34
+907,,24/Nov/2025,Lauda Europe,LW1342,Palma de Mallorca (PMI),07:40,"En hora, Ha salido",180.0,Airbus A320,R14
+908,,24/Nov/2025,Ryanair,FR1165,Sevilla (SVQ),07:55,"En hora, Ha salido",189.0,Boeing 737-800,S20
+909,,24/Nov/2025,Norwegian Air Sweden AOC,D85510,Copenhagen (CPH),08:00,"En hora, Ha salido",189.0,Boeing 737-800,U33
+910,,24/Nov/2025,Ryanair,FR58,Napoli (NAP),08:35,"Retrasado, Ha salido 09:28",197.0,Boeing 737 MAX 8,U36
+911,,24/Nov/2025,Ryanair,FR575,Bologna (BLQ),08:40,"En hora, Ha salido",189.0,Boeing 737-800,U41
+912,,24/Nov/2025,easyJet Europe,EC1376,Geneva (GVA),08:45,"Retrasado, Ha salido 08:55",156.0,Airbus A319,R9
+913,,24/Nov/2025,Lauda Europe,LW12,Vienna (VIE),09:00,"Retrasado, Ha salido 11:03",180.0,Airbus A320,S21
+914,,24/Nov/2025,Ryanair,FR6078,Ouarzazate (OZZ),09:05,"En hora, Ha salido",189.0,Boeing 737-800,W45
+915,,24/Nov/2025,Wizz Air,W62048,Krakow (KRK),09:05,"Retrasado, Ha salido 09:24",239.0,Airbus A321neo,S21
+916,,24/Nov/2025,Volotea,V72327,Strasbourg (SXB),09:10,"Retrasado, Ha salido 09:20",180.0,Airbus A320,S22
+917,,24/Nov/2025,Air Arabia Maroc,3O398,Rabat (RBA),09:20,"En hora, Ha salido",174.0,Airbus A320,Y54
+918,,24/Nov/2025,Eurowings,EW2521,Stuttgart (STR),09:20,"Retrasado, Ha salido 09:36",156.0,Airbus A319,S20
+919,,24/Nov/2025,Wizz Air Malta,W43176,Bucharest (OTP),09:25,"En hora, Ha salido",230.0,Airbus A321,U38
+920,,24/Nov/2025,Wizz Air Malta,W45088,Tirana (TIA),09:25,"En hora, Ha salido",239.0,Airbus A321neo,W46
+921,,24/Nov/2025,Wizz Air,W62376,Budapest (BUD),09:25,"Retrasado, Ha salido 09:45",239.0,Airbus A321neo,S25
+922,,24/Nov/2025,Volotea,V73573,Asturias (OVD),09:30,"En hora, Ha salido",156.0,Airbus A319,U32
+923,,24/Nov/2025,easyJet Europe,EC1030,"Basel, Switzerland/Mulhouse (BSL)",09:35,"En hora, Ha salido",180.0,Airbus A320,R11
+924,,24/Nov/2025,Ryanair,FR2834,Charleroi (CRL),09:40,"En hora, Ha salido",189.0,Boeing 737-800,R13
+925,,24/Nov/2025,Transavia,HV6062,Rotterdam (RTM),09:40,"En hora, Ha salido",189.0,Boeing 737-800,U31
+926,,24/Nov/2025,Eurowings,EW9441,Dusseldorf (DUS),09:45,"Retrasado, Ha salido 09:59",180.0,Airbus A320,U34
+927,,24/Nov/2025,Ryanair,FR2495,Palma de Mallorca (PMI),09:45,"En hora, Ha salido",189.0,Boeing 737-800,R14
+928,,24/Nov/2025,Ryanair,FR4545,Porto (OPO),09:50,"En hora, Ha salido",189.0,Boeing 737-800,R12
+929,,24/Nov/2025,Air Serbia,JU581,Belgrade (BEG),09:55,"Retrasado, Ha salido 10:48",144.0,Airbus A319,Y55
+930,,24/Nov/2025,easyJet Europe,EC7656,Lisbon (LIS),10:00,"Retrasado, Ha salido 10:17",230.0,Airbus A321,R10
+931,,24/Nov/2025,Transavia,HV5132,Amsterdam (AMS),10:05,"Retrasado, Ha salido 10:20",189.0,Boeing 737-800,U33
+932,,24/Nov/2025,Wizz Air Malta,W46018,Rome (FCO),10:05,"En hora, Ha salido",239.0,Airbus A321neo,U35
+933,,24/Nov/2025,Ryanair,FR6559,Liverpool (LPL),10:15,"En hora, Ha salido",189.0,Boeing 737-800,W42
+934,,24/Nov/2025,Wizz Air,W61476,Warsaw (WAW),10:15,"Retrasado, Ha salido 10:38",239.0,Airbus A321neo,U
+935,,24/Nov/2025,Ryanair,FR3143,Milan (BGY),10:20,"En hora, Ha salido",189.0,Boeing 737-800,S23
+936,,24/Nov/2025,Easyjet,U22324,London (LTN),10:25,"En hora, Ha salido",186.0,Airbus A320neo,M6
+937,,24/Nov/2025,Ryanair,FR7808,London (LTN),10:35,"En hora, Ha salido",197.0,Boeing 737 MAX 8,W44
+938,,24/Nov/2025,easyJet Europe,EC7131,Nice/Cote D'Azur (NCE),10:40,"En hora, Ha salido",156.0,Airbus A319,R11
+939,,24/Nov/2025,Easyjet,U28056,London (LGW),10:40,"En hora, Ha salido",180.0,Airbus A320,M8
+940,,24/Nov/2025,Ryanair,FR2239,Marrakech (RAK),10:45,"En hora, Ha salido",189.0,Boeing 737-800,W45
+941,,24/Nov/2025,Ryanair,FR3121,Beauvais (BVA),10:45,"Retrasado, Ha salido 11:17",189.0,Boeing 737-800,S25
+942,,24/Nov/2025,Ryanair,FR3976,Dublin (DUB),10:45,"En hora, Ha salido",189.0,Boeing 737-800,Y57
+943,,24/Nov/2025,Ryanair,FR3039,Prague (PRG),10:55,"En hora, Ha salido",189.0,Boeing 737-800,U31
+944,,24/Nov/2025,Ryanair,FR9045,London (STN),11:00,"En hora, Ha salido",189.0,Boeing 737-800,Y58
+945,,24/Nov/2025,Easyjet,U22002,Manchester (MAN),11:20,"En hora, Ha salido",180.0,Airbus A320,M6
+946,,24/Nov/2025,Aer Lingus,EI563,Dublin (DUB),11:30,"En hora, Ha salido",174.0,Airbus A320,W46
+947,,24/Nov/2025,Ryanair,FR7539,Milan (MXP),11:30,"En hora, Ha salido",189.0,Boeing 737-800,U32
+948,,24/Nov/2025,Transavia,TO4755,Paris (ORY),11:30,"En hora, Ha salido",189.0,Boeing 737-800,S20
+949,,24/Nov/2025,Ryanair,FR1279,Copenhagen (CPH),11:35,"Retrasado, Ha salido 11:47",189.0,Boeing 737-800,S22
+950,,24/Nov/2025,easyJet Europe,EC7197,Birmingham (BHX),11:40,"En hora, Ha salido",156.0,Airbus A319,M8
+951,,24/Nov/2025,Ryanair,FR777,Venice (VCE),11:55,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U35
+952,,24/Nov/2025,Ryanair,FR8217,London (STN),12:00,"En hora, Ha salido",189.0,Boeing 737-800,Y54
+953,,24/Nov/2025,Jet2,LS232,Leeds Bradford (LBA),12:00,"En hora, Ha salido",189.0,Boeing 737-800,W44
+954,,24/Nov/2025,Ryanair,FR3129,Ibiza (IBZ),12:35,"En hora, Ha salido",189.0,Boeing 737-800,S25
+955,,24/Nov/2025,Ryanair,FR6973,Rome (FCO),12:35,"Retrasado, Ha salido 13:11",197.0,Boeing 737 MAX 8,S20
+956,,24/Nov/2025,Ryanair,FR774,Torino (TRN),12:40,"En hora, Ha salido",189.0,Boeing 737-800,U32
+957,,24/Nov/2025,Pegasus Airlines,PC1092,Istanbul (SAW),12:45,"Retrasado, Ha salido 13:19",180.0,Airbus A320,W46
+958,,24/Nov/2025,Norwegian Air Sweden AOC,D83657,Copenhagen (CPH),12:50,"En hora, Ha salido",189.0,Boeing 737-800,S21
+959,,24/Nov/2025,easyJet Europe,EC7137,Lyon (LYS),12:55,"En hora, Ha salido",156.0,Airbus A319,R12
+960,,24/Nov/2025,Wizz Air,W67022,Bratislava (BTS),12:55,"En hora, Ha salido",239.0,Airbus A321neo,S22
+961,,24/Nov/2025,Ryanair,FR3108,Luxembourg (LUX),13:00,"Retrasado, Ha salido 13:11",197.0,Boeing 737 MAX 8,U31
+962,,24/Nov/2025,Wizz Air Malta,W46330,Milan (MXP),13:10,"Retrasado, Ha salido 14:01",239.0,Airbus A321neo,S23
+963,,24/Nov/2025,Ryanair,FR8631,Tanger (TNG),13:20,"Retrasado, Ha salido 13:45",189.0,Boeing 737-800,Y58
+964,,24/Nov/2025,HiSky,H4264,Bucharest (OTP),13:20,"En hora, Ha salido",186.0,Airbus A320,U36
+965,,24/Nov/2025,Norwegian Air Sweden AOC,D81741,Oslo (OSL),13:25,"En hora, Ha salido",189.0,Boeing 737-800,U34
+966,,24/Nov/2025,Eurowings,EW521,Cologne-Bonn (CGN),13:25,"En hora, Ha salido",180.0,Airbus A320,S24
+967,,24/Nov/2025,Pegasus Airlines,PC1528,Izmir (ADB),13:30,"Retrasado, Programado 14:30",180.0,Airbus A320,W46
+968,,24/Nov/2025,Luxair,LG3592,Luxembourg (LUX),13:35,"Retrasado, Ha salido 13:59",76.0,de Havilland Dash 8-400,U41
+969,,24/Nov/2025,easyJet Europe,EC7153,Milan (MXP),13:40,"Retrasado, Programado 14:09",156.0,Airbus A319,R10
+970,,24/Nov/2025,Ryanair,FR4585,Porto (OPO),13:40,"Retrasado, Ha salido 13:51",189.0,Boeing 737-800,U33
+971,,24/Nov/2025,Turkish Airlines,TK608,Ankara (ESB),13:40,"Retrasado, Programado 14:05",165.0,Boeing 737-800,Y55
+972,,24/Nov/2025,Ryanair,FR3189,Fes (FEZ),13:50,"En hora, Ha salido",189.0,Boeing 737-800,W42
+973,,24/Nov/2025,Jet2,LS804,Manchester (MAN),13:50,"En hora, Programado",189.0,Boeing 737-800,W44
+974,,24/Nov/2025,Ryanair,FR3792,Birmingham (BHX),13:55,"En hora, Programado",189.0,Boeing 737-800,W45
+975,,24/Nov/2025,Air Baltic,BT684,Riga (RIX),14:05,"Retrasado, Programado 14:30",148.0,Airbus A220-300,S25
+976,,24/Nov/2025,Ryanair,FR2889,Palma de Mallorca (PMI),14:05,"En hora, Programado",189.0,Boeing 737-800,S21
+977,,24/Nov/2025,Norwegian Air Sweden AOC,D85502,Stockholm (ARN),14:40,"En hora, Programado",189.0,Boeing 737-800,U37
+978,,24/Nov/2025,Bluebird Airways,BZ251,Tel Aviv (TLV),14:45,"En hora, Programado",189.0,Boeing 737-800,Y59
+979,,24/Nov/2025,easyJet Europe,EC7107,Geneva (GVA),14:45,"Retrasado, Programado 15:10",156.0,Airbus A319,R12
+980,,24/Nov/2025,Volotea,V71443,Ancona (AOI),14:45,"En hora, Programado",180.0,Airbus A320,U31
+981,,24/Nov/2025,Wizz Air,W64406,Sofia (SOF),14:50,"Retrasado, Programado 15:00",180.0,Airbus A320,U
+982,,24/Nov/2025,easyJet Europe,EC4212,Napoli (NAP),14:55,"Retrasado, Programado 15:20",180.0,Airbus A320,R
+983,,24/Nov/2025,SmartWings,QS1059,Prague (PRG),14:55,"En hora, Programado",189.0,Boeing 737-800,U
+984,,24/Nov/2025,Air Arabia Maroc,3O376,Al Aaroui (NDR),15:00,"En hora, Ha salido",174.0,Airbus A320,Y63
+985,,24/Nov/2025,Ryanair,FR3146,Oujda (OUD),15:10,"En hora, Ha salido",189.0,Boeing 737-800,W42
+986,,24/Nov/2025,Ryanair,FR1681,Frankfurt-Hahn (HHN),15:35,"En hora, Ha salido",189.0,Boeing 737-800,S23
+987,,24/Nov/2025,Wizz Air Malta,W46728,Venice (VCE),15:40,"Retrasado, Ha salido 16:08",239.0,Airbus A321neo,U33
+988,,24/Nov/2025,Pegasus Airlines,PC1094,Istanbul (SAW),15:45,"Retrasado, Ha salido 16:19",230.0,Airbus A321,W46
+989,,24/Nov/2025,Ryanair,FR867,Venice (VCE),16:05,"En hora, Ha salido",189.0,Boeing 737-800,U34
+990,,24/Nov/2025,Ryanair,FR9811,London (STN),16:05,"En hora, Ha salido",189.0,Boeing 737-800,W44
+991,,24/Nov/2025,Wizz Air Malta,W43564,Timisoara (TSR),16:25,"En hora, Ha salido",180.0,Airbus A320,U36
+992,,24/Nov/2025,Volotea,V73735,Murcia (RMU),16:35,"En hora, Ha salido",180.0,Airbus A320,S20
+993,,24/Nov/2025,Ryanair,FR2507,Cologne-Bonn (CGN),16:45,"Retrasado, Ha salido 17:02",197.0,Boeing 737 MAX 8,U31
+994,,24/Nov/2025,Ryanair,FR5718,Bratislava (BTS),16:50,"En hora, Ha salido",189.0,Boeing 737-800,S24
+995,,24/Nov/2025,Ryanair,FR6305,Milan (BGY),16:50,"Retrasado, Ha salido 17:07",189.0,Boeing 737-800,U33
+996,,24/Nov/2025,BUZZ,RR6874,Dublin (DUB),16:55,"En hora, Ha salido",189.0,Boeing 737-800,W45
+997,,24/Nov/2025,Easyjet,U23372,Liverpool (LPL),17:00,"En hora, Ha salido",156.0,Airbus A319,M6
+998,,24/Nov/2025,Ryanair,FR5270,Manchester (MAN),17:05,"En hora, Ha salido",189.0,Boeing 737-800,Y57
+999,,24/Nov/2025,BUZZ,RR6300,Sofia (SOF),17:05,"Retrasado, Ha salido 17:15",189.0,Boeing 737-800,S25
+1000,,24/Nov/2025,easyJet Europe,EC7173,Berlin (BER),17:10,"En hora, Ha salido",156.0,Airbus A319,R10
+1001,,24/Nov/2025,Volotea,V73700,Vitoria (VIT),17:15,"En hora, Ha salido",156.0,Airbus A319,S21
+1002,,24/Nov/2025,Wizz Air,W67920,Kopitnari (KUT),17:15,"En hora, Ha salido",239.0,Airbus A321neo,W44
+1003,,24/Nov/2025,Ryanair,FR1786,Vilnius (VNO),17:30,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U32
+1004,,24/Nov/2025,Ryanair,FR2922,Brussels (BRU),17:30,"En hora, Ha salido",189.0,Boeing 737-800,U35
+1005,,24/Nov/2025,easyJet Europe,EC3737,Milan (MXP),17:35,"En hora, Programado",180.0,Airbus A320,R
+1006,,24/Nov/2025,easyJet Europe,EC7199,Edinburgh (EDI),17:35,"En hora, Ha salido",156.0,Airbus A319,M8
+1007,,24/Nov/2025,Transavia,HV5134,Amsterdam (AMS),17:50,"En hora, Ha salido",239.0,Airbus A321neo,U34
+1008,,24/Nov/2025,BUZZ,RR333,Gdansk (GDN),17:55,"Retrasado, Ha salido 18:11",189.0,Boeing 737-800,S20
+1009,,24/Nov/2025,Ryanair,FR269,Milan (MXP),18:00,"En hora, Ha salido",189.0,Boeing 737-800,U31
+1010,,24/Nov/2025,easyJet Europe,EC7205,Southampton (SOU),18:05,"En hora, Ha salido",156.0,Airbus A319,M3
+1011,,24/Nov/2025,Ryanair,FR3320,Milan (BGY),18:30,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U33
+1012,,24/Nov/2025,Wizz Air Malta,W43686,Iasi (IAS),18:30,"En hora, Ha salido",180.0,Airbus A320,S23
+1013,,24/Nov/2025,Ryanair,FR3174,Ibiza (IBZ),18:45,"En hora, Ha salido",189.0,Boeing 737-800,S22
+1014,,24/Nov/2025,Wizz Air,W61478,Warsaw (WAW),19:00,"Retrasado, Ha salido 19:37",239.0,Airbus A321neo,S25
+1015,,24/Nov/2025,Ryanair,FR3185,Rabat (RBA),19:05,"Retrasado, Ha salido 19:18",189.0,Boeing 737-800,Y55
+1016,,24/Nov/2025,Ryanair,FR9307,Cork (ORK),19:15,"En hora, Ha salido",189.0,Boeing 737-800,W49
+1017,,24/Nov/2025,Ryanair,FR8231,London (STN),19:25,"En hora, Ha salido",189.0,Boeing 737-800,Y57
+1018,,24/Nov/2025,Eurowings,EW7521,Hamburg (HAM),19:40,"En hora, Ha salido",230.0,Airbus A321,U31
+1019,,24/Nov/2025,Lauda Europe,LW2896,Palma de Mallorca (PMI),19:40,"Retrasado, Ha salido 20:09",180.0,Airbus A320,R14
+1020,,24/Nov/2025,Wizz Air,W61706,Gdansk (GDN),19:40,"Retrasado, Ha salido 19:55",230.0,Airbus A321,U32
+1021,,24/Nov/2025,Ryanair,FR133,Berlin (BER),19:45,"En hora, Ha salido",189.0,Boeing 737-800,R12
+1022,,24/Nov/2025,Lauda Europe,LW7351,Vienna (VIE),19:45,"Retrasado, Ha salido 20:05",180.0,Airbus A320,S22
+1023,,24/Nov/2025,Easyjet,U28058,London (LGW),19:45,"En hora, Ha salido",156.0,Airbus A319,M6
+1024,,24/Nov/2025,Volotea,V71415,Verona (VRN),19:55,"En hora, Ha salido",180.0,Airbus A320,U33
+1025,,24/Nov/2025,Wizz Air,W64666,Larnaca (LCA),19:55,"En hora, Ha salido",230.0,Airbus A321,W45
+1026,,24/Nov/2025,Ryanair,FR3080,Malaga (AGP),20:00,"En hora, Ha salido",189.0,Boeing 737-800,S24
+1027,,24/Nov/2025,Air Arabia Maroc,3O378,Tanger (TNG),20:05,"En hora, Ha salido",174.0,Airbus A320,Y54
+1028,,24/Nov/2025,Ryanair,FR3807,Charleroi (CRL),20:05,"Retrasado, Ha salido 20:39",197.0,Boeing 737 MAX 8,U36
+1029,,24/Nov/2025,Ryanair,FR6341,Rome (FCO),20:10,"En hora, Ha salido",189.0,Boeing 737-800,U34
+1030,,24/Nov/2025,Ryanair,FR6597,Manchester (MAN),20:10,"En hora, Ha salido",189.0,Boeing 737-800,Y58
+1031,,24/Nov/2025,easyJet Europe,EC1956,Milan (LIN),20:15,"Retrasado, Ha salido 20:31",180.0,Airbus A320,R10
+1032,,24/Nov/2025,Wizz Air Malta,W42940,Vienna (VIE),20:20,"En hora, Ha salido",239.0,Airbus A321neo,S23
+1033,,24/Nov/2025,easyJet Europe,EC1010,"Basel, Switzerland/Mulhouse (BSL)",20:30,"En hora, Ha salido",156.0,Airbus A319,R13
+1034,,24/Nov/2025,T'Way Air,TW408,Seoul/Incheon (ICN),20:30,"Retrasado, Ha salido 21:33",246.0,Airbus A330-200,W44
+1035,,24/Nov/2025,Volotea,V72135,Bordeaux (BOD),20:30,"En hora, Ha salido",180.0,Airbus A320,U35
+1036,,24/Nov/2025,Ryanair,FR5710,Napoli (NAP),20:40,"Retrasado, Ha salido 21:12",189.0,Boeing 737-800,U31
+1037,,24/Nov/2025,BUZZ,RR8394,Budapest (BUD),20:40,"Retrasado, Ha salido 21:25",197.0,Boeing 737 MAX 8,U34
+1038,,24/Nov/2025,Transavia,TO4759,Paris (ORY),20:45,"En hora, Ha salido",186.0,Airbus A320neo,S20
+1039,,24/Nov/2025,Wizz Air,W62378,Budapest (BUD),20:45,"Retrasado, Ha salido 21:10",239.0,Airbus A321neo,S21
+1040,,24/Nov/2025,Ryanair,FR2098,Bologna (BLQ),20:50,"Retrasado, Ha salido 21:43",189.0,Boeing 737-800,R14
+1041,,24/Nov/2025,Ryanair,FR3928,Trieste (TRS),20:50,"En hora, Ha salido",189.0,Boeing 737-800,U32
+1042,,24/Nov/2025,Volotea,V72165,Nantes/Atlantique (NTE),20:50,"Retrasado, Ha salido 21:24",156.0,Airbus A319,S25
+1043,,24/Nov/2025,Ryanair,FR878,Venice (VCE),20:55,"Retrasado, Ha salido 21:16",189.0,Boeing 737-800,U33
+1044,,24/Nov/2025,Aer Lingus,EI565,Dublin (DUB),21:05,"En hora, Ha salido",174.0,Airbus A320,W46
+1045,,24/Nov/2025,Ryanair,FR6275,Edinburgh (EDI),21:05,"Retrasado, Ha salido 21:25",197.0,Boeing 737 MAX 8,Y55
+1046,,24/Nov/2025,Ryanair,FR6920,Dublin (DUB),21:10,"Retrasado, Ha salido 21:54",189.0,Boeing 737-800,W42
+1047,,24/Nov/2025,easyJet Europe,EC1380,Geneva (GVA),21:20,"Retrasado, Ha salido 21:32",180.0,Airbus A320,R12
+1048,,24/Nov/2025,Wizz Air Malta,W43178,Bucharest (BBU),21:20,"Retrasado, Ha salido 21:31",239.0,Airbus A321neo,S22
+1049,,24/Nov/2025,Wizz Air Malta,W43406,Cluj-Napoca (CLJ),21:25,"Retrasado, Ha salido 21:55",186.0,Airbus A320neo,S24
+1050,,24/Nov/2025,Ryanair,FR2402,Sevilla (SVQ),21:30,"Retrasado, Ha salido 22:10",189.0,Boeing 737-800,R9
+1051,,24/Nov/2025,BUZZ,RR4084,Warsaw (WMI),21:30,"Retrasado, Ha salido 21:53",189.0,Boeing 737-800,U36
+1052,,24/Nov/2025,Wizz Air Malta,W46020,Rome (FCO),21:35,"Retrasado, Ha salido 22:49",239.0,Airbus A321neo,S23
+1053,,24/Nov/2025,Ryanair,FR3168,Newcastle (NCL),21:45,"En hora, Ha salido",189.0,Boeing 737-800,Y54
+1054,,24/Nov/2025,Ryanair,FR4587,Porto (OPO),21:45,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U35
+1055,,24/Nov/2025,Ryanair,FR1527,Valletta (MLA),21:50,"Retrasado, Ha salido 22:07",197.0,Boeing 737 MAX 8,S21
+1056,,24/Nov/2025,Ryanair,FR2250,Marrakech (RAK),21:50,"Retrasado, Ha salido 22:00",189.0,Boeing 737-800,Y58
+1057,,24/Nov/2025,Easyjet,U22706,Bristol (BRS),21:55,"En hora, Ha salido",186.0,Airbus A320neo,M6
+1058,,24/Nov/2025,Wizz Air,W64116,Belgrade (BEG),21:55,"Retrasado, Ha salido 22:10",230.0,Airbus A321,W45
+1059,,24/Nov/2025,Ryanair,FR8574,Rome (FCO),22:20,"En hora, Ha salido",189.0,Boeing 737-800,U32
+1060,,24/Nov/2025,Wizz Air Malta,W45154,Tirana (TIA),22:45,"En hora, Programado",239.0,Airbus A321neo,W44
+1061,,25/Nov/2025,easyJet Europe,EC7105,Geneva (GVA),06:00,"En hora, Ha salido",156.0,Airbus A319,R11
+1062,,25/Nov/2025,Ryanair,FR3189,Fes (FEZ),06:15,"En hora, Ha salido",189.0,Boeing 737-800,W46
+1063,,25/Nov/2025,Ryanair,FR2507,Cologne-Bonn (CGN),06:20,"En hora, Ha salido",189.0,Boeing 737-800,S20
+1064,,25/Nov/2025,Ryanair,FR4545,Porto (OPO),06:35,"En hora, Ha salido",189.0,Boeing 737-800,U32
+1065,,25/Nov/2025,easyJet Europe,EC7101,"Basel, Switzerland/Mulhouse (BSL)",07:25,"En hora, Ha salido",156.0,Airbus A319,R10
+1066,,25/Nov/2025,easyJet Europe,EC8062,London (LGW),07:30,"En hora, Ha salido",156.0,Airbus A319,M6
+1067,,25/Nov/2025,Ryanair,FR3166,Palermo (PMO),07:35,"En hora, Ha salido",189.0,Boeing 737-800,S24
+1068,,25/Nov/2025,Ryanair,FR5718,Bratislava (BTS),07:35,"En hora, Ha salido",189.0,Boeing 737-800,U35
+1069,,25/Nov/2025,Ryanair,FR3193,Riga (RIX),07:55,"En hora, Ha salido",189.0,Boeing 737-800,U34
+1070,,25/Nov/2025,easyJet Europe,EC3737,Milan (MXP),08:00,"En hora, Ha salido",180.0,Airbus A320,R12
+1071,,25/Nov/2025,Ryanair,FR133,Berlin (BER),08:50,"Retrasado, Ha salido 10:05",189.0,Boeing 737-800,U37
+1072,,25/Nov/2025,Wizz Air Malta,W43938,Chisinau (KIV),09:00,"Retrasado, Ha salido 09:28",180.0,Airbus A320,Y58
+1073,,25/Nov/2025,Wizz Air,W62048,Krakow (KRK),09:05,"En hora, Ha salido",230.0,Airbus A321,U33
+1074,,25/Nov/2025,Ryanair,FR3035,Krakow (KRK),09:10,"En hora, Ha salido",189.0,Boeing 737-800,R15
+1075,,25/Nov/2025,Ryanair,FR3807,Charleroi (CRL),09:10,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U34
+1076,,25/Nov/2025,Wizz Air,W61914,Vilnius (VNO),09:20,"Retrasado, Ha salido 09:31",239.0,Airbus A321neo,U32
+1077,,25/Nov/2025,Wizz Air Malta,W43176,Bucharest (OTP),09:25,"Retrasado, Ha salido 10:03",239.0,Airbus A321neo,U39
+1078,,25/Nov/2025,Wizz Air,W62376,Budapest (BUD),09:25,"Retrasado, Ha salido 09:46",239.0,Airbus A321neo,U31
+1079,,25/Nov/2025,Wizz Air Malta,W42938,Vienna (VIE),09:35,"Retrasado, Ha salido 10:15",239.0,Airbus A321neo,S22
+1080,,25/Nov/2025,Air Arabia Maroc,3O378,Tanger (TNG),09:45,"En hora, Ha salido",180.0,Airbus A320,Y57
+1081,,25/Nov/2025,Air Serbia,JU581,Belgrade (BEG),09:55,"Retrasado, Ha salido 10:11",156.0,Airbus A319,W46
+1082,,25/Nov/2025,Lauda Europe,LW12,Vienna (VIE),10:15,"Retrasado, Ha salido 10:29",180.0,Airbus A320,R14
+1083,,25/Nov/2025,Wizz Air,W61476,Warsaw (WAW),10:15,"En hora, Ha salido",239.0,Airbus A321neo,U35
+1084,,25/Nov/2025,Ryanair,FR1279,Copenhagen (CPH),10:25,"En hora, Ha salido",197.0,Boeing 737 MAX 8,S25
+1085,,25/Nov/2025,Ryanair,FR5270,Manchester (MAN),10:30,"Retrasado, Ha salido 10:55",197.0,Boeing 737 MAX 8,Y58
+1086,,25/Nov/2025,Azerbaijan Airlines,J246,Baku (GYD),10:45,"En hora, Ha salido",186.0,Airbus A320neo,W45
+1087,,25/Nov/2025,Aer Lingus,EI563,Dublin (DUB),11:30,"En hora, Ha salido",180.0,Airbus A320,Y54
+1088,,25/Nov/2025,Ryanair,FR58,Napoli (NAP),11:40,"En hora, Ha salido",189.0,Boeing 737-800,S20
+1089,,25/Nov/2025,Icelandair,FI597,Keflavik (KEF),11:50,"Retrasado, Ha salido 12:19",197.0,Boeing 737 MAX 8,U37
+1090,,25/Nov/2025,Ryanair,FR3108,Luxembourg (LUX),12:15,"En hora, Ha salido",189.0,Boeing 737-800,U33
+1091,,25/Nov/2025,easyJet Europe,EC7151,Milan (MXP),12:20,"En hora, Ha salido",156.0,Airbus A319,R10
+1092,,25/Nov/2025,Norwegian Air Sweden AOC,D83657,Copenhagen (CPH),12:30,"En hora, Ha salido",189.0,Boeing 737-800,S21
+1093,,25/Nov/2025,Ryanair,FR8384,Budapest (BUD),12:35,"En hora, Ha salido",197.0,Boeing 737 MAX 8,S22
+1094,,25/Nov/2025,Pegasus Airlines,PC1092,Istanbul (SAW),12:45,"En hora, Ha salido",230.0,Airbus A321,W45
+1095,,25/Nov/2025,Ryanair,FR6267,Edinburgh (EDI),12:55,"En hora, Ha salido",189.0,Boeing 737-800,Y57
+1096,,25/Nov/2025,Norwegian Air Sweden AOC,D81741,Oslo (OSL),13:25,"En hora, Ha salido",189.0,Boeing 737-800,S24
+1097,,25/Nov/2025,FlyOne,5F5512,Chisinau (KIV),13:30,"En hora, Ha salido",180.0,Airbus A320,Y58
+1098,,25/Nov/2025,Ryanair,FR2239,Marrakech (RAK),14:00,"En hora, Ha salido",189.0,Boeing 737-800,Y55
+1099,,25/Nov/2025,Ryanair,FR3076,Stockholm (ARN),14:05,"En hora, Programado",189.0,Boeing 737-800,U31
+1100,,25/Nov/2025,Kuwait Airways,KU136,Kuwait City (KWI),14:25,"En hora, Programado",278.0,Airbus A330-900,W44
+1101,,25/Nov/2025,Bluebird Airways,BZ251,Tel Aviv (TLV),14:45,"En hora, Programado",180.0,Airbus A320,Y
+1102,,25/Nov/2025,Ryanair,FR3792,Birmingham (BHX),16:20,"En hora, Ha salido",197.0,Boeing 737 MAX 8,Y55
+1103,,25/Nov/2025,Ryanair,FR846,Milan (BGY),16:55,"En hora, Ha salido",189.0,Boeing 737-800,U32
+1104,,25/Nov/2025,Ryanair,FR1165,Sevilla (SVQ),17:05,"Retrasado, Ha salido 17:17",197.0,Boeing 737 MAX 8,S23
+1105,,25/Nov/2025,Ryanair,FR575,Bologna (BLQ),17:25,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U35
+1106,,25/Nov/2025,Transavia,HV5134,Amsterdam (AMS),17:45,"En hora, Ha salido",239.0,Airbus A321neo,U31
+1107,,25/Nov/2025,Ryanair,FR3180,Rome (FCO),18:00,"En hora, Ha salido",189.0,Boeing 737-800,U34
+1108,,25/Nov/2025,easyJet Europe,EC7103,"Basel, Switzerland/Mulhouse (BSL)",18:10,"En hora, Ha salido",156.0,Airbus A319,R11
+1109,,25/Nov/2025,BUZZ,RR6300,Sofia (SOF),18:15,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U33
+1110,,25/Nov/2025,Ryanair,FR777,Venice (VCE),18:40,"En hora, Ha salido",189.0,Boeing 737-800,U32
+1111,,25/Nov/2025,Ryanair,FR2834,Charleroi (CRL),18:45,"En hora, Ha salido",197.0,Boeing 737 MAX 8,S22
+1112,,25/Nov/2025,Wizz Air,W61176,Katowice (KTW),18:55,"En hora, Ha salido",230.0,Airbus A321,S24
+1113,,25/Nov/2025,Wizz Air,W61478,Warsaw (WAW),19:00,"En hora, Ha salido",239.0,Airbus A321neo,U35
+1114,,25/Nov/2025,Ryanair,FR9015,London (STN),19:25,"En hora, Ha salido",189.0,Boeing 737-800,Y59
+1115,,25/Nov/2025,Eurowings,EW9443,Dusseldorf (DUS),19:35,"En hora, Ha salido",180.0,Airbus A320,U31
+1116,,25/Nov/2025,Wizz Air,W64406,Sofia (SOF),19:35,"En hora, Ha salido",239.0,Airbus A321neo,U34
+1117,,25/Nov/2025,Easyjet,U28058,London (LGW),19:45,"Retrasado, Ha salido 20:17",156.0,Airbus A319,M8
+1118,,25/Nov/2025,Transavia,HV6790,Eindhoven (EIN),19:55,"Retrasado, Ha salido 20:09",189.0,Boeing 737-800,S23
+1119,,25/Nov/2025,Air Arabia Maroc,3O642,Tanger (TNG),20:00,"En hora, Ha salido",180.0,Airbus A320,Y58
+1120,,25/Nov/2025,easyJet Europe,EC1956,Milan (LIN),20:15,"En hora, Ha salido",180.0,Airbus A320,R10
+1121,,25/Nov/2025,BUZZ,RR4084,Warsaw (WMI),20:15,"Retrasado, Ha salido 20:31",189.0,Boeing 737-800,S24
+1122,,25/Nov/2025,Transavia,TO4759,Paris (ORY),20:45,"En hora, Ha salido",186.0,Airbus A320neo,U32
+1123,,25/Nov/2025,easyJet Europe,EC1380,Geneva (GVA),21:15,"Retrasado, Ha salido 21:55",180.0,Airbus A320,R11
+1124,,25/Nov/2025,Ryanair,FR6394,Dublin (DUB),21:15,"En hora, Ha salido",197.0,Boeing 737 MAX 8,W46
+1125,,25/Nov/2025,Wizz Air Malta,W46020,Rome (FCO),21:35,"En hora, Ha salido",239.0,Airbus A321neo,U33
+1126,,25/Nov/2025,Ryanair,FR4585,Porto (OPO),22:00,"En hora, Ha salido",197.0,Boeing 737 MAX 8,S25
+1127,,26/Nov/2025,Ryanair,FR2918,Brussels (BRU),06:05,"En hora, Ha salido",189.0,Boeing 737-800,S20
+1128,,26/Nov/2025,Ryanair,FR3185,Rabat (RBA),06:05,"En hora, Ha salido",189.0,Boeing 737-800,W46
+1129,,26/Nov/2025,Ryanair,FR9406,Fes (FEZ),06:05,"En hora, Ha salido",189.0,Boeing 737-800,Y59
+1130,,26/Nov/2025,easyJet Europe,EC7105,Geneva (GVA),06:10,"Retrasado, Ha salido 06:31",156.0,Airbus A319,R15
+1131,,26/Nov/2025,Ryanair,FR483,Malaga (AGP),06:15,"En hora, Ha salido",189.0,Boeing 737-800,U32
+1132,,26/Nov/2025,easyJet Europe,EC7193,Leeds Bradford (LBA),06:30,"En hora, Ha salido",156.0,Airbus A319,M8
+1133,,26/Nov/2025,Ryanair,FR2239,Marrakech (RAK),06:35,"En hora, Ha salido",189.0,Boeing 737-800,W44
+1134,,26/Nov/2025,Ryanair,FR3028,Ibiza (IBZ),06:45,"En hora, Ha salido",189.0,Boeing 737-800,S21
+1135,,26/Nov/2025,Ryanair,FR3108,Luxembourg (LUX),06:50,"En hora, Ha salido",197.0,Boeing 737 MAX 8,S22
+1136,,26/Nov/2025,easyJet Europe,EC7101,"Basel, Switzerland/Mulhouse (BSL)",07:20,"En hora, Ha salido",156.0,Airbus A319,R15
+1137,,26/Nov/2025,easyJet Europe,EC8062,London (LGW),07:20,"En hora, Ha salido",156.0,Airbus A319,M6
+1138,,26/Nov/2025,easyJet Europe,EC3737,Milan (MXP),08:25,"En hora, Ha salido",180.0,Airbus A320,R10
+1139,,26/Nov/2025,easyJet Europe,EC7161,Napoli (NAP),09:20,"En hora, Ha salido",156.0,Airbus A319,R11
+1140,,26/Nov/2025,Wizz Air Malta,W43176,Bucharest (OTP),09:25,"En hora, Ha salido",230.0,Airbus A321,U38
+1141,,26/Nov/2025,Wizz Air,W62376,Budapest (BUD),09:25,"En hora, Ha salido",239.0,Airbus A321neo,U33
+1142,,26/Nov/2025,BUZZ,RR8384,Budapest (BUD),09:30,"Retrasado, Ha salido 09:47",189.0,Boeing 737-800,S21
+1143,,26/Nov/2025,Air Arabia Maroc,3O376,Al Aaroui (NDR),09:35,"Retrasado, Ha salido 09:47",174.0,Airbus A320,Y57
+1144,,26/Nov/2025,Wizz Air Malta,W42940,Vienna (VIE),09:35,"En hora, Ha salido",239.0,Airbus A321neo,U34
+1145,,26/Nov/2025,Ryanair,FR4545,Porto (OPO),09:45,"En hora, Ha salido",189.0,Boeing 737-800,S25
+1146,,26/Nov/2025,BUZZ,RR3049,Krakow (KRK),09:55,"En hora, Ha salido",197.0,Boeing 737 MAX 8,S23
+1147,,26/Nov/2025,Air Arabia Maroc,3O642,Tanger (TNG),10:05,"Retrasado, Ha salido 10:25",174.0,Airbus A320,Y58
+1148,,26/Nov/2025,Transavia,HV5132,Amsterdam (AMS),10:05,"En hora, Ha salido",239.0,Airbus A321neo,U35
+1149,,26/Nov/2025,Ryanair,FR3078,Lisbon (LIS),10:15,"En hora, Ha salido",189.0,Boeing 737-800,S20
+1150,,26/Nov/2025,Wizz Air,W61476,Warsaw (WAW),10:15,"En hora, Ha salido",239.0,Airbus A321neo,U36
+1151,,26/Nov/2025,Ryanair,FR3039,Prague (PRG),10:20,"En hora, Ha salido",189.0,Boeing 737-800,S22
+1152,,26/Nov/2025,Air Baltic,BT878,Tallinn (TLL),10:35,"En hora, Ha salido",148.0,Airbus A220-300,U32
+1153,,26/Nov/2025,Ryanair,FR6267,Edinburgh (EDI),10:45,"En hora, Ha salido",197.0,Boeing 737 MAX 8,W44
+1154,,26/Nov/2025,SkyUp MT,U5406,Chisinau (KIV),10:50,"En hora, Ha salido",149.0,Boeing 737-700,W46
+1155,,26/Nov/2025,Easyjet,U22704,Bristol (BRS),10:55,"En hora, Ha salido",186.0,Airbus A320neo,M8
+1156,,26/Nov/2025,Ryanair,FR2507,Cologne-Bonn (CGN),11:00,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U31
+1157,,26/Nov/2025,Aer Lingus,EI563,Dublin (DUB),11:30,"En hora, Ha salido",174.0,Airbus A320,Y55
+1158,,26/Nov/2025,Ryanair,FR575,Bologna (BLQ),11:40,"En hora, Ha salido",189.0,Boeing 737-800,U33
+1159,,26/Nov/2025,Ryanair,FR9925,Frankfurt-Hahn (HHN),12:35,"En hora, Ha salido",189.0,Boeing 737-800,U34
+1160,,26/Nov/2025,Pegasus Airlines,PC1092,Istanbul (SAW),12:45,"Retrasado, Ha salido 13:04",239.0,Airbus A321neo,W45
+1161,,26/Nov/2025,Ryanair,FR6597,Manchester (MAN),13:00,"En hora, Ha salido",197.0,Boeing 737 MAX 8,W42
+1162,,26/Nov/2025,Ryanair,FR3792,Birmingham (BHX),13:10,"En hora, Ha salido",189.0,Boeing 737-800,Y58
+1163,,26/Nov/2025,Norwegian Air Sweden AOC,D81741,Oslo (OSL),13:25,"En hora, Ha salido",189.0,Boeing 737-800,U31
+1164,,26/Nov/2025,Eurowings,EW521,Cologne-Bonn (CGN),13:25,"En hora, Ha salido",180.0,Airbus A320,S20
+1165,,26/Nov/2025,Luxair,LG3592,Luxembourg (LUX),13:40,"En hora, Ha salido",76.0,de Havilland Dash 8-400,U37
+1166,,26/Nov/2025,Turkish Airlines,TK608,Ankara (ESB),13:40,"En hora, Ha salido",189.0,Boeing 737-800,Y57
+1167,,26/Nov/2025,Bluebird Airways,BZ251,Tel Aviv (TLV),14:45,"Retrasado, Programado 14:56",189.0,Boeing 737-800,W
+1168,,26/Nov/2025,Norwegian Air Sweden AOC,D83659,Copenhagen (CPH),14:45,"En hora, Programado",197.0,Boeing 737 MAX 8,U32
+1169,,26/Nov/2025,Eurowings,EW2521,Stuttgart (STR),15:10,"En hora, Ha salido",156.0,Airbus A319,S21
+1170,,26/Nov/2025,Ryanair,FR777,Venice (VCE),15:10,"Retrasado, Ha salido 15:20",197.0,Boeing 737 MAX 8,S23
+1171,,26/Nov/2025,Ryanair,FR12,Vienna (VIE),15:15,"En hora, Ha salido",197.0,Boeing 737 MAX 8,S24
+1172,,26/Nov/2025,Wizz Air Malta,W46728,Venice (VCE),15:40,"En hora, Ha salido",239.0,Airbus A321neo,U31
+1173,,26/Nov/2025,Pegasus Airlines,PC1094,Istanbul (SAW),15:45,"Retrasado, Ha salido 16:10",230.0,Airbus A321,Y55
+1174,,26/Nov/2025,Volotea,V71415,Verona (VRN),15:45,"En hora, Ha salido",180.0,Airbus A320,U33
+1175,,26/Nov/2025,Ryanair,FR3035,Krakow (KRK),16:15,"En hora, Ha salido",197.0,Boeing 737 MAX 8,S22
+1176,,26/Nov/2025,Transavia,TO4755,Paris (ORY),16:45,"Retrasado, Ha salido 17:00",186.0,Airbus A320neo,U32
+1177,,26/Nov/2025,Ryanair,FR3928,Trieste (TRS),16:50,"En hora, Ha salido",189.0,Boeing 737-800,U35
+1178,,26/Nov/2025,Ryanair,FR5718,Bratislava (BTS),16:50,"En hora, Ha salido",189.0,Boeing 737-800,U38
+1179,,26/Nov/2025,Wizz Air,W67920,Kopitnari (KUT),17:15,"En hora, Ha salido",239.0,Airbus A321neo,Y57
+1180,,26/Nov/2025,Ryanair,FR4585,Porto (OPO),17:30,"En hora, Ha salido",189.0,Boeing 737-800,U33
+1181,,26/Nov/2025,Iberojet,E9803,Palmerola (XPL),17:40,"En hora, Ha salido",432.0,Airbus A350-900,W44
+1182,,26/Nov/2025,Ryanair,FR3180,Rome (FCO),18:00,"En hora, Ha salido",189.0,Boeing 737-800,U41
+1183,,26/Nov/2025,Wizz Air Malta,W43686,Iasi (IAS),18:30,"En hora, Ha salido",180.0,Airbus A320,U31
+1184,,26/Nov/2025,easyJet Europe,EC7103,"Basel, Switzerland/Mulhouse (BSL)",18:35,"En hora, Ha salido",156.0,Airbus A319,R10
+1185,,26/Nov/2025,easyJet Europe,EC7155,Milan (MXP),19:00,"En hora, Ha salido",156.0,Airbus A319,R12
+1186,,26/Nov/2025,Ryanair,FR8231,London (STN),19:00,"En hora, Ha salido",189.0,Boeing 737-800,W42
+1187,,26/Nov/2025,Wizz Air,W61478,Warsaw (WAW),19:00,"En hora, Ha salido",239.0,Airbus A321neo,U33
+1188,,26/Nov/2025,Ryanair,FR1165,Sevilla (SVQ),19:10,"Retrasado, Ha salido 19:48",189.0,Boeing 737-800,S23
+1189,,26/Nov/2025,Ryanair,FR9334,Marrakech (RAK),19:10,"Retrasado, Ha salido 19:20",189.0,Boeing 737-800,Y54
+1190,,26/Nov/2025,Ryanair,FR1342,Palma de Mallorca (PMI),19:15,"En hora, Ha salido",189.0,Boeing 737-800,U37
+1191,,26/Nov/2025,Eurowings,EW9443,Dusseldorf (DUS),19:35,"En hora, Ha salido",180.0,Airbus A320,U35
+1192,,26/Nov/2025,Ryanair,FR133,Berlin (BER),19:35,"En hora, Ha salido",197.0,Boeing 737 MAX 8,S20
+1193,,26/Nov/2025,Transavia,HV6064,Rotterdam (RTM),19:40,"En hora, Ha salido",189.0,Boeing 737-800,U32
+1194,,26/Nov/2025,Easyjet,U28058,London (LGW),19:45,"Retrasado, Programado 22:00",156.0,Airbus A319,M6
+1195,,26/Nov/2025,Wizz Air,W61706,Gdansk (GDN),19:50,"En hora, Ha salido",239.0,Airbus A321neo,U34
+1196,,26/Nov/2025,Ryanair,FR3143,Milan (BGY),19:55,"Retrasado, Ha salido 20:20",189.0,Boeing 737-800,U36
+1197,,26/Nov/2025,Ryanair,FR58,Napoli (NAP),20:10,"En hora, Ha salido",189.0,Boeing 737-800,S24
+1198,,26/Nov/2025,BUZZ,RR5246,Vilnius (VNO),20:10,"Retrasado, Ha salido 20:50",197.0,Boeing 737 MAX 8,U37
+1199,,26/Nov/2025,easyJet Europe,EC1956,Milan (LIN),20:15,"En hora, Ha salido",180.0,Airbus A320,R9
+1200,,26/Nov/2025,Air Arabia Maroc,3O378,Tanger (TNG),20:20,"Retrasado, Ha salido 20:58",174.0,Airbus A320,Y54
+1201,,26/Nov/2025,T'Way Air,TW408,Seoul/Incheon (ICN),20:30,"Retrasado, Ha salido 20:41",294.0,BOEING 777-300ER,Y56
+1202,,26/Nov/2025,Air Serbia,JU585,Belgrade (BEG),20:35,"En hora, Ha salido",144.0,Airbus A319,Y57
+1203,,26/Nov/2025,Wizz Air,W62378,Budapest (BUD),20:45,"En hora, Ha salido",239.0,Airbus A321neo,U33
+1204,,26/Nov/2025,Transavia,TO4759,Paris (ORY),20:50,"En hora, Ha salido",186.0,Airbus A320neo,U31
+1205,,26/Nov/2025,Easyjet,U22326,London (LTN),20:55,"En hora, Ha salido",186.0,Airbus A320neo,M8
+1206,,26/Nov/2025,easyJet Europe,EC1380,Geneva (GVA),21:15,"Retrasado, Programado 21:41",180.0,Airbus A320,R10
+1207,,26/Nov/2025,Wizz Air Malta,W43406,Cluj-Napoca (CLJ),21:25,"En hora, Ha salido",180.0,Airbus A320,U35
+1208,,26/Nov/2025,Wizz Air Malta,W46020,Rome (FCO),21:35,"En hora, Ha salido",239.0,Airbus A321neo,U34
+1209,,26/Nov/2025,Ryanair,FR6394,Dublin (DUB),22:05,"En hora, Programado",189.0,Boeing 737-800,Y57
+1210,,27/Nov/2025,Ryanair,FR8215,London (STN),06:00,"En hora, Ha salido",189.0,Boeing 737-800,W42
+1211,,27/Nov/2025,Ryanair,FR2918,Brussels (BRU),06:05,"En hora, Ha salido",189.0,Boeing 737-800,U32
+1212,,27/Nov/2025,easyJet Europe,EC7105,Geneva (GVA),06:10,"En hora, Ha salido",156.0,Airbus A319,R13
+1213,,27/Nov/2025,Ryanair,FR3976,Dublin (DUB),06:15,"En hora, Ha salido",197.0,Boeing 737 MAX 8,W46
+1214,,27/Nov/2025,easyJet Europe,EC7191,Glasgow (GLA),06:40,"En hora, Ha salido",156.0,Airbus A319,M3
+1215,,27/Nov/2025,Ryanair,FR3049,Krakow (KRK),06:40,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U33
+1216,,27/Nov/2025,Ryanair,FR3028,Ibiza (IBZ),06:45,"En hora, Ha salido",189.0,Boeing 737-800,U41
+1217,,27/Nov/2025,Lauda Europe,LW2495,Palma de Mallorca (PMI),07:20,"En hora, Ha salido",180.0,Airbus A320,S23
+1218,,27/Nov/2025,Ryanair,FR133,Berlin (BER),07:25,"En hora, Ha salido",189.0,Boeing 737-800,U34
+1219,,27/Nov/2025,easyJet Europe,EC7101,"Basel, Switzerland/Mulhouse (BSL)",07:30,"En hora, Ha salido",156.0,Airbus A319,R11
+1220,,27/Nov/2025,easyJet Europe,EC7151,Milan (MXP),07:30,"En hora, Ha salido",156.0,Airbus A319,R12
+1221,,27/Nov/2025,Ryanair,FR2507,Cologne-Bonn (CGN),07:45,"En hora, Ha salido",197.0,Boeing 737 MAX 8,S25
+1222,,27/Nov/2025,Norwegian Air Sweden AOC,D85510,Copenhagen (CPH),07:55,"En hora, Ha salido",189.0,Boeing 737-800,U37
+1223,,27/Nov/2025,Ryanair,FR575,Bologna (BLQ),08:05,"En hora, Ha salido",189.0,Boeing 737-800,U36
+1224,,27/Nov/2025,Ryanair,FR774,Torino (TRN),08:05,"En hora, Ha salido",189.0,Boeing 737-800,S20
+1225,,27/Nov/2025,Ryanair,FR3928,Trieste (TRS),08:40,"Retrasado, Ha salido 09:10",189.0,Boeing 737-800,U41
+1226,,27/Nov/2025,Ryanair,FR6973,Rome (FCO),08:40,"En hora, Ha salido",189.0,Boeing 737-800,S22
+1227,,27/Nov/2025,Wizz Air Malta,W43938,Chisinau (KIV),09:00,"En hora, Ha salido",180.0,Airbus A320,Y54
+1228,,27/Nov/2025,Ryanair,FR5710,Napoli (NAP),09:05,"Retrasado, Ha salido 09:15",189.0,Boeing 737-800,S21
+1229,,27/Nov/2025,Wizz Air,W62048,Krakow (KRK),09:05,"En hora, Ha salido",239.0,Airbus A321neo,U31
+1230,,27/Nov/2025,Lauda Europe,LW12,Vienna (VIE),09:10,"En hora, Ha salido",180.0,Airbus A320,R14
+1231,,27/Nov/2025,Wizz Air,W61914,Vilnius (VNO),09:20,"En hora, Ha salido",239.0,Airbus A321neo,U32
+1232,,27/Nov/2025,Wizz Air Malta,W43176,Bucharest (OTP),09:25,"En hora, Ha salido",239.0,Airbus A321neo,U39
+1233,,27/Nov/2025,Wizz Air,W62376,Budapest (BUD),09:25,"En hora, Ha salido",239.0,Airbus A321neo,U35
+1234,,27/Nov/2025,Ryanair,FR3320,Milan (BGY),09:30,"En hora, Ha salido",189.0,Boeing 737-800,S20
+1235,,27/Nov/2025,Wizz Air Malta,W42938,Vienna (VIE),09:35,"En hora, Ha salido",230.0,Airbus A321,S23
+1236,,27/Nov/2025,Air Serbia,JU581,Belgrade (BEG),09:55,"En hora, Ha salido",156.0,Airbus A319,Y57
+1237,,27/Nov/2025,easyJet Europe,EC7656,Lisbon (LIS),10:00,"En hora, Ha salido",230.0,Airbus A321,R11
+1238,,27/Nov/2025,Ryanair,FR1279,Copenhagen (CPH),10:00,"En hora, Ha salido",197.0,Boeing 737 MAX 8,S25
+1239,,27/Nov/2025,Transavia,HV5132,Amsterdam (AMS),10:05,"En hora, Ha salido",239.0,Airbus A321neo,U36
+1240,,27/Nov/2025,Wizz Air,W61476,Warsaw (WAW),10:15,"En hora, Ha salido",239.0,Airbus A321neo,U34
+1241,,27/Nov/2025,Ryanair,FR1165,Sevilla (SVQ),10:20,"En hora, Ha salido",189.0,Boeing 737-800,S24
+1242,,27/Nov/2025,Ryanair,FR3121,Beauvais (BVA),10:25,"En hora, Ha salido",189.0,Boeing 737-800,S22
+1243,,27/Nov/2025,BUZZ,RR8384,Budapest (BUD),10:25,"Retrasado, Ha salido 10:45",189.0,Boeing 737-800,U32
+1244,,27/Nov/2025,Easyjet,U28056,London (LGW),10:35,"En hora, Ha salido",180.0,Airbus A320,M8
+1245,,27/Nov/2025,Easyjet,U25716,Southend (SEN),10:40,"En hora, Ha salido",186.0,Airbus A320neo,M6
+1246,,27/Nov/2025,Azerbaijan Airlines,J246,Baku (GYD),10:45,"En hora, Ha salido",186.0,Airbus A320neo,W45
+1247,,27/Nov/2025,Ryanair,FR3792,Birmingham (BHX),11:00,"En hora, Ha salido",189.0,Boeing 737-800,W44
+1248,,27/Nov/2025,Ryanair,FR4545,Porto (OPO),11:00,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U31
+1249,,27/Nov/2025,Easyjet,U22704,Bristol (BRS),11:05,"En hora, Ha salido",180.0,Airbus A320,M1
+1250,,27/Nov/2025,Ryanair,FR3076,Stockholm (ARN),11:10,"Retrasado, Ha salido 11:26",189.0,Boeing 737-800,S20
+1251,,27/Nov/2025,Ryanair,FR483,Malaga (AGP),11:10,"Retrasado, Ha salido 11:22",189.0,Boeing 737-800,S21
+1252,,27/Nov/2025,Ryanair,FR6597,Manchester (MAN),11:20,"En hora, Ha salido",189.0,Boeing 737-800,Y55
+1253,,27/Nov/2025,Aer Lingus,EI563,Dublin (DUB),11:30,"Retrasado, Ha salido 11:41",174.0,Airbus A320,W46
+1254,,27/Nov/2025,easyJet Europe,EC7131,Nice/Cote D'Azur (NCE),12:00,"En hora, Ha salido",156.0,Airbus A319,R11
+1255,,27/Nov/2025,easyJet Europe,EC8064,London (LGW),12:10,"En hora, Ha salido",156.0,Airbus A319,M8
+1256,,27/Nov/2025,Ryanair,FR2239,Marrakech (RAK),12:30,"En hora, Ha salido",189.0,Boeing 737-800,W42
+1257,,27/Nov/2025,Ryanair,FR3160,Bristol (BRS),12:45,"En hora, Ha salido",189.0,Boeing 737-800,W45
+1258,,27/Nov/2025,Pegasus Airlines,PC1092,Istanbul (SAW),12:45,"Retrasado, Ha salido 12:57",239.0,Airbus A321neo,Y54
+1259,,27/Nov/2025,Wizz Air,W67022,Bratislava (BTS),12:55,"En hora, Ha salido",239.0,Airbus A321neo,U31
+1260,,27/Nov/2025,Ryanair,FR1681,Frankfurt-Hahn (HHN),13:00,"Retrasado, Ha salido 13:14",189.0,Boeing 737-800,S24
+1261,,27/Nov/2025,Volotea,V71445,Olbia (OLB),13:05,"En hora, Ha salido",180.0,Airbus A320,S22
+1262,,27/Nov/2025,Norwegian Air Shuttle,DY1741,Oslo (OSL),13:25,"En hora, Ha salido",189.0,Boeing 737-800,S20
+1263,,27/Nov/2025,Ryanair,FR3039,Prague (PRG),13:30,"En hora, Ha salido",197.0,Boeing 737 MAX 8,S25
+1264,,27/Nov/2025,Luxair,LG3592,Luxembourg (LUX),13:35,"Retrasado, Ha salido 13:54",76.0,de Havilland Dash 8-400,U37
+1265,,27/Nov/2025,Ryanair,FR269,Milan (MXP),13:40,"En hora, Ha salido",189.0,Boeing 737-800,U35
+1266,,27/Nov/2025,Ryanair,FR6267,Edinburgh (EDI),13:45,"En hora, Ha salido",197.0,Boeing 737 MAX 8,W46
+1267,,27/Nov/2025,Ryanair,FR846,Milan (BGY),13:45,"En hora, Ha salido",197.0,Boeing 737 MAX 8,R14
+1268,,27/Nov/2025,Transavia,TO4755,Paris (ORY),13:45,"En hora, Ha salido",189.0,Boeing 737-800,U33
+1269,,27/Nov/2025,Jet2,LS804,Manchester (MAN),13:50,"En hora, Programado",189.0,Boeing 737-800,Y58
+1270,,27/Nov/2025,Ryanair,FR2233,Al Aaroui (NDR),14:00,"En hora, Programado",189.0,Boeing 737-800,Y59
+1271,,27/Nov/2025,Air Baltic,BT684,Riga (RIX),14:05,"En hora, Ha salido",148.0,Airbus A220-300,S23
+1272,,27/Nov/2025,easyJet Europe,EC7153,Milan (MXP),14:10,"En hora, Ha salido",156.0,Airbus A319,R12
+1273,,27/Nov/2025,SunExpress,XQ895,Izmir (ADB),14:15,"En hora, Programado",189.0,Boeing 737-800,Y57
+1274,,27/Nov/2025,Kuwait Airways,KU136,Kuwait City (KWI),14:25,"En hora, Programado",278.0,Airbus A330-900,W44
+1275,,27/Nov/2025,Norwegian Air Sweden AOC,D85502,Stockholm (ARN),14:40,"En hora, Programado",189.0,Boeing 737-800,U37
+1276,,27/Nov/2025,Bluebird Airways,BZ251,Tel Aviv (TLV),14:45,"En hora, Programado",189.0,Boeing 737-800,W
+1277,,27/Nov/2025,SmartWings,QS1059,Prague (PRG),14:55,"En hora, Programado",149.0,Airbus A220-300,U
+1278,,27/Nov/2025,Ryanair,FR3189,Fes (FEZ),15:00,"Retrasado, Ha salido 15:14",189.0,Boeing 737-800,Y55
+1279,,27/Nov/2025,Ryanair,FR149,Berlin (BER),15:40,"En hora, Ha salido",189.0,Boeing 737-800,S21
+1280,,27/Nov/2025,Wizz Air Malta,W46728,Venice (VCE),15:40,"En hora, Ha salido",239.0,Airbus A321neo,S25
+1281,,27/Nov/2025,Ryanair,FR2922,Brussels (BRU),16:05,"En hora, Ha salido",189.0,Boeing 737-800,U32
+1282,,27/Nov/2025,Volotea,V73573,Asturias (OVD),16:05,"En hora, Ha salido",156.0,Airbus A319,S24
+1283,,27/Nov/2025,Volotea,V73700,Vitoria (VIT),16:15,"En hora, Ha salido",180.0,Airbus A320,S23
+1284,,27/Nov/2025,Ryanair,FR9045,London (STN),16:30,"En hora, Ha salido",197.0,Boeing 737 MAX 8,Y58
+1285,,27/Nov/2025,Ryanair,FR9913,Tallinn (TLL),16:30,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U37
+1286,,27/Nov/2025,Ryanair,FR4585,Porto (OPO),16:35,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U31
+1287,,27/Nov/2025,easyJet Europe,EC1378,Geneva (GVA),16:50,"Retrasado, Ha salido 17:02",180.0,Airbus A320,R11
+1288,,27/Nov/2025,Ryanair,FR2098,Bologna (BLQ),17:15,"En hora, Ha salido",189.0,Boeing 737-800,U41
+1289,,27/Nov/2025,easyJet Europe,EC7173,Berlin (BER),17:25,"En hora, Ha salido",156.0,Airbus A319,R9
+1290,,27/Nov/2025,BUZZ,RR8394,Budapest (BUD),17:30,"Retrasado, Ha salido 17:40",189.0,Boeing 737-800,U33
+1291,,27/Nov/2025,Volotea,V72327,Strasbourg (SXB),17:30,"En hora, Ha salido",180.0,Airbus A320,S21
+1292,,27/Nov/2025,Transavia,HV5136,Amsterdam (AMS),17:45,"En hora, Ha salido",189.0,Boeing 737-800,U35
+1293,,27/Nov/2025,BUZZ,RR6300,Sofia (SOF),17:45,"En hora, Ha salido",189.0,Boeing 737-800,S20
+1294,,27/Nov/2025,Ryanair,FR5718,Bratislava (BTS),18:00,"Retrasado, Ha salido 18:15",189.0,Boeing 737-800,U37
+1295,,27/Nov/2025,Ryanair,FR6341,Rome (FCO),18:00,"En hora, Ha salido",189.0,Boeing 737-800,S26
+1296,,27/Nov/2025,easyJet Europe,EC7139,Rennes/Saint-Jacques (RNS),18:15,"En hora, Ha salido",180.0,Airbus A320,R10
+1297,,27/Nov/2025,Ryanair,FR3078,Lisbon (LIS),18:30,"En hora, Ha salido",189.0,Boeing 737-800,U31
+1298,,27/Nov/2025,Ryanair,FR6394,Dublin (DUB),18:30,"En hora, Ha salido",197.0,Boeing 737 MAX 8,W42
+1299,,27/Nov/2025,easyJet Europe,EC7103,"Basel, Switzerland/Mulhouse (BSL)",18:40,"En hora, Ha salido",156.0,Airbus A319,R13
+1300,,27/Nov/2025,Ryanair,FR3800,Birmingham (BHX),18:45,"En hora, Ha salido",189.0,Boeing 737-800,Y55
+1301,,27/Nov/2025,Wizz Air Malta,W43180,Bucharest (OTP),18:45,"En hora, Ha salido",230.0,Airbus A321,S25
+1302,,27/Nov/2025,Wizz Air,W61176,Katowice (KTW),18:55,"En hora, Ha salido",180.0,Airbus A320,U34
+1303,,27/Nov/2025,BUZZ,RR3193,Riga (RIX),19:05,"En hora, Ha salido",189.0,Boeing 737-800,U36
+1304,,27/Nov/2025,easyJet Europe,EC7155,Milan (MXP),19:15,"En hora, Ha salido",156.0,Airbus A319,R12
+1305,,27/Nov/2025,Ryanair,FR1342,Palma de Mallorca (PMI),19:25,"En hora, Ha salido",189.0,Boeing 737-800,R14
+1306,,27/Nov/2025,Ryanair,FR8217,London (STN),19:25,"En hora, Ha salido",189.0,Boeing 737-800,W45
+1307,,27/Nov/2025,Wizz Air,W64406,Sofia (SOF),19:35,"En hora, Ha salido",239.0,Airbus A321neo,U33
+1308,,27/Nov/2025,Air Arabia Maroc,3O378,Tanger (TNG),19:40,"Retrasado, Ha salido 19:57",174.0,Airbus A320,Y57
+1309,,27/Nov/2025,Eurowings,EW2521,Stuttgart (STR),19:40,"Retrasado, Ha salido 20:37",239.0,Airbus A321neo,S25
+1310,,27/Nov/2025,Wizz Air,W61478,Warsaw (WAW),19:40,"En hora, Ha salido",239.0,Airbus A321neo,U32
+1311,,27/Nov/2025,Ryanair,FR8598,Reggio Calabria (REG),19:45,"En hora, Ha salido",189.0,Boeing 737-800,U35
+1312,,27/Nov/2025,Easyjet,U28058,London (LGW),19:45,"En hora, Ha salido",156.0,Airbus A319,M8
+1313,,27/Nov/2025,Ryanair,FR8631,Tanger (TNG),19:55,"En hora, Ha salido",189.0,Boeing 737-800,Y58
+1314,,27/Nov/2025,Volotea,V72167,Lille/Lesquin (LIL),19:55,"En hora, Ha salido",180.0,Airbus A320,S23
+1315,,27/Nov/2025,Transavia,HV6788,Eindhoven (EIN),20:00,"En hora, Ha salido",189.0,Boeing 737-800,U31
+1316,,27/Nov/2025,easyJet Europe,EC1956,Milan (LIN),20:15,"En hora, Ha salido",180.0,Airbus A320,R9
+1317,,27/Nov/2025,Air Arabia Maroc,3O376,Al Aaroui (NDR),20:25,"Retrasado, Ha salido 21:40",174.0,Airbus A320,Y54
+1318,,27/Nov/2025,Ryanair,FR3143,Milan (BGY),20:25,"En hora, Ha salido",197.0,Boeing 737 MAX 8,R11
+1319,,27/Nov/2025,Ryanair,FR4587,Porto (OPO),20:45,"En hora, Ha salido",197.0,Boeing 737 MAX 8,R13
+1320,,27/Nov/2025,Wizz Air,W62378,Budapest (BUD),20:45,"En hora, Ha salido",239.0,Airbus A321neo,S24
+1321,,27/Nov/2025,Transavia,TO4759,Paris (ORY),20:50,"En hora, Ha salido",186.0,Airbus A320neo,U36
+1322,,27/Nov/2025,Easyjet,U22324,London (LTN),20:55,"En hora, Ha salido",186.0,Airbus A320neo,M6
+1323,,27/Nov/2025,Wizz Air,W64738,Skopje (SKP),20:55,"En hora, Ha salido",239.0,Airbus A321neo,W46
+1324,,27/Nov/2025,BUZZ,RR333,Gdansk (GDN),21:00,"En hora, Ha salido",189.0,Boeing 737-800,R10
+1325,,27/Nov/2025,Aer Lingus,EI565,Dublin (DUB),21:05,"En hora, Ha salido",174.0,Airbus A320,Y55
+1326,,27/Nov/2025,easyJet Europe,EC1380,Geneva (GVA),21:15,"Retrasado, Ha salido 21:53",180.0,Airbus A320,R12
+1327,,27/Nov/2025,Ryanair,FR1527,Valletta (MLA),21:20,"Retrasado, Ha salido 21:45",189.0,Boeing 737-800,U37
+1328,,27/Nov/2025,Wizz Air Malta,W43178,Bucharest (BBU),21:20,"En hora, Ha salido",230.0,Airbus A321,S23
+1329,,27/Nov/2025,Wizz Air Malta,W43406,Cluj-Napoca (CLJ),21:25,"En hora, Ha salido",180.0,Airbus A320,R14
+1330,,27/Nov/2025,BUZZ,RR3035,Krakow (KRK),21:30,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U32
+1331,,27/Nov/2025,BUZZ,RR4084,Warsaw (WMI),21:30,"En hora, Ha salido",189.0,Boeing 737-800,S21
+1332,,27/Nov/2025,Wizz Air Malta,W46020,Rome (FCO),21:35,"En hora, Ha salido",230.0,Airbus A321,S20
+1333,,27/Nov/2025,Wizz Air,W64116,Belgrade (BEG),22:10,"Retrasado, Programado 22:27",239.0,Airbus A321neo,W45
+1334,,27/Nov/2025,Wizz Air Malta,W45154,Tirana (TIA),22:45,"En hora, Programado",230.0,Airbus A321,Y57
+1335,,28/Nov/2025,easyJet Europe,EC7105,Geneva (GVA),06:10,"En hora, Ha salido",156.0,Airbus A319,R11
+1336,,28/Nov/2025,Ryanair,FR8183,Bologna (BLQ),06:10,"En hora, Ha salido",189.0,Boeing 737-800,U33
+1337,,28/Nov/2025,Ryanair,FR8231,London (STN),06:10,"En hora, Ha salido",189.0,Boeing 737-800,W44
+1338,,28/Nov/2025,Ryanair,FR777,Venice (VCE),06:20,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U35
+1339,,28/Nov/2025,Ryanair,FR846,Milan (BGY),06:25,"Retrasado, Ha salido 06:35",189.0,Boeing 737-800,S23
+1340,,28/Nov/2025,Ryanair,FR133,Berlin (BER),06:35,"Retrasado, Ha salido 06:45",189.0,Boeing 737-800,U31
+1341,,28/Nov/2025,Ryanair,FR4545,Porto (OPO),06:45,"En hora, Ha salido",189.0,Boeing 737-800,S21
+1342,,28/Nov/2025,easyJet Europe,EC7101,"Basel, Switzerland/Mulhouse (BSL)",07:20,"En hora, Ha salido",156.0,Airbus A319,R10
+1343,,28/Nov/2025,easyJet Europe,EC7199,Edinburgh (EDI),07:20,"En hora, Ha salido",156.0,Airbus A319,M3
+1344,,28/Nov/2025,Lauda Europe,LW2889,Palma de Mallorca (PMI),07:40,"En hora, Ha salido",180.0,Airbus A320,R13
+1345,,28/Nov/2025,Norwegian Air Sweden AOC,D85502,Stockholm (ARN),08:00,"En hora, Ha salido",189.0,Boeing 737-800,U37
+1346,,28/Nov/2025,Ryanair,FR3976,Dublin (DUB),08:00,"En hora, Ha salido",197.0,Boeing 737 MAX 8,Y59
+1347,,28/Nov/2025,Ryanair,FR3185,Rabat (RBA),08:10,"En hora, Ha salido",189.0,Boeing 737-800,W46
+1348,,28/Nov/2025,Ryanair,FR6973,Rome (FCO),08:15,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U32
+1349,,28/Nov/2025,easyJet Europe,EC1376,Geneva (GVA),08:40,"En hora, Ha salido",156.0,Airbus A319,R11
+1350,,28/Nov/2025,Ryanair,FR5752,Valletta (MLA),08:40,"Retrasado, Ha salido 08:51",197.0,Boeing 737 MAX 8,U31
+1351,,28/Nov/2025,Ryanair,FR1165,Sevilla (SVQ),09:00,"En hora, Ha salido",189.0,Boeing 737-800,S20
+1352,,28/Nov/2025,Wizz Air,W62048,Krakow (KRK),09:05,"Retrasado, Ha salido 11:23",239.0,Airbus A321neo,S24
+1353,,28/Nov/2025,easyJet Europe,EC3737,Milan (MXP),09:10,"Retrasado, Ha salido 10:04",180.0,Airbus A320,R10
+1354,,28/Nov/2025,Ryanair,FR2834,Charleroi (CRL),09:15,"En hora, Ha salido",189.0,Boeing 737-800,U33
+1355,,28/Nov/2025,Air Arabia Maroc,3O374,Casablanca (CMN),09:25,"En hora, Ha salido",180.0,Airbus A320,W44
+1356,,28/Nov/2025,Lauda Europe,LW12,Vienna (VIE),09:25,"Retrasado, Ha salido 09:50",180.0,Airbus A320,R13
+1357,,28/Nov/2025,Wizz Air Malta,W43176,Bucharest (OTP),09:25,"En hora, Ha salido",230.0,Airbus A321,S23
+1358,,28/Nov/2025,Wizz Air Malta,W45088,Tirana (TIA),09:25,"En hora, Ha salido",230.0,Airbus A321,Y54
+1359,,28/Nov/2025,Wizz Air,W62376,Budapest (BUD),09:25,"En hora, Ha salido",239.0,Airbus A321neo,U35
+1360,,28/Nov/2025,Ryanair,FR3028,Ibiza (IBZ),09:40,"En hora, Ha salido",197.0,Boeing 737 MAX 8,S26
+1361,,28/Nov/2025,Ryanair,FR3320,Milan (BGY),09:45,"Retrasado, Ha salido 10:45",189.0,Boeing 737-800,R11
+1362,,28/Nov/2025,Transavia,HV6788,Eindhoven (EIN),09:45,"En hora, Ha salido",189.0,Boeing 737-800,R14
+1363,,28/Nov/2025,Easyjet,U26654,Birmingham (BHX),09:45,"Retrasado, Ha salido",180.0,Airbus A320,M
+1364,,28/Nov/2025,Air Arabia Maroc,3O378,Tanger (TNG),09:50,"En hora, Ha salido",180.0,Airbus A320,W45
+1365,,28/Nov/2025,easyJet Europe,EC7656,Lisbon (LIS),09:55,"Retrasado, Ha salido 10:12",230.0,Airbus A321,R11
+1366,,28/Nov/2025,Air Serbia,JU581,Belgrade (BEG),09:55,"En hora, Ha salido",144.0,Airbus A319,Y58
+1367,,28/Nov/2025,Ryanair,FR9015,London (STN),10:00,"En hora, Ha salido",189.0,Boeing 737-800,W42
+1368,,28/Nov/2025,Wizz Air Malta,W46018,Rome (FCO),10:00,"Retrasado, Ha salido 10:17",239.0,Airbus A321neo,S24
+1369,,28/Nov/2025,Ryanair,FR6920,Dublin (DUB),10:05,"En hora, Ha salido",189.0,Boeing 737-800,Y55
+1370,,28/Nov/2025,Transavia,HV5132,Amsterdam (AMS),10:05,"Retrasado, Ha salido 10:19",232.0,Airbus A321neo,U31
+1371,,28/Nov/2025,Eurowings,EW7521,Hamburg (HAM),10:10,"En hora, Ha salido",180.0,Airbus A320,S20
+1372,,28/Nov/2025,Wizz Air,W61476,Warsaw (WAW),10:15,Ha salido,239.0,Airbus A321neo,S
+1373,,28/Nov/2025,Ryanair,FR2239,Marrakech (RAK),10:20,"En hora, Ha salido",189.0,Boeing 737-800,Y57
+1374,,28/Nov/2025,Easyjet,U22002,Manchester (MAN),10:25,"En hora, Ha salido",186.0,Airbus A320neo,M8
+1375,,28/Nov/2025,easyJet Europe,EC7131,Nice/Cote D'Azur (NCE),10:30,"Retrasado, Ha salido 10:41",156.0,Airbus A319,R15
+1376,,28/Nov/2025,Ryanair,FR6267,Edinburgh (EDI),10:30,"En hora, Ha salido",189.0,Boeing 737-800,W44
+1377,,28/Nov/2025,easyJet Europe,EC4212,Napoli (NAP),10:35,"En hora, Ha salido",180.0,Airbus A320,R9
+1378,,28/Nov/2025,Transavia,HV6064,Rotterdam (RTM),10:40,"En hora, Ha salido",189.0,Boeing 737-800,U35
+1379,,28/Nov/2025,Easyjet,U22704,Bristol (BRS),10:50,"Retrasado, Ha salido 11:07",186.0,Airbus A320neo,M3
+1380,,28/Nov/2025,Ryanair,FR5270,Manchester (MAN),10:55,"En hora, Ha salido",197.0,Boeing 737 MAX 8,Y54
+1381,,28/Nov/2025,BUZZ,RR8384,Budapest (BUD),11:00,"En hora, Ha salido",189.0,Boeing 737-800,S21
+1382,,28/Nov/2025,Ryanair,FR3166,Palermo (PMO),11:10,"En hora, Ha salido",189.0,Boeing 737-800,S25
+1383,,28/Nov/2025,FLYONE Armenia,3F232,Yerevan (EVN),11:30,Ha salido,180.0,Airbus A320,W
+1384,,28/Nov/2025,Aer Lingus,EI563,Dublin (DUB),11:35,"En hora, Ha salido",174.0,Airbus A320,Y58
+1385,,28/Nov/2025,Ryanair,FR3121,Beauvais (BVA),11:35,"En hora, Ha salido",197.0,Boeing 737 MAX 8,R14
+1386,,28/Nov/2025,Lauda Europe,LW2896,Palma de Mallorca (PMI),11:35,"En hora, Ha salido",180.0,Airbus A320,S20
+1387,,28/Nov/2025,easyJet Europe,EC7141,Strasbourg (SXB),11:45,"En hora, Ha salido",156.0,Airbus A319,R12
+1388,,28/Nov/2025,BUZZ,RR3049,Krakow (KRK),11:45,"En hora, Ha salido",189.0,Boeing 737-800,U33
+1389,,28/Nov/2025,Easyjet,U28056,London (LGW),11:45,"En hora, Ha salido",156.0,Airbus A319,M6
+1390,,28/Nov/2025,Icelandair,FI597,Keflavik (KEF),11:50,"Retrasado, Ha salido 12:56",184.0,Boeing 757-200,S22
+1391,,28/Nov/2025,Ryanair,FR774,Torino (TRN),11:55,"En hora, Ha salido",189.0,Boeing 737-800,U31
+1392,,28/Nov/2025,easyJet Europe,EC8064,London (LGW),12:15,"Retrasado, Ha salido 12:27",156.0,Airbus A319,M8
+1393,,28/Nov/2025,Ryanair,FR4585,Porto (OPO),12:15,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U35
+1394,,28/Nov/2025,Norwegian Air Sweden AOC,D83657,Copenhagen (CPH),12:30,"Retrasado, Ha salido 12:47",189.0,Boeing 737 MAX 8,U32
+1395,,28/Nov/2025,Ryanair,FR575,Bologna (BLQ),12:45,"En hora, Ha salido",197.0,Boeing 737 MAX 8,R11
+1396,,28/Nov/2025,Ryanair,FR58,Napoli (NAP),12:45,"Retrasado, Ha salido",189.0,Boeing 737-800,U
+1397,,28/Nov/2025,Pegasus Airlines,PC1092,Istanbul (SAW),12:45,"En hora, Ha salido",239.0,Airbus A321neo,Y55
+1398,,28/Nov/2025,Ryanair,FR6874,Dublin (DUB),12:55,"Retrasado, Ha salido 13:18",189.0,Boeing 737-800,W42
+1399,,28/Nov/2025,Wizz Air,W67022,Bratislava (BTS),12:55,"Retrasado, Programado 15:25",230.0,Airbus A321,S
+1400,,28/Nov/2025,Wizz Air Malta,W46330,Milan (MXP),13:10,"Retrasado, Ha salido 13:42",239.0,Airbus A321neo,S24
+1401,,28/Nov/2025,HiSky,H4264,Bucharest (OTP),13:20,"En hora, Ha salido",186.0,Airbus A320,R13
+1402,,28/Nov/2025,Norwegian Air Shuttle,DY1741,Oslo (OSL),13:25,"En hora, Ha salido",189.0,Boeing 737-800,S23
+1403,,28/Nov/2025,Pegasus Airlines,PC1528,Izmir (ADB),13:30,"En hora, Ha salido",180.0,Airbus A320,Y57
+1404,,28/Nov/2025,Turkish Airlines,TK608,Ankara (ESB),13:40,"En hora, Ha salido",165.0,Boeing 737-800,W45
+1405,,28/Nov/2025,Ryanair,FR6078,Ouarzazate (OZZ),13:50,"Retrasado, Programado 14:32",189.0,Boeing 737-800,W42
+1406,,28/Nov/2025,Jet2,LS804,Manchester (MAN),13:50,"Retrasado, Ha salido 14:06",189.0,Boeing 737-800,W44
+1407,,28/Nov/2025,Ryanair,FR3180,Rome (FCO),13:55,"En hora, Ha salido",189.0,Boeing 737-800,S21
+1408,,28/Nov/2025,Air Baltic,BT684,Riga (RIX),14:05,"En hora, Ha salido",148.0,Airbus A220-300,U35
+1409,,28/Nov/2025,easyJet Europe,EC7153,Milan (MXP),14:20,"En hora, Ha salido",156.0,Airbus A319,R15
+1410,,28/Nov/2025,Lauda Europe,LW7351,Vienna (VIE),14:20,"En hora, Programado",180.0,Airbus A320,R14
+1411,,28/Nov/2025,Transavia,TO4755,Paris (ORY),14:20,"Retrasado, Programado 14:40",186.0,Airbus A320neo,U31
+1412,,28/Nov/2025,Ryanair,FR8215,London (STN),14:35,"En hora, Programado",189.0,Boeing 737-800,Y58
+1413,,28/Nov/2025,easyJet Europe,EC7107,Geneva (GVA),14:40,"En hora, Programado",156.0,Airbus A319,R11
+1414,,28/Nov/2025,Volotea,V71443,Ancona (AOI),14:45,"En hora, Programado",180.0,Airbus A320,S20
+1415,,28/Nov/2025,Wizz Air,W64406,Sofia (SOF),14:50,"Retrasado, Programado 15:20",239.0,Airbus A321neo,R
+1416,,28/Nov/2025,Ryanair,FR2507,Cologne-Bonn (CGN),14:55,"En hora, Programado",189.0,Boeing 737-800,S24
+1417,,28/Nov/2025,Ryanair,FR867,Venice (VCE),14:55,"En hora, Programado",189.0,Boeing 737-800,U37
+1418,,28/Nov/2025,SmartWings,QS1059,Prague (PRG),14:55,"En hora, Programado",149.0,Airbus A220-300,U32
+1419,,28/Nov/2025,Ryanair,FR1342,Palma de Mallorca (PMI),15:00,"En hora, Programado",189.0,Boeing 737-800,U41
+1420,,28/Nov/2025,Ryanair,FR5718,Bratislava (BTS),15:10,"En hora, Ha salido",189.0,Boeing 737-800,S22
+1421,,28/Nov/2025,Volotea,V73735,Corvera (RMU),15:15,"En hora, Ha salido",156.0,Airbus A319,S21
+1422,,28/Nov/2025,Ryanair,FR483,Malaga (AGP),15:25,"Retrasado, Ha salido 17:08",197.0,Boeing 737 MAX 8,R14
+1423,,28/Nov/2025,Wizz Air Malta,W46728,Venice (VCE),15:40,"En hora, Ha salido",239.0,Airbus A321neo,S23
+1424,,28/Nov/2025,Pegasus Airlines,PC1094,Istanbul (SAW),15:45,"Retrasado, Ha salido 16:01",239.0,Airbus A321neo,Y55
+1425,,28/Nov/2025,Ryanair,FR9045,London (STN),16:05,"Retrasado, Ha salido 17:18",189.0,Boeing 737-800,Y57
+1426,,28/Nov/2025,Norwegian Air Sweden AOC,D85510,Copenhagen (CPH),16:15,"En hora, Ha salido",189.0,Boeing 737-800,U41
+1427,,28/Nov/2025,Ryanair,FR2925,Brussels (BRU),16:15,"En hora, Ha salido",189.0,Boeing 737-800,U35
+1428,,28/Nov/2025,Ryanair,FR6985,Rome (FCO),16:15,"En hora, Ha salido",189.0,Boeing 737-800,U31
+1429,,28/Nov/2025,Wizz Air Malta,W43564,Timisoara (TSR),16:25,"En hora, Ha salido",180.0,Airbus A320,S20
+1430,,28/Nov/2025,Ryanair,FR3129,Ibiza (IBZ),16:45,"En hora, Ha salido",189.0,Boeing 737-800,R12
+1431,,28/Nov/2025,easyJet Europe,EC7173,Berlin (BER),16:50,"Retrasado, Ha salido 17:05",156.0,Airbus A319,R11
+1432,,28/Nov/2025,Volotea,V73700,Vitoria (VIT),16:50,"En hora, Ha salido",180.0,Airbus A320,S22
+1433,,28/Nov/2025,Ryanair,FR878,Venice (VCE),16:55,"En hora, Ha salido",189.0,Boeing 737-800,U33
+1434,,28/Nov/2025,Ryanair,FR4587,Porto (OPO),17:05,"En hora, Ha salido",197.0,Boeing 737 MAX 8,S24
+1435,,28/Nov/2025,Wizz Air,W67920,Kopitnari (KUT),17:15,"En hora, Ha salido",239.0,Airbus A321neo,Y54
+1436,,28/Nov/2025,Ryanair,FR3076,Stockholm (ARN),17:30,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U34
+1437,,28/Nov/2025,Volotea,V73573,Asturias (OVD),17:40,"En hora, Ha salido",156.0,Airbus A319,S21
+1438,,28/Nov/2025,Transavia,HV5134,Amsterdam (AMS),17:45,"Retrasado, Ha salido 19:37",189.0,Boeing 737-800,U35
+1439,,28/Nov/2025,Ryanair,FR6341,Rome (FCO),18:00,"En hora, Ha salido",189.0,Boeing 737-800,U33
+1440,,28/Nov/2025,Ryanair,FR6353,Milan (BGY),18:00,"En hora, Ha salido",197.0,Boeing 737 MAX 8,S20
+1441,,28/Nov/2025,easyJet Europe,EC7205,Southampton (SOU),18:10,"En hora, Ha salido",156.0,Airbus A319,M8
+1442,,28/Nov/2025,Air Arabia Maroc,3O398,Rabat (RBA),18:30,"Retrasado, Ha salido 18:46",174.0,Airbus A320,W45
+1443,,28/Nov/2025,FlyOne,5F5512,Chisinau (KIV),18:30,"En hora, Ha salido",180.0,Airbus A320,Y55
+1444,,28/Nov/2025,Wizz Air Malta,W43686,Iasi (IAS),18:30,"En hora, Ha salido",180.0,Airbus A320,S22
+1445,,28/Nov/2025,Ryanair,FR2098,Bologna (BLQ),18:35,"En hora, Ha salido",189.0,Boeing 737-800,U31
+1446,,28/Nov/2025,easyJet Europe,EC7103,"Basel, Switzerland/Mulhouse (BSL)",18:45,"En hora, Ha salido",156.0,Airbus A319,R11
+1447,,28/Nov/2025,Ryanair,FR3189,Fes (FEZ),18:50,"Retrasado, Ha salido 19:01",189.0,Boeing 737-800,Y58
+1448,,28/Nov/2025,Wizz Air,W61478,Warsaw (WAW),19:00,"En hora, Ha salido",230.0,Airbus A321,S25
+1449,,28/Nov/2025,easyJet Europe,EC7155,Milan (MXP),19:10,"En hora, Ha salido",156.0,Airbus A319,R12
+1450,,28/Nov/2025,Ryanair,FR149,Berlin (BER),19:15,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U32
+1451,,28/Nov/2025,Ryanair,FR3078,Lisbon (LIS),19:20,"En hora, Ha salido",189.0,Boeing 737-800,S23
+1452,,28/Nov/2025,BUZZ,RR6330,Sofia (SOF),19:20,"En hora, Ha salido",189.0,Boeing 737-800,S24
+1453,,28/Nov/2025,Volotea,V72165,Nantes/Atlantique (NTE),19:30,"En hora, Ha salido",156.0,Airbus A319,S20
+1454,,28/Nov/2025,Eurowings,EW9443,Dusseldorf (DUS),19:35,"Retrasado, Ha salido 19:49",239.0,Airbus A321neo,U34
+1455,,28/Nov/2025,Ryanair,FR2330,Al Aaroui (NDR),19:35,"En hora, Ha salido",189.0,Boeing 737-800,W42
+1456,,28/Nov/2025,Lauda Europe,LW7362,Vienna (VIE),19:40,"Retrasado, Ha salido 20:22",180.0,Airbus A320,R14
+1457,,28/Nov/2025,Easyjet,U28058,London (LGW),19:40,"En hora, Ha salido",156.0,Airbus A319,M6
+1458,,28/Nov/2025,Ryanair,FR6374,Beauvais (BVA),19:45,"Retrasado, Ha salido 20:12",189.0,Boeing 737-800,U37
+1459,,28/Nov/2025,Eurowings,EW2521,Stuttgart (STR),19:55,"Retrasado, Ha salido 20:31",239.0,Airbus A321neo,U33
+1460,,28/Nov/2025,Volotea,V71415,Verona (VRN),19:55,"En hora, Ha salido",180.0,Airbus A320,S21
+1461,,28/Nov/2025,Wizz Air,W64666,Larnaca (LCA),19:55,"En hora, Ha salido",230.0,Airbus A321,Y54
+1462,,28/Nov/2025,Ryanair,FR1527,Valletta (MLA),20:05,"En hora, Ha salido",189.0,Boeing 737-800,R13
+1463,,28/Nov/2025,Ryanair,FR2402,Sevilla (SVQ),20:10,"Retrasado, Ha salido 21:05",197.0,Boeing 737 MAX 8,R13
+1464,,28/Nov/2025,Ryanair,FR6275,Edinburgh (EDI),20:10,"Retrasado, Ha salido 20:24",189.0,Boeing 737-800,Y55
+1465,,28/Nov/2025,Ryanair,FR6305,Milan (BGY),20:10,"En hora, Ha salido",189.0,Boeing 737-800,U31
+1466,,28/Nov/2025,Wizz Air,W62096,Krakow (KRK),20:10,"En hora, Ha salido",239.0,Airbus A321neo,S25
+1467,,28/Nov/2025,easyJet Europe,EC1956,Milan (LIN),20:15,"En hora, Ha salido",180.0,Airbus A320,R11
+1468,,28/Nov/2025,Wizz Air Malta,W42940,Vienna (VIE),20:20,"En hora, Ha salido",239.0,Airbus A321neo,S22
+1469,,28/Nov/2025,Ryanair,FR3792,Birmingham (BHX),20:25,"En hora, Ha salido",189.0,Boeing 737-800,W45
+1470,,28/Nov/2025,T'Way Air,TW408,Seoul/Incheon (ICN),20:30,"En hora, Ha salido",246.0,Airbus A330-200,W44
+1471,,28/Nov/2025,Volotea,V72135,Bordeaux (BOD),20:30,"Retrasado, Ha salido 20:40",180.0,Airbus A320,S24
+1472,,28/Nov/2025,Ryanair,FR7539,Milan (MXP),20:35,"En hora, Ha salido",189.0,Boeing 737-800,S23
+1473,,28/Nov/2025,Ryanair,FR8631,Tanger (TNG),20:35,"Retrasado, Programado 21:40",189.0,Boeing 737-800,Y55
+1474,,28/Nov/2025,Air Serbia,JU585,Belgrade (BEG),20:35,"En hora, Ha salido",144.0,Airbus A319,Y58
+1475,,28/Nov/2025,BUZZ,RR1786,Vilnius (VNO),20:35,"Retrasado, Ha salido 20:58",197.0,Boeing 737 MAX 8,U34
+1476,,28/Nov/2025,Luxair,LG3592,Luxembourg (LUX),20:40,"Retrasado, Ha salido 20:59",142.0,Boeing 737-700,R12
+1477,,28/Nov/2025,Wizz Air,W62378,Budapest (BUD),20:45,"Retrasado, Ha salido 21:02",239.0,Airbus A321neo,S20
+1478,,28/Nov/2025,Ryanair,FR5710,Napoli (NAP),20:50,"Retrasado, Ha salido 21:25",197.0,Boeing 737 MAX 8,U35
+1479,,28/Nov/2025,Transavia,TO4759,Paris (ORY),20:50,"Retrasado, Ha salido 21:13",186.0,Airbus A320neo,U32
+1480,,28/Nov/2025,Easyjet,U22326,London (LTN),20:55,"En hora, Ha salido",186.0,Airbus A320neo,M8
+1481,,28/Nov/2025,BUZZ,RR8394,Budapest (BUD),21:00,"En hora, Ha salido",189.0,Boeing 737-800,R9
+1482,,28/Nov/2025,Aer Lingus,EI565,Dublin (DUB),21:05,"Retrasado, Ha salido 21:56",174.0,Airbus A320,Y54
+1483,,28/Nov/2025,Easyjet,U23374,Liverpool (LPL),21:05,"Retrasado, Ha salido 21:34",180.0,Airbus A320,M6
+1484,,28/Nov/2025,Ryanair,FR3174,Ibiza (IBZ),21:10,"Retrasado, Ha salido 21:23",189.0,Boeing 737-800,R10
+1485,,28/Nov/2025,easyJet Europe,EC1380,Geneva (GVA),21:15,"En hora, Ha salido",180.0,Airbus A320,R14
+1486,,28/Nov/2025,Wizz Air Malta,W43178,Bucharest (BBU),21:20,"En hora, Ha salido",230.0,Airbus A321,S21
+1487,,28/Nov/2025,Wizz Air Malta,W43406,Cluj-Napoca (CLJ),21:25,"En hora, Ha salido",180.0,Airbus A320,S25
+1488,,28/Nov/2025,BUZZ,RR6944,Warsaw (WMI),21:30,"En hora, Ha salido",189.0,Boeing 737-800,R11
+1489,,28/Nov/2025,Ryanair,FR7808,London (LTN),21:35,"En hora, Ha salido",189.0,Boeing 737-800,Y57
+1490,,28/Nov/2025,Wizz Air Malta,W46020,Rome (FCO),21:35,"En hora, Ha salido",239.0,Airbus A321neo,S22
+1491,,28/Nov/2025,Ryanair,FR8669,Dublin (DUB),21:40,"Retrasado, Ha salido 21:53",189.0,Boeing 737-800,W46
+1492,,28/Nov/2025,Ryanair,FR9811,London (STN),21:40,"En hora, Ha salido",189.0,Boeing 737-800,W45
+1493,,28/Nov/2025,easyJet Europe,EC7682,Lisbon (LIS),21:45,"En hora, Ha salido",230.0,Airbus A321,R12
+1494,,28/Nov/2025,Ryanair,FR2495,Palma de Mallorca (PMI),21:45,"En hora, Ha salido",189.0,Boeing 737-800,S23
+1495,,28/Nov/2025,Ryanair,FR6597,Manchester (MAN),21:45,"En hora, Ha salido",189.0,Boeing 737-800,W42
+1496,,28/Nov/2025,Ryanair,FR2250,Marrakech (RAK),21:55,"En hora, Programado",189.0,Boeing 737-800,Y58
+1497,,28/Nov/2025,Wizz Air,W64116,Belgrade (BEG),21:55,"En hora, Ha salido",230.0,Airbus A321,W44
+1498,,28/Nov/2025,Ryanair,FR3080,Malaga (AGP),22:30,"En hora, Programado",197.0,Boeing 737 MAX 8,R
+1499,,28/Nov/2025,Wizz Air Malta,W45154,Tirana (TIA),22:45,"En hora, Programado",239.0,Airbus A321neo,Y57
+1500,,28/Nov/2025,Wizz Air,W61706,Gdansk (GDN),22:50,"En hora, Programado",239.0,Airbus A321neo,S24
+1501,,28/Nov/2025,Ryanair,FR9814,London (STN),23:10,"En hora, Programado",189.0,Boeing 737-800,Y58
+1502,,29/Nov/2025,Ryanair,FR846,Milan (BGY),06:00,"En hora, Ha salido",189.0,Boeing 737-800,U31
+1503,,29/Nov/2025,easyJet Europe,EC7105,Geneva (GVA),06:10,"En hora, Ha salido",156.0,Airbus A319,R11
+1504,,29/Nov/2025,Ryanair,FR5718,Bratislava (BTS),06:10,"En hora, Ha salido",189.0,Boeing 737-800,S22
+1505,,29/Nov/2025,Ryanair,FR4545,Porto (OPO),06:15,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U35
+1506,,29/Nov/2025,Ryanair,FR1342,Palma de Mallorca (PMI),06:20,"En hora, Ha salido",189.0,Boeing 737-800,S25
+1507,,29/Nov/2025,Ryanair,FR777,Venice (VCE),06:30,"En hora, Ha salido",189.0,Boeing 737-800,U32
+1508,,29/Nov/2025,easyJet Europe,EC7151,Milan (MXP),07:30,"En hora, Ha salido",156.0,Airbus A319,R15
+1509,,29/Nov/2025,Ryanair,FR2918,Brussels (BRU),08:05,"En hora, Ha salido",189.0,Boeing 737-800,U34
+1510,,29/Nov/2025,Ryanair,FR3180,Rome (FCO),08:15,"En hora, Ha salido",189.0,Boeing 737-800,R13
+1511,,29/Nov/2025,Air Arabia Maroc,3O376,Al Aaroui (NDR),08:35,"En hora, Ha salido",189.0,Airbus A320,W44
+1512,,29/Nov/2025,Ryanair,FR1165,Sevilla (SVQ),08:50,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U35
+1513,,29/Nov/2025,Ryanair,FR575,Bologna (BLQ),08:50,"En hora, Ha salido",189.0,Boeing 737-800,U31
+1514,,29/Nov/2025,Ryanair,FR3166,Palermo (PMO),09:00,"En hora, Ha salido",189.0,Boeing 737-800,S23
+1515,,29/Nov/2025,Wizz Air Malta,W43938,Chisinau (KIV),09:00,"Retrasado, Ha salido 09:15",180.0,Airbus A320,W45
+1516,,29/Nov/2025,Wizz Air,W62048,Krakow (KRK),09:05,"En hora, Ha salido",239.0,Airbus A321neo,S21
+1517,,29/Nov/2025,Ryanair,FR2834,Charleroi (CRL),09:15,"En hora, Ha salido",189.0,Boeing 737-800,R14
+1518,,29/Nov/2025,Ryanair,FR133,Berlin (BER),09:20,"En hora, Ha salido",189.0,Boeing 737-800,S22
+1519,,29/Nov/2025,Ryanair,FR2239,Marrakech (RAK),09:20,"En hora, Ha salido",189.0,Boeing 737-800,Y55
+1520,,29/Nov/2025,Ryanair,FR3028,Ibiza (IBZ),09:20,"En hora, Ha salido",189.0,Boeing 737-800,R11
+1521,,29/Nov/2025,Wizz Air,W61914,Vilnius (VNO),09:20,"Retrasado, Ha salido 11:55",239.0,Airbus A321neo,S24
+1522,,29/Nov/2025,Wizz Air Malta,W43176,Bucharest (OTP),09:25,"Retrasado, Ha salido 09:41",239.0,Airbus A321neo,U38
+1523,,29/Nov/2025,Wizz Air,W62376,Budapest (BUD),09:25,"Retrasado, Ha salido 11:45",239.0,Airbus A321neo,S25
+1524,,29/Nov/2025,BUZZ,RR3049,Krakow (KRK),09:30,"En hora, Ha salido",189.0,Boeing 737-800,R12
+1525,,29/Nov/2025,Wizz Air Malta,W42938,Vienna (VIE),09:35,"En hora, Ha salido",239.0,Airbus A321neo,U32
+1526,,29/Nov/2025,Air Serbia,JU581,Belgrade (BEG),09:55,"Retrasado, Ha salido 11:03",144.0,Airbus A319,W46
+1527,,29/Nov/2025,Ryanair,FR6559,Liverpool (LPL),10:00,"En hora, Ha salido",189.0,Boeing 737-800,Y58
+1528,,29/Nov/2025,Wizz Air Malta,W46018,Rome (FCO),10:00,"En hora, Ha salido",239.0,Airbus A321neo,U35
+1529,,29/Nov/2025,Transavia,HV5132,Amsterdam (AMS),10:05,"En hora, Ha salido",232.0,Airbus A321neo,U34
+1530,,29/Nov/2025,Wizz Air,W61476,Warsaw (WAW),10:15,"En hora, Ha salido",239.0,Airbus A321neo,U31
+1531,,29/Nov/2025,Ryanair,FR9171,Stockholm (ARN),10:20,"En hora, Ha salido",197.0,Boeing 737 MAX 8,S21
+1532,,29/Nov/2025,Easyjet,U22326,London (LTN),10:20,"En hora, Ha salido",156.0,Airbus A319,M8
+1533,,29/Nov/2025,Ryanair,FR3168,Newcastle (NCL),10:25,"En hora, Ha salido",189.0,Boeing 737-800,Y55
+1534,,29/Nov/2025,Ryanair,FR9307,Cork (ORK),10:30,"Retrasado, Ha salido 10:50",197.0,Boeing 737 MAX 8,W44
+1535,,29/Nov/2025,Lauda Europe,LW12,Vienna (VIE),10:30,"En hora, Ha salido",180.0,Airbus A320,R13
+1536,,29/Nov/2025,Easyjet,U28056,London (LGW),10:35,"En hora, Ha salido",156.0,Airbus A319,M1
+1537,,29/Nov/2025,Azerbaijan Airlines,J246,Baku (GYD),10:45,"Retrasado, Ha salido 11:03",122.0,Airbus A319,W45
+1538,,29/Nov/2025,SkyUp MT,U5406,Chisinau (KIV),10:50,"En hora, Ha salido",149.0,Boeing 737-700,W42
+1539,,29/Nov/2025,Easyjet,U22704,Bristol (BRS),10:55,"En hora, Ha salido",186.0,Airbus A320neo,M3
+1540,,29/Nov/2025,Ryanair,FR6394,Dublin (DUB),11:00,"En hora, Ha salido",197.0,Boeing 737 MAX 8,Y59
+1541,,29/Nov/2025,Ryanair,FR4597,Porto (OPO),11:20,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U31
+1542,,29/Nov/2025,easyJet Europe,EC7193,Leeds Bradford (LBA),11:30,"En hora, Ha salido",156.0,Airbus A319,M8
+1543,,29/Nov/2025,Aer Lingus,EI563,Dublin (DUB),11:30,"Retrasado, Ha salido 11:57",174.0,Airbus A320,Y54
+1544,,29/Nov/2025,Ryanair,FR2507,Cologne-Bonn (CGN),11:55,"En hora, Ha salido",189.0,Boeing 737-800,S23
+1545,,29/Nov/2025,Ryanair,FR3108,Luxembourg (LUX),12:05,"Retrasado, Ha salido 12:20",189.0,Boeing 737-800,U37
+1546,,29/Nov/2025,easyJet Europe,EC8064,London (LGW),12:10,"En hora, Ha salido",156.0,Airbus A319,M6
+1547,,29/Nov/2025,Ryanair,FR8231,London (STN),12:25,"Retrasado, Ha salido 12:38",189.0,Boeing 737-800,Y58
+1548,,29/Nov/2025,Pegasus Airlines,PC1092,Istanbul (SAW),12:45,"Retrasado, Ha salido 13:00",156.0,Airbus A321,W45
+1549,,29/Nov/2025,Wizz Air,W67022,Bratislava (BTS),12:55,"En hora, Ha salido",239.0,Airbus A321neo,U31
+1550,,29/Nov/2025,Ryanair,FR483,Malaga (AGP),13:05,"Retrasado, Ha salido 13:40",189.0,Boeing 737-800,S21
+1551,,29/Nov/2025,Boliviana de Aviacion,OB775,Santa Cruz (VVI),13:10,"Retrasado, Programado 14:21",246.0,Airbus A330-200,Y56
+1552,,29/Nov/2025,Wizz Air Malta,W46330,Milan (MXP),13:10,"En hora, Ha salido",239.0,Airbus A321neo,S25
+1553,,29/Nov/2025,easyJet Europe,EC7101,"Basel, Switzerland/Mulhouse (BSL)",13:20,"En hora, Ha salido",156.0,Airbus A319,R9
+1554,,29/Nov/2025,Ryanair,FR7808,London (LTN),13:20,"Retrasado, Ha salido 13:33",197.0,Boeing 737 MAX 8,Y59
+1555,,29/Nov/2025,Ryanair UK,RK6597,Manchester (MAN),13:25,"En hora, Ha salido",189.0,Boeing 737-800,Y54
+1556,,29/Nov/2025,Ryanair,FR2098,Bologna (BLQ),13:30,"En hora, Ha salido",189.0,Boeing 737-800,S20
+1557,,29/Nov/2025,Air Arabia Maroc,3O378,Tanger (TNG),13:35,"Retrasado, Ha salido 14:00",174.0,Airbus A320,W46
+1558,,29/Nov/2025,easyJet Europe,EC7153,Milan (MXP),13:35,"En hora, Ha salido",156.0,Airbus A319,R10
+1559,,29/Nov/2025,AJet 608,VF608,Ankara (ESB),13:40,"En hora, Programado",186.0,Airbus A320,W42
+1560,,29/Nov/2025,Ryanair,FR1681,Frankfurt-Hahn (HHN),14:00,"En hora, Ha salido",189.0,Boeing 737-800,S23
+1561,,29/Nov/2025,Air Baltic,BT684,Riga (RIX),14:05,"Retrasado, Programado 14:21",148.0,Airbus A220-300,U35
+1562,,29/Nov/2025,BUZZ,RR6920,Dublin (DUB),14:05,"En hora, Programado",189.0,Boeing 737-800,W45
+1563,,29/Nov/2025,Ryanair,FR58,Napoli (NAP),14:15,"En hora, Programado",189.0,Boeing 737-800,U32
+1564,,29/Nov/2025,Kuwait Airways,KU136,Kuwait City (KWI),14:25,"En hora, Programado",235.0,Airbus A330-800,W
+1565,,29/Nov/2025,Ryanair,FR3070,Palma de Mallorca (PMI),14:40,"En hora, Programado",189.0,Boeing 737-800,U41
+1566,,29/Nov/2025,Ryanair,FR774,Torino (TRN),14:45,"En hora, Programado",189.0,Boeing 737-800,S24
+1567,,29/Nov/2025,Ryanair,FR3121,Beauvais (BVA),14:50,"En hora, Programado",189.0,Boeing 737-800,U33
+1568,,29/Nov/2025,Ryanair,FR6300,Sofia (SOF),14:55,"En hora, Programado",189.0,Boeing 737-800,U37
+1569,,29/Nov/2025,Ryanair,FR3189,Fes (FEZ),15:30,"En hora, Ha salido",189.0,Boeing 737-800,Y57
+1570,,29/Nov/2025,Wizz Air Malta,W46728,Venice (VCE),15:40,"En hora, Ha salido",239.0,Airbus A321neo,U34
+1571,,29/Nov/2025,Ryanair,FR3807,Charleroi (CRL),16:05,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U37
+1572,,29/Nov/2025,BUZZ,RR8384,Budapest (BUD),16:10,"En hora, Ha salido",189.0,Boeing 737-800,U31
+1573,,29/Nov/2025,Ryanair,FR7543,Manchester (MAN),16:20,"Retrasado, Ha salido 16:31",189.0,Boeing 737-800,Y55
+1574,,29/Nov/2025,Ryanair,FR3146,Oujda (OUD),16:45,"En hora, Ha salido",189.0,Boeing 737-800,Y59
+1575,,29/Nov/2025,Ryanair,FR269,Milan (MXP),16:50,"En hora, Ha salido",189.0,Boeing 737-800,U41
+1576,,29/Nov/2025,Ryanair,FR9015,London (STN),17:00,"En hora, Ha salido",197.0,Boeing 737 MAX 8,W46
+1577,,29/Nov/2025,Ryanair,FR5752,Valletta (MLA),17:10,"Retrasado, Ha salido 18:04",197.0,Boeing 737 MAX 8,S25
+1578,,29/Nov/2025,Ryanair,FR6874,Dublin (DUB),17:40,"En hora, Ha salido",189.0,Boeing 737-800,Y54
+1579,,29/Nov/2025,Ryanair,FR2233,Al Aaroui (NDR),17:50,"En hora, Ha salido",189.0,Boeing 737-800,W42
+1580,,29/Nov/2025,Ryanair,FR2925,Brussels (BRU),17:50,"En hora, Ha salido",197.0,Boeing 737 MAX 8,S24
+1581,,29/Nov/2025,Ryanair,FR6353,Milan (BGY),17:55,"En hora, Ha salido",189.0,Boeing 737-800,U31
+1582,,29/Nov/2025,Bluebird Airways,BZ251,Tel Aviv (TLV),18:00,"Retrasado, Ha salido 18:28",180.0,Airbus A320,Y59
+1583,,29/Nov/2025,easyJet Europe,EC7103,"Basel, Switzerland/Mulhouse (BSL)",18:00,"En hora, Ha salido",156.0,Airbus A319,R11
+1584,,29/Nov/2025,Norwegian Air Shuttle,DY1741,Oslo (OSL),18:15,"Retrasado, Ha salido 18:40",189.0,Boeing 737-800,U32
+1585,,29/Nov/2025,Ryanair,FR878,Venice (VCE),18:15,"Retrasado, Ha salido 18:37",197.0,Boeing 737 MAX 8,U33
+1586,,29/Nov/2025,Transavia,HV5134,Amsterdam (AMS),18:15,"Retrasado, Ha salido 18:28",232.0,Airbus A321neo,U35
+1587,,29/Nov/2025,Ryanair,FR3035,Krakow (KRK),18:20,"En hora, Ha salido",197.0,Boeing 737 MAX 8,S20
+1588,,29/Nov/2025,Ryanair,FR3792,Birmingham (BHX),18:55,"En hora, Ha salido",197.0,Boeing 737 MAX 8,Y55
+1589,,29/Nov/2025,Wizz Air,W61176,Katowice (KTW),18:55,"En hora, Ha salido",239.0,Airbus A321neo,S22
+1590,,29/Nov/2025,Wizz Air,W61478,Warsaw (WAW),19:00,"En hora, Ha salido",239.0,Airbus A321neo,S21
+1591,,29/Nov/2025,Ryanair,FR9045,London (STN),19:05,"En hora, Ha salido",189.0,Boeing 737-800,W45
+1592,,29/Nov/2025,Ryanair,FR5270,Manchester (MAN),19:20,"En hora, Ha salido",189.0,Boeing 737-800,W42
+1593,,29/Nov/2025,Volotea,V72327,Strasbourg (SXB),19:20,"Retrasado, Ha salido 19:32",180.0,Airbus A320,S25
+1594,,29/Nov/2025,Transavia,TO4757,Paris (ORY),19:25,"En hora, Ha salido",186.0,Airbus A320neo,U31
+1595,,29/Nov/2025,Ryanair,FR149,Berlin (BER),19:35,"Retrasado, Ha salido 19:54",189.0,Boeing 737-800,U32
+1596,,29/Nov/2025,Wizz Air,W64406,Sofia (SOF),19:35,"Retrasado, Ha salido 20:22",230.0,Airbus A321,S23
+1597,,29/Nov/2025,Air Baltic,BT878,Tallinn (TLL),19:40,"Retrasado, Ha salido 19:51",148.0,Airbus A220-300,S24
+1598,,29/Nov/2025,Ryanair,FR3078,Lisbon (LIS),19:55,"En hora, Ha salido",189.0,Boeing 737-800,S20
+1599,,29/Nov/2025,Lauda Europe,LW7351,Vienna (VIE),20:05,"En hora, Ha salido",180.0,Airbus A320,R14
+1600,,29/Nov/2025,easyJet Europe,EC1380,Geneva (GVA),20:10,"En hora, Ha salido",180.0,Airbus A320,R11
+1601,,29/Nov/2025,Ryanair,FR867,Venice (VCE),20:20,"Retrasado, Ha salido 20:44",189.0,Boeing 737-800,U31
+1602,,29/Nov/2025,Ryanair,FR9581,Sevilla (SVQ),20:25,"En hora, Ha salido",189.0,Boeing 737-800,S22
+1603,,29/Nov/2025,T'Way Air,TW408,Seoul/Incheon (ICN),20:30,"Retrasado, Programado 21:50",294.0,BOEING 777-300ER,W44
+1604,,29/Nov/2025,Ryanair,FR3182,Malaga (AGP),20:45,"En hora, Ha salido",189.0,Boeing 737-800,S21
+1605,,29/Nov/2025,Ryanair,FR3928,Trieste (TRS),20:45,"En hora, Ha salido",189.0,Boeing 737-800,U33
+1606,,29/Nov/2025,Transavia,TO4759,Paris (ORY),20:45,"En hora, Ha salido",186.0,Airbus A320neo,S25
+1607,,29/Nov/2025,Wizz Air,W62378,Budapest (BUD),20:45,"En hora, Ha salido",239.0,Airbus A321neo,U35
+1608,,29/Nov/2025,Ryanair,FR4585,Porto (OPO),20:50,"En hora, Ha salido",189.0,Boeing 737-800,U34
+1609,,29/Nov/2025,Ryanair,FR6267,Edinburgh (EDI),20:55,"En hora, Ha salido",189.0,Boeing 737-800,W46
+1610,,29/Nov/2025,Ryanair,FR3174,Ibiza (IBZ),21:20,"En hora, Ha salido",189.0,Boeing 737-800,S22
+1611,,29/Nov/2025,Wizz Air Malta,W43178,Bucharest (BBU),21:20,"En hora, Ha salido",230.0,Airbus A321,U32
+1612,,29/Nov/2025,Wizz Air Malta,W43406,Cluj-Napoca (CLJ),21:25,"En hora, Ha salido",180.0,Airbus A320,S24
+1613,,29/Nov/2025,Ryanair,FR5220,Bologna (BLQ),21:30,"En hora, Ha salido",189.0,Boeing 737-800,S20
+1614,,29/Nov/2025,BUZZ,RR3039,Prague (PRG),21:35,"En hora, Ha salido",197.0,Boeing 737 MAX 8,R14
+1615,,29/Nov/2025,Wizz Air Malta,W46020,Rome (FCO),21:35,"En hora, Programado",239.0,Airbus A321neo,S23
+1616,,29/Nov/2025,Ryanair,FR3800,Birmingham (BHX),21:55,"Retrasado, Programado 22:05",189.0,Boeing 737-800,Y55
+1617,,29/Nov/2025,Ryanair,FR8574,Rome (FCO),22:10,"En hora, Programado",189.0,Boeing 737-800,U35
+1618,,29/Nov/2025,Wizz Air,W64116,Belgrade (BEG),22:10,"Retrasado, Programado 22:45",239.0,Airbus A321neo,W
+1619,,29/Nov/2025,Air Arabia Maroc,3O642,Tanger (TNG),22:15,"En hora, Programado",174.0,Airbus A320,Y57
+1620,,30/Nov/2025,Ryanair,FR3180,Rome (FCO),06:00,"En hora, Ha salido",189.0,Boeing 737-800,S20
+1621,,30/Nov/2025,Ryanair,FR2834,Charleroi (CRL),06:10,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U34
+1622,,30/Nov/2025,Ryanair,FR2918,Brussels (BRU),06:25,"En hora, Ha salido",189.0,Boeing 737-800,S24
+1623,,30/Nov/2025,Ryanair,FR4084,Warsaw (WMI),06:25,"En hora, Ha salido",189.0,Boeing 737-800,U35
+1624,,30/Nov/2025,Ryanair,FR2239,Marrakech (RAK),06:30,"En hora, Ha salido",189.0,Boeing 737-800,W45
+1625,,30/Nov/2025,Ryanair,FR2507,Cologne-Bonn (CGN),06:40,"En hora, Ha salido",189.0,Boeing 737-800,U31
+1626,,30/Nov/2025,easyJet Europe,EC7101,"Basel, Switzerland/Mulhouse (BSL)",06:50,"En hora, Ha salido",156.0,Airbus A319,R10
+1627,,30/Nov/2025,easyJet Europe,EC7191,Glasgow (GLA),07:20,"En hora, Ha salido",156.0,Airbus A319,M8
+1628,,30/Nov/2025,Ryanair,FR6597,Manchester (MAN),07:30,"En hora, Ha salido",189.0,Boeing 737-800,W44
+1629,,30/Nov/2025,Ryanair,FR3108,Luxembourg (LUX),07:35,"En hora, Ha salido",189.0,Boeing 737-800,S23
+1630,,30/Nov/2025,Ryanair,FR1165,Sevilla (SVQ),07:50,"En hora, Ha salido",189.0,Boeing 737-800,S25
+1631,,30/Nov/2025,Norwegian Air Sweden AOC,D85510,Copenhagen (CPH),08:00,"En hora, Ha salido",189.0,Boeing 737-800,U37
+1632,,30/Nov/2025,easyJet Europe,EC7131,Nice/Cote D'Azur (NCE),08:00,"En hora, Ha salido",156.0,Airbus A319,R12
+1633,,30/Nov/2025,easyJet Europe,EC3754,Milan (MXP),08:25,"En hora, Ha salido",180.0,Airbus A320,R10
+1634,,30/Nov/2025,Ryanair,FR878,Venice (VCE),08:30,"En hora, Ha salido",189.0,Boeing 737-800,U35
+1635,,30/Nov/2025,easyJet Europe,EC1376,Geneva (GVA),08:35,"En hora, Ha salido",156.0,Airbus A319,R11
+1636,,30/Nov/2025,Volotea,V73735,Murcia (RMU),08:40,"En hora, Ha salido",180.0,Airbus A320,S20
+1637,,30/Nov/2025,BUZZ,RR1786,Vilnius (VNO),09:00,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U33
+1638,,30/Nov/2025,Ryanair,FR3028,Ibiza (IBZ),09:05,"En hora, Ha salido",197.0,Boeing 737 MAX 8,S21
+1639,,30/Nov/2025,Wizz Air,W62048,Krakow (KRK),09:05,"Retrasado, Ha salido 09:48",239.0,Airbus A321neo,S24
+1640,,30/Nov/2025,BUZZ,RR3193,Riga (RIX),09:10,"En hora, Ha salido",189.0,Boeing 737-800,U34
+1641,,30/Nov/2025,Eurowings,EW7521,Hamburg (HAM),09:25,"Retrasado, Ha salido 09:37",150.0,Airbus A319,U31
+1642,,30/Nov/2025,Wizz Air Malta,W43176,Bucharest (OTP),09:25,"En hora, Ha salido",230.0,Airbus A321,S23
+1643,,30/Nov/2025,Wizz Air Malta,W45088,Tirana (TIA),09:25,"En hora, Ha salido",230.0,Airbus A321,W45
+1644,,30/Nov/2025,Wizz Air,W62376,Budapest (BUD),09:25,"Retrasado, Ha salido 09:43",239.0,Airbus A321neo,S25
+1645,,30/Nov/2025,Ryanair,FR4545,Porto (OPO),09:35,"En hora, Ha salido",189.0,Boeing 737-800,R12
+1646,,30/Nov/2025,Wizz Air Malta,W42938,Vienna (VIE),09:35,"En hora, Ha salido",239.0,Airbus A321neo,S22
+1647,,30/Nov/2025,easyJet Europe,EC7656,Lisbon (LIS),09:45,"En hora, Ha salido",230.0,Airbus A321,R10
+1648,,30/Nov/2025,BUZZ,RR333,Gdansk (GDN),09:45,"Retrasado, Ha salido 11:36",189.0,Boeing 737-800,U35
+1649,,30/Nov/2025,BUZZ,RR8384,Budapest (BUD),09:45,"Retrasado, Ha salido 10:34",197.0,Boeing 737 MAX 8,S20
+1650,,30/Nov/2025,Ryanair,FR2495,Palma de Mallorca (PMI),09:50,"En hora, Ha salido",189.0,Boeing 737-800,R11
+1651,,30/Nov/2025,Ryanair,FR6341,Rome (FCO),09:55,"En hora, Ha salido",189.0,Boeing 737-800,U37
+1652,,30/Nov/2025,BUZZ,RR3049,Krakow (KRK),09:55,"Retrasado, Ha salido 10:19",197.0,Boeing 737 MAX 8,R14
+1653,,30/Nov/2025,Ryanair,FR8231,London (STN),10:00,"En hora, Ha salido",189.0,Boeing 737-800,W46
+1654,,30/Nov/2025,Wizz Air Malta,W46018,Rome (FCO),10:00,"En hora, Ha salido",239.0,Airbus A321neo,U35
+1655,,30/Nov/2025,Ryanair,FR6874,Dublin (DUB),10:05,"En hora, Ha salido",197.0,Boeing 737 MAX 8,Y54
+1656,,30/Nov/2025,Lauda Europe,LW7351,Vienna (VIE),10:10,"En hora, Ha salido",180.0,Airbus A320,S21
+1657,,30/Nov/2025,Wizz Air,W61476,Warsaw (WAW),10:15,"En hora, Ha salido",239.0,Airbus A321neo,U33
+1658,,30/Nov/2025,Ryanair,FR575,Bologna (BLQ),10:20,"En hora, Ha salido",189.0,Boeing 737-800,U34
+1659,,30/Nov/2025,Ryanair,FR6267,Edinburgh (EDI),10:30,"En hora, Ha salido",189.0,Boeing 737-800,Y57
+1660,,30/Nov/2025,Ryanair,FR7543,Manchester (MAN),10:40,"En hora, Ha salido",197.0,Boeing 737 MAX 8,W44
+1661,,30/Nov/2025,Ryanair,FR1279,Copenhagen (CPH),10:45,"En hora, Ha salido",189.0,Boeing 737-800,S23
+1662,,30/Nov/2025,Ryanair,FR3143,Milan (BGY),10:45,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U31
+1663,,30/Nov/2025,Azerbaijan Airlines,J246,Baku (GYD),10:45,"Retrasado, Ha salido 11:12",174.0,Airbus A320,Y58
+1664,,30/Nov/2025,Ryanair,FR3166,Palermo (PMO),11:00,"Retrasado, Ha salido 11:20",189.0,Boeing 737-800,S25
+1665,,30/Nov/2025,Norwegian Air Shuttle,DY1741,Oslo (OSL),11:15,En hora,189.0,Boeing 737 MAX 8,S
+1666,,30/Nov/2025,Aer Lingus,EI563,Dublin (DUB),11:30,"En hora, Ha salido",186.0,Airbus A320neo,W45
+1667,,30/Nov/2025,easyJet Europe,EC7139,Rennes/Saint-Jacques (RNS),11:45,"En hora, Ha salido",180.0,Airbus A320,R9
+1668,,30/Nov/2025,Icelandair,FI597,Keflavik (KEF),11:50,"En hora, Ha salido",160.0,Boeing 737 MAX 8,R13
+1669,,30/Nov/2025,Lauda Europe,LW2889,Palma de Mallorca (PMI),11:55,"En hora, Ha salido",180.0,Airbus A320,R14
+1670,,30/Nov/2025,Volotea,V72327,Strasbourg (SXB),11:55,"En hora, Ha salido",156.0,Airbus A319,S20
+1671,,30/Nov/2025,Ryanair,FR3129,Ibiza (IBZ),12:05,"En hora, Ha salido",189.0,Boeing 737-800,S21
+1672,,30/Nov/2025,Ryanair,FR3976,Dublin (DUB),12:25,"En hora, Ha salido",197.0,Boeing 737 MAX 8,W42
+1673,,30/Nov/2025,Ryanair,FR1527,Valletta (MLA),12:30,"En hora, Ha salido",189.0,Boeing 737-800,U33
+1674,,30/Nov/2025,Ryanair,FR2402,Sevilla (SVQ),12:30,"En hora, Ha salido",189.0,Boeing 737-800,S25
+1675,,30/Nov/2025,Volotea,V72167,Lille/Lesquin (LIL),12:35,"En hora, Ha salido",180.0,Airbus A320,S22
+1676,,30/Nov/2025,Ryanair,FR6300,Sofia (SOF),12:45,"En hora, Ha salido",189.0,Boeing 737-800,S23
+1677,,30/Nov/2025,Pegasus Airlines,PC1092,Istanbul (SAW),12:45,"En hora, Ha salido",220.0,Airbus A321,Y55
+1678,,30/Nov/2025,Ryanair,FR2511,Cologne-Bonn (CGN),12:55,"En hora, Ha salido",189.0,Boeing 737-800,U34
+1679,,30/Nov/2025,Ryanair,FR8598,Reggio Calabria (REG),13:05,"En hora, Ha salido",189.0,Boeing 737-800,U32
+1680,,30/Nov/2025,Volotea,V71445,Olbia (OLB),13:05,"En hora, Ha salido",180.0,Airbus A320,S20
+1681,,30/Nov/2025,Wizz Air Malta,W46330,Milan (MXP),13:10,"Retrasado, Ha salido 13:27",230.0,Airbus A321,S24
+1682,,30/Nov/2025,Ryanair,FR3121,Beauvais (BVA),13:20,"En hora, Ha salido",189.0,Boeing 737-800,U31
+1683,,30/Nov/2025,Easyjet,U28056,London (LGW),13:25,"En hora, Ha salido",156.0,Airbus A319,M6
+1684,,30/Nov/2025,easyJet Europe,EC1380,Geneva (GVA),13:40,"En hora, Ha salido",180.0,Airbus A320,R9
+1685,,30/Nov/2025,Ryanair,FR9811,London (STN),13:40,"En hora, Ha salido",189.0,Boeing 737-800,W45
+1686,,30/Nov/2025,Ryanair,FR483,Malaga (AGP),13:50,En hora,189.0,Boeing 737-800,S
+1687,,30/Nov/2025,Air Baltic,BT684,Riga (RIX),14:05,"En hora, Programado",148.0,Airbus A220-300,S23
+1688,,30/Nov/2025,easyJet Europe,EC7153,Milan (MXP),14:05,"En hora, Ha salido",156.0,Airbus A319,R10
+1689,,30/Nov/2025,Ryanair,FR1342,Palma de Mallorca (PMI),14:05,"En hora, Ha salido",189.0,Boeing 737-800,U35
+1690,,30/Nov/2025,Ryanair,FR6920,Dublin (DUB),14:05,"En hora, Programado",197.0,Boeing 737 MAX 8,W44
+1691,,30/Nov/2025,Ryanair,FR4585,Porto (OPO),14:10,"En hora, Programado",189.0,Boeing 737-800,S25
+1692,,30/Nov/2025,SunExpress,XQ895,Izmir (ADB),14:15,"En hora, Programado",189.0,Boeing 737-800,Y54
+1693,,30/Nov/2025,Transavia,HV5132,Amsterdam (AMS),14:20,"En hora, Programado",189.0,Boeing 737-800,U
+1694,,30/Nov/2025,easyJet Europe,EC7107,Geneva (GVA),14:25,"En hora, Programado",156.0,Airbus A319,R12
+1695,,30/Nov/2025,Norwegian Air Sweden AOC,D85502,Stockholm (ARN),14:40,"En hora, Programado",189.0,Boeing 737-800,U37
+1696,,30/Nov/2025,Bluebird Airways,BZ251,Tel Aviv (TLV),14:45,"En hora, Programado",189.0,Boeing 737-800,Y
+1697,,30/Nov/2025,Ryanair,FR269,Milan (MXP),14:55,"En hora, Programado",189.0,Boeing 737-800,S21
+1698,,30/Nov/2025,SmartWings,QS1059,Prague (PRG),14:55,"En hora, Programado",189.0,Boeing 737-800,U
+1699,,30/Nov/2025,Ryanair,FR3320,Milan (BGY),15:00,"En hora, Programado",189.0,Boeing 737-800,S22
+1700,,30/Nov/2025,Ryanair,FR774,Torino (TRN),15:15,"En hora, Ha salido",189.0,Boeing 737-800,S20
+1701,,30/Nov/2025,BUZZ,RR3072,Prague (PRG),15:15,"En hora, Ha salido",189.0,Boeing 737-800,U31
+1702,,30/Nov/2025,Transavia,TO4755,Paris (ORY),15:15,"Retrasado, Ha salido 15:28",186.0,Airbus A320neo,U33
+1703,,30/Nov/2025,easyJet Europe,EC7694,Lisbon (LIS),15:20,"Retrasado, Ha salido 15:33",180.0,Airbus A320,R10
+1704,,30/Nov/2025,Ryanair,FR6973,Rome (FCO),15:30,"Retrasado, Ha salido 15:33",197.0,Boeing 737 MAX 8,S24
+1705,,30/Nov/2025,Air Arabia Maroc,3O378,Tanger (TNG),15:35,"Retrasado, Ha salido 15:54",174.0,Airbus A320,Y55
+1706,,30/Nov/2025,Wizz Air Malta,W46728,Venice (VCE),15:40,"En hora, Ha salido",239.0,Airbus A321neo,U35
+1707,,30/Nov/2025,Ryanair,FR133,Berlin (BER),16:15,"En hora, Ha salido",189.0,Boeing 737-800,S25
+1708,,30/Nov/2025,Ryanair,FR2922,Brussels (BRU),16:15,"En hora, Ha salido",189.0,Boeing 737-800,S23
+1709,,30/Nov/2025,easyJet Europe,EC7173,Berlin (BER),16:30,"En hora, Ha salido",180.0,Airbus A320,R11
+1710,,30/Nov/2025,Ryanair,FR9814,London (STN),16:40,"En hora, Ha salido",189.0,Boeing 737-800,W44
+1711,,30/Nov/2025,Ryanair,FR8669,Dublin (DUB),16:55,"En hora, Ha salido",189.0,Boeing 737-800,W42
+1712,,30/Nov/2025,Air Arabia Maroc,3O374,Casablanca (CMN),17:00,"En hora, Ha salido",180.0,Airbus A320,Y57
+1713,,30/Nov/2025,Ryanair,FR2250,Marrakech (RAK),17:00,"Retrasado, Ha salido 17:10",189.0,Boeing 737-800,Y55
+1714,,30/Nov/2025,BUZZ,RR8394,Budapest (BUD),17:15,"Retrasado, Ha salido 17:18",197.0,Boeing 737 MAX 8,U33
+1715,,30/Nov/2025,Ryanair,FR5718,Bratislava (BTS),17:20,"Retrasado, Ha salido 17:25",189.0,Boeing 737-800,S21
+1716,,30/Nov/2025,Ryanair,FR12,Vienna (VIE),17:40,"En hora, Ha salido",189.0,Boeing 737-800,S23
+1717,,30/Nov/2025,Volotea,V73573,Asturias (OVD),17:40,"Retrasado, Ha salido 18:08",156.0,Airbus A319,U35
+1718,,30/Nov/2025,BUZZ,RR5252,Krakow (KRK),17:50,"En hora, Ha salido",189.0,Boeing 737-800,U32
+1719,,30/Nov/2025,Ryanair,FR1681,Frankfurt-Hahn (HHN),18:00,"En hora, Ha salido",189.0,Boeing 737-800,U31
+1720,,30/Nov/2025,Ryanair,FR777,Venice (VCE),18:00,"En hora, Ha salido",197.0,Boeing 737 MAX 8,U37
+1721,,30/Nov/2025,Ryanair,FR6305,Milan (BGY),18:05,"En hora, Ha salido",189.0,Boeing 737-800,S24
+1722,,30/Nov/2025,easyJet Europe,EC7109,Geneva (GVA),18:15,"En hora, Ha salido",156.0,Airbus A319,R12
+1723,,30/Nov/2025,Volotea,V73700,Vitoria (VIT),18:20,"En hora, Ha salido",180.0,Airbus A320,U33
+1724,,30/Nov/2025,Ryanair,FR2406,Sevilla (SVQ),18:30,"En hora, Ha salido",189.0,Boeing 737-800,U34
+1725,,30/Nov/2025,Wizz Air Malta,W43686,Iasi (IAS),18:30,"En hora, Ha salido",180.0,Airbus A320,S20
+1726,,30/Nov/2025,Jet2,LS804,Manchester (MAN),18:35,"En hora, Ha salido",189.0,Boeing 737-800,W45
+1727,,30/Nov/2025,easyJet Europe,EC7103,"Basel, Switzerland/Mulhouse (BSL)",18:45,"Retrasado, Ha salido 18:48",156.0,Airbus A319,R10
+1728,,30/Nov/2025,Ryanair,FR8631,Tanger (TNG),18:45,"En hora, Ha salido",189.0,Boeing 737-800,W42
+1729,,30/Nov/2025,Transavia,HV6066,Rotterdam (RTM),18:50,"En hora, Ha salido",189.0,Boeing 737-800,S25
+1730,,30/Nov/2025,Easyjet,U25716,Southend (SEN),18:55,"En hora, Ha salido",186.0,Airbus A320neo,M8
+1731,,30/Nov/2025,Wizz Air,W61176,Katowice (KTW),18:55,"En hora, Ha salido",180.0,Airbus A320,S21
+1732,,30/Nov/2025,Wizz Air,W61478,Warsaw (WAW),19:00,"En hora, Ha salido",239.0,Airbus A321neo,S24
+1733,,30/Nov/2025,easyJet Europe,EC7159,Milan (LIN),19:05,"Retrasado, Ha salido 19:56",156.0,Airbus A319,R13
+1734,,30/Nov/2025,Wizz Air Malta,W43180,Bucharest (OTP),19:05,"En hora, Ha salido",230.0,Airbus A321,S22
+1735,,30/Nov/2025,Ryanair,FR6394,Dublin (DUB),19:10,"En hora, Ha salido",197.0,Boeing 737 MAX 8,Y54
+1736,,30/Nov/2025,Ryanair,FR3160,Bristol (BRS),19:25,"Retrasado, Ha salido 19:25",189.0,Boeing 737-800,Y57
+1737,,30/Nov/2025,Volotea,V72165,Nantes/Atlantique (NTE),19:30,"En hora, Ha salido",156.0,Airbus A319,S20
+1738,,30/Nov/2025,Wizz Air,W64406,Sofia (SOF),19:35,"En hora, Ha salido",239.0,Airbus A321neo,U31
+1739,,30/Nov/2025,Ryanair,FR2233,Al Aaroui (NDR),19:40,"En hora, Ha salido",189.0,Boeing 737-800,W
+1740,,30/Nov/2025,easyJet Europe,EC3750,Milan (MXP),19:45,"Retrasado, Ha salido 19:56",180.0,Airbus A320,R11
+1741,,30/Nov/2025,Ryanair,FR5710,Napoli (NAP),19:45,"En hora, Ha salido",189.0,Boeing 737-800,U35
+1742,,30/Nov/2025,Ryanair,FR9015,London (STN),19:45,"En hora, Ha salido",189.0,Boeing 737-800,Y55
+1743,,30/Nov/2025,Easyjet,U28058,London (LGW),19:45,"En hora, Ha salido",180.0,Airbus A320,M6
+1744,,30/Nov/2025,Wizz Air,W64666,Larnaca (LCA),19:55,"Retrasado, Ha salido 20:52",230.0,Airbus A321,W44
+1745,,30/Nov/2025,Ryanair,FR8136,Ibiza (IBZ),20:10,"En hora, Ha salido",189.0,Boeing 737-800,R14
+1746,,30/Nov/2025,Wizz Air,W62096,Krakow (KRK),20:10,"Retrasado, Ha salido 21:04",239.0,Airbus A321neo,S20
+1747,,30/Nov/2025,easyJet Europe,EC4212,Napoli (NAP),20:20,"En hora, Ha salido",180.0,Airbus A320,R9
+1748,,30/Nov/2025,Transavia,HV6788,Eindhoven (EIN),20:20,"En hora, Ha salido",189.0,Boeing 737-800,S25
+1749,,30/Nov/2025,Wizz Air,W67022,Bratislava (BTS),20:20,"Retrasado, Ha salido 20:30",239.0,Airbus A321neo,S21
+1750,,30/Nov/2025,Ryanair,FR6985,Rome (FCO),20:30,"Retrasado, Ha salido 20:58",197.0,Boeing 737 MAX 8,R13
+1751,,30/Nov/2025,Eurowings,EW521,Cologne-Bonn (CGN),20:35,"Retrasado, Programado 21:30",180.0,Airbus A320,U35
+1752,,30/Nov/2025,Air Serbia,JU585,Belgrade (BEG),20:35,"Retrasado, Ha salido 20:47",144.0,Airbus A319,Y57
+1753,,30/Nov/2025,Norwegian Air Sweden AOC,D83659,Copenhagen (CPH),20:40,"En hora, Ha salido",189.0,Boeing 737 MAX 8,S23
+1754,,30/Nov/2025,Eurowings,EW2521,Stuttgart (STR),20:40,"En hora, Ha salido",180.0,Airbus A320,U32
+1755,,30/Nov/2025,Ryanair,FR4587,Porto (OPO),20:40,"En hora, Ha salido",189.0,Boeing 737-800,R10
+1756,,30/Nov/2025,Luxair,LG3596,Luxembourg (LUX),20:40,"Retrasado, Ha salido 21:30",142.0,Boeing 737-700,U33
+1757,,30/Nov/2025,Transavia,TO4759,Paris (ORY),20:45,"En hora, Ha salido",189.0,Boeing 737-800,U34
+1758,,30/Nov/2025,Wizz Air,W62378,Budapest (BUD),20:45,"Retrasado, Ha salido 21:17",239.0,Airbus A321neo,S22
+1759,,30/Nov/2025,Ryanair,FR6275,Edinburgh (EDI),20:50,"En hora, Ha salido",197.0,Boeing 737 MAX 8,W45
+1760,,30/Nov/2025,BUZZ,RR6944,Warsaw (WMI),20:50,"En hora, Ha salido",189.0,Boeing 737-800,R12
+1761,,30/Nov/2025,Easyjet,U22326,London (LTN),20:55,"En hora, Ha salido",186.0,Airbus A320neo,M8
+1762,,30/Nov/2025,Wizz Air,W64738,Skopje (SKP),20:55,"Retrasado, Ha salido 21:06",239.0,Airbus A321neo,W46
+1763,,30/Nov/2025,BUZZ,RR8615,Budapest (BUD),21:00,"En hora, Ha salido",189.0,Boeing 737-800,R11
+1764,,30/Nov/2025,Aer Lingus,EI565,Dublin (DUB),21:05,"En hora, Ha salido",174.0,Airbus A320,W42
+1765,,30/Nov/2025,Ryanair,FR2896,Palma de Mallorca (PMI),21:15,"En hora, Ha salido",189.0,Boeing 737-800,R14
+1766,,30/Nov/2025,Transavia,HV5134,Amsterdam (AMS),21:15,"Retrasado, Ha salido 21:45",189.0,Boeing 737-800,S26
+1767,,30/Nov/2025,Ryanair,FR3792,Birmingham (BHX),21:20,"En hora, Ha salido",189.0,Boeing 737-800,Y58
+1768,,30/Nov/2025,Wizz Air Malta,W43178,Bucharest (BBU),21:20,"En hora, Ha salido",230.0,Airbus A321,U31
+1769,,30/Nov/2025,Wizz Air Malta,W43406,Cluj-Napoca (CLJ),21:25,"Retrasado, Ha salido 21:49",180.0,Airbus A320,U38
+1770,,30/Nov/2025,Easyjet,U28060,London (LGW),21:30,"En hora, Ha salido",156.0,Airbus A319,M6
+1771,,30/Nov/2025,Wizz Air Malta,W46020,Rome (FCO),21:35,"Retrasado, Programado 22:04",239.0,Airbus A321neo,S21
+1772,,30/Nov/2025,Ryanair,FR5752,Valletta (MLA),21:45,"En hora, Ha salido",197.0,Boeing 737 MAX 8,S25
+1773,,30/Nov/2025,Easyjet,U22706,Bristol (BRS),21:50,"En hora, Ha salido",186.0,Airbus A320neo,M3
+1774,,30/Nov/2025,Volotea,V71415,Verona (VRN),21:55,"En hora, Ha salido",180.0,Airbus A320,U34
+1775,,30/Nov/2025,Wizz Air,W64116,Belgrade (BEG),21:55,"En hora, Ha salido",239.0,Airbus A321neo,W44
+1776,,30/Nov/2025,Wizz Air Malta,W45154,Tirana (TIA),22:45,"Retrasado, Programado 23:18",230.0,Airbus A321,W
+1777,,30/Nov/2025,Ryanair,FR5220,Bologna (BLQ),22:50,"En hora, Programado",197.0,Boeing 737 MAX 8,S24
+1778,,30/Nov/2025,Wizz Air,W61706,Gdansk (GDN),22:50,"En hora, Programado",230.0,Airbus A321,U31
+1779,,30/Nov/2025,Ryanair,FR9406,Fes (FEZ),23:15,"En hora, Programado",189.0,Boeing 737-800,Y

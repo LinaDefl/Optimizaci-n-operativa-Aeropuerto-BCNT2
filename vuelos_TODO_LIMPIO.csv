@@ -1,0 +1,1780 @@
+,fecha_scrapeo,Name_company,Num_flight,Name_Destiny,Time_flight,flight_state,flight_capacity,Aircraft,Gate,Type_f,week_day,day_time
+0,2025-11-17,Grupo Ryanair,FR3180,Rome (FCO),06:00:00,En hora,189,Boeing 737-800,U,EU,Lunes,Mañana
+1,2025-11-17,Grupo Ryanair,FR846,Milan (BGY),06:10:00,Retrasado,189,Boeing 737-800,S,EU,Lunes,Mañana
+2,2025-11-17,Grupo easy,EC7105,Geneva (GVA),06:15:00,En hora,156,Airbus A319,R,EU,Lunes,Mañana
+3,2025-11-17,Grupo Ryanair,FR2233,Al Aaroui (NDR),06:20:00,Retrasado,189,Boeing 737-800,W,INT,Lunes,Mañana
+4,2025-11-17,Grupo Ryanair,FR8384,Budapest (BUD),06:25:00,En hora,189,Boeing 737-800,R,EU,Lunes,Mañana
+5,2025-11-17,Grupo Ryanair,FR3078,Lisbon (LIS),06:30:00,En hora,189,Boeing 737-800,U,EU,Lunes,Mañana
+6,2025-11-17,Grupo easy,EC8062,London (LGW),06:45:00,Retrasado,156,Airbus A319,R,EU,Lunes,Mañana
+7,2025-11-17,Grupo Ryanair,FR3035,Krakow (KRK),06:45:00,En hora,189,Boeing 737-800,S,EU,Lunes,Mañana
+8,2025-11-17,Grupo Ryanair,FR8215,London (STN),06:45:00,En hora,197,Boeing 737 MAX 8,Y,INT,Lunes,Mañana
+9,2025-11-17,Grupo easy,EC7141,Strasbourg (SXB),07:20:00,En hora,156,Airbus A319,R,EU,Lunes,Mañana
+10,2025-11-17,Grupo easy,EC7151,Milan (MXP),07:20:00,En hora,156,Airbus A319,R,EU,Lunes,Mañana
+11,2025-11-17,Grupo Ryanair,FR3028,Ibiza (IBZ),07:35:00,En hora,189,Boeing 737-800,U,NAC,Lunes,Mañana
+12,2025-11-17,Grupo Ryanair,LW1342,Palma de Mallorca (PMI),07:40:00,En hora,180,Airbus A320,R,NAC,Lunes,Mañana
+13,2025-11-17,Grupo Ryanair,FR1165,Sevilla (SVQ),07:55:00,En hora,189,Boeing 737-800,S,NAC,Lunes,Mañana
+14,2025-11-17,Norwegian Air Sweden AOC,D85510,Copenhagen (CPH),08:00:00,En hora,189,Boeing 737-800,U,EU,Lunes,Mañana
+15,2025-11-17,Grupo Ryanair,FR58,Napoli (NAP),08:35:00,En hora,197,Boeing 737 MAX 8,U,EU,Lunes,Mañana
+16,2025-11-17,Grupo Ryanair,FR575,Bologna (BLQ),08:40:00,En hora,189,Boeing 737-800,S,EU,Lunes,Mañana
+17,2025-11-17,Grupo easy,EC1376,Geneva (GVA),08:45:00,En hora,156,Airbus A319,R,EU,Lunes,Mañana
+18,2025-11-17,Grupo Ryanair,LW12,Vienna (VIE),09:00:00,En hora,180,Airbus A320,R,EU,Lunes,Mañana
+19,2025-11-17,Grupo Ryanair,FR6078,Ouarzazate (OZZ),09:05:00,En hora,189,Boeing 737-800,W,INT,Lunes,Mañana
+20,2025-11-17,Grupo wizz,W62048,Krakow (KRK),09:05:00,En hora,239,Airbus A321neo,S,EU,Lunes,Mañana
+21,2025-11-17,Volotea,V72327,Strasbourg (SXB),09:10:00,Retrasado,180,Airbus A320,U,EU,Lunes,Mañana
+22,2025-11-17,Air Arabia Maroc,3O398,Rabat (RBA),09:20:00,En hora,174,Airbus A320,Y,INT,Lunes,Mañana
+23,2025-11-17,Eurowings,EW2521,Stuttgart (STR),09:20:00,En hora,180,Airbus A320,S,EU,Lunes,Mañana
+24,2025-11-17,Grupo wizz,W43176,Bucharest (OTP),09:25:00,En hora,230,Airbus A321,U,EU,Lunes,Mañana
+25,2025-11-17,Grupo wizz,W45088,Tirana (TIA),09:25:00,En hora,239,Airbus A321neo,W,INT,Lunes,Mañana
+26,2025-11-17,Grupo wizz,W62376,Budapest (BUD),09:25:00,En hora,239,Airbus A321neo,U,EU,Lunes,Mañana
+27,2025-11-17,Volotea,V73573,Asturias (OVD),09:30:00,Retrasado,156,Airbus A319,S,NAC,Lunes,Mañana
+28,2025-11-17,Grupo easy,EC1030,"Basel, Switzerland/Mulhouse (BSL)",09:35:00,En hora,180,Airbus A320,R,EU,Lunes,Mañana
+29,2025-11-17,Grupo Ryanair,FR2834,Charleroi (CRL),09:40:00,Retrasado,189,Boeing 737-800,U,EU,Lunes,Mañana
+30,2025-11-17,Transavia,HV6062,Rotterdam (RTM),09:40:00,En hora,189,Boeing 737-800,S,EU,Lunes,Mañana
+31,2025-11-17,Eurowings,EW9441,Dusseldorf (DUS),09:45:00,En hora,180,Airbus A320,S,EU,Lunes,Mañana
+32,2025-11-17,Grupo Ryanair,FR2495,Palma de Mallorca (PMI),09:45:00,Retrasado,189,Boeing 737-800,R,NAC,Lunes,Mañana
+33,2025-11-17,Grupo Ryanair,FR4545,Porto (OPO),09:50:00,En hora,189,Boeing 737-800,R,EU,Lunes,Mañana
+34,2025-11-17,Air Serbia,JU581,Belgrade (BEG),09:55:00,En hora,144,Airbus A319,W,INT,Lunes,Mañana
+35,2025-11-17,Grupo easy,EC7656,Lisbon (LIS),10:00:00,En hora,230,Airbus A321,R,EU,Lunes,Mañana
+36,2025-11-17,Transavia,HV5132,Amsterdam (AMS),10:05:00,En hora,189,Boeing 737-800,U,EU,Lunes,Mañana
+37,2025-11-17,Transavia,TO4751,Paris (ORY),10:05:00,Retrasado,189,Boeing 737-800,U,EU,Lunes,Mañana
+38,2025-11-17,Grupo wizz,W46018,Rome (FCO),10:05:00,Retrasado,239,Airbus A321neo,U,EU,Lunes,Mañana
+39,2025-11-17,Grupo Ryanair,FR6559,Liverpool (LPL),10:15:00,En hora,189,Boeing 737-800,W,INT,Lunes,Mañana
+40,2025-11-17,Grupo wizz,W61476,Warsaw (WAW),10:15:00,Retrasado,230,Airbus A321,S,EU,Lunes,Mañana
+41,2025-11-17,Grupo Ryanair,FR3143,Milan (BGY),10:20:00,Retrasado,189,Boeing 737-800,U,EU,Lunes,Mañana
+42,2025-11-17,Grupo easy,U22324,London (LTN),10:25:00,Retrasado,186,Airbus A320neo,M,INT,Lunes,Mañana
+43,2025-11-17,Grupo Ryanair,FR7808,London (LTN),10:35:00,En hora,197,Boeing 737 MAX 8,Y,INT,Lunes,Mañana
+44,2025-11-17,Grupo easy,EC7131,Nice/Cote D'Azur (NCE),10:40:00,En hora,156,Airbus A319,R,EU,Lunes,Mañana
+45,2025-11-17,Grupo easy,U28056,London (LGW),10:40:00,Retrasado,180,Airbus A320,M,INT,Lunes,Mañana
+46,2025-11-17,Grupo Ryanair,FR2239,Marrakech (RAK),10:45:00,En hora,189,Boeing 737-800,Y,INT,Lunes,Mañana
+47,2025-11-17,Grupo Ryanair,FR3121,Beauvais (BVA),10:45:00,En hora,189,Boeing 737-800,U,EU,Lunes,Mañana
+48,2025-11-17,Grupo Ryanair,FR3976,Dublin (DUB),10:45:00,En hora,189,Boeing 737-800,W,INT,Lunes,Mañana
+49,2025-11-17,Grupo Ryanair,FR3039,Prague (PRG),10:55:00,Retrasado,189,Boeing 737-800,U,EU,Lunes,Mañana
+50,2025-11-17,Grupo Ryanair,FR9045,London (STN),11:00:00,En hora,189,Boeing 737-800,W,INT,Lunes,Mañana
+51,2025-11-17,Grupo easy,U22002,Manchester (MAN),11:20:00,Retrasado,180,Airbus A320,M,INT,Lunes,Mañana
+52,2025-11-17,FLYONE Armenia,3F232,Yerevan (EVN),11:30:00,En hora,180,Airbus A320,Y,INT,Lunes,Mañana
+53,2025-11-17,Aer Lingus,EI563,Dublin (DUB),11:30:00,En hora,174,Airbus A320,Y,INT,Lunes,Mañana
+54,2025-11-17,Grupo Ryanair,FR7539,Milan (MXP),11:30:00,En hora,189,Boeing 737-800,R,EU,Lunes,Mañana
+55,2025-11-17,Transavia,TO4755,Paris (ORY),11:30:00,En hora,189,Boeing 737-800,U,EU,Lunes,Mañana
+56,2025-11-17,Grupo Ryanair,FR1279,Copenhagen (CPH),11:35:00,En hora,189,Boeing 737-800,S,EU,Lunes,Mañana
+57,2025-11-17,Grupo easy,EC7197,Birmingham (BHX),11:40:00,En hora,156,Airbus A319,R,EU,Lunes,Mañana
+58,2025-11-17,Grupo Ryanair,FR777,Venice (VCE),11:55:00,En hora,197,Boeing 737 MAX 8,S,EU,Lunes,Mañana
+59,2025-11-17,Grupo Ryanair,FR8217,London (STN),12:00:00,En hora,189,Boeing 737-800,W,INT,Lunes,Tarde
+60,2025-11-17,Jet2,LS232,Leeds Bradford (LBA),12:00:00,En hora,189,Boeing 737-800,W,INT,Lunes,Tarde
+61,2025-11-17,Grupo Ryanair,FR3129,Ibiza (IBZ),12:35:00,Retrasado,189,Boeing 737-800,R,NAC,Lunes,Tarde
+62,2025-11-17,Grupo Ryanair,FR6973,Rome (FCO),12:35:00,Retrasado,197,Boeing 737 MAX 8,S,EU,Lunes,Tarde
+63,2025-11-17,Grupo Ryanair,FR774,Torino (TRN),12:40:00,En hora,189,Boeing 737-800,S,EU,Lunes,Tarde
+64,2025-11-17,Pegasus Airlines,PC1092,Istanbul (SAW),12:45:00,En hora,180,Airbus A320,W,INT,Lunes,Tarde
+65,2025-11-17,Norwegian Air Sweden AOC,D83657,Copenhagen (CPH),12:50:00,En hora,189,Boeing 737 MAX 8,S,EU,Lunes,Tarde
+66,2025-11-17,Grupo easy,EC7137,Lyon (LYS),12:55:00,En hora,156,Airbus A319,R,EU,Lunes,Tarde
+67,2025-11-17,Grupo wizz,W67022,Bratislava (BTS),12:55:00,Retrasado,239,Airbus A321neo,S,EU,Lunes,Tarde
+68,2025-11-17,Grupo Ryanair,FR3108,Luxembourg (LUX),13:00:00,Retrasado,197,Boeing 737 MAX 8,U,EU,Lunes,Tarde
+69,2025-11-17,Grupo wizz,W46330,Milan (MXP),13:10:00,En hora,239,Airbus A321neo,U,EU,Lunes,Tarde
+70,2025-11-17,Grupo Ryanair,FR8631,Tanger (TNG),13:20:00,En hora,189,Boeing 737-800,Y,INT,Lunes,Tarde
+71,2025-11-17,HiSky,H4264,Bucharest (OTP),13:20:00,En hora,186,Airbus A320,S,EU,Lunes,Tarde
+72,2025-11-17,Norwegian Air Sweden AOC,D81741,Oslo (OSL),13:25:00,En hora,189,Boeing 737-800,U,EU,Lunes,Tarde
+73,2025-11-17,Eurowings,EW521,Cologne-Bonn (CGN),13:25:00,En hora,180,Airbus A320,U,EU,Lunes,Tarde
+74,2025-11-17,Pegasus Airlines,PC1528,Izmir (ADB),13:30:00,En hora,180,Airbus A320,Y,INT,Lunes,Tarde
+75,2025-11-17,Luxair,LG3592,Luxembourg (LUX),13:35:00,Retrasado,76,de Havilland Dash 8-400,U,EU,Lunes,Tarde
+76,2025-11-17,Grupo easy,EC7153,Milan (MXP),13:40:00,Retrasado,156,Airbus A319,R,EU,Lunes,Tarde
+77,2025-11-17,Grupo Ryanair,FR4585,Porto (OPO),13:40:00,Retrasado,189,Boeing 737-800,S,EU,Lunes,Tarde
+78,2025-11-17,Turkish Airlines,TK608,Ankara (ESB),13:40:00,Retrasado,165,Boeing 737-800,Y,INT,Lunes,Tarde
+79,2025-11-17,Grupo Ryanair,FR3189,Fes (FEZ),13:50:00,Retrasado,189,Boeing 737-800,W,INT,Lunes,Tarde
+80,2025-11-17,Jet2,LS804,Manchester (MAN),13:50:00,En hora,189,Boeing 737-800,W,INT,Lunes,Tarde
+81,2025-11-17,Grupo Ryanair,FR3792,Birmingham (BHX),13:55:00,En hora,189,Boeing 737-800,W,INT,Lunes,Tarde
+82,2025-11-17,Air Baltic,BT684,Riga (RIX),14:05:00,Retrasado,148,Airbus A220-300,U,EU,Lunes,Tarde
+83,2025-11-17,Grupo Ryanair,FR2889,Palma de Mallorca (PMI),14:05:00,Retrasado,189,Boeing 737-800,S,NAC,Lunes,Tarde
+84,2025-11-17,Norwegian Air Sweden AOC,D85502,Stockholm (ARN),14:40:00,En hora,189,Boeing 737-800,U,EU,Lunes,Tarde
+85,2025-11-17,Bluebird Airways,BZ251,Tel Aviv (TLV),14:45:00,En hora,189,Boeing 737-800,W,INT,Lunes,Tarde
+86,2025-11-17,Grupo easy,EC7107,Geneva (GVA),14:45:00,Retrasado,156,Airbus A319,R,EU,Lunes,Tarde
+87,2025-11-17,Volotea,V71443,Ancona (AOI),14:45:00,En hora,180,Airbus A320,S,EU,Lunes,Tarde
+88,2025-11-17,Grupo wizz,W64406,Sofia (SOF),14:50:00,Retrasado,239,Airbus A321neo,S,EU,Lunes,Tarde
+89,2025-11-17,Grupo easy,EC4212,Napoli (NAP),14:55:00,En hora,180,Airbus A320,R,EU,Lunes,Tarde
+90,2025-11-17,SmartWings,QS1059,Prague (PRG),14:55:00,Retrasado,189,Boeing 737-800,S,EU,Lunes,Tarde
+91,2025-11-17,Air Arabia Maroc,3O376,Al Aaroui (NDR),15:00:00,En hora,174,Airbus A320,Y,INT,Lunes,Tarde
+92,2025-11-17,Grupo Ryanair,FR3146,Oujda (OUD),15:10:00,En hora,189,Boeing 737-800,Y,INT,Lunes,Tarde
+93,2025-11-17,Grupo Ryanair,FR1681,Frankfurt-Hahn (HHN),15:35:00,En hora,189,Boeing 737-800,U,EU,Lunes,Tarde
+94,2025-11-17,Grupo wizz,W46728,Venice (VCE),15:40:00,En hora,230,Airbus A321,S,EU,Lunes,Tarde
+95,2025-11-17,Pegasus Airlines,PC1094,Istanbul (SAW),15:45:00,Retrasado,239,Airbus A321neo,W,INT,Lunes,Tarde
+96,2025-11-17,Grupo Ryanair,FR867,Venice (VCE),16:05:00,En hora,189,Boeing 737-800,U,EU,Lunes,Tarde
+97,2025-11-17,Grupo Ryanair,FR9811,London (STN),16:05:00,En hora,189,Boeing 737-800,Y,INT,Lunes,Tarde
+98,2025-11-17,Grupo wizz,W43564,Timisoara (TSR),16:25:00,Retrasado,180,Airbus A320,S,EU,Lunes,Tarde
+99,2025-11-17,Volotea,V73735,Murcia (RMU),16:35:00,En hora,180,Airbus A320,R,NAC,Lunes,Tarde
+100,2025-11-17,Grupo Ryanair,FR2507,Cologne-Bonn (CGN),16:45:00,En hora,197,Boeing 737 MAX 8,U,EU,Lunes,Tarde
+101,2025-11-17,Grupo Ryanair,FR5718,Bratislava (BTS),16:50:00,En hora,189,Boeing 737-800,U,EU,Lunes,Tarde
+102,2025-11-17,Grupo Ryanair,FR6305,Milan (BGY),16:50:00,En hora,189,Boeing 737-800,S,EU,Lunes,Tarde
+103,2025-11-17,Grupo Ryanair,RR6874,Dublin (DUB),16:55:00,Retrasado,189,Boeing 737-800,W,INT,Lunes,Tarde
+104,2025-11-17,Grupo easy,U23372,Liverpool (LPL),17:00:00,En hora,156,Airbus A319,M,INT,Lunes,Tarde
+105,2025-11-17,Grupo Ryanair,FR5270,Manchester (MAN),17:05:00,En hora,189,Boeing 737-800,Y,INT,Lunes,Tarde
+106,2025-11-17,Grupo Ryanair,RR6300,Sofia (SOF),17:05:00,En hora,189,Boeing 737-800,S,EU,Lunes,Tarde
+107,2025-11-17,Grupo easy,EC7173,Berlin (BER),17:10:00,En hora,156,Airbus A319,R,EU,Lunes,Tarde
+108,2025-11-17,Volotea,V73700,Vitoria (VIT),17:15:00,En hora,156,Airbus A319,S,NAC,Lunes,Tarde
+109,2025-11-17,Grupo wizz,W67920,Kopitnari (KUT),17:15:00,Retrasado,239,Airbus A321neo,W,INT,Lunes,Tarde
+110,2025-11-17,Grupo Ryanair,FR1786,Vilnius (VNO),17:30:00,En hora,189,Boeing 737-800,S,EU,Lunes,Tarde
+111,2025-11-17,Grupo Ryanair,FR2922,Brussels (BRU),17:30:00,En hora,189,Boeing 737-800,U,EU,Lunes,Tarde
+112,2025-11-17,Grupo easy,EC3737,Milan (MXP),17:35:00,En hora,180,Airbus A320,R,EU,Lunes,Tarde
+113,2025-11-17,Grupo easy,EC7199,Edinburgh (EDI),17:35:00,En hora,156,Airbus A319,R,EU,Lunes,Tarde
+114,2025-11-17,Transavia,HV5134,Amsterdam (AMS),17:50:00,Retrasado,232,Airbus A321neo,R,EU,Lunes,Tarde
+115,2025-11-17,Grupo Ryanair,RR333,Gdansk (GDN),17:55:00,En hora,189,Boeing 737-800,U,EU,Lunes,Tarde
+116,2025-11-17,Grupo Ryanair,FR269,Milan (MXP),18:00:00,Retrasado,189,Boeing 737-800,U,EU,Lunes,Tarde
+117,2025-11-17,Grupo easy,EC7205,Southampton (SOU),18:05:00,En hora,156,Airbus A319,R,EU,Lunes,Tarde
+118,2025-11-17,Grupo Ryanair,FR3320,Milan (BGY),18:30:00,En hora,197,Boeing 737 MAX 8,S,EU,Lunes,Tarde
+119,2025-11-17,Grupo wizz,W43686,Iasi (IAS),18:30:00,En hora,180,Airbus A320,R,EU,Lunes,Tarde
+120,2025-11-17,Grupo Ryanair,FR3174,Ibiza (IBZ),18:45:00,Retrasado,189,Boeing 737-800,S,NAC,Lunes,Tarde
+121,2025-11-17,Grupo wizz,W61478,Warsaw (WAW),19:00:00,En hora,239,Airbus A321neo,S,EU,Lunes,Tarde
+122,2025-11-17,Grupo Ryanair,FR3185,Rabat (RBA),19:05:00,Retrasado,189,Boeing 737-800,Y,INT,Lunes,Tarde
+123,2025-11-17,Grupo Ryanair,FR9307,Cork (ORK),19:15:00,En hora,189,Boeing 737-800,Y,INT,Lunes,Tarde
+124,2025-11-17,Grupo Ryanair,FR8231,London (STN),19:25:00,En hora,189,Boeing 737-800,Y,INT,Lunes,Tarde
+125,2025-11-17,Eurowings,EW7521,Hamburg (HAM),19:40:00,En hora,180,Airbus A320,U,EU,Lunes,Tarde
+126,2025-11-17,Grupo Ryanair,LW2896,Palma de Mallorca (PMI),19:40:00,En hora,180,Airbus A320,S,NAC,Lunes,Tarde
+127,2025-11-17,Grupo wizz,W61706,Gdansk (GDN),19:40:00,En hora,239,Airbus A321neo,S,EU,Lunes,Tarde
+128,2025-11-17,Grupo Ryanair,FR133,Berlin (BER),19:45:00,En hora,197,Boeing 737 MAX 8,R,EU,Lunes,Tarde
+129,2025-11-17,Grupo Ryanair,LW7351,Vienna (VIE),19:45:00,En hora,180,Airbus A320,R,EU,Lunes,Tarde
+130,2025-11-17,Grupo easy,U28058,London (LGW),19:45:00,En hora,156,Airbus A319,M,INT,Lunes,Tarde
+131,2025-11-17,Volotea,V71415,Verona (VRN),19:55:00,En hora,180,Airbus A320,U,EU,Lunes,Tarde
+132,2025-11-17,Grupo wizz,W64666,Larnaca (LCA),19:55:00,En hora,230,Airbus A321,W,INT,Lunes,Tarde
+133,2025-11-17,Grupo Ryanair,FR3080,Malaga (AGP),20:00:00,En hora,189,Boeing 737-800,S,NAC,Lunes,Noche
+134,2025-11-17,Air Arabia Maroc,3O378,Tanger (TNG),20:05:00,En hora,174,Airbus A320,W,INT,Lunes,Noche
+135,2025-11-17,Grupo Ryanair,FR3807,Charleroi (CRL),20:05:00,En hora,189,Boeing 737-800,S,EU,Lunes,Noche
+136,2025-11-17,Grupo Ryanair,FR6341,Rome (FCO),20:10:00,En hora,189,Boeing 737-800,S,EU,Lunes,Noche
+137,2025-11-17,Grupo Ryanair,FR6597,Manchester (MAN),20:10:00,En hora,189,Boeing 737-800,Y,INT,Lunes,Noche
+138,2025-11-17,Grupo easy,EC1956,Milan (LIN),20:15:00,En hora,180,Airbus A320,R,EU,Lunes,Noche
+139,2025-11-17,Grupo wizz,W42940,Vienna (VIE),20:20:00,Retrasado,239,Airbus A321neo,S,EU,Lunes,Noche
+140,2025-11-17,Grupo easy,EC1010,"Basel, Switzerland/Mulhouse (BSL)",20:30:00,En hora,156,Airbus A319,R,EU,Lunes,Noche
+141,2025-11-17,T'Way Air,TW408,Seoul/Incheon (ICN),20:30:00,En hora,246,Airbus A330-200,W,INT,Lunes,Noche
+142,2025-11-17,Volotea,V72135,Bordeaux (BOD),20:30:00,En hora,180,Airbus A320,S,EU,Lunes,Noche
+143,2025-11-17,Air Serbia,JU585,Belgrade (BEG),20:35:00,En hora,144,Airbus A319,W,INT,Lunes,Noche
+144,2025-11-17,Grupo Ryanair,FR5710,Napoli (NAP),20:40:00,En hora,189,Boeing 737-800,U,EU,Lunes,Noche
+145,2025-11-17,Grupo Ryanair,RR8394,Budapest (BUD),20:40:00,Retrasado,197,Boeing 737 MAX 8,U,EU,Lunes,Noche
+146,2025-11-17,Transavia,TO4759,Paris (ORY),20:45:00,En hora,186,Airbus A320neo,U,EU,Lunes,Noche
+147,2025-11-17,Grupo wizz,W62378,Budapest (BUD),20:45:00,Retrasado,239,Airbus A321neo,U,EU,Lunes,Noche
+148,2025-11-17,Grupo Ryanair,FR2098,Bologna (BLQ),20:50:00,En hora,189,Boeing 737-800,U,EU,Lunes,Noche
+149,2025-11-17,Grupo Ryanair,FR3928,Trieste (TRS),20:50:00,En hora,189,Boeing 737-800,R,EU,Lunes,Noche
+150,2025-11-17,Volotea,V72165,Nantes/Atlantique (NTE),20:50:00,Retrasado,156,Airbus A319,R,EU,Lunes,Noche
+151,2025-11-17,Grupo Ryanair,FR878,Venice (VCE),20:55:00,En hora,189,Boeing 737-800,U,EU,Lunes,Noche
+152,2025-11-17,Aer Lingus,EI565,Dublin (DUB),21:05:00,En hora,174,Airbus A320,Y,INT,Lunes,Noche
+153,2025-11-17,Grupo Ryanair,FR6275,Edinburgh (EDI),21:05:00,En hora,197,Boeing 737 MAX 8,Y,INT,Lunes,Noche
+154,2025-11-17,Grupo Ryanair,FR6920,Dublin (DUB),21:10:00,En hora,189,Boeing 737-800,Y,INT,Lunes,Noche
+155,2025-11-17,Grupo easy,EC1380,Geneva (GVA),21:20:00,Retrasado,180,Airbus A320,R,EU,Lunes,Noche
+156,2025-11-17,Grupo wizz,W43178,Bucharest (BBU),21:20:00,Retrasado,230,Airbus A321,S,EU,Lunes,Noche
+157,2025-11-17,Grupo wizz,W43406,Cluj-Napoca (CLJ),21:25:00,En hora,180,Airbus A320,S,EU,Lunes,Noche
+158,2025-11-17,Grupo Ryanair,FR2402,Sevilla (SVQ),21:30:00,Retrasado,189,Boeing 737-800,U,NAC,Lunes,Noche
+159,2025-11-17,Grupo Ryanair,RR4084,Warsaw (WMI),21:30:00,Retrasado,189,Boeing 737-800,R,EU,Lunes,Noche
+160,2025-11-17,Grupo wizz,W46020,Rome (FCO),21:35:00,Retrasado,239,Airbus A321neo,S,EU,Lunes,Noche
+161,2025-11-17,Grupo Ryanair,FR3168,Newcastle (NCL),21:45:00,En hora,189,Boeing 737-800,W,INT,Lunes,Noche
+162,2025-11-17,Grupo Ryanair,FR4587,Porto (OPO),21:45:00,En hora,197,Boeing 737 MAX 8,S,EU,Lunes,Noche
+163,2025-11-17,Grupo Ryanair,FR1527,Valletta (MLA),21:50:00,Retrasado,197,Boeing 737 MAX 8,S,EU,Lunes,Noche
+164,2025-11-17,Grupo Ryanair,FR2250,Marrakech (RAK),21:50:00,En hora,197,Boeing 737 MAX 8,S,EU,Lunes,Noche
+165,2025-11-17,Grupo easy,U22706,Bristol (BRS),21:55:00,En hora,180,Airbus A320,M,INT,Lunes,Noche
+166,2025-11-17,Grupo wizz,W64116,Belgrade (BEG),21:55:00,En hora,239,Airbus A321neo,Y,INT,Lunes,Noche
+167,2025-11-17,Grupo Ryanair,FR8574,Rome (FCO),22:20:00,En hora,189,Boeing 737-800,U,EU,Lunes,Noche
+168,2025-11-17,Grupo wizz,W45154,Tirana (TIA),22:45:00,En hora,230,Airbus A321,W,INT,Lunes,Noche
+169,2025-11-18,Grupo easy,EC7105,Geneva (GVA),06:00:00,En hora,156,Airbus A319,R,EU,Martes,Mañana
+170,2025-11-18,Grupo Ryanair,FR3189,Fes (FEZ),06:15:00,En hora,189,Boeing 737-800,W,INT,Martes,Mañana
+171,2025-11-18,Grupo Ryanair,FR2507,Cologne-Bonn (CGN),06:20:00,En hora,197,Boeing 737 MAX 8,U,EU,Martes,Mañana
+172,2025-11-18,Grupo Ryanair,FR4545,Porto (OPO),06:35:00,En hora,197,Boeing 737 MAX 8,U,EU,Martes,Mañana
+173,2025-11-18,Grupo easy,EC8062,London (LGW),07:30:00,En hora,156,Airbus A319,R,EU,Martes,Mañana
+174,2025-11-18,Grupo Ryanair,FR3166,Palermo (PMO),07:35:00,En hora,189,Boeing 737-800,S,EU,Martes,Mañana
+175,2025-11-18,Grupo Ryanair,FR5718,Bratislava (BTS),07:35:00,En hora,189,Boeing 737-800,U,EU,Martes,Mañana
+176,2025-11-18,Grupo Ryanair,FR3193,Riga (RIX),07:55:00,En hora,189,Boeing 737-800,U,EU,Martes,Mañana
+177,2025-11-18,Grupo easy,EC3737,Milan (MXP),08:00:00,En hora,180,Airbus A320,R,EU,Martes,Mañana
+178,2025-11-18,Grupo Ryanair,FR133,Berlin (BER),08:50:00,En hora,189,Boeing 737-800,S,EU,Martes,Mañana
+179,2025-11-18,Grupo wizz,W43938,Chisinau (KIV),09:00:00,En hora,180,Airbus A320,W,INT,Martes,Mañana
+180,2025-11-18,Grupo wizz,W62048,Krakow (KRK),09:05:00,En hora,239,Airbus A321neo,S,EU,Martes,Mañana
+181,2025-11-18,Grupo Ryanair,FR3035,Krakow (KRK),09:10:00,En hora,189,Boeing 737-800,R,EU,Martes,Mañana
+182,2025-11-18,Grupo Ryanair,FR3807,Charleroi (CRL),09:10:00,En hora,189,Boeing 737-800,U,EU,Martes,Mañana
+183,2025-11-18,Grupo wizz,W61914,Vilnius (VNO),09:20:00,En hora,239,Airbus A321neo,U,EU,Martes,Mañana
+184,2025-11-18,Grupo wizz,W43176,Bucharest (OTP),09:25:00,En hora,239,Airbus A321neo,U,EU,Martes,Mañana
+185,2025-11-18,Grupo wizz,W62376,Budapest (BUD),09:25:00,Retrasado,239,Airbus A321neo,S,EU,Martes,Mañana
+186,2025-11-18,Transavia,TO4751,Paris (ORY),09:30:00,En hora,232,Airbus A321neo,U,EU,Martes,Mañana
+187,2025-11-18,Grupo wizz,W42938,Vienna (VIE),09:35:00,En hora,239,Airbus A321neo,U,EU,Martes,Mañana
+188,2025-11-18,Air Arabia Maroc,3O378,Tanger (TNG),09:45:00,En hora,174,Airbus A320,Y,INT,Martes,Mañana
+189,2025-11-18,Eurowings,EW9441,Dusseldorf (DUS),09:45:00,En hora,150,Airbus A319,S,EU,Martes,Mañana
+190,2025-11-18,Air Serbia,JU581,Belgrade (BEG),09:55:00,En hora,144,Airbus A319,Y,INT,Martes,Mañana
+191,2025-11-18,Grupo Ryanair,LW12,Vienna (VIE),10:15:00,En hora,180,Airbus A320,U,EU,Martes,Mañana
+192,2025-11-18,Grupo wizz,W61476,Warsaw (WAW),10:15:00,En hora,239,Airbus A321neo,S,EU,Martes,Mañana
+193,2025-11-18,Grupo Ryanair,FR1279,Copenhagen (CPH),10:25:00,En hora,197,Boeing 737 MAX 8,S,EU,Martes,Mañana
+194,2025-11-18,Grupo Ryanair,FR5270,Manchester (MAN),10:30:00,En hora,197,Boeing 737 MAX 8,W,INT,Martes,Mañana
+195,2025-11-18,Azerbaijan Airlines,J246,Baku (GYD),10:45:00,En hora,186,Airbus A320neo,Y,INT,Martes,Mañana
+196,2025-11-18,Aer Lingus,EI563,Dublin (DUB),11:30:00,En hora,174,Airbus A320,W,INT,Martes,Mañana
+197,2025-11-18,Grupo Ryanair,FR58,Napoli (NAP),11:40:00,En hora,189,Boeing 737-800,S,EU,Martes,Mañana
+198,2025-11-18,Icelandair,FI597,Keflavik (KEF),11:50:00,En hora,160,Boeing 737 MAX 8,U,EU,Martes,Mañana
+199,2025-11-18,Grupo Ryanair,FR3108,Luxembourg (LUX),12:15:00,En hora,189,Boeing 737-800,U,EU,Martes,Tarde
+200,2025-11-18,Grupo easy,EC7151,Milan (MXP),12:20:00,En hora,156,Airbus A319,R,EU,Martes,Tarde
+201,2025-11-18,Norwegian Air Sweden AOC,D83657,Copenhagen (CPH),12:30:00,En hora,189,Boeing 737 MAX 8,U,EU,Martes,Tarde
+202,2025-11-18,Grupo Ryanair,FR8384,Budapest (BUD),12:35:00,En hora,197,Boeing 737 MAX 8,U,EU,Martes,Tarde
+203,2025-11-18,Pegasus Airlines,PC1092,Istanbul (SAW),12:45:00,Retrasado,239,Airbus A321neo,W,INT,Martes,Tarde
+204,2025-11-18,Grupo Ryanair,FR6267,Edinburgh (EDI),12:55:00,En hora,197,Boeing 737 MAX 8,Y,INT,Martes,Tarde
+205,2025-11-18,Norwegian Air Shuttle,DY1741,Oslo (OSL),13:25:00,Retrasado,197,Boeing 737 MAX 8,U,EU,Martes,Tarde
+206,2025-11-18,FlyOne,5F5512,Chisinau (KIV),13:30:00,En hora,194,Airbus A321,W,INT,Martes,Tarde
+207,2025-11-18,Luxair,LG3592,Luxembourg (LUX),13:40:00,En hora,186,Boeing 737-800,U,EU,Martes,Tarde
+208,2025-11-18,Grupo Ryanair,FR2239,Marrakech (RAK),14:00:00,En hora,189,Boeing 737-800,W,INT,Martes,Tarde
+209,2025-11-18,Grupo Ryanair,FR3076,Stockholm (ARN),14:05:00,Retrasado,189,Boeing 737-800,S,EU,Martes,Tarde
+210,2025-11-18,Kuwait Airways,KU136,Kuwait City (KWI),14:25:00,Retrasado,235,Airbus A330-800,W,INT,Martes,Tarde
+211,2025-11-18,Bluebird Airways,BZ251,Tel Aviv (TLV),14:45:00,Retrasado,189,Boeing 737-800,Y,INT,Martes,Tarde
+212,2025-11-18,Grupo Ryanair,FR3792,Birmingham (BHX),16:20:00,En hora,197,Boeing 737 MAX 8,Y,INT,Martes,Tarde
+213,2025-11-18,Grupo Ryanair,FR846,Milan (BGY),16:55:00,En hora,189,Boeing 737-800,U,EU,Martes,Tarde
+214,2025-11-18,Grupo Ryanair,FR1165,Sevilla (SVQ),17:05:00,En hora,197,Boeing 737 MAX 8,S,NAC,Martes,Tarde
+215,2025-11-18,Grupo Ryanair,FR575,Bologna (BLQ),17:25:00,En hora,197,Boeing 737 MAX 8,U,EU,Martes,Tarde
+216,2025-11-18,Transavia,HV5134,Amsterdam (AMS),17:45:00,En hora,189,Boeing 737-800,U,EU,Martes,Tarde
+217,2025-11-18,Grupo Ryanair,FR3180,Rome (FCO),18:00:00,En hora,189,Boeing 737-800,U,EU,Martes,Tarde
+218,2025-11-18,Grupo easy,EC7103,"Basel, Switzerland/Mulhouse (BSL)",18:10:00,En hora,156,Airbus A319,R,EU,Martes,Tarde
+219,2025-11-18,Grupo Ryanair,RR6300,Sofia (SOF),18:15:00,En hora,197,Boeing 737 MAX 8,U,EU,Martes,Tarde
+220,2025-11-18,Grupo Ryanair,FR777,Venice (VCE),18:40:00,En hora,189,Boeing 737-800,U,EU,Martes,Tarde
+221,2025-11-18,Grupo Ryanair,FR2834,Charleroi (CRL),18:45:00,En hora,197,Boeing 737 MAX 8,U,EU,Martes,Tarde
+222,2025-11-18,Grupo wizz,W61176,Katowice (KTW),18:55:00,En hora,239,Airbus A321neo,S,EU,Martes,Tarde
+223,2025-11-18,Grupo wizz,W61478,Warsaw (WAW),19:00:00,En hora,239,Airbus A321neo,S,EU,Martes,Tarde
+224,2025-11-18,Grupo Ryanair,FR9015,London (STN),19:25:00,En hora,189,Boeing 737-800,Y,INT,Martes,Tarde
+225,2025-11-18,Eurowings,EW9443,Dusseldorf (DUS),19:35:00,En hora,180,Airbus A320,S,EU,Martes,Tarde
+226,2025-11-18,Grupo wizz,W64406,Sofia (SOF),19:35:00,En hora,230,Airbus A321,S,EU,Martes,Tarde
+227,2025-11-18,Grupo easy,U28058,London (LGW),19:45:00,En hora,156,Airbus A319,M,INT,Martes,Tarde
+228,2025-11-18,Transavia,HV6790,Eindhoven (EIN),19:55:00,En hora,189,Boeing 737-800,U,EU,Martes,Tarde
+229,2025-11-18,Air Arabia Maroc,3O642,Tanger (TNG),20:00:00,En hora,174,Airbus A320,Y,INT,Martes,Noche
+230,2025-11-18,Grupo easy,EC1956,Milan (LIN),20:15:00,En hora,180,Airbus A320,R,EU,Martes,Noche
+231,2025-11-18,Grupo Ryanair,RR4084,Warsaw (WMI),20:15:00,Retrasado,189,Boeing 737-800,U,EU,Martes,Noche
+232,2025-11-18,Transavia,TO4759,Paris (ORY),20:45:00,En hora,186,Airbus A320neo,S,EU,Martes,Noche
+233,2025-11-18,Grupo easy,EC1380,Geneva (GVA),21:15:00,En hora,180,Airbus A320,R,EU,Martes,Noche
+234,2025-11-18,Grupo Ryanair,FR6394,Dublin (DUB),21:15:00,En hora,197,Boeing 737 MAX 8,W,INT,Martes,Noche
+235,2025-11-18,Grupo wizz,W46020,Rome (FCO),21:35:00,En hora,239,Airbus A321neo,S,EU,Martes,Noche
+236,2025-11-18,Grupo Ryanair,FR4585,Porto (OPO),22:00:00,En hora,197,Boeing 737 MAX 8,U,EU,Martes,Noche
+237,2025-11-19,Grupo Ryanair,FR2918,Brussels (BRU),06:05:00,En hora,189,Boeing 737-800,U,EU,Miércoles,Mañana
+238,2025-11-19,Grupo Ryanair,FR3185,Rabat (RBA),06:05:00,En hora,189,Boeing 737-800,Y,INT,Miércoles,Mañana
+239,2025-11-19,Grupo Ryanair,FR9406,Fes (FEZ),06:05:00,En hora,189,Boeing 737-800,W,INT,Miércoles,Mañana
+240,2025-11-19,Grupo Ryanair,FR483,Malaga (AGP),06:15:00,En hora,189,Boeing 737-800,U,NAC,Miércoles,Mañana
+241,2025-11-19,Grupo easy,EC7193,Leeds Bradford (LBA),06:30:00,En hora,156,Airbus A319,R,EU,Miércoles,Mañana
+242,2025-11-19,Grupo Ryanair,FR2239,Marrakech (RAK),06:35:00,En hora,189,Boeing 737-800,Y,INT,Miércoles,Mañana
+243,2025-11-19,Grupo Ryanair,FR3028,Ibiza (IBZ),06:45:00,En hora,189,Boeing 737-800,U,NAC,Miércoles,Mañana
+244,2025-11-19,Grupo Ryanair,FR3108,Luxembourg (LUX),06:50:00,En hora,197,Boeing 737 MAX 8,U,EU,Miércoles,Mañana
+245,2025-11-19,Grupo easy,EC8062,London (LGW),07:20:00,En hora,156,Airbus A319,R,EU,Miércoles,Mañana
+246,2025-11-19,Grupo easy,EC3737,Milan (MXP),08:25:00,En hora,180,Airbus A320,R,EU,Miércoles,Mañana
+247,2025-11-19,Grupo easy,EC7161,Napoli (NAP),09:20:00,En hora,156,Airbus A319,R,EU,Miércoles,Mañana
+248,2025-11-19,Grupo wizz,W43176,Bucharest (OTP),09:25:00,En hora,230,Airbus A321,U,EU,Miércoles,Mañana
+249,2025-11-19,Grupo wizz,W62376,Budapest (BUD),09:25:00,En hora,239,Airbus A321neo,U,EU,Miércoles,Mañana
+250,2025-11-19,Grupo Ryanair,RR8384,Budapest (BUD),09:30:00,Retrasado,189,Boeing 737-800,R,EU,Miércoles,Mañana
+251,2025-11-19,Air Arabia Maroc,3O376,Al Aaroui (NDR),09:35:00,En hora,174,Airbus A320,Y,INT,Miércoles,Mañana
+252,2025-11-19,Grupo wizz,W42940,Vienna (VIE),09:35:00,Retrasado,239,Airbus A321neo,S,EU,Miércoles,Mañana
+253,2025-11-19,Eurowings,EW9441,Dusseldorf (DUS),09:45:00,En hora,150,Airbus A319,S,EU,Miércoles,Mañana
+254,2025-11-19,Grupo Ryanair,FR2834,Charleroi (CRL),09:45:00,En hora,197,Boeing 737 MAX 8,U,EU,Miércoles,Mañana
+255,2025-11-19,Grupo Ryanair,FR4545,Porto (OPO),09:45:00,En hora,197,Boeing 737 MAX 8,U,EU,Miércoles,Mañana
+256,2025-11-19,Grupo Ryanair,RR3049,Krakow (KRK),09:55:00,Retrasado,197,Boeing 737 MAX 8,U,EU,Miércoles,Mañana
+257,2025-11-19,Air Arabia Maroc,3O642,Tanger (TNG),10:05:00,En hora,174,Airbus A320,W,INT,Miércoles,Mañana
+258,2025-11-19,Transavia,HV5132,Amsterdam (AMS),10:05:00,En hora,232,Airbus A321neo,U,EU,Miércoles,Mañana
+259,2025-11-19,Grupo Ryanair,FR3078,Lisbon (LIS),10:15:00,En hora,189,Boeing 737-800,S,EU,Miércoles,Mañana
+260,2025-11-19,Grupo wizz,W61476,Warsaw (WAW),10:15:00,En hora,230,Airbus A321,S,EU,Miércoles,Mañana
+261,2025-11-19,Grupo Ryanair,FR3039,Prague (PRG),10:20:00,En hora,189,Boeing 737-800,S,EU,Miércoles,Mañana
+262,2025-11-19,Air Baltic,BT878,Tallinn (TLL),10:35:00,Retrasado,148,Airbus A220-300,U,EU,Miércoles,Mañana
+263,2025-11-19,Grupo Ryanair,FR6267,Edinburgh (EDI),10:45:00,Retrasado,197,Boeing 737 MAX 8,W,INT,Miércoles,Mañana
+264,2025-11-19,SkyUp MT,U5406,Chisinau (KIV),10:50:00,Retrasado,149,Boeing 737-700,Y,INT,Miércoles,Mañana
+265,2025-11-19,Grupo easy,U22704,Bristol (BRS),10:55:00,En hora,186,Airbus A320neo,M,INT,Miércoles,Mañana
+266,2025-11-19,Grupo Ryanair,FR2507,Cologne-Bonn (CGN),11:00:00,En hora,197,Boeing 737 MAX 8,R,EU,Miércoles,Mañana
+267,2025-11-19,Aer Lingus,EI563,Dublin (DUB),11:30:00,En hora,174,Airbus A320,Y,INT,Miércoles,Mañana
+268,2025-11-19,Grupo Ryanair,FR575,Bologna (BLQ),11:40:00,En hora,189,Boeing 737-800,U,EU,Miércoles,Mañana
+269,2025-11-19,Grupo Ryanair,FR9925,Frankfurt-Hahn (HHN),12:35:00,En hora,189,Boeing 737-800,U,EU,Miércoles,Tarde
+270,2025-11-19,Pegasus Airlines,PC1092,Istanbul (SAW),12:45:00,Retrasado,239,Airbus A321neo,Y,INT,Miércoles,Tarde
+271,2025-11-19,Grupo Ryanair,FR6597,Manchester (MAN),13:00:00,En hora,197,Boeing 737 MAX 8,Y,INT,Miércoles,Tarde
+272,2025-11-19,Grupo Ryanair,FR3792,Birmingham (BHX),13:10:00,En hora,189,Boeing 737-800,W,INT,Miércoles,Tarde
+273,2025-11-19,HiSky,H4264,Bucharest (OTP),13:20:00,En hora,186,Airbus A320,R,EU,Miércoles,Tarde
+274,2025-11-19,Norwegian Air Shuttle,DY1741,Oslo (OSL),13:25:00,Retrasado,189,Boeing 737-800,U,EU,Miércoles,Tarde
+275,2025-11-19,Eurowings,EW521,Cologne-Bonn (CGN),13:25:00,Retrasado,226,Airbus A321,U,EU,Miércoles,Tarde
+276,2025-11-19,Luxair,LG3592,Luxembourg (LUX),13:40:00,Retrasado,76,de Havilland Dash 8-400,U,EU,Miércoles,Tarde
+277,2025-11-19,Turkish Airlines,TK608,Ankara (ESB),13:40:00,Retrasado,165,Boeing 737-800,W,INT,Miércoles,Tarde
+278,2025-11-19,Bluebird Airways,BZ251,Tel Aviv (TLV),14:45:00,En hora,180,Airbus A320,Y,INT,Miércoles,Tarde
+279,2025-11-19,Norwegian Air Sweden AOC,D83659,Copenhagen (CPH),14:45:00,En hora,189,Boeing 737-800,S,EU,Miércoles,Tarde
+280,2025-11-19,Eurowings,EW2521,Stuttgart (STR),15:10:00,Retrasado,150,Airbus A319,S,EU,Miércoles,Tarde
+281,2025-11-19,Grupo Ryanair,FR777,Venice (VCE),15:10:00,Retrasado,197,Boeing 737 MAX 8,U,EU,Miércoles,Tarde
+282,2025-11-19,Grupo Ryanair,FR12,Vienna (VIE),15:15:00,En hora,197,Boeing 737 MAX 8,U,EU,Miércoles,Tarde
+283,2025-11-19,Pegasus Airlines,PC1094,Istanbul (SAW),15:45:00,Retrasado,220,Airbus A321,W,INT,Miércoles,Tarde
+284,2025-11-19,Volotea,V71415,Verona (VRN),15:45:00,En hora,180,Airbus A320,R,EU,Miércoles,Tarde
+285,2025-11-19,Grupo Ryanair,FR3035,Krakow (KRK),16:15:00,En hora,197,Boeing 737 MAX 8,U,EU,Miércoles,Tarde
+286,2025-11-19,Transavia,TO4755,Paris (ORY),16:45:00,En hora,186,Airbus A320neo,U,EU,Miércoles,Tarde
+287,2025-11-19,Grupo Ryanair,FR3928,Trieste (TRS),16:50:00,En hora,189,Boeing 737-800,U,EU,Miércoles,Tarde
+288,2025-11-19,Grupo Ryanair,FR5718,Bratislava (BTS),16:50:00,En hora,189,Boeing 737-800,U,EU,Miércoles,Tarde
+289,2025-11-19,Grupo wizz,W67920,Kopitnari (KUT),17:15:00,En hora,239,Airbus A321neo,Y,INT,Miércoles,Tarde
+290,2025-11-19,Grupo Ryanair,FR4585,Porto (OPO),17:30:00,En hora,189,Boeing 737-800,U,EU,Miércoles,Tarde
+291,2025-11-19,Iberojet,E9803,Palmerola (XPL),17:40:00,En hora,432,Airbus A350-900,S,NAC,Miércoles,Tarde
+292,2025-11-19,Grupo Ryanair,FR3180,Rome (FCO),18:00:00,En hora,189,Boeing 737-800,S,EU,Miércoles,Tarde
+293,2025-11-19,Grupo wizz,W43686,Iasi (IAS),18:30:00,En hora,180,Airbus A320,S,EU,Miércoles,Tarde
+294,2025-11-19,Grupo easy,EC7103,"Basel, Switzerland/Mulhouse (BSL)",18:35:00,En hora,156,Airbus A319,R,EU,Miércoles,Tarde
+295,2025-11-19,Grupo easy,EC7155,Milan (MXP),19:00:00,En hora,156,Airbus A319,R,EU,Miércoles,Tarde
+296,2025-11-19,Grupo Ryanair,FR8231,London (STN),19:00:00,En hora,189,Boeing 737-800,W,INT,Miércoles,Tarde
+297,2025-11-19,Grupo wizz,W61478,Warsaw (WAW),19:00:00,Retrasado,239,Airbus A321neo,S,EU,Miércoles,Tarde
+298,2025-11-19,Grupo Ryanair,FR1165,Sevilla (SVQ),19:10:00,En hora,197,Boeing 737 MAX 8,S,NAC,Miércoles,Tarde
+299,2025-11-19,Grupo Ryanair,FR9334,Marrakech (RAK),19:10:00,En hora,189,Boeing 737-800,W,INT,Miércoles,Tarde
+300,2025-11-19,Grupo Ryanair,FR1342,Palma de Mallorca (PMI),19:15:00,En hora,189,Boeing 737-800,U,NAC,Miércoles,Tarde
+301,2025-11-19,Eurowings,EW9443,Dusseldorf (DUS),19:35:00,Retrasado,180,Airbus A320,S,EU,Miércoles,Tarde
+302,2025-11-19,Grupo Ryanair,FR133,Berlin (BER),19:35:00,En hora,197,Boeing 737 MAX 8,U,EU,Miércoles,Tarde
+303,2025-11-19,Transavia,HV6064,Rotterdam (RTM),19:40:00,Retrasado,189,Boeing 737-800,U,EU,Miércoles,Tarde
+304,2025-11-19,Grupo easy,U28058,London (LGW),19:45:00,En hora,180,Airbus A320,M,INT,Miércoles,Tarde
+305,2025-11-19,Grupo wizz,W61706,Gdansk (GDN),19:50:00,Retrasado,239,Airbus A321neo,U,EU,Miércoles,Tarde
+306,2025-11-19,Grupo Ryanair,FR3143,Milan (BGY),19:55:00,En hora,189,Boeing 737-800,U,EU,Miércoles,Tarde
+307,2025-11-19,Grupo Ryanair,FR58,Napoli (NAP),20:10:00,En hora,197,Boeing 737 MAX 8,U,EU,Miércoles,Noche
+308,2025-11-19,Grupo Ryanair,RR5246,Vilnius (VNO),20:10:00,Retrasado,197,Boeing 737 MAX 8,U,EU,Miércoles,Noche
+309,2025-11-19,Grupo easy,EC1956,Milan (LIN),20:15:00,En hora,180,Airbus A320,R,EU,Miércoles,Noche
+310,2025-11-19,Air Arabia Maroc,3O378,Tanger (TNG),20:20:00,En hora,174,Airbus A320,Y,INT,Miércoles,Noche
+311,2025-11-19,T'Way Air,TW408,Seoul/Incheon (ICN),20:30:00,Retrasado,294,BOEING 777-300ER,Y,INT,Miércoles,Noche
+312,2025-11-19,Air Serbia,JU585,Belgrade (BEG),20:35:00,En hora,144,Airbus A319,Y,INT,Miércoles,Noche
+313,2025-11-19,Grupo wizz,W62378,Budapest (BUD),20:45:00,Retrasado,239,Airbus A321neo,S,EU,Miércoles,Noche
+314,2025-11-19,Transavia,TO4759,Paris (ORY),20:50:00,Retrasado,186,Airbus A320neo,S,EU,Miércoles,Noche
+315,2025-11-19,Grupo easy,U22326,London (LTN),20:55:00,En hora,156,Airbus A319,M,INT,Miércoles,Noche
+316,2025-11-19,Grupo easy,EC1380,Geneva (GVA),21:15:00,Retrasado,180,Airbus A320,R,EU,Miércoles,Noche
+317,2025-11-19,Grupo wizz,W43406,Cluj-Napoca (CLJ),21:25:00,Retrasado,180,Airbus A320,U,EU,Miércoles,Noche
+318,2025-11-19,Grupo wizz,W46020,Rome (FCO),21:35:00,En hora,239,Airbus A321neo,R,EU,Miércoles,Noche
+319,2025-11-19,Grupo Ryanair,FR6394,Dublin (DUB),22:05:00,En hora,189,Boeing 737-800,W,INT,Miércoles,Noche
+320,2025-11-20,Grupo Ryanair,FR8215,London (STN),06:00:00,En hora,189,Boeing 737-800,Y,INT,Jueves,Mañana
+321,2025-11-20,Grupo Ryanair,FR2918,Brussels (BRU),06:05:00,En hora,189,Boeing 737-800,U,EU,Jueves,Mañana
+322,2025-11-20,Grupo easy,EC7105,Geneva (GVA),06:10:00,En hora,156,Airbus A319,R,EU,Jueves,Mañana
+323,2025-11-20,Grupo Ryanair,FR3976,Dublin (DUB),06:15:00,En hora,197,Boeing 737 MAX 8,W,INT,Jueves,Mañana
+324,2025-11-20,Grupo easy,EC7191,Glasgow (GLA),06:40:00,En hora,156,Airbus A319,R,EU,Jueves,Mañana
+325,2025-11-20,Grupo Ryanair,FR3049,Krakow (KRK),06:40:00,En hora,197,Boeing 737 MAX 8,S,EU,Jueves,Mañana
+326,2025-11-20,Grupo Ryanair,FR3028,Ibiza (IBZ),06:45:00,En hora,189,Boeing 737-800,S,NAC,Jueves,Mañana
+327,2025-11-20,Grupo Ryanair,LW2495,Palma de Mallorca (PMI),07:20:00,En hora,180,Airbus A320,R,NAC,Jueves,Mañana
+328,2025-11-20,Grupo Ryanair,FR133,Berlin (BER),07:25:00,En hora,189,Boeing 737-800,U,EU,Jueves,Mañana
+329,2025-11-20,Grupo easy,EC7101,"Basel, Switzerland/Mulhouse (BSL)",07:30:00,En hora,156,Airbus A319,R,EU,Jueves,Mañana
+330,2025-11-20,Grupo easy,EC7151,Milan (MXP),07:30:00,Retrasado,156,Airbus A319,R,EU,Jueves,Mañana
+331,2025-11-20,Grupo Ryanair,FR2507,Cologne-Bonn (CGN),07:45:00,En hora,197,Boeing 737 MAX 8,S,EU,Jueves,Mañana
+332,2025-11-20,Norwegian Air Sweden AOC,D85510,Copenhagen (CPH),07:55:00,En hora,189,Boeing 737-800,S,EU,Jueves,Mañana
+333,2025-11-20,Grupo Ryanair,FR575,Bologna (BLQ),08:05:00,En hora,189,Boeing 737-800,S,EU,Jueves,Mañana
+334,2025-11-20,Grupo Ryanair,FR774,Torino (TRN),08:05:00,Retrasado,189,Boeing 737-800,U,EU,Jueves,Mañana
+335,2025-11-20,Grupo Ryanair,FR3928,Trieste (TRS),08:40:00,En hora,189,Boeing 737-800,U,EU,Jueves,Mañana
+336,2025-11-20,Grupo Ryanair,FR6973,Rome (FCO),08:40:00,En hora,189,Boeing 737-800,S,EU,Jueves,Mañana
+337,2025-11-20,Grupo wizz,W43938,Chisinau (KIV),09:00:00,Retrasado,180,Airbus A320,Y,INT,Jueves,Mañana
+338,2025-11-20,Grupo Ryanair,FR5710,Napoli (NAP),09:05:00,En hora,189,Boeing 737-800,S,EU,Jueves,Mañana
+339,2025-11-20,Grupo wizz,W62048,Krakow (KRK),09:05:00,Retrasado,239,Airbus A321neo,U,EU,Jueves,Mañana
+340,2025-11-20,Grupo Ryanair,LW12,Vienna (VIE),09:10:00,Retrasado,180,Airbus A320,U,EU,Jueves,Mañana
+341,2025-11-20,Grupo wizz,W61914,Vilnius (VNO),09:20:00,Retrasado,239,Airbus A321neo,S,EU,Jueves,Mañana
+342,2025-11-20,Grupo wizz,W43176,Bucharest (OTP),09:25:00,Retrasado,239,Airbus A321neo,U,EU,Jueves,Mañana
+343,2025-11-20,Grupo wizz,W62376,Budapest (BUD),09:25:00,Retrasado,239,Airbus A321neo,U,EU,Jueves,Mañana
+344,2025-11-20,Grupo Ryanair,FR3320,Milan (BGY),09:30:00,En hora,189,Boeing 737-800,U,EU,Jueves,Mañana
+345,2025-11-20,Grupo wizz,W42938,Vienna (VIE),09:35:00,Retrasado,239,Airbus A321neo,S,EU,Jueves,Mañana
+346,2025-11-20,Air Serbia,JU581,Belgrade (BEG),09:55:00,Retrasado,144,Airbus A319,W,INT,Jueves,Mañana
+347,2025-11-20,Grupo easy,EC7656,Lisbon (LIS),10:00:00,En hora,230,Airbus A321,R,EU,Jueves,Mañana
+348,2025-11-20,Grupo Ryanair,FR1279,Copenhagen (CPH),10:00:00,En hora,197,Boeing 737 MAX 8,S,EU,Jueves,Mañana
+349,2025-11-20,Transavia,HV5132,Amsterdam (AMS),10:05:00,Retrasado,232,Airbus A321neo,S,EU,Jueves,Mañana
+350,2025-11-20,Grupo wizz,W61476,Warsaw (WAW),10:15:00,Retrasado,239,Airbus A321neo,U,EU,Jueves,Mañana
+351,2025-11-20,Grupo Ryanair,FR1165,Sevilla (SVQ),10:20:00,Retrasado,189,Boeing 737-800,U,NAC,Jueves,Mañana
+352,2025-11-20,Grupo Ryanair,FR3121,Beauvais (BVA),10:25:00,En hora,189,Boeing 737-800,U,EU,Jueves,Mañana
+353,2025-11-20,Grupo Ryanair,RR8384,Budapest (BUD),10:25:00,Retrasado,189,Boeing 737-800,S,EU,Jueves,Mañana
+354,2025-11-20,Grupo easy,U28056,London (LGW),10:35:00,En hora,186,Airbus A320neo,M,INT,Jueves,Mañana
+355,2025-11-20,Grupo easy,U25716,Southend (SEN),10:40:00,En hora,186,Airbus A320neo,M,INT,Jueves,Mañana
+356,2025-11-20,Azerbaijan Airlines,J246,Baku (GYD),10:45:00,Retrasado,186,Airbus A320neo,W,INT,Jueves,Mañana
+357,2025-11-20,Grupo Ryanair,FR3792,Birmingham (BHX),11:00:00,En hora,189,Boeing 737-800,Y,INT,Jueves,Mañana
+358,2025-11-20,Grupo Ryanair,FR4545,Porto (OPO),11:00:00,En hora,197,Boeing 737 MAX 8,U,EU,Jueves,Mañana
+359,2025-11-20,Grupo easy,U22704,Bristol (BRS),11:05:00,En hora,180,Airbus A320,M,INT,Jueves,Mañana
+360,2025-11-20,Grupo Ryanair,FR3076,Stockholm (ARN),11:10:00,Retrasado,189,Boeing 737-800,U,EU,Jueves,Mañana
+361,2025-11-20,Grupo Ryanair,FR483,Malaga (AGP),11:10:00,En hora,189,Boeing 737-800,S,NAC,Jueves,Mañana
+362,2025-11-20,Grupo Ryanair,FR6597,Manchester (MAN),11:20:00,Retrasado,189,Boeing 737-800,Y,INT,Jueves,Mañana
+363,2025-11-20,Aer Lingus,EI563,Dublin (DUB),11:30:00,En hora,174,Airbus A320,Y,INT,Jueves,Mañana
+364,2025-11-20,Jet2,LS1338,Birmingham (BHX),11:30:00,Retrasado,189,Boeing 737-800,W,INT,Jueves,Mañana
+365,2025-11-20,Grupo easy,EC7131,Nice/Cote D'Azur (NCE),12:00:00,En hora,156,Airbus A319,R,EU,Jueves,Tarde
+366,2025-11-20,Grupo easy,EC8064,London (LGW),12:10:00,En hora,156,Airbus A319,R,EU,Jueves,Tarde
+367,2025-11-20,Grupo Ryanair,FR2239,Marrakech (RAK),12:30:00,En hora,189,Boeing 737-800,Y,INT,Jueves,Tarde
+368,2025-11-20,Grupo Ryanair,FR3160,Bristol (BRS),12:45:00,En hora,189,Boeing 737-800,W,INT,Jueves,Tarde
+369,2025-11-20,Pegasus Airlines,PC1092,Istanbul (SAW),12:45:00,Retrasado,239,Airbus A321neo,W,INT,Jueves,Tarde
+370,2025-11-20,Grupo wizz,W67022,Bratislava (BTS),12:55:00,En hora,239,Airbus A321neo,U,EU,Jueves,Tarde
+371,2025-11-20,Grupo Ryanair,FR1681,Frankfurt-Hahn (HHN),13:00:00,En hora,189,Boeing 737-800,R,EU,Jueves,Tarde
+372,2025-11-20,Volotea,V71445,Olbia (OLB),13:05:00,En hora,180,Airbus A320,S,EU,Jueves,Tarde
+373,2025-11-20,Norwegian Air Sweden AOC,D81741,Oslo (OSL),13:25:00,En hora,189,Boeing 737 MAX 8,U,EU,Jueves,Tarde
+374,2025-11-20,Eurowings,EW521,Cologne-Bonn (CGN),13:25:00,Retrasado,150,Airbus A319,S,EU,Jueves,Tarde
+375,2025-11-20,Grupo Ryanair,FR3039,Prague (PRG),13:30:00,En hora,197,Boeing 737 MAX 8,S,EU,Jueves,Tarde
+376,2025-11-20,Luxair,LG3592,Luxembourg (LUX),13:35:00,Retrasado,76,de Havilland Dash 8-400,U,EU,Jueves,Tarde
+377,2025-11-20,Grupo Ryanair,FR269,Milan (MXP),13:40:00,En hora,189,Boeing 737-800,S,EU,Jueves,Tarde
+378,2025-11-20,Grupo Ryanair,FR6267,Edinburgh (EDI),13:45:00,Retrasado,197,Boeing 737 MAX 8,Y,INT,Jueves,Tarde
+379,2025-11-20,Grupo Ryanair,FR846,Milan (BGY),13:45:00,En hora,197,Boeing 737 MAX 8,U,EU,Jueves,Tarde
+380,2025-11-20,Transavia,TO4755,Paris (ORY),13:45:00,Retrasado,186,Airbus A320neo,U,EU,Jueves,Tarde
+381,2025-11-20,Jet2,LS804,Manchester (MAN),13:50:00,Retrasado,189,Boeing 737-800,Y,INT,Jueves,Tarde
+382,2025-11-20,Grupo Ryanair,FR2233,Al Aaroui (NDR),14:00:00,En hora,189,Boeing 737-800,Y,INT,Jueves,Tarde
+383,2025-11-20,Air Baltic,BT684,Riga (RIX),14:05:00,En hora,148,Airbus A220-300,U,EU,Jueves,Tarde
+384,2025-11-20,Grupo easy,EC7153,Milan (MXP),14:10:00,En hora,156,Airbus A319,R,EU,Jueves,Tarde
+385,2025-11-20,SunExpress,XQ895,Izmir (ADB),14:15:00,En hora,189,Boeing 737-800,W,INT,Jueves,Tarde
+386,2025-11-20,Kuwait Airways,KU136,Kuwait City (KWI),14:25:00,En hora,278,Airbus A330-900,W,INT,Jueves,Tarde
+387,2025-11-20,Norwegian Air Sweden AOC,D85502,Stockholm (ARN),14:40:00,Retrasado,189,Boeing 737-800,R,EU,Jueves,Tarde
+388,2025-11-20,Bluebird Airways,BZ251,Tel Aviv (TLV),14:45:00,En hora,189,Boeing 737-800,W,INT,Jueves,Tarde
+389,2025-11-20,Eurowings,EW7521,Hamburg (HAM),14:45:00,Retrasado,180,Airbus A320,U,EU,Jueves,Tarde
+390,2025-11-20,SmartWings,QS1059,Prague (PRG),14:55:00,En hora,189,Boeing 737-800,S,EU,Jueves,Tarde
+391,2025-11-20,Grupo Ryanair,FR3189,Fes (FEZ),15:00:00,En hora,189,Boeing 737-800,Y,INT,Jueves,Tarde
+392,2025-11-20,Grupo Ryanair,FR149,Berlin (BER),15:40:00,En hora,189,Boeing 737-800,S,EU,Jueves,Tarde
+393,2025-11-20,Grupo wizz,W46728,Venice (VCE),15:40:00,En hora,239,Airbus A321neo,U,EU,Jueves,Tarde
+394,2025-11-20,Grupo Ryanair,FR2922,Brussels (BRU),16:05:00,En hora,189,Boeing 737-800,U,EU,Jueves,Tarde
+395,2025-11-20,Volotea,V73573,Asturias (OVD),16:05:00,En hora,156,Airbus A319,S,NAC,Jueves,Tarde
+396,2025-11-20,Volotea,V73700,Vitoria (VIT),16:15:00,En hora,180,Airbus A320,S,NAC,Jueves,Tarde
+397,2025-11-20,Grupo Ryanair,FR9045,London (STN),16:30:00,En hora,197,Boeing 737 MAX 8,W,INT,Jueves,Tarde
+398,2025-11-20,Grupo Ryanair,FR9913,Tallinn (TLL),16:30:00,En hora,197,Boeing 737 MAX 8,U,EU,Jueves,Tarde
+399,2025-11-20,Grupo Ryanair,FR4585,Porto (OPO),16:35:00,En hora,197,Boeing 737 MAX 8,U,EU,Jueves,Tarde
+400,2025-11-20,Grupo easy,EC1378,Geneva (GVA),16:50:00,En hora,180,Airbus A320,R,EU,Jueves,Tarde
+401,2025-11-20,Grupo Ryanair,FR2098,Bologna (BLQ),17:15:00,En hora,189,Boeing 737-800,U,EU,Jueves,Tarde
+402,2025-11-20,Grupo easy,EC7173,Berlin (BER),17:25:00,En hora,156,Airbus A319,R,EU,Jueves,Tarde
+403,2025-11-20,Grupo Ryanair,RR8394,Budapest (BUD),17:30:00,En hora,189,Boeing 737-800,U,EU,Jueves,Tarde
+404,2025-11-20,Volotea,V72327,Strasbourg (SXB),17:30:00,En hora,180,Airbus A320,S,EU,Jueves,Tarde
+405,2025-11-20,Transavia,HV5136,Amsterdam (AMS),17:45:00,En hora,189,Boeing 737-800,U,EU,Jueves,Tarde
+406,2025-11-20,Grupo Ryanair,RR6300,Sofia (SOF),17:45:00,En hora,189,Boeing 737-800,U,EU,Jueves,Tarde
+407,2025-11-20,Grupo Ryanair,FR5718,Bratislava (BTS),18:00:00,En hora,189,Boeing 737-800,U,EU,Jueves,Tarde
+408,2025-11-20,Grupo Ryanair,FR6341,Rome (FCO),18:00:00,En hora,189,Boeing 737-800,R,EU,Jueves,Tarde
+409,2025-11-20,Grupo easy,EC7139,Rennes/Saint-Jacques (RNS),18:15:00,En hora,180,Airbus A320,R,EU,Jueves,Tarde
+410,2025-11-20,Grupo Ryanair,FR3078,Lisbon (LIS),18:30:00,En hora,189,Boeing 737-800,S,EU,Jueves,Tarde
+411,2025-11-20,Grupo Ryanair,FR6394,Dublin (DUB),18:30:00,En hora,197,Boeing 737 MAX 8,W,INT,Jueves,Tarde
+412,2025-11-20,Grupo easy,EC7103,"Basel, Switzerland/Mulhouse (BSL)",18:40:00,En hora,156,Airbus A319,R,EU,Jueves,Tarde
+413,2025-11-20,Grupo Ryanair,FR3800,Birmingham (BHX),18:45:00,En hora,189,Boeing 737-800,Y,INT,Jueves,Tarde
+414,2025-11-20,Grupo wizz,W43180,Bucharest (OTP),18:45:00,En hora,230,Airbus A321,U,EU,Jueves,Tarde
+415,2025-11-20,Grupo wizz,W61176,Katowice (KTW),18:55:00,En hora,180,Airbus A320,U,EU,Jueves,Tarde
+416,2025-11-20,Grupo Ryanair,RR3193,Riga (RIX),19:05:00,En hora,189,Boeing 737-800,R,EU,Jueves,Tarde
+417,2025-11-20,Grupo easy,EC7155,Milan (MXP),19:15:00,En hora,156,Airbus A319,R,EU,Jueves,Tarde
+418,2025-11-20,Grupo Ryanair,FR1342,Palma de Mallorca (PMI),19:25:00,En hora,189,Boeing 737-800,U,NAC,Jueves,Tarde
+419,2025-11-20,Grupo Ryanair,FR8217,London (STN),19:25:00,En hora,189,Boeing 737-800,W,INT,Jueves,Tarde
+420,2025-11-20,Eurowings,EW9443,Dusseldorf (DUS),19:35:00,En hora,180,Airbus A320,S,EU,Jueves,Tarde
+421,2025-11-20,Grupo wizz,W64406,Sofia (SOF),19:35:00,En hora,239,Airbus A321neo,U,EU,Jueves,Tarde
+422,2025-11-20,Air Arabia Maroc,3O378,Tanger (TNG),19:40:00,En hora,174,Airbus A320,W,INT,Jueves,Tarde
+423,2025-11-20,Eurowings,EW2521,Stuttgart (STR),19:40:00,En hora,180,Airbus A320,S,EU,Jueves,Tarde
+424,2025-11-20,Grupo wizz,W61478,Warsaw (WAW),19:40:00,En hora,239,Airbus A321neo,S,EU,Jueves,Tarde
+425,2025-11-20,Grupo Ryanair,FR8598,Reggio Calabria (REG),19:45:00,En hora,189,Boeing 737-800,S,EU,Jueves,Tarde
+426,2025-11-20,Grupo easy,U28058,London (LGW),19:45:00,En hora,156,Airbus A319,M,INT,Jueves,Tarde
+427,2025-11-20,Grupo Ryanair,FR8631,Tanger (TNG),19:55:00,En hora,189,Boeing 737-800,W,INT,Jueves,Tarde
+428,2025-11-20,Volotea,V72167,Lille/Lesquin (LIL),19:55:00,En hora,180,Airbus A320,R,EU,Jueves,Tarde
+429,2025-11-20,Transavia,HV6788,Eindhoven (EIN),20:00:00,En hora,189,Boeing 737-800,U,EU,Jueves,Noche
+430,2025-11-20,Grupo easy,EC1956,Milan (LIN),20:15:00,En hora,180,Airbus A320,R,EU,Jueves,Noche
+431,2025-11-20,Air Arabia Maroc,3O376,Al Aaroui (NDR),20:25:00,En hora,174,Airbus A320,Y,INT,Jueves,Noche
+432,2025-11-20,Grupo Ryanair,FR3143,Milan (BGY),20:25:00,En hora,189,Boeing 737-800,U,EU,Jueves,Noche
+433,2025-11-20,Transavia,HV6064,Rotterdam (RTM),20:30:00,En hora,189,Boeing 737-800,U,EU,Jueves,Noche
+434,2025-11-20,Grupo Ryanair,FR4587,Porto (OPO),20:45:00,En hora,189,Boeing 737-800,S,EU,Jueves,Noche
+435,2025-11-20,Grupo wizz,W62378,Budapest (BUD),20:45:00,En hora,239,Airbus A321neo,U,EU,Jueves,Noche
+436,2025-11-20,Transavia,TO4759,Paris (ORY),20:50:00,En hora,186,Airbus A320neo,U,EU,Jueves,Noche
+437,2025-11-20,Grupo easy,U22324,London (LTN),20:55:00,En hora,186,Airbus A320neo,M,INT,Jueves,Noche
+438,2025-11-20,Grupo wizz,W64738,Skopje (SKP),20:55:00,En hora,239,Airbus A321neo,W,INT,Jueves,Noche
+439,2025-11-20,Grupo Ryanair,RR333,Gdansk (GDN),21:00:00,En hora,189,Boeing 737-800,S,EU,Jueves,Noche
+440,2025-11-20,Aer Lingus,EI565,Dublin (DUB),21:05:00,En hora,174,Airbus A320,W,INT,Jueves,Noche
+441,2025-11-20,Grupo easy,EC1380,Geneva (GVA),21:15:00,En hora,180,Airbus A320,R,EU,Jueves,Noche
+442,2025-11-20,Grupo Ryanair,FR1527,Valletta (MLA),21:20:00,En hora,189,Boeing 737-800,U,EU,Jueves,Noche
+443,2025-11-20,Grupo wizz,W43178,Bucharest (BBU),21:20:00,En hora,230,Airbus A321,U,EU,Jueves,Noche
+444,2025-11-20,Grupo wizz,W43406,Cluj-Napoca (CLJ),21:25:00,En hora,186,Airbus A320neo,S,EU,Jueves,Noche
+445,2025-11-20,Grupo Ryanair,RR3035,Krakow (KRK),21:30:00,En hora,197,Boeing 737 MAX 8,R,EU,Jueves,Noche
+446,2025-11-20,Grupo Ryanair,RR4084,Warsaw (WMI),21:30:00,En hora,189,Boeing 737-800,S,EU,Jueves,Noche
+447,2025-11-20,Grupo wizz,W46020,Rome (FCO),21:35:00,En hora,230,Airbus A321,U,EU,Jueves,Noche
+448,2025-11-20,Grupo wizz,W64116,Belgrade (BEG),22:10:00,En hora,230,Airbus A321,W,INT,Jueves,Noche
+449,2025-11-20,Grupo wizz,W45154,Tirana (TIA),22:45:00,En hora,239,Airbus A321neo,W,INT,Jueves,Noche
+450,2025-11-21,Grupo easy,EC7105,Geneva (GVA),06:10:00,En hora,156,Airbus A319,R,EU,Viernes,Mañana
+451,2025-11-21,Grupo Ryanair,FR8183,Bologna (BLQ),06:10:00,En hora,189,Boeing 737-800,U,EU,Viernes,Mañana
+452,2025-11-21,Grupo Ryanair,FR8231,London (STN),06:10:00,En hora,189,Boeing 737-800,Y,INT,Viernes,Mañana
+453,2025-11-21,Grupo Ryanair,FR777,Venice (VCE),06:20:00,En hora,189,Boeing 737-800,S,EU,Viernes,Mañana
+454,2025-11-21,Grupo Ryanair,FR846,Milan (BGY),06:25:00,En hora,189,Boeing 737-800,S,EU,Viernes,Mañana
+455,2025-11-21,Grupo Ryanair,FR133,Berlin (BER),06:35:00,En hora,189,Boeing 737-800,S,EU,Viernes,Mañana
+456,2025-11-21,Grupo Ryanair,FR4545,Porto (OPO),06:45:00,En hora,197,Boeing 737 MAX 8,S,EU,Viernes,Mañana
+457,2025-11-21,Grupo easy,EC7101,"Basel, Switzerland/Mulhouse (BSL)",07:20:00,En hora,156,Airbus A319,R,EU,Viernes,Mañana
+458,2025-11-21,Grupo easy,EC7199,Edinburgh (EDI),07:20:00,En hora,156,Airbus A319,R,EU,Viernes,Mañana
+459,2025-11-21,Grupo Ryanair,LW2889,Palma de Mallorca (PMI),07:40:00,En hora,180,Airbus A320,S,NAC,Viernes,Mañana
+460,2025-11-21,Norwegian Air Sweden AOC,D85502,Stockholm (ARN),08:00:00,En hora,189,Boeing 737-800,U,EU,Viernes,Mañana
+461,2025-11-21,Grupo Ryanair,FR3976,Dublin (DUB),08:00:00,En hora,189,Boeing 737-800,W,INT,Viernes,Mañana
+462,2025-11-21,Grupo Ryanair,FR3185,Rabat (RBA),08:10:00,En hora,189,Boeing 737-800,W,INT,Viernes,Mañana
+463,2025-11-21,Grupo Ryanair,FR6973,Rome (FCO),08:15:00,En hora,189,Boeing 737-800,S,EU,Viernes,Mañana
+464,2025-11-21,Grupo easy,EC1376,Geneva (GVA),08:40:00,Retrasado,156,Airbus A319,R,EU,Viernes,Mañana
+465,2025-11-21,Grupo Ryanair,FR5752,Valletta (MLA),08:40:00,En hora,197,Boeing 737 MAX 8,U,EU,Viernes,Mañana
+466,2025-11-21,Grupo Ryanair,FR1165,Sevilla (SVQ),09:00:00,En hora,189,Boeing 737-800,U,NAC,Viernes,Mañana
+467,2025-11-21,Grupo wizz,W62048,Krakow (KRK),09:05:00,Retrasado,239,Airbus A321neo,U,EU,Viernes,Mañana
+468,2025-11-21,Grupo easy,EC3737,Milan (MXP),09:10:00,En hora,180,Airbus A320,R,EU,Viernes,Mañana
+469,2025-11-21,Grupo Ryanair,FR2834,Charleroi (CRL),09:15:00,En hora,197,Boeing 737 MAX 8,S,EU,Viernes,Mañana
+470,2025-11-21,Air Arabia Maroc,3O374,Casablanca (CMN),09:25:00,En hora,174,Airbus A320,W,INT,Viernes,Mañana
+471,2025-11-21,Grupo Ryanair,LW12,Vienna (VIE),09:25:00,Retrasado,180,Airbus A320,R,EU,Viernes,Mañana
+472,2025-11-21,Grupo wizz,W43176,Bucharest (OTP),09:25:00,En hora,230,Airbus A321,U,EU,Viernes,Mañana
+473,2025-11-21,Grupo wizz,W45088,Tirana (TIA),09:25:00,Retrasado,230,Airbus A321,Y,INT,Viernes,Mañana
+474,2025-11-21,Grupo wizz,W62376,Budapest (BUD),09:25:00,En hora,239,Airbus A321neo,U,EU,Viernes,Mañana
+475,2025-11-21,Grupo Ryanair,FR3028,Ibiza (IBZ),09:40:00,En hora,189,Boeing 737-800,U,NAC,Viernes,Mañana
+476,2025-11-21,Grupo Ryanair,FR3320,Milan (BGY),09:45:00,En hora,189,Boeing 737-800,U,EU,Viernes,Mañana
+477,2025-11-21,Transavia,HV6788,Eindhoven (EIN),09:45:00,En hora,189,Boeing 737-800,S,EU,Viernes,Mañana
+478,2025-11-21,Grupo easy,U26654,Birmingham (BHX),09:45:00,En hora,180,Airbus A320,M,INT,Viernes,Mañana
+479,2025-11-21,Air Arabia Maroc,3O378,Tanger (TNG),09:50:00,Retrasado,174,Airbus A320,Y,INT,Viernes,Mañana
+480,2025-11-21,Grupo easy,EC7656,Lisbon (LIS),09:55:00,Retrasado,230,Airbus A321,R,EU,Viernes,Mañana
+481,2025-11-21,Air Serbia,JU581,Belgrade (BEG),09:55:00,Retrasado,144,Airbus A319,Y,INT,Viernes,Mañana
+482,2025-11-21,Grupo Ryanair,FR9015,London (STN),10:00:00,En hora,197,Boeing 737 MAX 8,W,INT,Viernes,Mañana
+483,2025-11-21,Grupo wizz,W46018,Rome (FCO),10:00:00,En hora,239,Airbus A321neo,S,EU,Viernes,Mañana
+484,2025-11-21,Grupo Ryanair,FR6920,Dublin (DUB),10:05:00,En hora,197,Boeing 737 MAX 8,W,INT,Viernes,Mañana
+485,2025-11-21,Transavia,HV5132,Amsterdam (AMS),10:05:00,Retrasado,232,Airbus A321neo,S,EU,Viernes,Mañana
+486,2025-11-21,Eurowings,EW7521,Hamburg (HAM),10:10:00,Retrasado,180,Airbus A320,S,EU,Viernes,Mañana
+487,2025-11-21,Grupo wizz,W61476,Warsaw (WAW),10:15:00,Retrasado,239,Airbus A321neo,U,EU,Viernes,Mañana
+488,2025-11-21,Grupo Ryanair,FR2239,Marrakech (RAK),10:20:00,Retrasado,189,Boeing 737-800,Y,INT,Viernes,Mañana
+489,2025-11-21,Grupo easy,U22002,Manchester (MAN),10:25:00,En hora,186,Airbus A320neo,M,INT,Viernes,Mañana
+490,2025-11-21,Grupo easy,EC7131,Nice/Cote D'Azur (NCE),10:30:00,En hora,156,Airbus A319,R,EU,Viernes,Mañana
+491,2025-11-21,Grupo Ryanair,FR6267,Edinburgh (EDI),10:30:00,Retrasado,189,Boeing 737-800,W,INT,Viernes,Mañana
+492,2025-11-21,Grupo easy,EC4212,Napoli (NAP),10:35:00,Retrasado,180,Airbus A320,R,EU,Viernes,Mañana
+493,2025-11-21,Transavia,HV6064,Rotterdam (RTM),10:40:00,Retrasado,189,Boeing 737-800,U,EU,Viernes,Mañana
+494,2025-11-21,Grupo easy,U22704,Bristol (BRS),10:50:00,En hora,180,Airbus A320,M,INT,Viernes,Mañana
+495,2025-11-21,Grupo Ryanair,FR5270,Manchester (MAN),10:55:00,Retrasado,197,Boeing 737 MAX 8,W,INT,Viernes,Mañana
+496,2025-11-21,Grupo Ryanair,RR8384,Budapest (BUD),11:00:00,Retrasado,189,Boeing 737-800,R,EU,Viernes,Mañana
+497,2025-11-21,Grupo Ryanair,FR3166,Palermo (PMO),11:10:00,En hora,189,Boeing 737-800,S,EU,Viernes,Mañana
+498,2025-11-21,Grupo Ryanair,FR269,Milan (MXP),11:20:00,En hora,189,Boeing 737-800,U,EU,Viernes,Mañana
+499,2025-11-21,FLYONE Armenia,3F232,Yerevan (EVN),11:30:00,Retrasado,180,Airbus A320,Y,INT,Viernes,Mañana
+500,2025-11-21,Aer Lingus,EI563,Dublin (DUB),11:35:00,Retrasado,174,Airbus A320,Y,INT,Viernes,Mañana
+501,2025-11-21,Grupo Ryanair,FR3121,Beauvais (BVA),11:35:00,En hora,197,Boeing 737 MAX 8,R,EU,Viernes,Mañana
+502,2025-11-21,Grupo Ryanair,LW2896,Palma de Mallorca (PMI),11:35:00,En hora,180,Airbus A320,S,NAC,Viernes,Mañana
+503,2025-11-21,Grupo easy,EC7141,Strasbourg (SXB),11:45:00,En hora,156,Airbus A319,R,EU,Viernes,Mañana
+504,2025-11-21,Grupo Ryanair,RR3049,Krakow (KRK),11:45:00,Retrasado,189,Boeing 737-800,S,EU,Viernes,Mañana
+505,2025-11-21,Grupo easy,U28056,London (LGW),11:45:00,En hora,156,Airbus A319,M,INT,Viernes,Mañana
+506,2025-11-21,Icelandair,FI597,Keflavik (KEF),11:50:00,Retrasado,160,Boeing 737 MAX 8,S,EU,Viernes,Mañana
+507,2025-11-21,Grupo Ryanair,FR774,Torino (TRN),11:55:00,Retrasado,197,Boeing 737 MAX 8,S,EU,Viernes,Mañana
+508,2025-11-21,Jet2,LS232,Leeds Bradford (LBA),12:00:00,Retrasado,189,Boeing 737 MAX 8,W,INT,Viernes,Tarde
+509,2025-11-21,Grupo easy,EC8064,London (LGW),12:15:00,En hora,156,Airbus A319,M,INT,Viernes,Tarde
+510,2025-11-21,Grupo Ryanair,FR4585,Porto (OPO),12:15:00,En hora,189,Boeing 737-800,S,EU,Viernes,Tarde
+511,2025-11-21,Norwegian Air Sweden AOC,D83657,Copenhagen (CPH),12:30:00,Retrasado,189,Boeing 737 MAX 8,S,EU,Viernes,Tarde
+512,2025-11-21,Grupo Ryanair,FR575,Bologna (BLQ),12:45:00,Retrasado,189,Boeing 737-800,U,EU,Viernes,Tarde
+513,2025-11-21,Grupo Ryanair,FR58,Napoli (NAP),12:45:00,Retrasado,189,Boeing 737-800,U,EU,Viernes,Tarde
+514,2025-11-21,Pegasus Airlines,PC1092,Istanbul (SAW),12:45:00,Retrasado,220,Airbus A321,Y,INT,Viernes,Tarde
+515,2025-11-21,Grupo Ryanair,FR6874,Dublin (DUB),12:55:00,Retrasado,189,Boeing 737-800,W,INT,Viernes,Tarde
+516,2025-11-21,Grupo wizz,W67022,Bratislava (BTS),12:55:00,Retrasado,239,Airbus A321neo,U,EU,Viernes,Tarde
+517,2025-11-21,Grupo wizz,W46330,Milan (MXP),13:10:00,Retrasado,230,Airbus A321,U,EU,Viernes,Tarde
+518,2025-11-21,Norwegian Air Shuttle,DY1741,Oslo (OSL),13:25:00,En hora,189,Boeing 737-800,U,EU,Viernes,Tarde
+519,2025-11-21,Pegasus Airlines,PC1528,Izmir (ADB),13:30:00,Retrasado,180,Airbus A320,Y,INT,Viernes,Tarde
+520,2025-11-21,Turkish Airlines,TK608,Ankara (ESB),13:40:00,Retrasado,165,Boeing 737-800,W,INT,Viernes,Tarde
+521,2025-11-21,Grupo Ryanair,FR6078,Ouarzazate (OZZ),13:50:00,En hora,189,Boeing 737-800,Y,INT,Viernes,Tarde
+522,2025-11-21,Jet2,LS804,Manchester (MAN),13:50:00,En hora,189,Boeing 737-800,Y,INT,Viernes,Tarde
+523,2025-11-21,Grupo Ryanair,FR3180,Rome (FCO),13:55:00,En hora,189,Boeing 737-800,S,EU,Viernes,Tarde
+524,2025-11-21,Air Baltic,BT684,Riga (RIX),14:05:00,Retrasado,148,Airbus A220-300,S,EU,Viernes,Tarde
+525,2025-11-21,Azores Airlines,S4507,Ponta Delgada (PDL),14:10:00,En hora,186,Airbus A320neo,U,EU,Viernes,Tarde
+526,2025-11-21,Grupo easy,EC7153,Milan (MXP),14:20:00,En hora,156,Airbus A319,R,EU,Viernes,Tarde
+527,2025-11-21,Grupo Ryanair,LW7351,Vienna (VIE),14:20:00,En hora,180,Airbus A320,R,EU,Viernes,Tarde
+528,2025-11-21,Transavia,TO4755,Paris (ORY),14:20:00,En hora,186,Airbus A320neo,S,EU,Viernes,Tarde
+529,2025-11-21,Grupo Ryanair,FR8215,London (STN),14:35:00,En hora,189,Boeing 737-800,W,INT,Viernes,Tarde
+530,2025-11-21,Grupo easy,EC7107,Geneva (GVA),14:40:00,En hora,156,Airbus A319,R,EU,Viernes,Tarde
+531,2025-11-21,Volotea,V71443,Ancona (AOI),14:45:00,En hora,180,Airbus A320,S,EU,Viernes,Tarde
+532,2025-11-21,Grupo wizz,W64406,Sofia (SOF),14:50:00,Retrasado,239,Airbus A321neo,U,EU,Viernes,Tarde
+533,2025-11-21,Grupo Ryanair,FR2507,Cologne-Bonn (CGN),14:55:00,En hora,189,Boeing 737-800,R,EU,Viernes,Tarde
+534,2025-11-21,Grupo Ryanair,FR867,Venice (VCE),14:55:00,En hora,189,Boeing 737-800,S,EU,Viernes,Tarde
+535,2025-11-21,SmartWings,QS1059,Prague (PRG),14:55:00,En hora,189,Boeing 737-800,U,EU,Viernes,Tarde
+536,2025-11-21,Grupo Ryanair,FR1342,Palma de Mallorca (PMI),15:00:00,En hora,189,Boeing 737-800,R,NAC,Viernes,Tarde
+537,2025-11-21,Grupo Ryanair,FR5718,Bratislava (BTS),15:10:00,En hora,189,Boeing 737-800,U,EU,Viernes,Tarde
+538,2025-11-21,Volotea,V73735,Murcia (RMU),15:15:00,Retrasado,156,Airbus A319,S,NAC,Viernes,Tarde
+539,2025-11-21,Grupo Ryanair,FR483,Malaga (AGP),15:25:00,En hora,197,Boeing 737 MAX 8,U,NAC,Viernes,Tarde
+540,2025-11-21,Grupo wizz,W46728,Venice (VCE),15:40:00,En hora,239,Airbus A321neo,S,EU,Viernes,Tarde
+541,2025-11-21,Pegasus Airlines,PC1094,Istanbul (SAW),15:45:00,Retrasado,220,Airbus A321,W,INT,Viernes,Tarde
+542,2025-11-21,Grupo Ryanair,FR9045,London (STN),16:05:00,En hora,189,Boeing 737-800,W,INT,Viernes,Tarde
+543,2025-11-21,Norwegian Air Sweden AOC,D85510,Copenhagen (CPH),16:15:00,Retrasado,189,Boeing 737-800,U,EU,Viernes,Tarde
+544,2025-11-21,Grupo Ryanair,FR2925,Brussels (BRU),16:15:00,En hora,189,Boeing 737-800,S,EU,Viernes,Tarde
+545,2025-11-21,Grupo Ryanair,FR6985,Rome (FCO),16:15:00,Retrasado,189,Boeing 737-800,U,EU,Viernes,Tarde
+546,2025-11-21,Grupo wizz,W43564,Timisoara (TSR),16:25:00,En hora,180,Airbus A320,U,EU,Viernes,Tarde
+547,2025-11-21,Grupo Ryanair,FR3129,Ibiza (IBZ),16:45:00,En hora,189,Boeing 737-800,U,NAC,Viernes,Tarde
+548,2025-11-21,Grupo easy,EC7173,Berlin (BER),16:50:00,En hora,156,Airbus A319,R,EU,Viernes,Tarde
+549,2025-11-21,Volotea,V73700,Vitoria (VIT),16:50:00,Retrasado,180,Airbus A320,R,NAC,Viernes,Tarde
+550,2025-11-21,Grupo Ryanair,FR878,Venice (VCE),16:55:00,En hora,189,Boeing 737-800,S,EU,Viernes,Tarde
+551,2025-11-21,Grupo Ryanair,FR4587,Porto (OPO),17:05:00,En hora,189,Boeing 737-800,S,EU,Viernes,Tarde
+552,2025-11-21,Grupo wizz,W67920,Kopitnari (KUT),17:15:00,En hora,239,Airbus A321neo,W,INT,Viernes,Tarde
+553,2025-11-21,Grupo Ryanair,FR3076,Stockholm (ARN),17:30:00,En hora,197,Boeing 737 MAX 8,U,EU,Viernes,Tarde
+554,2025-11-21,Volotea,V73573,Asturias (OVD),17:40:00,En hora,156,Airbus A319,S,NAC,Viernes,Tarde
+555,2025-11-21,Transavia,HV5134,Amsterdam (AMS),17:45:00,En hora,189,Boeing 737-800,U,EU,Viernes,Tarde
+556,2025-11-21,Grupo Ryanair,FR6341,Rome (FCO),18:00:00,En hora,189,Boeing 737-800,S,EU,Viernes,Tarde
+557,2025-11-21,Grupo Ryanair,FR6353,Milan (BGY),18:00:00,Retrasado,197,Boeing 737 MAX 8,R,EU,Viernes,Tarde
+558,2025-11-21,Grupo easy,EC7205,Southampton (SOU),18:10:00,En hora,156,Airbus A319,R,EU,Viernes,Tarde
+559,2025-11-21,Air Arabia Maroc,3O398,Rabat (RBA),18:30:00,En hora,174,Airbus A320,W,INT,Viernes,Tarde
+560,2025-11-21,FlyOne,5F5512,Chisinau (KIV),18:30:00,Retrasado,180,Airbus A320,Y,INT,Viernes,Tarde
+561,2025-11-21,Grupo wizz,W43686,Iasi (IAS),18:30:00,Retrasado,180,Airbus A320,U,EU,Viernes,Tarde
+562,2025-11-21,Grupo Ryanair,FR2098,Bologna (BLQ),18:35:00,En hora,189,Boeing 737-800,U,EU,Viernes,Tarde
+563,2025-11-21,Grupo easy,EC7103,"Basel, Switzerland/Mulhouse (BSL)",18:45:00,En hora,156,Airbus A319,R,EU,Viernes,Tarde
+564,2025-11-21,Grupo Ryanair,FR3189,Fes (FEZ),18:50:00,Retrasado,189,Boeing 737-800,Y,INT,Viernes,Tarde
+565,2025-11-21,Grupo wizz,W61478,Warsaw (WAW),19:00:00,En hora,239,Airbus A321neo,U,EU,Viernes,Tarde
+566,2025-11-21,Grupo easy,EC7155,Milan (MXP),19:10:00,En hora,156,Airbus A319,R,EU,Viernes,Tarde
+567,2025-11-21,Grupo Ryanair,FR149,Berlin (BER),19:15:00,Retrasado,197,Boeing 737 MAX 8,R,EU,Viernes,Tarde
+568,2025-11-21,Grupo Ryanair,FR3078,Lisbon (LIS),19:20:00,Retrasado,189,Boeing 737-800,S,EU,Viernes,Tarde
+569,2025-11-21,Grupo Ryanair,RR6330,Sofia (SOF),19:20:00,Retrasado,189,Boeing 737-800,U,EU,Viernes,Tarde
+570,2025-11-21,Volotea,V72165,Nantes/Atlantique (NTE),19:30:00,En hora,156,Airbus A319,S,EU,Viernes,Tarde
+571,2025-11-21,Eurowings,EW9443,Dusseldorf (DUS),19:35:00,Retrasado,232,Airbus A321neo,S,EU,Viernes,Tarde
+572,2025-11-21,Grupo Ryanair,FR2330,Al Aaroui (NDR),19:35:00,En hora,189,Boeing 737-800,Y,INT,Viernes,Tarde
+573,2025-11-21,Grupo Ryanair,LW7362,Vienna (VIE),19:40:00,Retrasado,180,Airbus A320,S,EU,Viernes,Tarde
+574,2025-11-21,Grupo easy,U28058,London (LGW),19:40:00,En hora,156,Airbus A319,M,INT,Viernes,Tarde
+575,2025-11-21,Grupo Ryanair,FR6374,Beauvais (BVA),19:45:00,Retrasado,189,Boeing 737-800,U,EU,Viernes,Tarde
+576,2025-11-21,Eurowings,EW2521,Stuttgart (STR),19:55:00,Retrasado,226,Airbus A321,U,EU,Viernes,Tarde
+577,2025-11-21,Volotea,V71415,Verona (VRN),19:55:00,Retrasado,180,Airbus A320,U,EU,Viernes,Tarde
+578,2025-11-21,Grupo wizz,W64666,Larnaca (LCA),19:55:00,Retrasado,230,Airbus A321,Y,INT,Viernes,Tarde
+579,2025-11-21,Grupo Ryanair,FR1527,Valletta (MLA),20:05:00,En hora,189,Boeing 737-800,U,EU,Viernes,Noche
+580,2025-11-21,Grupo Ryanair,FR2402,Sevilla (SVQ),20:10:00,Retrasado,197,Boeing 737 MAX 8,R,NAC,Viernes,Noche
+581,2025-11-21,Grupo Ryanair,FR6275,Edinburgh (EDI),20:10:00,En hora,197,Boeing 737 MAX 8,W,INT,Viernes,Noche
+582,2025-11-21,Grupo Ryanair,FR6305,Milan (BGY),20:10:00,Retrasado,189,Boeing 737-800,R,EU,Viernes,Noche
+583,2025-11-21,Grupo wizz,W62096,Krakow (KRK),20:10:00,Retrasado,239,Airbus A321neo,S,EU,Viernes,Noche
+584,2025-11-21,Grupo easy,EC1956,Milan (LIN),20:15:00,Retrasado,180,Airbus A320,R,EU,Viernes,Noche
+585,2025-11-21,Grupo wizz,W42940,Vienna (VIE),20:20:00,Retrasado,239,Airbus A321neo,S,EU,Viernes,Noche
+586,2025-11-21,Grupo Ryanair,FR3792,Birmingham (BHX),20:25:00,En hora,189,Boeing 737-800,Y,INT,Viernes,Noche
+587,2025-11-21,T'Way Air,TW408,Seoul/Incheon (ICN),20:30:00,Retrasado,246,Airbus A330-200,W,INT,Viernes,Noche
+588,2025-11-21,Volotea,V72135,Bordeaux (BOD),20:30:00,Retrasado,180,Airbus A320,R,EU,Viernes,Noche
+589,2025-11-21,Grupo Ryanair,FR7539,Milan (MXP),20:35:00,En hora,189,Boeing 737-800,U,EU,Viernes,Noche
+590,2025-11-21,Grupo Ryanair,FR8631,Tanger (TNG),20:35:00,Retrasado,189,Boeing 737-800,W,INT,Viernes,Noche
+591,2025-11-21,Air Serbia,JU585,Belgrade (BEG),20:35:00,Retrasado,144,Airbus A319,Y,INT,Viernes,Noche
+592,2025-11-21,Grupo Ryanair,RR1786,Vilnius (VNO),20:35:00,Retrasado,197,Boeing 737 MAX 8,U,EU,Viernes,Noche
+593,2025-11-21,Luxair,LG3592,Luxembourg (LUX),20:40:00,Retrasado,186,Boeing 737-800,S,EU,Viernes,Noche
+594,2025-11-21,Grupo wizz,W62378,Budapest (BUD),20:45:00,Retrasado,239,Airbus A321neo,S,EU,Viernes,Noche
+595,2025-11-21,Grupo Ryanair,FR5710,Napoli (NAP),20:50:00,En hora,197,Boeing 737 MAX 8,U,EU,Viernes,Noche
+596,2025-11-21,Transavia,TO4759,Paris (ORY),20:50:00,Retrasado,186,Airbus A320neo,U,EU,Viernes,Noche
+597,2025-11-21,Grupo easy,U22326,London (LTN),20:55:00,En hora,180,Airbus A320,M,INT,Viernes,Noche
+598,2025-11-21,Grupo Ryanair,RR8394,Budapest (BUD),21:00:00,En hora,189,Boeing 737-800,S,EU,Viernes,Noche
+599,2025-11-21,Aer Lingus,EI565,Dublin (DUB),21:05:00,En hora,174,Airbus A320,Y,INT,Viernes,Noche
+600,2025-11-21,Grupo easy,U23374,Liverpool (LPL),21:05:00,En hora,180,Airbus A320,M,INT,Viernes,Noche
+601,2025-11-21,Grupo Ryanair,FR3174,Ibiza (IBZ),21:10:00,En hora,189,Boeing 737-800,R,NAC,Viernes,Noche
+602,2025-11-21,Grupo easy,EC1380,Geneva (GVA),21:15:00,Retrasado,180,Airbus A320,R,EU,Viernes,Noche
+603,2025-11-21,Grupo wizz,W43178,Bucharest (BBU),21:20:00,En hora,230,Airbus A321,U,EU,Viernes,Noche
+604,2025-11-21,Grupo wizz,W43406,Cluj-Napoca (CLJ),21:25:00,En hora,186,Airbus A320neo,R,EU,Viernes,Noche
+605,2025-11-21,Grupo Ryanair,RR6944,Warsaw (WMI),21:30:00,En hora,189,Boeing 737-800,U,EU,Viernes,Noche
+606,2025-11-21,Grupo Ryanair,FR7808,London (LTN),21:35:00,Retrasado,189,Boeing 737-800,Y,INT,Viernes,Noche
+607,2025-11-21,Grupo wizz,W46020,Rome (FCO),21:35:00,Retrasado,239,Airbus A321neo,S,EU,Viernes,Noche
+608,2025-11-21,Grupo Ryanair,FR8669,Dublin (DUB),21:40:00,Retrasado,189,Boeing 737-800,Y,INT,Viernes,Noche
+609,2025-11-21,Grupo Ryanair,FR9811,London (STN),21:40:00,Retrasado,189,Boeing 737-800,Y,INT,Viernes,Noche
+610,2025-11-21,Grupo Ryanair,FR2495,Palma de Mallorca (PMI),21:45:00,En hora,189,Boeing 737-800,S,NAC,Viernes,Noche
+611,2025-11-21,Grupo Ryanair,FR6597,Manchester (MAN),21:45:00,En hora,189,Boeing 737-800,W,INT,Viernes,Noche
+612,2025-11-21,Grupo Ryanair,FR2250,Marrakech (RAK),21:55:00,En hora,189,Boeing 737-800,W,INT,Viernes,Noche
+613,2025-11-21,Grupo wizz,W64116,Belgrade (BEG),21:55:00,Retrasado,239,Airbus A321neo,W,INT,Viernes,Noche
+614,2025-11-21,Grupo Ryanair,FR3080,Malaga (AGP),22:30:00,En hora,197,Boeing 737 MAX 8,S,NAC,Viernes,Noche
+615,2025-11-21,Grupo wizz,W45154,Tirana (TIA),22:45:00,En hora,230,Airbus A321,Y,INT,Viernes,Noche
+616,2025-11-21,Grupo wizz,W61706,Gdansk (GDN),22:50:00,En hora,239,Airbus A321neo,S,EU,Viernes,Noche
+617,2025-11-21,Grupo Ryanair,FR9814,London (STN),23:10:00,En hora,189,Boeing 737-800,W,INT,Viernes,Noche
+618,2025-11-22,Grupo Ryanair,FR846,Milan (BGY),06:00:00,Retrasado,189,Boeing 737-800,S,EU,Sábado,Mañana
+619,2025-11-22,Grupo easy,EC7105,Geneva (GVA),06:10:00,En hora,156,Airbus A319,R,EU,Sábado,Mañana
+620,2025-11-22,Grupo Ryanair,FR5718,Bratislava (BTS),06:10:00,En hora,189,Boeing 737-800,S,EU,Sábado,Mañana
+621,2025-11-22,Grupo Ryanair,FR4545,Porto (OPO),06:15:00,En hora,197,Boeing 737 MAX 8,U,EU,Sábado,Mañana
+622,2025-11-22,Grupo Ryanair,FR1342,Palma de Mallorca (PMI),06:20:00,En hora,189,Boeing 737-800,S,NAC,Sábado,Mañana
+623,2025-11-22,Grupo Ryanair,FR777,Venice (VCE),06:30:00,Retrasado,189,Boeing 737-800,S,EU,Sábado,Mañana
+624,2025-11-22,Grupo easy,EC7151,Milan (MXP),07:30:00,En hora,156,Airbus A319,R,EU,Sábado,Mañana
+625,2025-11-22,Grupo Ryanair,FR2918,Brussels (BRU),08:05:00,En hora,189,Boeing 737-800,S,EU,Sábado,Mañana
+626,2025-11-22,Grupo Ryanair,FR3180,Rome (FCO),08:15:00,En hora,189,Boeing 737-800,U,EU,Sábado,Mañana
+627,2025-11-22,Air Arabia Maroc,3O376,Al Aaroui (NDR),08:35:00,En hora,174,Airbus A320,W,INT,Sábado,Mañana
+628,2025-11-22,Grupo Ryanair,FR1165,Palma de Mallorca (PMI),08:50:00,En hora,189,Boeing 737-800,R,NAC,Sábado,Mañana
+629,2025-11-22,Grupo Ryanair,FR575,Bologna (BLQ),08:50:00,En hora,189,Boeing 737-800,U,EU,Sábado,Mañana
+630,2025-11-22,Grupo Ryanair,FR3166,Palermo (PMO),09:00:00,En hora,189,Boeing 737-800,S,EU,Sábado,Mañana
+631,2025-11-22,Grupo wizz,W43938,Chisinau (KIV),09:00:00,En hora,180,Airbus A320,Y,INT,Sábado,Mañana
+632,2025-11-22,Grupo wizz,W62048,Krakow (KRK),09:05:00,En hora,239,Airbus A321neo,S,EU,Sábado,Mañana
+633,2025-11-22,Grupo Ryanair,FR2834,Charleroi (CRL),09:15:00,Retrasado,189,Boeing 737-800,U,EU,Sábado,Mañana
+634,2025-11-22,Transavia,TO4751,Paris (ORY),09:15:00,En hora,189,Boeing 737-800,U,EU,Sábado,Mañana
+635,2025-11-22,Grupo Ryanair,FR133,Berlin (BER),09:20:00,En hora,189,Boeing 737-800,U,EU,Sábado,Mañana
+636,2025-11-22,Grupo Ryanair,FR2239,Marrakech (RAK),09:20:00,En hora,189,Boeing 737-800,W,INT,Sábado,Mañana
+637,2025-11-22,Grupo Ryanair,FR3028,Ibiza (IBZ),09:20:00,En hora,189,Boeing 737-800,S,NAC,Sábado,Mañana
+638,2025-11-22,Grupo wizz,W61914,Vilnius (VNO),09:20:00,En hora,239,Airbus A321neo,S,EU,Sábado,Mañana
+639,2025-11-22,Grupo wizz,W43176,Bucharest (OTP),09:25:00,Retrasado,239,Airbus A321neo,U,EU,Sábado,Mañana
+640,2025-11-22,Grupo wizz,W62376,Budapest (BUD),09:25:00,En hora,239,Airbus A321neo,U,EU,Sábado,Mañana
+641,2025-11-22,Grupo Ryanair,RR3049,Krakow (KRK),09:30:00,En hora,189,Boeing 737-800,U,EU,Sábado,Mañana
+642,2025-11-22,Grupo wizz,W42938,Vienna (VIE),09:35:00,En hora,239,Airbus A321neo,S,EU,Sábado,Mañana
+643,2025-11-22,Air Serbia,JU581,Belgrade (BEG),09:55:00,En hora,144,Airbus A319,Y,INT,Sábado,Mañana
+644,2025-11-22,Grupo Ryanair,FR6559,Liverpool (LPL),10:00:00,En hora,189,Boeing 737-800,W,INT,Sábado,Mañana
+645,2025-11-22,Grupo wizz,W46018,Rome (FCO),10:00:00,En hora,239,Airbus A321neo,S,EU,Sábado,Mañana
+646,2025-11-22,Transavia,HV5132,Amsterdam (AMS),10:05:00,Retrasado,232,Airbus A321neo,U,EU,Sábado,Mañana
+647,2025-11-22,Grupo wizz,W61476,Warsaw (WAW),10:15:00,En hora,239,Airbus A321neo,R,EU,Sábado,Mañana
+648,2025-11-22,Grupo Ryanair,FR9171,Stockholm (ARN),10:20:00,En hora,197,Boeing 737 MAX 8,R,EU,Sábado,Mañana
+649,2025-11-22,Grupo easy,U22326,London (LTN),10:20:00,En hora,180,Airbus A320,M,INT,Sábado,Mañana
+650,2025-11-22,Grupo Ryanair,FR3168,Newcastle (NCL),10:25:00,En hora,189,Boeing 737-800,W,INT,Sábado,Mañana
+651,2025-11-22,Grupo Ryanair,FR9307,Cork (ORK),10:30:00,En hora,197,Boeing 737 MAX 8,Y,INT,Sábado,Mañana
+652,2025-11-22,Grupo Ryanair,LW12,Vienna (VIE),10:30:00,Retrasado,180,Airbus A320,R,EU,Sábado,Mañana
+653,2025-11-22,Grupo easy,U28056,London (LGW),10:35:00,En hora,156,Airbus A319,M,INT,Sábado,Mañana
+654,2025-11-22,Azerbaijan Airlines,J246,Baku (GYD),10:45:00,En hora,186,Airbus A320neo,Y,INT,Sábado,Mañana
+655,2025-11-22,SkyUp MT,U5406,Chisinau (KIV),10:50:00,En hora,149,Boeing 737-700,W,INT,Sábado,Mañana
+656,2025-11-22,Grupo easy,U22704,Bristol (BRS),10:55:00,En hora,180,Airbus A320,M,INT,Sábado,Mañana
+657,2025-11-22,Grupo Ryanair,FR6394,Dublin (DUB),11:00:00,En hora,197,Boeing 737 MAX 8,W,INT,Sábado,Mañana
+658,2025-11-22,Grupo Ryanair,FR4597,Porto (OPO),11:20:00,En hora,197,Boeing 737 MAX 8,U,EU,Sábado,Mañana
+659,2025-11-22,Grupo easy,EC7193,Leeds Bradford (LBA),11:30:00,En hora,156,Airbus A319,M,INT,Sábado,Mañana
+660,2025-11-22,Aer Lingus,EI563,Dublin (DUB),11:30:00,En hora,174,Airbus A320,Y,INT,Sábado,Mañana
+661,2025-11-22,Grupo Ryanair,FR2507,Cologne-Bonn (CGN),11:55:00,En hora,189,Boeing 737-800,U,EU,Sábado,Mañana
+662,2025-11-22,Grupo Ryanair,FR3108,Luxembourg (LUX),12:05:00,En hora,189,Boeing 737-800,U,EU,Sábado,Tarde
+663,2025-11-22,Grupo easy,EC8064,London (LGW),12:10:00,En hora,156,Airbus A319,M,INT,Sábado,Tarde
+664,2025-11-22,Grupo Ryanair,FR8231,London (STN),12:25:00,En hora,189,Boeing 737-800,Y,INT,Sábado,Tarde
+665,2025-11-22,Pegasus Airlines,PC1092,Istanbul (SAW),12:45:00,Retrasado,220,Airbus A321,Y,INT,Sábado,Tarde
+666,2025-11-22,Grupo wizz,W67022,Bratislava (BTS),12:55:00,En hora,239,Airbus A321neo,U,EU,Sábado,Tarde
+667,2025-11-22,Grupo Ryanair,FR483,Malaga (AGP),13:05:00,Retrasado,189,Boeing 737-800,S,NAC,Sábado,Tarde
+668,2025-11-22,Boliviana de Aviacion,OB775,Santa Cruz (VVI),13:10:00,Retrasado,246,Airbus A330-200,Y,INT,Sábado,Tarde
+669,2025-11-22,Grupo wizz,W46330,Milan (MXP),13:10:00,En hora,230,Airbus A321,U,EU,Sábado,Tarde
+670,2025-11-22,Grupo easy,EC7101,"Basel, Switzerland/Mulhouse (BSL)",13:20:00,En hora,156,Airbus A319,R,EU,Sábado,Tarde
+671,2025-11-22,Grupo Ryanair,FR7808,London (LTN),13:20:00,En hora,197,Boeing 737 MAX 8,W,INT,Sábado,Tarde
+672,2025-11-22,Grupo Ryanair,RK6597,Manchester (MAN),13:25:00,En hora,189,Boeing 737-800,Y,INT,Sábado,Tarde
+673,2025-11-22,Grupo Ryanair,FR2098,Bologna (BLQ),13:30:00,En hora,189,Boeing 737-800,U,EU,Sábado,Tarde
+674,2025-11-22,Air Arabia Maroc,3O378,Tanger (TNG),13:35:00,Retrasado,174,Airbus A320,Y,INT,Sábado,Tarde
+675,2025-11-22,Grupo easy,EC7153,Milan (MXP),13:35:00,En hora,156,Airbus A319,R,EU,Sábado,Tarde
+676,2025-11-22,Ajet,VF608,Ankara (ESB),13:40:00,Retrasado,180,Airbus A320,W,INT,Sábado,Tarde
+677,2025-11-22,Grupo Ryanair,FR1681,Frankfurt-Hahn (HHN),14:00:00,En hora,189,Boeing 737-800,U,EU,Sábado,Tarde
+678,2025-11-22,Air Baltic,BT684,Riga (RIX),14:05:00,Retrasado,148,Airbus A220-300,S,EU,Sábado,Tarde
+679,2025-11-22,Grupo Ryanair,RR6920,Dublin (DUB),14:05:00,Retrasado,189,Boeing 737-800,Y,INT,Sábado,Tarde
+680,2025-11-22,Grupo Ryanair,FR58,Napoli (NAP),14:15:00,En hora,189,Boeing 737-800,U,EU,Sábado,Tarde
+681,2025-11-22,Kuwait Airways,KU136,Kuwait City (KWI),14:25:00,En hora,278,Airbus A330-900,W,INT,Sábado,Tarde
+682,2025-11-22,Grupo Ryanair,FR3070,Palma de Mallorca (PMI),14:40:00,Retrasado,189,Boeing 737-800,S,NAC,Sábado,Tarde
+683,2025-11-22,Grupo Ryanair,FR774,Torino (TRN),14:45:00,En hora,189,Boeing 737-800,S,EU,Sábado,Tarde
+684,2025-11-22,Grupo Ryanair,FR3121,Beauvais (BVA),14:50:00,En hora,189,Boeing 737-800,U,EU,Sábado,Tarde
+685,2025-11-22,Grupo Ryanair,FR6300,Sofia (SOF),14:55:00,En hora,189,Boeing 737-800,R,EU,Sábado,Tarde
+686,2025-11-22,Grupo Ryanair,FR3189,Fes (FEZ),15:30:00,En hora,189,Boeing 737-800,W,INT,Sábado,Tarde
+687,2025-11-22,Grupo wizz,W46728,Venice (VCE),15:40:00,En hora,239,Airbus A321neo,S,EU,Sábado,Tarde
+688,2025-11-22,Grupo Ryanair,FR3807,Charleroi (CRL),16:05:00,En hora,197,Boeing 737 MAX 8,U,EU,Sábado,Tarde
+689,2025-11-22,Grupo Ryanair,RR8384,Budapest (BUD),16:10:00,Retrasado,189,Boeing 737-800,S,EU,Sábado,Tarde
+690,2025-11-22,Grupo Ryanair,FR7543,Manchester (MAN),16:20:00,En hora,189,Boeing 737-800,Y,INT,Sábado,Tarde
+691,2025-11-22,Grupo Ryanair,FR3146,Oujda (OUD),16:45:00,En hora,189,Boeing 737-800,W,INT,Sábado,Tarde
+692,2025-11-22,Grupo Ryanair,FR269,Milan (MXP),16:50:00,En hora,189,Boeing 737-800,U,EU,Sábado,Tarde
+693,2025-11-22,Grupo Ryanair,FR9015,London (STN),17:00:00,En hora,197,Boeing 737 MAX 8,W,INT,Sábado,Tarde
+694,2025-11-22,Grupo Ryanair,FR5752,Valletta (MLA),17:10:00,En hora,197,Boeing 737 MAX 8,U,EU,Sábado,Tarde
+695,2025-11-22,Grupo Ryanair,FR6874,Dublin (DUB),17:40:00,En hora,189,Boeing 737-800,Y,INT,Sábado,Tarde
+696,2025-11-22,Grupo Ryanair,FR2233,Al Aaroui (NDR),17:50:00,Retrasado,189,Boeing 737-800,W,INT,Sábado,Tarde
+697,2025-11-22,Grupo Ryanair,FR2925,Brussels (BRU),17:50:00,En hora,197,Boeing 737 MAX 8,U,EU,Sábado,Tarde
+698,2025-11-22,Grupo Ryanair,FR6353,Milan (BGY),17:55:00,En hora,189,Boeing 737-800,S,EU,Sábado,Tarde
+699,2025-11-22,Grupo easy,EC7103,"Basel, Switzerland/Mulhouse (BSL)",18:00:00,En hora,156,Airbus A319,R,EU,Sábado,Tarde
+700,2025-11-22,Norwegian Air Sweden AOC,D81741,Oslo (OSL),18:15:00,En hora,189,Boeing 737-800,U,EU,Sábado,Tarde
+701,2025-11-22,Grupo Ryanair,FR878,Venice (VCE),18:15:00,En hora,189,Boeing 737-800,U,EU,Sábado,Tarde
+702,2025-11-22,Transavia,HV5134,Amsterdam (AMS),18:15:00,En hora,232,Airbus A321neo,U,EU,Sábado,Tarde
+703,2025-11-22,Grupo Ryanair,FR3035,Krakow (KRK),18:20:00,En hora,197,Boeing 737 MAX 8,U,EU,Sábado,Tarde
+704,2025-11-22,Grupo Ryanair,FR3792,Birmingham (BHX),18:55:00,En hora,197,Boeing 737 MAX 8,Y,INT,Sábado,Tarde
+705,2025-11-22,Grupo wizz,W61176,Katowice (KTW),18:55:00,En hora,239,Airbus A321neo,S,EU,Sábado,Tarde
+706,2025-11-22,Grupo wizz,W61478,Warsaw (WAW),19:00:00,En hora,239,Airbus A321neo,S,EU,Sábado,Tarde
+707,2025-11-22,Grupo Ryanair,FR9045,London (STN),19:05:00,En hora,189,Boeing 737-800,W,INT,Sábado,Tarde
+708,2025-11-22,Grupo Ryanair,FR5270,Manchester (MAN),19:20:00,En hora,189,Boeing 737-800,Y,INT,Sábado,Tarde
+709,2025-11-22,Grupo Ryanair,FR149,Berlin (BER),19:35:00,Retrasado,197,Boeing 737 MAX 8,U,EU,Sábado,Tarde
+710,2025-11-22,Grupo wizz,W64406,Sofia (SOF),19:35:00,En hora,239,Airbus A321neo,S,EU,Sábado,Tarde
+711,2025-11-22,Air Baltic,BT878,Tallinn (TLL),19:40:00,En hora,148,Airbus A220-300,U,EU,Sábado,Tarde
+712,2025-11-22,Grupo Ryanair,FR3078,Lisbon (LIS),19:55:00,En hora,189,Boeing 737-800,S,EU,Sábado,Tarde
+713,2025-11-22,Grupo Ryanair,LW7351,Vienna (VIE),20:05:00,En hora,180,Airbus A320,R,EU,Sábado,Noche
+714,2025-11-22,Grupo easy,EC1380,Geneva (GVA),20:10:00,En hora,180,Airbus A320,R,EU,Sábado,Noche
+715,2025-11-22,Grupo Ryanair,FR867,Venice (VCE),20:20:00,En hora,189,Boeing 737-800,U,EU,Sábado,Noche
+716,2025-11-22,Grupo Ryanair,FR9581,Sevilla (SVQ),20:25:00,En hora,197,Boeing 737 MAX 8,R,NAC,Sábado,Noche
+717,2025-11-22,T'Way Air,TW408,Seoul/Incheon (ICN),20:30:00,En hora,294,BOEING 777-300ER,Y,INT,Sábado,Noche
+718,2025-11-22,Grupo Ryanair,FR3182,Malaga (AGP),20:45:00,En hora,189,Boeing 737-800,U,NAC,Sábado,Noche
+719,2025-11-22,Grupo Ryanair,FR3928,Trieste (TRS),20:45:00,En hora,189,Boeing 737-800,S,EU,Sábado,Noche
+720,2025-11-22,Transavia,TO4759,Paris (ORY),20:45:00,Retrasado,186,Airbus A320neo,U,EU,Sábado,Noche
+721,2025-11-22,Grupo wizz,W62378,Budapest (BUD),20:45:00,Retrasado,239,Airbus A321neo,U,EU,Sábado,Noche
+722,2025-11-22,Grupo Ryanair,FR4585,Porto (OPO),20:50:00,Retrasado,189,Boeing 737-800,S,EU,Sábado,Noche
+723,2025-11-22,Grupo Ryanair,FR6267,Edinburgh (EDI),20:55:00,En hora,189,Boeing 737-800,W,INT,Sábado,Noche
+724,2025-11-22,Grupo Ryanair,FR3174,Ibiza (IBZ),21:20:00,En hora,189,Boeing 737-800,U,NAC,Sábado,Noche
+725,2025-11-22,Grupo wizz,W43178,Bucharest (BBU),21:20:00,En hora,230,Airbus A321,S,EU,Sábado,Noche
+726,2025-11-22,Grupo wizz,W43406,Cluj-Napoca (CLJ),21:25:00,En hora,180,Airbus A320,S,EU,Sábado,Noche
+727,2025-11-22,Grupo Ryanair,FR5220,Bologna (BLQ),21:30:00,En hora,189,Boeing 737-800,U,EU,Sábado,Noche
+728,2025-11-22,Grupo Ryanair,RR3039,Prague (PRG),21:35:00,En hora,197,Boeing 737 MAX 8,U,EU,Sábado,Noche
+729,2025-11-22,Grupo wizz,W46020,Rome (FCO),21:35:00,En hora,239,Airbus A321neo,S,EU,Sábado,Noche
+730,2025-11-22,Grupo Ryanair,FR3800,Birmingham (BHX),21:55:00,En hora,189,Boeing 737-800,Y,INT,Sábado,Noche
+731,2025-11-22,Grupo Ryanair,FR8574,Rome (FCO),22:10:00,Retrasado,189,Boeing 737-800,U,EU,Sábado,Noche
+732,2025-11-22,Grupo wizz,W64116,Belgrade (BEG),22:10:00,En hora,239,Airbus A321neo,Y,INT,Sábado,Noche
+733,2025-11-22,Air Arabia Maroc,3O642,Tanger (TNG),22:15:00,En hora,174,Airbus A320,W,INT,Sábado,Noche
+734,2025-11-23,Grupo Ryanair,FR3180,Rome (FCO),06:00:00,En hora,189,Boeing 737-800,U,EU,Domingo,Mañana
+735,2025-11-23,Grupo Ryanair,FR2834,Charleroi (CRL),06:10:00,En hora,197,Boeing 737 MAX 8,S,EU,Domingo,Mañana
+736,2025-11-23,Grupo Ryanair,FR2918,Brussels (BRU),06:25:00,En hora,189,Boeing 737-800,R,EU,Domingo,Mañana
+737,2025-11-23,Grupo Ryanair,FR4084,Warsaw (WMI),06:25:00,Retrasado,189,Boeing 737-800,S,EU,Domingo,Mañana
+738,2025-11-23,Grupo Ryanair,FR2239,Marrakech (RAK),06:30:00,En hora,189,Boeing 737-800,W,INT,Domingo,Mañana
+739,2025-11-23,Grupo Ryanair,FR2507,Cologne-Bonn (CGN),06:40:00,En hora,189,Boeing 737-800,U,EU,Domingo,Mañana
+740,2025-11-23,Grupo easy,EC7101,"Basel, Switzerland/Mulhouse (BSL)",06:50:00,En hora,156,Airbus A319,R,EU,Domingo,Mañana
+741,2025-11-23,Grupo easy,EC7191,Glasgow (GLA),07:20:00,En hora,156,Airbus A319,M,INT,Domingo,Mañana
+742,2025-11-23,Grupo Ryanair,FR6597,Manchester (MAN),07:30:00,En hora,189,Boeing 737-800,W,INT,Domingo,Mañana
+743,2025-11-23,Grupo Ryanair,FR3108,Luxembourg (LUX),07:35:00,En hora,189,Boeing 737-800,S,EU,Domingo,Mañana
+744,2025-11-23,Grupo Ryanair,FR1165,Sevilla (SVQ),07:50:00,En hora,189,Boeing 737-800,S,NAC,Domingo,Mañana
+745,2025-11-23,Norwegian Air Sweden AOC,D85510,Copenhagen (CPH),08:00:00,En hora,189,Boeing 737-800,U,EU,Domingo,Mañana
+746,2025-11-23,Grupo easy,EC7131,Nice/Cote D'Azur (NCE),08:00:00,En hora,156,Airbus A319,R,EU,Domingo,Mañana
+747,2025-11-23,Grupo easy,EC3754,Milan (MXP),08:25:00,En hora,180,Airbus A320,R,EU,Domingo,Mañana
+748,2025-11-23,Grupo Ryanair,FR878,Venice (VCE),08:30:00,En hora,189,Boeing 737-800,U,EU,Domingo,Mañana
+749,2025-11-23,Grupo easy,EC1376,Geneva (GVA),08:35:00,En hora,156,Airbus A319,R,EU,Domingo,Mañana
+750,2025-11-23,Volotea,V73735,Murcia (RMU),08:40:00,Retrasado,180,Airbus A320,U,NAC,Domingo,Mañana
+751,2025-11-23,Grupo Ryanair,RR1786,Vilnius (VNO),09:00:00,En hora,197,Boeing 737 MAX 8,S,EU,Domingo,Mañana
+752,2025-11-23,Grupo Ryanair,FR3028,Ibiza (IBZ),09:05:00,En hora,197,Boeing 737 MAX 8,U,NAC,Domingo,Mañana
+753,2025-11-23,Grupo wizz,W62048,Krakow (KRK),09:05:00,Retrasado,239,Airbus A321neo,S,EU,Domingo,Mañana
+754,2025-11-23,Grupo Ryanair,RR3193,Riga (RIX),09:10:00,En hora,189,Boeing 737-800,S,EU,Domingo,Mañana
+755,2025-11-23,Eurowings,EW7521,Hamburg (HAM),09:25:00,En hora,150,Airbus A319,S,EU,Domingo,Mañana
+756,2025-11-23,Grupo wizz,W43176,Bucharest (OTP),09:25:00,En hora,239,Airbus A321neo,U,EU,Domingo,Mañana
+757,2025-11-23,Grupo wizz,W45088,Tirana (TIA),09:25:00,En hora,239,Airbus A321neo,W,INT,Domingo,Mañana
+758,2025-11-23,Grupo wizz,W62376,Budapest (BUD),09:25:00,Retrasado,239,Airbus A321neo,U,EU,Domingo,Mañana
+759,2025-11-23,Grupo Ryanair,FR4545,Porto (OPO),09:35:00,En hora,189,Boeing 737-800,U,EU,Domingo,Mañana
+760,2025-11-23,Grupo wizz,W42938,Vienna (VIE),09:35:00,Retrasado,239,Airbus A321neo,R,EU,Domingo,Mañana
+761,2025-11-23,Grupo easy,EC7656,Lisbon (LIS),09:45:00,En hora,230,Airbus A321,R,EU,Domingo,Mañana
+762,2025-11-23,Grupo Ryanair,RR333,Gdansk (GDN),09:45:00,En hora,189,Boeing 737-800,U,EU,Domingo,Mañana
+763,2025-11-23,Grupo Ryanair,RR8384,Budapest (BUD),09:45:00,Retrasado,197,Boeing 737 MAX 8,U,EU,Domingo,Mañana
+764,2025-11-23,Grupo Ryanair,FR2495,Palma de Mallorca (PMI),09:50:00,En hora,189,Boeing 737-800,R,NAC,Domingo,Mañana
+765,2025-11-23,Grupo Ryanair,FR6341,Rome (FCO),09:55:00,En hora,189,Boeing 737-800,U,EU,Domingo,Mañana
+766,2025-11-23,Grupo Ryanair,RR3049,Krakow (KRK),09:55:00,Retrasado,197,Boeing 737 MAX 8,S,EU,Domingo,Mañana
+767,2025-11-23,Grupo Ryanair,FR8231,London (STN),10:00:00,En hora,189,Boeing 737-800,Y,INT,Domingo,Mañana
+768,2025-11-23,Grupo wizz,W46018,Rome (FCO),10:00:00,En hora,239,Airbus A321neo,S,EU,Domingo,Mañana
+769,2025-11-23,Grupo Ryanair,FR6874,Dublin (DUB),10:05:00,En hora,197,Boeing 737 MAX 8,W,INT,Domingo,Mañana
+770,2025-11-23,Grupo Ryanair,LW7351,Vienna (VIE),10:10:00,Retrasado,180,Airbus A320,R,EU,Domingo,Mañana
+771,2025-11-23,Grupo wizz,W61476,Warsaw (WAW),10:15:00,En hora,239,Airbus A321neo,S,EU,Domingo,Mañana
+772,2025-11-23,Grupo Ryanair,FR575,Bologna (BLQ),10:20:00,En hora,189,Boeing 737-800,R,EU,Domingo,Mañana
+773,2025-11-23,Grupo Ryanair,FR6267,Edinburgh (EDI),10:30:00,En hora,189,Boeing 737-800,Y,INT,Domingo,Mañana
+774,2025-11-23,Grupo Ryanair,FR7543,Manchester (MAN),10:40:00,En hora,197,Boeing 737 MAX 8,Y,INT,Domingo,Mañana
+775,2025-11-23,Grupo Ryanair,FR1279,Copenhagen (CPH),10:45:00,Retrasado,189,Boeing 737-800,U,EU,Domingo,Mañana
+776,2025-11-23,Grupo Ryanair,FR3143,Milan (BGY),10:45:00,En hora,197,Boeing 737 MAX 8,S,EU,Domingo,Mañana
+777,2025-11-23,Azerbaijan Airlines,J246,Baku (GYD),10:45:00,Retrasado,122,Airbus A319,W,INT,Domingo,Mañana
+778,2025-11-23,Grupo Ryanair,FR3166,Palermo (PMO),11:00:00,En hora,189,Boeing 737-800,U,EU,Domingo,Mañana
+779,2025-11-23,Norwegian Air Sweden AOC,D81741,Oslo (OSL),11:15:00,En hora,189,Boeing 737-800,U,EU,Domingo,Mañana
+780,2025-11-23,Aer Lingus,EI563,Dublin (DUB),11:30:00,En hora,186,Airbus A320neo,W,INT,Domingo,Mañana
+781,2025-11-23,Grupo easy,EC7139,Rennes/Saint-Jacques (RNS),11:45:00,En hora,156,Airbus A319,R,EU,Domingo,Mañana
+782,2025-11-23,Icelandair,FI597,Keflavik (KEF),11:50:00,Retrasado,160,Boeing 737 MAX 8,U,EU,Domingo,Mañana
+783,2025-11-23,Grupo Ryanair,LW2889,Palma de Mallorca (PMI),11:55:00,En hora,180,Airbus A320,R,NAC,Domingo,Mañana
+784,2025-11-23,Grupo Ryanair,FR3129,Ibiza (IBZ),12:05:00,En hora,189,Boeing 737-800,S,NAC,Domingo,Tarde
+785,2025-11-23,Grupo Ryanair,FR3976,Dublin (DUB),12:25:00,En hora,197,Boeing 737 MAX 8,W,INT,Domingo,Tarde
+786,2025-11-23,Grupo Ryanair,FR1527,Valletta (MLA),12:30:00,En hora,189,Boeing 737-800,U,EU,Domingo,Tarde
+787,2025-11-23,Grupo Ryanair,FR2402,Sevilla (SVQ),12:30:00,Retrasado,189,Boeing 737-800,S,NAC,Domingo,Tarde
+788,2025-11-23,Volotea,V72167,Lille/Lesquin (LIL),12:35:00,Retrasado,180,Airbus A320,U,EU,Domingo,Tarde
+789,2025-11-23,Grupo Ryanair,FR6300,Sofia (SOF),12:45:00,Retrasado,189,Boeing 737-800,S,EU,Domingo,Tarde
+790,2025-11-23,Pegasus Airlines,PC1092,Istanbul (SAW),12:45:00,En hora,220,Airbus A321,Y,INT,Domingo,Tarde
+791,2025-11-23,Grupo Ryanair,FR2511,Cologne-Bonn (CGN),12:55:00,En hora,189,Boeing 737-800,U,EU,Domingo,Tarde
+792,2025-11-23,Grupo Ryanair,FR8598,Reggio Calabria (REG),13:05:00,Retrasado,189,Boeing 737-800,U,EU,Domingo,Tarde
+793,2025-11-23,Volotea,V71445,Olbia (OLB),13:05:00,En hora,180,Airbus A320,U,EU,Domingo,Tarde
+794,2025-11-23,Grupo wizz,W46330,Milan (MXP),13:10:00,En hora,239,Airbus A321neo,U,EU,Domingo,Tarde
+795,2025-11-23,Grupo Ryanair,FR3121,Beauvais (BVA),13:20:00,En hora,189,Boeing 737-800,S,EU,Domingo,Tarde
+796,2025-11-23,Grupo easy,U28056,London (LGW),13:25:00,En hora,156,Airbus A319,M,INT,Domingo,Tarde
+797,2025-11-23,Grupo easy,EC1380,Geneva (GVA),13:40:00,En hora,180,Airbus A320,R,EU,Domingo,Tarde
+798,2025-11-23,Grupo Ryanair,FR9811,London (STN),13:40:00,En hora,189,Boeing 737-800,W,INT,Domingo,Tarde
+799,2025-11-23,Grupo Ryanair,FR483,Malaga (AGP),13:50:00,En hora,189,Boeing 737-800,R,NAC,Domingo,Tarde
+800,2025-11-23,Air Baltic,BT684,Riga (RIX),14:05:00,En hora,148,Airbus A220-300,S,EU,Domingo,Tarde
+801,2025-11-23,Grupo easy,EC7153,Milan (MXP),14:05:00,Retrasado,156,Airbus A319,R,EU,Domingo,Tarde
+802,2025-11-23,Grupo Ryanair,FR1342,Palma de Mallorca (PMI),14:05:00,Retrasado,189,Boeing 737-800,S,NAC,Domingo,Tarde
+803,2025-11-23,Grupo Ryanair,FR6920,Dublin (DUB),14:05:00,Retrasado,197,Boeing 737 MAX 8,W,INT,Domingo,Tarde
+804,2025-11-23,Grupo Ryanair,FR4585,Porto (OPO),14:10:00,En hora,189,Boeing 737-800,U,EU,Domingo,Tarde
+805,2025-11-23,SunExpress,XQ895,Izmir (ADB),14:15:00,Retrasado,189,Boeing 737-800,Y,INT,Domingo,Tarde
+806,2025-11-23,Transavia,HV5132,Amsterdam (AMS),14:20:00,Retrasado,189,Boeing 737-800,U,EU,Domingo,Tarde
+807,2025-11-23,Grupo easy,EC7107,Geneva (GVA),14:25:00,En hora,156,Airbus A319,R,EU,Domingo,Tarde
+808,2025-11-23,Norwegian Air Sweden AOC,D85502,Stockholm (ARN),14:40:00,Retrasado,189,Boeing 737-800,S,EU,Domingo,Tarde
+809,2025-11-23,Bluebird Airways,BZ251,Tel Aviv (TLV),14:45:00,En hora,180,Airbus A320,Y,INT,Domingo,Tarde
+810,2025-11-23,Grupo Ryanair,FR269,Milan (MXP),14:55:00,Retrasado,189,Boeing 737-800,S,EU,Domingo,Tarde
+811,2025-11-23,SmartWings,QS1059,Prague (PRG),14:55:00,En hora,189,Boeing 737-800,U,EU,Domingo,Tarde
+812,2025-11-23,Grupo Ryanair,FR3320,Milan (BGY),15:00:00,En hora,189,Boeing 737-800,R,EU,Domingo,Tarde
+813,2025-11-23,Grupo Ryanair,FR774,Torino (TRN),15:15:00,En hora,189,Boeing 737-800,U,EU,Domingo,Tarde
+814,2025-11-23,Grupo Ryanair,RR3072,Prague (PRG),15:15:00,Retrasado,189,Boeing 737-800,S,EU,Domingo,Tarde
+815,2025-11-23,Transavia,TO4755,Paris (ORY),15:15:00,En hora,186,Airbus A320neo,U,EU,Domingo,Tarde
+816,2025-11-23,Grupo easy,EC7694,Lisbon (LIS),15:20:00,Retrasado,180,Airbus A320,R,EU,Domingo,Tarde
+817,2025-11-23,Grupo Ryanair,FR6973,Rome (FCO),15:30:00,Retrasado,197,Boeing 737 MAX 8,S,EU,Domingo,Tarde
+818,2025-11-23,Air Arabia Maroc,3O378,Tanger (TNG),15:35:00,En hora,174,Airbus A320,Y,INT,Domingo,Tarde
+819,2025-11-23,Grupo wizz,W46728,Venice (VCE),15:40:00,En hora,239,Airbus A321neo,U,EU,Domingo,Tarde
+820,2025-11-23,Grupo Ryanair,FR133,Berlin (BER),16:15:00,En hora,189,Boeing 737-800,U,EU,Domingo,Tarde
+821,2025-11-23,Grupo Ryanair,FR2922,Brussels (BRU),16:15:00,En hora,189,Boeing 737-800,U,EU,Domingo,Tarde
+822,2025-11-23,Grupo easy,EC7173,Berlin (BER),16:30:00,Retrasado,156,Airbus A319,R,EU,Domingo,Tarde
+823,2025-11-23,Grupo Ryanair,FR9814,London (STN),16:40:00,En hora,189,Boeing 737-800,W,INT,Domingo,Tarde
+824,2025-11-23,Grupo Ryanair,FR8669,Dublin (DUB),16:55:00,Retrasado,189,Boeing 737-800,W,INT,Domingo,Tarde
+825,2025-11-23,Air Arabia Maroc,3O374,Casablanca (CMN),17:00:00,En hora,174,Airbus A320,W,INT,Domingo,Tarde
+826,2025-11-23,Grupo Ryanair,FR2250,Marrakech (RAK),17:00:00,Retrasado,189,Boeing 737-800,Y,INT,Domingo,Tarde
+827,2025-11-23,Grupo Ryanair,RR8394,Budapest (BUD),17:15:00,Retrasado,197,Boeing 737 MAX 8,S,EU,Domingo,Tarde
+828,2025-11-23,Grupo Ryanair,FR5718,Bratislava (BTS),17:20:00,Retrasado,189,Boeing 737-800,S,EU,Domingo,Tarde
+829,2025-11-23,Grupo Ryanair,FR12,Vienna (VIE),17:40:00,Retrasado,189,Boeing 737-800,U,EU,Domingo,Tarde
+830,2025-11-23,Volotea,V73573,Asturias (OVD),17:40:00,En hora,156,Airbus A319,S,NAC,Domingo,Tarde
+831,2025-11-23,Grupo Ryanair,RR5252,Krakow (KRK),17:50:00,En hora,189,Boeing 737-800,R,EU,Domingo,Tarde
+832,2025-11-23,Grupo Ryanair,FR1681,Frankfurt-Hahn (HHN),18:00:00,Retrasado,189,Boeing 737-800,R,EU,Domingo,Tarde
+833,2025-11-23,Grupo Ryanair,FR777,Venice (VCE),18:00:00,En hora,197,Boeing 737 MAX 8,U,EU,Domingo,Tarde
+834,2025-11-23,Grupo Ryanair,FR6305,Milan (BGY),18:05:00,En hora,189,Boeing 737-800,S,EU,Domingo,Tarde
+835,2025-11-23,Grupo easy,EC7109,Geneva (GVA),18:15:00,En hora,156,Airbus A319,R,EU,Domingo,Tarde
+836,2025-11-23,Volotea,V73700,Vitoria (VIT),18:20:00,En hora,180,Airbus A320,S,NAC,Domingo,Tarde
+837,2025-11-23,Grupo Ryanair,FR2406,Sevilla (SVQ),18:30:00,En hora,189,Boeing 737-800,S,NAC,Domingo,Tarde
+838,2025-11-23,Grupo wizz,W43686,Iasi (IAS),18:30:00,En hora,180,Airbus A320,S,EU,Domingo,Tarde
+839,2025-11-23,Jet2,LS804,Manchester (MAN),18:35:00,En hora,189,Boeing 737-800,Y,INT,Domingo,Tarde
+840,2025-11-23,Grupo easy,EC7103,"Basel, Switzerland/Mulhouse (BSL)",18:45:00,Retrasado,156,Airbus A319,R,EU,Domingo,Tarde
+841,2025-11-23,Grupo Ryanair,FR8631,Tanger (TNG),18:45:00,Retrasado,189,Boeing 737-800,W,INT,Domingo,Tarde
+842,2025-11-23,Transavia,HV6066,Rotterdam (RTM),18:50:00,Retrasado,189,Boeing 737-800,U,EU,Domingo,Tarde
+843,2025-11-23,Grupo easy,U25716,Southend (SEN),18:55:00,En hora,186,Airbus A320neo,M,INT,Domingo,Tarde
+844,2025-11-23,Grupo wizz,W61176,Katowice (KTW),18:55:00,Retrasado,180,Airbus A320,U,EU,Domingo,Tarde
+845,2025-11-23,Grupo wizz,W61478,Warsaw (WAW),19:00:00,En hora,239,Airbus A321neo,U,EU,Domingo,Tarde
+846,2025-11-23,Grupo easy,EC7159,Milan (LIN),19:05:00,Retrasado,156,Airbus A319,R,EU,Domingo,Tarde
+847,2025-11-23,Grupo wizz,W43180,Bucharest (OTP),19:05:00,En hora,230,Airbus A321,U,EU,Domingo,Tarde
+848,2025-11-23,Grupo Ryanair,FR6394,Dublin (DUB),19:10:00,En hora,197,Boeing 737 MAX 8,Y,INT,Domingo,Tarde
+849,2025-11-23,Grupo Ryanair,FR3160,Bristol (BRS),19:25:00,En hora,189,Boeing 737-800,Y,INT,Domingo,Tarde
+850,2025-11-23,Volotea,V72165,Nantes/Atlantique (NTE),19:30:00,En hora,156,Airbus A319,S,EU,Domingo,Tarde
+851,2025-11-23,Eurowings,EW9443,Dusseldorf (DUS),19:35:00,En hora,150,Airbus A319,U,EU,Domingo,Tarde
+852,2025-11-23,Grupo wizz,W64406,Sofia (SOF),19:35:00,En hora,239,Airbus A321neo,U,EU,Domingo,Tarde
+853,2025-11-23,Grupo Ryanair,FR2233,Al Aaroui (NDR),19:40:00,En hora,189,Boeing 737-800,W,INT,Domingo,Tarde
+854,2025-11-23,Grupo easy,EC3750,Milan (MXP),19:45:00,Retrasado,180,Airbus A320,R,EU,Domingo,Tarde
+855,2025-11-23,Grupo Ryanair,FR5710,Napoli (NAP),19:45:00,Retrasado,189,Boeing 737-800,R,EU,Domingo,Tarde
+856,2025-11-23,Grupo Ryanair,FR9015,London (STN),19:45:00,Retrasado,189,Boeing 737-800,W,INT,Domingo,Tarde
+857,2025-11-23,Grupo easy,U28058,London (LGW),19:45:00,En hora,156,Airbus A319,M,INT,Domingo,Tarde
+858,2025-11-23,Jet2,LS1338,Birmingham (BHX),19:55:00,Retrasado,232,Airbus A321neo,W,INT,Domingo,Tarde
+859,2025-11-23,Grupo wizz,W64666,Larnaca (LCA),19:55:00,Retrasado,230,Airbus A321,W,INT,Domingo,Tarde
+860,2025-11-23,Grupo Ryanair,FR8136,Ibiza (IBZ),20:10:00,Retrasado,189,Boeing 737-800,S,NAC,Domingo,Noche
+861,2025-11-23,Grupo wizz,W62096,Krakow (KRK),20:10:00,Retrasado,239,Airbus A321neo,S,EU,Domingo,Noche
+862,2025-11-23,Grupo easy,EC4212,Napoli (NAP),20:20:00,En hora,180,Airbus A320,R,EU,Domingo,Noche
+863,2025-11-23,Transavia,HV6788,Eindhoven (EIN),20:20:00,Retrasado,189,Boeing 737-800,S,EU,Domingo,Noche
+864,2025-11-23,Grupo wizz,W67022,Bratislava (BTS),20:20:00,En hora,239,Airbus A321neo,S,EU,Domingo,Noche
+865,2025-11-23,Grupo Ryanair,FR6985,Rome (FCO),20:30:00,En hora,197,Boeing 737 MAX 8,U,EU,Domingo,Noche
+866,2025-11-23,Air Serbia,JU585,Belgrade (BEG),20:35:00,En hora,144,Airbus A319,Y,INT,Domingo,Noche
+867,2025-11-23,Norwegian Air Sweden AOC,D83659,Copenhagen (CPH),20:40:00,En hora,189,Boeing 737 MAX 8,S,EU,Domingo,Noche
+868,2025-11-23,Eurowings,EW2521,Stuttgart (STR),20:40:00,Retrasado,180,Airbus A320neo,U,EU,Domingo,Noche
+869,2025-11-23,Grupo Ryanair,FR4587,Porto (OPO),20:40:00,En hora,189,Boeing 737-800,R,EU,Domingo,Noche
+870,2025-11-23,Luxair,LG3596,Luxembourg (LUX),20:40:00,Retrasado,186,Boeing 737-800,R,EU,Domingo,Noche
+871,2025-11-23,Transavia,TO4759,Paris (ORY),20:45:00,En hora,186,Airbus A320neo,U,EU,Domingo,Noche
+872,2025-11-23,Grupo wizz,W62378,Budapest (BUD),20:45:00,Retrasado,239,Airbus A321neo,S,EU,Domingo,Noche
+873,2025-11-23,Grupo Ryanair,FR6275,Edinburgh (EDI),20:50:00,En hora,189,Boeing 737-800,W,INT,Domingo,Noche
+874,2025-11-23,Transavia,HV5134,Amsterdam (AMS),20:50:00,Retrasado,189,Boeing 737-800,U,EU,Domingo,Noche
+875,2025-11-23,Grupo Ryanair,RR6944,Warsaw (WMI),20:50:00,Retrasado,189,Boeing 737-800,S,EU,Domingo,Noche
+876,2025-11-23,Grupo easy,U22326,London (LTN),20:55:00,En hora,186,Airbus A320neo,M,INT,Domingo,Noche
+877,2025-11-23,Grupo wizz,W64738,Skopje (SKP),20:55:00,En hora,239,Airbus A321neo,Y,INT,Domingo,Noche
+878,2025-11-23,Grupo Ryanair,RR8615,Budapest (BUD),21:00:00,Retrasado,189,Boeing 737-800,U,EU,Domingo,Noche
+879,2025-11-23,Aer Lingus,EI565,Dublin (DUB),21:05:00,Retrasado,174,Airbus A320,W,INT,Domingo,Noche
+880,2025-11-23,Grupo Ryanair,FR2896,Palma de Mallorca (PMI),21:15:00,Retrasado,189,Boeing 737-800,R,NAC,Domingo,Noche
+881,2025-11-23,Grupo Ryanair,FR3792,Birmingham (BHX),21:20:00,Retrasado,189,Boeing 737-800,Y,INT,Domingo,Noche
+882,2025-11-23,Grupo wizz,W43178,Bucharest (BBU),21:20:00,En hora,230,Airbus A321,U,EU,Domingo,Noche
+883,2025-11-23,Grupo wizz,W43406,Cluj-Napoca (CLJ),21:25:00,En hora,180,Airbus A320,S,EU,Domingo,Noche
+884,2025-11-23,Grupo easy,U28060,London (LGW),21:30:00,En hora,156,Airbus A319,M,INT,Domingo,Noche
+885,2025-11-23,Grupo wizz,W46020,Rome (FCO),21:35:00,Retrasado,239,Airbus A321neo,S,EU,Domingo,Noche
+886,2025-11-23,Grupo Ryanair,FR5752,Valletta (MLA),21:45:00,Retrasado,197,Boeing 737 MAX 8,S,EU,Domingo,Noche
+887,2025-11-23,Grupo easy,U22706,Bristol (BRS),21:50:00,En hora,186,Airbus A320neo,M,INT,Domingo,Noche
+888,2025-11-23,Volotea,V71415,Verona (VRN),21:55:00,Retrasado,180,Airbus A320,S,EU,Domingo,Noche
+889,2025-11-23,Grupo wizz,W64116,Belgrade (BEG),21:55:00,Retrasado,230,Airbus A321,W,INT,Domingo,Noche
+890,2025-11-23,Grupo wizz,W45154,Tirana (TIA),22:45:00,En hora,239,Airbus A321neo,W,INT,Domingo,Noche
+891,2025-11-23,Grupo Ryanair,FR5220,Bologna (BLQ),22:50:00,En hora,189,Boeing 737-800,R,EU,Domingo,Noche
+892,2025-11-23,Grupo wizz,W61706,Gdansk (GDN),22:50:00,En hora,239,Airbus A321neo,U,EU,Domingo,Noche
+893,2025-11-23,Grupo Ryanair,FR9406,Fes (FEZ),23:15:00,En hora,189,Boeing 737-800,W,INT,Domingo,Noche
+894,2025-11-24,Grupo Ryanair,FR3180,Rome (FCO),06:00:00,En hora,189,Boeing 737-800,U,EU,Lunes,Mañana
+895,2025-11-24,Grupo Ryanair,FR846,Milan (BGY),06:10:00,En hora,189,Boeing 737-800,S,EU,Lunes,Mañana
+896,2025-11-24,Grupo easy,EC7105,Geneva (GVA),06:15:00,En hora,156,Airbus A319,R,EU,Lunes,Mañana
+897,2025-11-24,Grupo Ryanair,FR2233,Al Aaroui (NDR),06:20:00,En hora,189,Boeing 737-800,W,INT,Lunes,Mañana
+898,2025-11-24,Grupo Ryanair,FR8384,Budapest (BUD),06:25:00,En hora,197,Boeing 737 MAX 8,S,EU,Lunes,Mañana
+899,2025-11-24,Grupo Ryanair,FR3078,Lisbon (LIS),06:30:00,En hora,189,Boeing 737-800,U,EU,Lunes,Mañana
+900,2025-11-24,Grupo easy,EC8062,London (LGW),06:45:00,En hora,156,Airbus A319,M,INT,Lunes,Mañana
+901,2025-11-24,Grupo Ryanair,FR3035,Krakow (KRK),06:45:00,Retrasado,189,Boeing 737-800,U,EU,Lunes,Mañana
+902,2025-11-24,Grupo Ryanair,FR8215,London (STN),06:45:00,En hora,197,Boeing 737 MAX 8,Y,INT,Lunes,Mañana
+903,2025-11-24,Grupo easy,EC7141,Strasbourg (SXB),07:20:00,En hora,156,Airbus A319,R,EU,Lunes,Mañana
+904,2025-11-24,Grupo easy,EC7151,Milan (MXP),07:20:00,En hora,156,Airbus A319,R,EU,Lunes,Mañana
+905,2025-11-24,Grupo Ryanair,FR3028,Ibiza (IBZ),07:35:00,En hora,189,Boeing 737-800,U,NAC,Lunes,Mañana
+906,2025-11-24,Grupo Ryanair,LW1342,Palma de Mallorca (PMI),07:40:00,En hora,180,Airbus A320,R,NAC,Lunes,Mañana
+907,2025-11-24,Grupo Ryanair,FR1165,Sevilla (SVQ),07:55:00,En hora,189,Boeing 737-800,S,NAC,Lunes,Mañana
+908,2025-11-24,Norwegian Air Sweden AOC,D85510,Copenhagen (CPH),08:00:00,En hora,189,Boeing 737-800,U,EU,Lunes,Mañana
+909,2025-11-24,Grupo Ryanair,FR58,Napoli (NAP),08:35:00,Retrasado,197,Boeing 737 MAX 8,U,EU,Lunes,Mañana
+910,2025-11-24,Grupo Ryanair,FR575,Bologna (BLQ),08:40:00,En hora,189,Boeing 737-800,U,EU,Lunes,Mañana
+911,2025-11-24,Grupo easy,EC1376,Geneva (GVA),08:45:00,Retrasado,156,Airbus A319,R,EU,Lunes,Mañana
+912,2025-11-24,Grupo Ryanair,LW12,Vienna (VIE),09:00:00,Retrasado,180,Airbus A320,S,EU,Lunes,Mañana
+913,2025-11-24,Grupo Ryanair,FR6078,Ouarzazate (OZZ),09:05:00,En hora,189,Boeing 737-800,W,INT,Lunes,Mañana
+914,2025-11-24,Grupo wizz,W62048,Krakow (KRK),09:05:00,Retrasado,239,Airbus A321neo,S,EU,Lunes,Mañana
+915,2025-11-24,Volotea,V72327,Strasbourg (SXB),09:10:00,Retrasado,180,Airbus A320,S,EU,Lunes,Mañana
+916,2025-11-24,Air Arabia Maroc,3O398,Rabat (RBA),09:20:00,En hora,174,Airbus A320,Y,INT,Lunes,Mañana
+917,2025-11-24,Eurowings,EW2521,Stuttgart (STR),09:20:00,Retrasado,150,Airbus A319,S,EU,Lunes,Mañana
+918,2025-11-24,Grupo wizz,W43176,Bucharest (OTP),09:25:00,En hora,230,Airbus A321,U,EU,Lunes,Mañana
+919,2025-11-24,Grupo wizz,W45088,Tirana (TIA),09:25:00,En hora,239,Airbus A321neo,W,INT,Lunes,Mañana
+920,2025-11-24,Grupo wizz,W62376,Budapest (BUD),09:25:00,Retrasado,239,Airbus A321neo,S,EU,Lunes,Mañana
+921,2025-11-24,Volotea,V73573,Asturias (OVD),09:30:00,En hora,156,Airbus A319,U,NAC,Lunes,Mañana
+922,2025-11-24,Grupo easy,EC1030,"Basel, Switzerland/Mulhouse (BSL)",09:35:00,En hora,180,Airbus A320,R,EU,Lunes,Mañana
+923,2025-11-24,Grupo Ryanair,FR2834,Charleroi (CRL),09:40:00,En hora,189,Boeing 737-800,R,EU,Lunes,Mañana
+924,2025-11-24,Transavia,HV6062,Rotterdam (RTM),09:40:00,En hora,189,Boeing 737-800,U,EU,Lunes,Mañana
+925,2025-11-24,Eurowings,EW9441,Dusseldorf (DUS),09:45:00,Retrasado,180,Airbus A320,U,EU,Lunes,Mañana
+926,2025-11-24,Grupo Ryanair,FR2495,Palma de Mallorca (PMI),09:45:00,En hora,189,Boeing 737-800,R,NAC,Lunes,Mañana
+927,2025-11-24,Grupo Ryanair,FR4545,Porto (OPO),09:50:00,En hora,189,Boeing 737-800,R,EU,Lunes,Mañana
+928,2025-11-24,Air Serbia,JU581,Belgrade (BEG),09:55:00,Retrasado,144,Airbus A319,Y,INT,Lunes,Mañana
+929,2025-11-24,Grupo easy,EC7656,Lisbon (LIS),10:00:00,Retrasado,230,Airbus A321,R,EU,Lunes,Mañana
+930,2025-11-24,Transavia,HV5132,Amsterdam (AMS),10:05:00,Retrasado,189,Boeing 737-800,U,EU,Lunes,Mañana
+931,2025-11-24,Grupo wizz,W46018,Rome (FCO),10:05:00,En hora,239,Airbus A321neo,U,EU,Lunes,Mañana
+932,2025-11-24,Grupo Ryanair,FR6559,Liverpool (LPL),10:15:00,En hora,189,Boeing 737-800,W,INT,Lunes,Mañana
+933,2025-11-24,Grupo wizz,W61476,Warsaw (WAW),10:15:00,Retrasado,239,Airbus A321neo,U,EU,Lunes,Mañana
+934,2025-11-24,Grupo Ryanair,FR3143,Milan (BGY),10:20:00,En hora,189,Boeing 737-800,S,EU,Lunes,Mañana
+935,2025-11-24,Grupo easy,U22324,London (LTN),10:25:00,En hora,186,Airbus A320neo,M,INT,Lunes,Mañana
+936,2025-11-24,Grupo Ryanair,FR7808,London (LTN),10:35:00,En hora,197,Boeing 737 MAX 8,W,INT,Lunes,Mañana
+937,2025-11-24,Grupo easy,EC7131,Nice/Cote D'Azur (NCE),10:40:00,En hora,156,Airbus A319,R,EU,Lunes,Mañana
+938,2025-11-24,Grupo easy,U28056,London (LGW),10:40:00,En hora,180,Airbus A320,M,INT,Lunes,Mañana
+939,2025-11-24,Grupo Ryanair,FR2239,Marrakech (RAK),10:45:00,En hora,189,Boeing 737-800,W,INT,Lunes,Mañana
+940,2025-11-24,Grupo Ryanair,FR3121,Beauvais (BVA),10:45:00,Retrasado,189,Boeing 737-800,S,EU,Lunes,Mañana
+941,2025-11-24,Grupo Ryanair,FR3976,Dublin (DUB),10:45:00,En hora,189,Boeing 737-800,Y,INT,Lunes,Mañana
+942,2025-11-24,Grupo Ryanair,FR3039,Prague (PRG),10:55:00,En hora,189,Boeing 737-800,U,EU,Lunes,Mañana
+943,2025-11-24,Grupo Ryanair,FR9045,London (STN),11:00:00,En hora,189,Boeing 737-800,Y,INT,Lunes,Mañana
+944,2025-11-24,Grupo easy,U22002,Manchester (MAN),11:20:00,En hora,180,Airbus A320,M,INT,Lunes,Mañana
+945,2025-11-24,Aer Lingus,EI563,Dublin (DUB),11:30:00,En hora,174,Airbus A320,W,INT,Lunes,Mañana
+946,2025-11-24,Grupo Ryanair,FR7539,Milan (MXP),11:30:00,En hora,189,Boeing 737-800,U,EU,Lunes,Mañana
+947,2025-11-24,Transavia,TO4755,Paris (ORY),11:30:00,En hora,189,Boeing 737-800,S,EU,Lunes,Mañana
+948,2025-11-24,Grupo Ryanair,FR1279,Copenhagen (CPH),11:35:00,Retrasado,189,Boeing 737-800,S,EU,Lunes,Mañana
+949,2025-11-24,Grupo easy,EC7197,Birmingham (BHX),11:40:00,En hora,156,Airbus A319,M,INT,Lunes,Mañana
+950,2025-11-24,Grupo Ryanair,FR777,Venice (VCE),11:55:00,En hora,197,Boeing 737 MAX 8,U,EU,Lunes,Mañana
+951,2025-11-24,Grupo Ryanair,FR8217,London (STN),12:00:00,En hora,189,Boeing 737-800,Y,INT,Lunes,Tarde
+952,2025-11-24,Jet2,LS232,Leeds Bradford (LBA),12:00:00,En hora,189,Boeing 737-800,W,INT,Lunes,Tarde
+953,2025-11-24,Grupo Ryanair,FR3129,Ibiza (IBZ),12:35:00,En hora,189,Boeing 737-800,S,NAC,Lunes,Tarde
+954,2025-11-24,Grupo Ryanair,FR6973,Rome (FCO),12:35:00,Retrasado,197,Boeing 737 MAX 8,S,EU,Lunes,Tarde
+955,2025-11-24,Grupo Ryanair,FR774,Torino (TRN),12:40:00,En hora,189,Boeing 737-800,U,EU,Lunes,Tarde
+956,2025-11-24,Pegasus Airlines,PC1092,Istanbul (SAW),12:45:00,Retrasado,180,Airbus A320,W,INT,Lunes,Tarde
+957,2025-11-24,Norwegian Air Sweden AOC,D83657,Copenhagen (CPH),12:50:00,En hora,189,Boeing 737-800,S,EU,Lunes,Tarde
+958,2025-11-24,Grupo easy,EC7137,Lyon (LYS),12:55:00,En hora,156,Airbus A319,R,EU,Lunes,Tarde
+959,2025-11-24,Grupo wizz,W67022,Bratislava (BTS),12:55:00,En hora,239,Airbus A321neo,S,EU,Lunes,Tarde
+960,2025-11-24,Grupo Ryanair,FR3108,Luxembourg (LUX),13:00:00,Retrasado,197,Boeing 737 MAX 8,U,EU,Lunes,Tarde
+961,2025-11-24,Grupo wizz,W46330,Milan (MXP),13:10:00,Retrasado,239,Airbus A321neo,S,EU,Lunes,Tarde
+962,2025-11-24,Grupo Ryanair,FR8631,Tanger (TNG),13:20:00,Retrasado,189,Boeing 737-800,Y,INT,Lunes,Tarde
+963,2025-11-24,HiSky,H4264,Bucharest (OTP),13:20:00,En hora,186,Airbus A320,U,EU,Lunes,Tarde
+964,2025-11-24,Norwegian Air Sweden AOC,D81741,Oslo (OSL),13:25:00,En hora,189,Boeing 737-800,U,EU,Lunes,Tarde
+965,2025-11-24,Eurowings,EW521,Cologne-Bonn (CGN),13:25:00,En hora,180,Airbus A320,S,EU,Lunes,Tarde
+966,2025-11-24,Pegasus Airlines,PC1528,Izmir (ADB),13:30:00,Retrasado,180,Airbus A320,W,INT,Lunes,Tarde
+967,2025-11-24,Luxair,LG3592,Luxembourg (LUX),13:35:00,Retrasado,76,de Havilland Dash 8-400,U,EU,Lunes,Tarde
+968,2025-11-24,Grupo easy,EC7153,Milan (MXP),13:40:00,Retrasado,156,Airbus A319,R,EU,Lunes,Tarde
+969,2025-11-24,Grupo Ryanair,FR4585,Porto (OPO),13:40:00,Retrasado,189,Boeing 737-800,U,EU,Lunes,Tarde
+970,2025-11-24,Turkish Airlines,TK608,Ankara (ESB),13:40:00,Retrasado,165,Boeing 737-800,Y,INT,Lunes,Tarde
+971,2025-11-24,Grupo Ryanair,FR3189,Fes (FEZ),13:50:00,En hora,189,Boeing 737-800,W,INT,Lunes,Tarde
+972,2025-11-24,Jet2,LS804,Manchester (MAN),13:50:00,En hora,189,Boeing 737-800,W,INT,Lunes,Tarde
+973,2025-11-24,Grupo Ryanair,FR3792,Birmingham (BHX),13:55:00,En hora,189,Boeing 737-800,W,INT,Lunes,Tarde
+974,2025-11-24,Air Baltic,BT684,Riga (RIX),14:05:00,Retrasado,148,Airbus A220-300,S,EU,Lunes,Tarde
+975,2025-11-24,Grupo Ryanair,FR2889,Palma de Mallorca (PMI),14:05:00,En hora,189,Boeing 737-800,S,NAC,Lunes,Tarde
+976,2025-11-24,Norwegian Air Sweden AOC,D85502,Stockholm (ARN),14:40:00,En hora,189,Boeing 737-800,U,EU,Lunes,Tarde
+977,2025-11-24,Bluebird Airways,BZ251,Tel Aviv (TLV),14:45:00,En hora,189,Boeing 737-800,Y,INT,Lunes,Tarde
+978,2025-11-24,Grupo easy,EC7107,Geneva (GVA),14:45:00,Retrasado,156,Airbus A319,R,EU,Lunes,Tarde
+979,2025-11-24,Volotea,V71443,Ancona (AOI),14:45:00,En hora,180,Airbus A320,U,EU,Lunes,Tarde
+980,2025-11-24,Grupo wizz,W64406,Sofia (SOF),14:50:00,Retrasado,180,Airbus A320,U,EU,Lunes,Tarde
+981,2025-11-24,Grupo easy,EC4212,Napoli (NAP),14:55:00,Retrasado,180,Airbus A320,R,EU,Lunes,Tarde
+982,2025-11-24,SmartWings,QS1059,Prague (PRG),14:55:00,En hora,189,Boeing 737-800,U,EU,Lunes,Tarde
+983,2025-11-24,Air Arabia Maroc,3O376,Al Aaroui (NDR),15:00:00,En hora,174,Airbus A320,Y,INT,Lunes,Tarde
+984,2025-11-24,Grupo Ryanair,FR3146,Oujda (OUD),15:10:00,En hora,189,Boeing 737-800,W,INT,Lunes,Tarde
+985,2025-11-24,Grupo Ryanair,FR1681,Frankfurt-Hahn (HHN),15:35:00,En hora,189,Boeing 737-800,S,EU,Lunes,Tarde
+986,2025-11-24,Grupo wizz,W46728,Venice (VCE),15:40:00,Retrasado,239,Airbus A321neo,U,EU,Lunes,Tarde
+987,2025-11-24,Pegasus Airlines,PC1094,Istanbul (SAW),15:45:00,Retrasado,220,Airbus A321,W,INT,Lunes,Tarde
+988,2025-11-24,Grupo Ryanair,FR867,Venice (VCE),16:05:00,En hora,189,Boeing 737-800,U,EU,Lunes,Tarde
+989,2025-11-24,Grupo Ryanair,FR9811,London (STN),16:05:00,En hora,189,Boeing 737-800,W,INT,Lunes,Tarde
+990,2025-11-24,Grupo wizz,W43564,Timisoara (TSR),16:25:00,En hora,180,Airbus A320,U,EU,Lunes,Tarde
+991,2025-11-24,Volotea,V73735,Murcia (RMU),16:35:00,En hora,180,Airbus A320,S,NAC,Lunes,Tarde
+992,2025-11-24,Grupo Ryanair,FR2507,Cologne-Bonn (CGN),16:45:00,Retrasado,197,Boeing 737 MAX 8,U,EU,Lunes,Tarde
+993,2025-11-24,Grupo Ryanair,FR5718,Bratislava (BTS),16:50:00,En hora,189,Boeing 737-800,S,EU,Lunes,Tarde
+994,2025-11-24,Grupo Ryanair,FR6305,Milan (BGY),16:50:00,Retrasado,189,Boeing 737-800,U,EU,Lunes,Tarde
+995,2025-11-24,Grupo Ryanair,RR6874,Dublin (DUB),16:55:00,En hora,189,Boeing 737-800,W,INT,Lunes,Tarde
+996,2025-11-24,Grupo easy,U23372,Liverpool (LPL),17:00:00,En hora,156,Airbus A319,M,INT,Lunes,Tarde
+997,2025-11-24,Grupo Ryanair,FR5270,Manchester (MAN),17:05:00,En hora,189,Boeing 737-800,Y,INT,Lunes,Tarde
+998,2025-11-24,Grupo Ryanair,RR6300,Sofia (SOF),17:05:00,Retrasado,189,Boeing 737-800,S,EU,Lunes,Tarde
+999,2025-11-24,Grupo easy,EC7173,Berlin (BER),17:10:00,En hora,156,Airbus A319,R,EU,Lunes,Tarde
+1000,2025-11-24,Volotea,V73700,Vitoria (VIT),17:15:00,En hora,156,Airbus A319,S,NAC,Lunes,Tarde
+1001,2025-11-24,Grupo wizz,W67920,Kopitnari (KUT),17:15:00,En hora,239,Airbus A321neo,W,INT,Lunes,Tarde
+1002,2025-11-24,Grupo Ryanair,FR1786,Vilnius (VNO),17:30:00,En hora,197,Boeing 737 MAX 8,U,EU,Lunes,Tarde
+1003,2025-11-24,Grupo Ryanair,FR2922,Brussels (BRU),17:30:00,En hora,189,Boeing 737-800,U,EU,Lunes,Tarde
+1004,2025-11-24,Grupo easy,EC3737,Milan (MXP),17:35:00,En hora,180,Airbus A320,R,EU,Lunes,Tarde
+1005,2025-11-24,Grupo easy,EC7199,Edinburgh (EDI),17:35:00,En hora,156,Airbus A319,M,INT,Lunes,Tarde
+1006,2025-11-24,Transavia,HV5134,Amsterdam (AMS),17:50:00,En hora,232,Airbus A321neo,U,EU,Lunes,Tarde
+1007,2025-11-24,Grupo Ryanair,RR333,Gdansk (GDN),17:55:00,Retrasado,189,Boeing 737-800,S,EU,Lunes,Tarde
+1008,2025-11-24,Grupo Ryanair,FR269,Milan (MXP),18:00:00,En hora,189,Boeing 737-800,U,EU,Lunes,Tarde
+1009,2025-11-24,Grupo easy,EC7205,Southampton (SOU),18:05:00,En hora,156,Airbus A319,M,INT,Lunes,Tarde
+1010,2025-11-24,Grupo Ryanair,FR3320,Milan (BGY),18:30:00,En hora,197,Boeing 737 MAX 8,U,EU,Lunes,Tarde
+1011,2025-11-24,Grupo wizz,W43686,Iasi (IAS),18:30:00,En hora,180,Airbus A320,S,EU,Lunes,Tarde
+1012,2025-11-24,Grupo Ryanair,FR3174,Ibiza (IBZ),18:45:00,En hora,189,Boeing 737-800,S,NAC,Lunes,Tarde
+1013,2025-11-24,Grupo wizz,W61478,Warsaw (WAW),19:00:00,Retrasado,239,Airbus A321neo,S,EU,Lunes,Tarde
+1014,2025-11-24,Grupo Ryanair,FR3185,Rabat (RBA),19:05:00,Retrasado,189,Boeing 737-800,Y,INT,Lunes,Tarde
+1015,2025-11-24,Grupo Ryanair,FR9307,Cork (ORK),19:15:00,En hora,189,Boeing 737-800,W,INT,Lunes,Tarde
+1016,2025-11-24,Grupo Ryanair,FR8231,London (STN),19:25:00,En hora,189,Boeing 737-800,Y,INT,Lunes,Tarde
+1017,2025-11-24,Eurowings,EW7521,Hamburg (HAM),19:40:00,En hora,226,Airbus A321,U,EU,Lunes,Tarde
+1018,2025-11-24,Grupo Ryanair,LW2896,Palma de Mallorca (PMI),19:40:00,Retrasado,180,Airbus A320,R,NAC,Lunes,Tarde
+1019,2025-11-24,Grupo wizz,W61706,Gdansk (GDN),19:40:00,Retrasado,230,Airbus A321,U,EU,Lunes,Tarde
+1020,2025-11-24,Grupo Ryanair,FR133,Berlin (BER),19:45:00,En hora,189,Boeing 737-800,R,EU,Lunes,Tarde
+1021,2025-11-24,Grupo Ryanair,LW7351,Vienna (VIE),19:45:00,Retrasado,180,Airbus A320,S,EU,Lunes,Tarde
+1022,2025-11-24,Grupo easy,U28058,London (LGW),19:45:00,En hora,156,Airbus A319,M,INT,Lunes,Tarde
+1023,2025-11-24,Volotea,V71415,Verona (VRN),19:55:00,En hora,180,Airbus A320,U,EU,Lunes,Tarde
+1024,2025-11-24,Grupo wizz,W64666,Larnaca (LCA),19:55:00,En hora,230,Airbus A321,W,INT,Lunes,Tarde
+1025,2025-11-24,Grupo Ryanair,FR3080,Malaga (AGP),20:00:00,En hora,189,Boeing 737-800,S,NAC,Lunes,Noche
+1026,2025-11-24,Air Arabia Maroc,3O378,Tanger (TNG),20:05:00,En hora,174,Airbus A320,Y,INT,Lunes,Noche
+1027,2025-11-24,Grupo Ryanair,FR3807,Charleroi (CRL),20:05:00,Retrasado,197,Boeing 737 MAX 8,U,EU,Lunes,Noche
+1028,2025-11-24,Grupo Ryanair,FR6341,Rome (FCO),20:10:00,En hora,189,Boeing 737-800,U,EU,Lunes,Noche
+1029,2025-11-24,Grupo Ryanair,FR6597,Manchester (MAN),20:10:00,En hora,189,Boeing 737-800,Y,INT,Lunes,Noche
+1030,2025-11-24,Grupo easy,EC1956,Milan (LIN),20:15:00,Retrasado,180,Airbus A320,R,EU,Lunes,Noche
+1031,2025-11-24,Grupo wizz,W42940,Vienna (VIE),20:20:00,En hora,239,Airbus A321neo,S,EU,Lunes,Noche
+1032,2025-11-24,Grupo easy,EC1010,"Basel, Switzerland/Mulhouse (BSL)",20:30:00,En hora,156,Airbus A319,R,EU,Lunes,Noche
+1033,2025-11-24,T'Way Air,TW408,Seoul/Incheon (ICN),20:30:00,Retrasado,246,Airbus A330-200,W,INT,Lunes,Noche
+1034,2025-11-24,Volotea,V72135,Bordeaux (BOD),20:30:00,En hora,180,Airbus A320,U,EU,Lunes,Noche
+1035,2025-11-24,Grupo Ryanair,FR5710,Napoli (NAP),20:40:00,Retrasado,189,Boeing 737-800,U,EU,Lunes,Noche
+1036,2025-11-24,Grupo Ryanair,RR8394,Budapest (BUD),20:40:00,Retrasado,197,Boeing 737 MAX 8,U,EU,Lunes,Noche
+1037,2025-11-24,Transavia,TO4759,Paris (ORY),20:45:00,En hora,186,Airbus A320neo,S,EU,Lunes,Noche
+1038,2025-11-24,Grupo wizz,W62378,Budapest (BUD),20:45:00,Retrasado,239,Airbus A321neo,S,EU,Lunes,Noche
+1039,2025-11-24,Grupo Ryanair,FR2098,Bologna (BLQ),20:50:00,Retrasado,189,Boeing 737-800,R,EU,Lunes,Noche
+1040,2025-11-24,Grupo Ryanair,FR3928,Trieste (TRS),20:50:00,En hora,189,Boeing 737-800,U,EU,Lunes,Noche
+1041,2025-11-24,Volotea,V72165,Nantes/Atlantique (NTE),20:50:00,Retrasado,156,Airbus A319,S,EU,Lunes,Noche
+1042,2025-11-24,Grupo Ryanair,FR878,Venice (VCE),20:55:00,Retrasado,189,Boeing 737-800,U,EU,Lunes,Noche
+1043,2025-11-24,Aer Lingus,EI565,Dublin (DUB),21:05:00,En hora,174,Airbus A320,W,INT,Lunes,Noche
+1044,2025-11-24,Grupo Ryanair,FR6275,Edinburgh (EDI),21:05:00,Retrasado,197,Boeing 737 MAX 8,Y,INT,Lunes,Noche
+1045,2025-11-24,Grupo Ryanair,FR6920,Dublin (DUB),21:10:00,Retrasado,189,Boeing 737-800,W,INT,Lunes,Noche
+1046,2025-11-24,Grupo easy,EC1380,Geneva (GVA),21:20:00,Retrasado,180,Airbus A320,R,EU,Lunes,Noche
+1047,2025-11-24,Grupo wizz,W43178,Bucharest (BBU),21:20:00,Retrasado,239,Airbus A321neo,S,EU,Lunes,Noche
+1048,2025-11-24,Grupo wizz,W43406,Cluj-Napoca (CLJ),21:25:00,Retrasado,186,Airbus A320neo,S,EU,Lunes,Noche
+1049,2025-11-24,Grupo Ryanair,FR2402,Sevilla (SVQ),21:30:00,Retrasado,189,Boeing 737-800,R,NAC,Lunes,Noche
+1050,2025-11-24,Grupo Ryanair,RR4084,Warsaw (WMI),21:30:00,Retrasado,189,Boeing 737-800,U,EU,Lunes,Noche
+1051,2025-11-24,Grupo wizz,W46020,Rome (FCO),21:35:00,Retrasado,239,Airbus A321neo,S,EU,Lunes,Noche
+1052,2025-11-24,Grupo Ryanair,FR3168,Newcastle (NCL),21:45:00,En hora,189,Boeing 737-800,Y,INT,Lunes,Noche
+1053,2025-11-24,Grupo Ryanair,FR4587,Porto (OPO),21:45:00,En hora,197,Boeing 737 MAX 8,U,EU,Lunes,Noche
+1054,2025-11-24,Grupo Ryanair,FR1527,Valletta (MLA),21:50:00,Retrasado,197,Boeing 737 MAX 8,S,EU,Lunes,Noche
+1055,2025-11-24,Grupo Ryanair,FR2250,Marrakech (RAK),21:50:00,Retrasado,189,Boeing 737-800,Y,INT,Lunes,Noche
+1056,2025-11-24,Grupo easy,U22706,Bristol (BRS),21:55:00,En hora,186,Airbus A320neo,M,INT,Lunes,Noche
+1057,2025-11-24,Grupo wizz,W64116,Belgrade (BEG),21:55:00,Retrasado,230,Airbus A321,W,INT,Lunes,Noche
+1058,2025-11-24,Grupo Ryanair,FR8574,Rome (FCO),22:20:00,En hora,189,Boeing 737-800,U,EU,Lunes,Noche
+1059,2025-11-24,Grupo wizz,W45154,Tirana (TIA),22:45:00,En hora,239,Airbus A321neo,W,INT,Lunes,Noche
+1060,2025-11-25,Grupo easy,EC7105,Geneva (GVA),06:00:00,En hora,156,Airbus A319,R,EU,Martes,Mañana
+1061,2025-11-25,Grupo Ryanair,FR3189,Fes (FEZ),06:15:00,En hora,189,Boeing 737-800,W,INT,Martes,Mañana
+1062,2025-11-25,Grupo Ryanair,FR2507,Cologne-Bonn (CGN),06:20:00,En hora,189,Boeing 737-800,S,EU,Martes,Mañana
+1063,2025-11-25,Grupo Ryanair,FR4545,Porto (OPO),06:35:00,En hora,189,Boeing 737-800,U,EU,Martes,Mañana
+1064,2025-11-25,Grupo easy,EC7101,"Basel, Switzerland/Mulhouse (BSL)",07:25:00,En hora,156,Airbus A319,R,EU,Martes,Mañana
+1065,2025-11-25,Grupo easy,EC8062,London (LGW),07:30:00,En hora,156,Airbus A319,M,INT,Martes,Mañana
+1066,2025-11-25,Grupo Ryanair,FR3166,Palermo (PMO),07:35:00,En hora,189,Boeing 737-800,S,EU,Martes,Mañana
+1067,2025-11-25,Grupo Ryanair,FR5718,Bratislava (BTS),07:35:00,En hora,189,Boeing 737-800,U,EU,Martes,Mañana
+1068,2025-11-25,Grupo Ryanair,FR3193,Riga (RIX),07:55:00,En hora,189,Boeing 737-800,U,EU,Martes,Mañana
+1069,2025-11-25,Grupo easy,EC3737,Milan (MXP),08:00:00,En hora,180,Airbus A320,R,EU,Martes,Mañana
+1070,2025-11-25,Grupo Ryanair,FR133,Berlin (BER),08:50:00,Retrasado,189,Boeing 737-800,U,EU,Martes,Mañana
+1071,2025-11-25,Grupo wizz,W43938,Chisinau (KIV),09:00:00,Retrasado,180,Airbus A320,Y,INT,Martes,Mañana
+1072,2025-11-25,Grupo wizz,W62048,Krakow (KRK),09:05:00,En hora,230,Airbus A321,U,EU,Martes,Mañana
+1073,2025-11-25,Grupo Ryanair,FR3035,Krakow (KRK),09:10:00,En hora,189,Boeing 737-800,R,EU,Martes,Mañana
+1074,2025-11-25,Grupo Ryanair,FR3807,Charleroi (CRL),09:10:00,En hora,197,Boeing 737 MAX 8,U,EU,Martes,Mañana
+1075,2025-11-25,Grupo wizz,W61914,Vilnius (VNO),09:20:00,Retrasado,239,Airbus A321neo,U,EU,Martes,Mañana
+1076,2025-11-25,Grupo wizz,W43176,Bucharest (OTP),09:25:00,Retrasado,239,Airbus A321neo,U,EU,Martes,Mañana
+1077,2025-11-25,Grupo wizz,W62376,Budapest (BUD),09:25:00,Retrasado,239,Airbus A321neo,U,EU,Martes,Mañana
+1078,2025-11-25,Grupo wizz,W42938,Vienna (VIE),09:35:00,Retrasado,239,Airbus A321neo,S,EU,Martes,Mañana
+1079,2025-11-25,Air Arabia Maroc,3O378,Tanger (TNG),09:45:00,En hora,174,Airbus A320,Y,INT,Martes,Mañana
+1080,2025-11-25,Air Serbia,JU581,Belgrade (BEG),09:55:00,Retrasado,144,Airbus A319,W,INT,Martes,Mañana
+1081,2025-11-25,Grupo Ryanair,LW12,Vienna (VIE),10:15:00,Retrasado,180,Airbus A320,R,EU,Martes,Mañana
+1082,2025-11-25,Grupo wizz,W61476,Warsaw (WAW),10:15:00,En hora,239,Airbus A321neo,U,EU,Martes,Mañana
+1083,2025-11-25,Grupo Ryanair,FR1279,Copenhagen (CPH),10:25:00,En hora,197,Boeing 737 MAX 8,S,EU,Martes,Mañana
+1084,2025-11-25,Grupo Ryanair,FR5270,Manchester (MAN),10:30:00,Retrasado,197,Boeing 737 MAX 8,Y,INT,Martes,Mañana
+1085,2025-11-25,Azerbaijan Airlines,J246,Baku (GYD),10:45:00,En hora,186,Airbus A320neo,W,INT,Martes,Mañana
+1086,2025-11-25,Aer Lingus,EI563,Dublin (DUB),11:30:00,En hora,174,Airbus A320,Y,INT,Martes,Mañana
+1087,2025-11-25,Grupo Ryanair,FR58,Napoli (NAP),11:40:00,En hora,189,Boeing 737-800,S,EU,Martes,Mañana
+1088,2025-11-25,Icelandair,FI597,Keflavik (KEF),11:50:00,Retrasado,160,Boeing 737 MAX 8,U,EU,Martes,Mañana
+1089,2025-11-25,Grupo Ryanair,FR3108,Luxembourg (LUX),12:15:00,En hora,189,Boeing 737-800,U,EU,Martes,Tarde
+1090,2025-11-25,Grupo easy,EC7151,Milan (MXP),12:20:00,En hora,156,Airbus A319,R,EU,Martes,Tarde
+1091,2025-11-25,Norwegian Air Sweden AOC,D83657,Copenhagen (CPH),12:30:00,En hora,189,Boeing 737-800,S,EU,Martes,Tarde
+1092,2025-11-25,Grupo Ryanair,FR8384,Budapest (BUD),12:35:00,En hora,197,Boeing 737 MAX 8,S,EU,Martes,Tarde
+1093,2025-11-25,Pegasus Airlines,PC1092,Istanbul (SAW),12:45:00,En hora,220,Airbus A321,W,INT,Martes,Tarde
+1094,2025-11-25,Grupo Ryanair,FR6267,Edinburgh (EDI),12:55:00,En hora,189,Boeing 737-800,Y,INT,Martes,Tarde
+1095,2025-11-25,Norwegian Air Sweden AOC,D81741,Oslo (OSL),13:25:00,En hora,189,Boeing 737-800,S,EU,Martes,Tarde
+1096,2025-11-25,FlyOne,5F5512,Chisinau (KIV),13:30:00,En hora,180,Airbus A320,Y,INT,Martes,Tarde
+1097,2025-11-25,Grupo Ryanair,FR2239,Marrakech (RAK),14:00:00,En hora,189,Boeing 737-800,Y,INT,Martes,Tarde
+1098,2025-11-25,Grupo Ryanair,FR3076,Stockholm (ARN),14:05:00,En hora,189,Boeing 737-800,U,EU,Martes,Tarde
+1099,2025-11-25,Kuwait Airways,KU136,Kuwait City (KWI),14:25:00,En hora,278,Airbus A330-900,W,INT,Martes,Tarde
+1100,2025-11-25,Bluebird Airways,BZ251,Tel Aviv (TLV),14:45:00,En hora,180,Airbus A320,Y,INT,Martes,Tarde
+1101,2025-11-25,Grupo Ryanair,FR3792,Birmingham (BHX),16:20:00,En hora,197,Boeing 737 MAX 8,Y,INT,Martes,Tarde
+1102,2025-11-25,Grupo Ryanair,FR846,Milan (BGY),16:55:00,En hora,189,Boeing 737-800,U,EU,Martes,Tarde
+1103,2025-11-25,Grupo Ryanair,FR1165,Sevilla (SVQ),17:05:00,Retrasado,197,Boeing 737 MAX 8,S,NAC,Martes,Tarde
+1104,2025-11-25,Grupo Ryanair,FR575,Bologna (BLQ),17:25:00,En hora,197,Boeing 737 MAX 8,U,EU,Martes,Tarde
+1105,2025-11-25,Transavia,HV5134,Amsterdam (AMS),17:45:00,En hora,232,Airbus A321neo,U,EU,Martes,Tarde
+1106,2025-11-25,Grupo Ryanair,FR3180,Rome (FCO),18:00:00,En hora,189,Boeing 737-800,U,EU,Martes,Tarde
+1107,2025-11-25,Grupo easy,EC7103,"Basel, Switzerland/Mulhouse (BSL)",18:10:00,En hora,156,Airbus A319,R,EU,Martes,Tarde
+1108,2025-11-25,Grupo Ryanair,RR6300,Sofia (SOF),18:15:00,En hora,197,Boeing 737 MAX 8,U,EU,Martes,Tarde
+1109,2025-11-25,Grupo Ryanair,FR777,Venice (VCE),18:40:00,En hora,189,Boeing 737-800,U,EU,Martes,Tarde
+1110,2025-11-25,Grupo Ryanair,FR2834,Charleroi (CRL),18:45:00,En hora,197,Boeing 737 MAX 8,S,EU,Martes,Tarde
+1111,2025-11-25,Grupo wizz,W61176,Katowice (KTW),18:55:00,En hora,230,Airbus A321,S,EU,Martes,Tarde
+1112,2025-11-25,Grupo wizz,W61478,Warsaw (WAW),19:00:00,En hora,239,Airbus A321neo,U,EU,Martes,Tarde
+1113,2025-11-25,Grupo Ryanair,FR9015,London (STN),19:25:00,En hora,189,Boeing 737-800,Y,INT,Martes,Tarde
+1114,2025-11-25,Eurowings,EW9443,Dusseldorf (DUS),19:35:00,En hora,180,Airbus A320,U,EU,Martes,Tarde
+1115,2025-11-25,Grupo wizz,W64406,Sofia (SOF),19:35:00,En hora,239,Airbus A321neo,U,EU,Martes,Tarde
+1116,2025-11-25,Grupo easy,U28058,London (LGW),19:45:00,Retrasado,156,Airbus A319,M,INT,Martes,Tarde
+1117,2025-11-25,Transavia,HV6790,Eindhoven (EIN),19:55:00,Retrasado,189,Boeing 737-800,S,EU,Martes,Tarde
+1118,2025-11-25,Air Arabia Maroc,3O642,Tanger (TNG),20:00:00,En hora,174,Airbus A320,Y,INT,Martes,Noche
+1119,2025-11-25,Grupo easy,EC1956,Milan (LIN),20:15:00,En hora,180,Airbus A320,R,EU,Martes,Noche
+1120,2025-11-25,Grupo Ryanair,RR4084,Warsaw (WMI),20:15:00,Retrasado,189,Boeing 737-800,S,EU,Martes,Noche
+1121,2025-11-25,Transavia,TO4759,Paris (ORY),20:45:00,En hora,186,Airbus A320neo,U,EU,Martes,Noche
+1122,2025-11-25,Grupo easy,EC1380,Geneva (GVA),21:15:00,Retrasado,180,Airbus A320,R,EU,Martes,Noche
+1123,2025-11-25,Grupo Ryanair,FR6394,Dublin (DUB),21:15:00,En hora,197,Boeing 737 MAX 8,W,INT,Martes,Noche
+1124,2025-11-25,Grupo wizz,W46020,Rome (FCO),21:35:00,En hora,239,Airbus A321neo,U,EU,Martes,Noche
+1125,2025-11-25,Grupo Ryanair,FR4585,Porto (OPO),22:00:00,En hora,197,Boeing 737 MAX 8,S,EU,Martes,Noche
+1126,2025-11-26,Grupo Ryanair,FR2918,Brussels (BRU),06:05:00,En hora,189,Boeing 737-800,S,EU,Miércoles,Mañana
+1127,2025-11-26,Grupo Ryanair,FR3185,Rabat (RBA),06:05:00,En hora,189,Boeing 737-800,W,INT,Miércoles,Mañana
+1128,2025-11-26,Grupo Ryanair,FR9406,Fes (FEZ),06:05:00,En hora,189,Boeing 737-800,Y,INT,Miércoles,Mañana
+1129,2025-11-26,Grupo easy,EC7105,Geneva (GVA),06:10:00,Retrasado,156,Airbus A319,R,EU,Miércoles,Mañana
+1130,2025-11-26,Grupo Ryanair,FR483,Malaga (AGP),06:15:00,En hora,189,Boeing 737-800,U,NAC,Miércoles,Mañana
+1131,2025-11-26,Grupo easy,EC7193,Leeds Bradford (LBA),06:30:00,En hora,156,Airbus A319,M,INT,Miércoles,Mañana
+1132,2025-11-26,Grupo Ryanair,FR2239,Marrakech (RAK),06:35:00,En hora,189,Boeing 737-800,W,INT,Miércoles,Mañana
+1133,2025-11-26,Grupo Ryanair,FR3028,Ibiza (IBZ),06:45:00,En hora,189,Boeing 737-800,S,NAC,Miércoles,Mañana
+1134,2025-11-26,Grupo Ryanair,FR3108,Luxembourg (LUX),06:50:00,En hora,197,Boeing 737 MAX 8,S,EU,Miércoles,Mañana
+1135,2025-11-26,Grupo easy,EC7101,"Basel, Switzerland/Mulhouse (BSL)",07:20:00,En hora,156,Airbus A319,R,EU,Miércoles,Mañana
+1136,2025-11-26,Grupo easy,EC8062,London (LGW),07:20:00,En hora,156,Airbus A319,M,INT,Miércoles,Mañana
+1137,2025-11-26,Grupo easy,EC3737,Milan (MXP),08:25:00,En hora,180,Airbus A320,R,EU,Miércoles,Mañana
+1138,2025-11-26,Grupo easy,EC7161,Napoli (NAP),09:20:00,En hora,156,Airbus A319,R,EU,Miércoles,Mañana
+1139,2025-11-26,Grupo wizz,W43176,Bucharest (OTP),09:25:00,En hora,230,Airbus A321,U,EU,Miércoles,Mañana
+1140,2025-11-26,Grupo wizz,W62376,Budapest (BUD),09:25:00,En hora,239,Airbus A321neo,U,EU,Miércoles,Mañana
+1141,2025-11-26,Grupo Ryanair,RR8384,Budapest (BUD),09:30:00,Retrasado,189,Boeing 737-800,S,EU,Miércoles,Mañana
+1142,2025-11-26,Air Arabia Maroc,3O376,Al Aaroui (NDR),09:35:00,Retrasado,174,Airbus A320,Y,INT,Miércoles,Mañana
+1143,2025-11-26,Grupo wizz,W42940,Vienna (VIE),09:35:00,En hora,239,Airbus A321neo,U,EU,Miércoles,Mañana
+1144,2025-11-26,Grupo Ryanair,FR4545,Porto (OPO),09:45:00,En hora,189,Boeing 737-800,S,EU,Miércoles,Mañana
+1145,2025-11-26,Grupo Ryanair,RR3049,Krakow (KRK),09:55:00,En hora,197,Boeing 737 MAX 8,S,EU,Miércoles,Mañana
+1146,2025-11-26,Air Arabia Maroc,3O642,Tanger (TNG),10:05:00,Retrasado,174,Airbus A320,Y,INT,Miércoles,Mañana
+1147,2025-11-26,Transavia,HV5132,Amsterdam (AMS),10:05:00,En hora,232,Airbus A321neo,U,EU,Miércoles,Mañana
+1148,2025-11-26,Grupo Ryanair,FR3078,Lisbon (LIS),10:15:00,En hora,189,Boeing 737-800,S,EU,Miércoles,Mañana
+1149,2025-11-26,Grupo wizz,W61476,Warsaw (WAW),10:15:00,En hora,239,Airbus A321neo,U,EU,Miércoles,Mañana
+1150,2025-11-26,Grupo Ryanair,FR3039,Prague (PRG),10:20:00,En hora,189,Boeing 737-800,S,EU,Miércoles,Mañana
+1151,2025-11-26,Air Baltic,BT878,Tallinn (TLL),10:35:00,En hora,148,Airbus A220-300,U,EU,Miércoles,Mañana
+1152,2025-11-26,Grupo Ryanair,FR6267,Edinburgh (EDI),10:45:00,En hora,197,Boeing 737 MAX 8,W,INT,Miércoles,Mañana
+1153,2025-11-26,SkyUp MT,U5406,Chisinau (KIV),10:50:00,En hora,149,Boeing 737-700,W,INT,Miércoles,Mañana
+1154,2025-11-26,Grupo easy,U22704,Bristol (BRS),10:55:00,En hora,186,Airbus A320neo,M,INT,Miércoles,Mañana
+1155,2025-11-26,Grupo Ryanair,FR2507,Cologne-Bonn (CGN),11:00:00,En hora,197,Boeing 737 MAX 8,U,EU,Miércoles,Mañana
+1156,2025-11-26,Aer Lingus,EI563,Dublin (DUB),11:30:00,En hora,174,Airbus A320,Y,INT,Miércoles,Mañana
+1157,2025-11-26,Grupo Ryanair,FR575,Bologna (BLQ),11:40:00,En hora,189,Boeing 737-800,U,EU,Miércoles,Mañana
+1158,2025-11-26,Grupo Ryanair,FR9925,Frankfurt-Hahn (HHN),12:35:00,En hora,189,Boeing 737-800,U,EU,Miércoles,Tarde
+1159,2025-11-26,Pegasus Airlines,PC1092,Istanbul (SAW),12:45:00,Retrasado,239,Airbus A321neo,W,INT,Miércoles,Tarde
+1160,2025-11-26,Grupo Ryanair,FR6597,Manchester (MAN),13:00:00,En hora,197,Boeing 737 MAX 8,W,INT,Miércoles,Tarde
+1161,2025-11-26,Grupo Ryanair,FR3792,Birmingham (BHX),13:10:00,En hora,189,Boeing 737-800,Y,INT,Miércoles,Tarde
+1162,2025-11-26,Norwegian Air Sweden AOC,D81741,Oslo (OSL),13:25:00,En hora,189,Boeing 737-800,U,EU,Miércoles,Tarde
+1163,2025-11-26,Eurowings,EW521,Cologne-Bonn (CGN),13:25:00,En hora,180,Airbus A320,S,EU,Miércoles,Tarde
+1164,2025-11-26,Luxair,LG3592,Luxembourg (LUX),13:40:00,En hora,76,de Havilland Dash 8-400,U,EU,Miércoles,Tarde
+1165,2025-11-26,Turkish Airlines,TK608,Ankara (ESB),13:40:00,En hora,165,Boeing 737-800,Y,INT,Miércoles,Tarde
+1166,2025-11-26,Bluebird Airways,BZ251,Tel Aviv (TLV),14:45:00,Retrasado,189,Boeing 737-800,W,INT,Miércoles,Tarde
+1167,2025-11-26,Norwegian Air Sweden AOC,D83659,Copenhagen (CPH),14:45:00,En hora,189,Boeing 737 MAX 8,U,EU,Miércoles,Tarde
+1168,2025-11-26,Eurowings,EW2521,Stuttgart (STR),15:10:00,En hora,150,Airbus A319,S,EU,Miércoles,Tarde
+1169,2025-11-26,Grupo Ryanair,FR777,Venice (VCE),15:10:00,Retrasado,197,Boeing 737 MAX 8,S,EU,Miércoles,Tarde
+1170,2025-11-26,Grupo Ryanair,FR12,Vienna (VIE),15:15:00,En hora,197,Boeing 737 MAX 8,S,EU,Miércoles,Tarde
+1171,2025-11-26,Grupo wizz,W46728,Venice (VCE),15:40:00,En hora,239,Airbus A321neo,U,EU,Miércoles,Tarde
+1172,2025-11-26,Pegasus Airlines,PC1094,Istanbul (SAW),15:45:00,Retrasado,220,Airbus A321,Y,INT,Miércoles,Tarde
+1173,2025-11-26,Volotea,V71415,Verona (VRN),15:45:00,En hora,180,Airbus A320,U,EU,Miércoles,Tarde
+1174,2025-11-26,Grupo Ryanair,FR3035,Krakow (KRK),16:15:00,En hora,197,Boeing 737 MAX 8,S,EU,Miércoles,Tarde
+1175,2025-11-26,Transavia,TO4755,Paris (ORY),16:45:00,Retrasado,186,Airbus A320neo,U,EU,Miércoles,Tarde
+1176,2025-11-26,Grupo Ryanair,FR3928,Trieste (TRS),16:50:00,En hora,189,Boeing 737-800,U,EU,Miércoles,Tarde
+1177,2025-11-26,Grupo Ryanair,FR5718,Bratislava (BTS),16:50:00,En hora,189,Boeing 737-800,U,EU,Miércoles,Tarde
+1178,2025-11-26,Grupo wizz,W67920,Kopitnari (KUT),17:15:00,En hora,239,Airbus A321neo,Y,INT,Miércoles,Tarde
+1179,2025-11-26,Grupo Ryanair,FR4585,Porto (OPO),17:30:00,En hora,189,Boeing 737-800,U,EU,Miércoles,Tarde
+1180,2025-11-26,Iberojet,E9803,Palmerola (XPL),17:40:00,En hora,432,Airbus A350-900,W,INT,Miércoles,Tarde
+1181,2025-11-26,Grupo Ryanair,FR3180,Rome (FCO),18:00:00,En hora,189,Boeing 737-800,U,EU,Miércoles,Tarde
+1182,2025-11-26,Grupo wizz,W43686,Iasi (IAS),18:30:00,En hora,180,Airbus A320,U,EU,Miércoles,Tarde
+1183,2025-11-26,Grupo easy,EC7103,"Basel, Switzerland/Mulhouse (BSL)",18:35:00,En hora,156,Airbus A319,R,EU,Miércoles,Tarde
+1184,2025-11-26,Grupo easy,EC7155,Milan (MXP),19:00:00,En hora,156,Airbus A319,R,EU,Miércoles,Tarde
+1185,2025-11-26,Grupo Ryanair,FR8231,London (STN),19:00:00,En hora,189,Boeing 737-800,W,INT,Miércoles,Tarde
+1186,2025-11-26,Grupo wizz,W61478,Warsaw (WAW),19:00:00,En hora,239,Airbus A321neo,U,EU,Miércoles,Tarde
+1187,2025-11-26,Grupo Ryanair,FR1165,Sevilla (SVQ),19:10:00,Retrasado,189,Boeing 737-800,S,NAC,Miércoles,Tarde
+1188,2025-11-26,Grupo Ryanair,FR9334,Marrakech (RAK),19:10:00,Retrasado,189,Boeing 737-800,Y,INT,Miércoles,Tarde
+1189,2025-11-26,Grupo Ryanair,FR1342,Palma de Mallorca (PMI),19:15:00,En hora,189,Boeing 737-800,U,NAC,Miércoles,Tarde
+1190,2025-11-26,Eurowings,EW9443,Dusseldorf (DUS),19:35:00,En hora,180,Airbus A320,U,EU,Miércoles,Tarde
+1191,2025-11-26,Grupo Ryanair,FR133,Berlin (BER),19:35:00,En hora,197,Boeing 737 MAX 8,S,EU,Miércoles,Tarde
+1192,2025-11-26,Transavia,HV6064,Rotterdam (RTM),19:40:00,En hora,189,Boeing 737-800,U,EU,Miércoles,Tarde
+1193,2025-11-26,Grupo easy,U28058,London (LGW),19:45:00,Retrasado,156,Airbus A319,M,INT,Miércoles,Tarde
+1194,2025-11-26,Grupo wizz,W61706,Gdansk (GDN),19:50:00,En hora,239,Airbus A321neo,U,EU,Miércoles,Tarde
+1195,2025-11-26,Grupo Ryanair,FR3143,Milan (BGY),19:55:00,Retrasado,189,Boeing 737-800,U,EU,Miércoles,Tarde
+1196,2025-11-26,Grupo Ryanair,FR58,Napoli (NAP),20:10:00,En hora,189,Boeing 737-800,S,EU,Miércoles,Noche
+1197,2025-11-26,Grupo Ryanair,RR5246,Vilnius (VNO),20:10:00,Retrasado,197,Boeing 737 MAX 8,U,EU,Miércoles,Noche
+1198,2025-11-26,Grupo easy,EC1956,Milan (LIN),20:15:00,En hora,180,Airbus A320,R,EU,Miércoles,Noche
+1199,2025-11-26,Air Arabia Maroc,3O378,Tanger (TNG),20:20:00,Retrasado,174,Airbus A320,Y,INT,Miércoles,Noche
+1200,2025-11-26,T'Way Air,TW408,Seoul/Incheon (ICN),20:30:00,Retrasado,294,BOEING 777-300ER,Y,INT,Miércoles,Noche
+1201,2025-11-26,Air Serbia,JU585,Belgrade (BEG),20:35:00,En hora,144,Airbus A319,Y,INT,Miércoles,Noche
+1202,2025-11-26,Grupo wizz,W62378,Budapest (BUD),20:45:00,En hora,239,Airbus A321neo,U,EU,Miércoles,Noche
+1203,2025-11-26,Transavia,TO4759,Paris (ORY),20:50:00,En hora,186,Airbus A320neo,U,EU,Miércoles,Noche
+1204,2025-11-26,Grupo easy,U22326,London (LTN),20:55:00,En hora,186,Airbus A320neo,M,INT,Miércoles,Noche
+1205,2025-11-26,Grupo easy,EC1380,Geneva (GVA),21:15:00,Retrasado,180,Airbus A320,R,EU,Miércoles,Noche
+1206,2025-11-26,Grupo wizz,W43406,Cluj-Napoca (CLJ),21:25:00,En hora,180,Airbus A320,U,EU,Miércoles,Noche
+1207,2025-11-26,Grupo wizz,W46020,Rome (FCO),21:35:00,En hora,239,Airbus A321neo,U,EU,Miércoles,Noche
+1208,2025-11-26,Grupo Ryanair,FR6394,Dublin (DUB),22:05:00,En hora,189,Boeing 737-800,Y,INT,Miércoles,Noche
+1209,2025-11-27,Grupo Ryanair,FR8215,London (STN),06:00:00,En hora,189,Boeing 737-800,W,INT,Jueves,Mañana
+1210,2025-11-27,Grupo Ryanair,FR2918,Brussels (BRU),06:05:00,En hora,189,Boeing 737-800,U,EU,Jueves,Mañana
+1211,2025-11-27,Grupo easy,EC7105,Geneva (GVA),06:10:00,En hora,156,Airbus A319,R,EU,Jueves,Mañana
+1212,2025-11-27,Grupo Ryanair,FR3976,Dublin (DUB),06:15:00,En hora,197,Boeing 737 MAX 8,W,INT,Jueves,Mañana
+1213,2025-11-27,Grupo easy,EC7191,Glasgow (GLA),06:40:00,En hora,156,Airbus A319,M,INT,Jueves,Mañana
+1214,2025-11-27,Grupo Ryanair,FR3049,Krakow (KRK),06:40:00,En hora,197,Boeing 737 MAX 8,U,EU,Jueves,Mañana
+1215,2025-11-27,Grupo Ryanair,FR3028,Ibiza (IBZ),06:45:00,En hora,189,Boeing 737-800,U,NAC,Jueves,Mañana
+1216,2025-11-27,Grupo Ryanair,LW2495,Palma de Mallorca (PMI),07:20:00,En hora,180,Airbus A320,S,NAC,Jueves,Mañana
+1217,2025-11-27,Grupo Ryanair,FR133,Berlin (BER),07:25:00,En hora,189,Boeing 737-800,U,EU,Jueves,Mañana
+1218,2025-11-27,Grupo easy,EC7101,"Basel, Switzerland/Mulhouse (BSL)",07:30:00,En hora,156,Airbus A319,R,EU,Jueves,Mañana
+1219,2025-11-27,Grupo easy,EC7151,Milan (MXP),07:30:00,En hora,156,Airbus A319,R,EU,Jueves,Mañana
+1220,2025-11-27,Grupo Ryanair,FR2507,Cologne-Bonn (CGN),07:45:00,En hora,197,Boeing 737 MAX 8,S,EU,Jueves,Mañana
+1221,2025-11-27,Norwegian Air Sweden AOC,D85510,Copenhagen (CPH),07:55:00,En hora,189,Boeing 737-800,U,EU,Jueves,Mañana
+1222,2025-11-27,Grupo Ryanair,FR575,Bologna (BLQ),08:05:00,En hora,189,Boeing 737-800,U,EU,Jueves,Mañana
+1223,2025-11-27,Grupo Ryanair,FR774,Torino (TRN),08:05:00,En hora,189,Boeing 737-800,S,EU,Jueves,Mañana
+1224,2025-11-27,Grupo Ryanair,FR3928,Trieste (TRS),08:40:00,Retrasado,189,Boeing 737-800,U,EU,Jueves,Mañana
+1225,2025-11-27,Grupo Ryanair,FR6973,Rome (FCO),08:40:00,En hora,189,Boeing 737-800,S,EU,Jueves,Mañana
+1226,2025-11-27,Grupo wizz,W43938,Chisinau (KIV),09:00:00,En hora,180,Airbus A320,Y,INT,Jueves,Mañana
+1227,2025-11-27,Grupo Ryanair,FR5710,Napoli (NAP),09:05:00,Retrasado,189,Boeing 737-800,S,EU,Jueves,Mañana
+1228,2025-11-27,Grupo wizz,W62048,Krakow (KRK),09:05:00,En hora,239,Airbus A321neo,U,EU,Jueves,Mañana
+1229,2025-11-27,Grupo Ryanair,LW12,Vienna (VIE),09:10:00,En hora,180,Airbus A320,R,EU,Jueves,Mañana
+1230,2025-11-27,Grupo wizz,W61914,Vilnius (VNO),09:20:00,En hora,239,Airbus A321neo,U,EU,Jueves,Mañana
+1231,2025-11-27,Grupo wizz,W43176,Bucharest (OTP),09:25:00,En hora,239,Airbus A321neo,U,EU,Jueves,Mañana
+1232,2025-11-27,Grupo wizz,W62376,Budapest (BUD),09:25:00,En hora,239,Airbus A321neo,U,EU,Jueves,Mañana
+1233,2025-11-27,Grupo Ryanair,FR3320,Milan (BGY),09:30:00,En hora,189,Boeing 737-800,S,EU,Jueves,Mañana
+1234,2025-11-27,Grupo wizz,W42938,Vienna (VIE),09:35:00,En hora,230,Airbus A321,S,EU,Jueves,Mañana
+1235,2025-11-27,Air Serbia,JU581,Belgrade (BEG),09:55:00,En hora,144,Airbus A319,Y,INT,Jueves,Mañana
+1236,2025-11-27,Grupo easy,EC7656,Lisbon (LIS),10:00:00,En hora,230,Airbus A321,R,EU,Jueves,Mañana
+1237,2025-11-27,Grupo Ryanair,FR1279,Copenhagen (CPH),10:00:00,En hora,197,Boeing 737 MAX 8,S,EU,Jueves,Mañana
+1238,2025-11-27,Transavia,HV5132,Amsterdam (AMS),10:05:00,En hora,232,Airbus A321neo,U,EU,Jueves,Mañana
+1239,2025-11-27,Grupo wizz,W61476,Warsaw (WAW),10:15:00,En hora,239,Airbus A321neo,U,EU,Jueves,Mañana
+1240,2025-11-27,Grupo Ryanair,FR1165,Sevilla (SVQ),10:20:00,En hora,189,Boeing 737-800,S,NAC,Jueves,Mañana
+1241,2025-11-27,Grupo Ryanair,FR3121,Beauvais (BVA),10:25:00,En hora,189,Boeing 737-800,S,EU,Jueves,Mañana
+1242,2025-11-27,Grupo Ryanair,RR8384,Budapest (BUD),10:25:00,Retrasado,189,Boeing 737-800,U,EU,Jueves,Mañana
+1243,2025-11-27,Grupo easy,U28056,London (LGW),10:35:00,En hora,180,Airbus A320,M,INT,Jueves,Mañana
+1244,2025-11-27,Grupo easy,U25716,Southend (SEN),10:40:00,En hora,186,Airbus A320neo,M,INT,Jueves,Mañana
+1245,2025-11-27,Azerbaijan Airlines,J246,Baku (GYD),10:45:00,En hora,186,Airbus A320neo,W,INT,Jueves,Mañana
+1246,2025-11-27,Grupo Ryanair,FR3792,Birmingham (BHX),11:00:00,En hora,189,Boeing 737-800,W,INT,Jueves,Mañana
+1247,2025-11-27,Grupo Ryanair,FR4545,Porto (OPO),11:00:00,En hora,197,Boeing 737 MAX 8,U,EU,Jueves,Mañana
+1248,2025-11-27,Grupo easy,U22704,Bristol (BRS),11:05:00,En hora,180,Airbus A320,M,INT,Jueves,Mañana
+1249,2025-11-27,Grupo Ryanair,FR3076,Stockholm (ARN),11:10:00,Retrasado,189,Boeing 737-800,S,EU,Jueves,Mañana
+1250,2025-11-27,Grupo Ryanair,FR483,Malaga (AGP),11:10:00,Retrasado,189,Boeing 737-800,S,NAC,Jueves,Mañana
+1251,2025-11-27,Grupo Ryanair,FR6597,Manchester (MAN),11:20:00,En hora,189,Boeing 737-800,Y,INT,Jueves,Mañana
+1252,2025-11-27,Aer Lingus,EI563,Dublin (DUB),11:30:00,Retrasado,174,Airbus A320,W,INT,Jueves,Mañana
+1253,2025-11-27,Grupo easy,EC7131,Nice/Cote D'Azur (NCE),12:00:00,En hora,156,Airbus A319,R,EU,Jueves,Tarde
+1254,2025-11-27,Grupo easy,EC8064,London (LGW),12:10:00,En hora,156,Airbus A319,M,INT,Jueves,Tarde
+1255,2025-11-27,Grupo Ryanair,FR2239,Marrakech (RAK),12:30:00,En hora,189,Boeing 737-800,W,INT,Jueves,Tarde
+1256,2025-11-27,Grupo Ryanair,FR3160,Bristol (BRS),12:45:00,En hora,189,Boeing 737-800,W,INT,Jueves,Tarde
+1257,2025-11-27,Pegasus Airlines,PC1092,Istanbul (SAW),12:45:00,Retrasado,239,Airbus A321neo,Y,INT,Jueves,Tarde
+1258,2025-11-27,Grupo wizz,W67022,Bratislava (BTS),12:55:00,En hora,239,Airbus A321neo,U,EU,Jueves,Tarde
+1259,2025-11-27,Grupo Ryanair,FR1681,Frankfurt-Hahn (HHN),13:00:00,Retrasado,189,Boeing 737-800,S,EU,Jueves,Tarde
+1260,2025-11-27,Volotea,V71445,Olbia (OLB),13:05:00,En hora,180,Airbus A320,S,EU,Jueves,Tarde
+1261,2025-11-27,Norwegian Air Shuttle,DY1741,Oslo (OSL),13:25:00,En hora,189,Boeing 737-800,S,EU,Jueves,Tarde
+1262,2025-11-27,Grupo Ryanair,FR3039,Prague (PRG),13:30:00,En hora,197,Boeing 737 MAX 8,S,EU,Jueves,Tarde
+1263,2025-11-27,Luxair,LG3592,Luxembourg (LUX),13:35:00,Retrasado,76,de Havilland Dash 8-400,U,EU,Jueves,Tarde
+1264,2025-11-27,Grupo Ryanair,FR269,Milan (MXP),13:40:00,En hora,189,Boeing 737-800,U,EU,Jueves,Tarde
+1265,2025-11-27,Grupo Ryanair,FR6267,Edinburgh (EDI),13:45:00,En hora,197,Boeing 737 MAX 8,W,INT,Jueves,Tarde
+1266,2025-11-27,Grupo Ryanair,FR846,Milan (BGY),13:45:00,En hora,197,Boeing 737 MAX 8,R,EU,Jueves,Tarde
+1267,2025-11-27,Transavia,TO4755,Paris (ORY),13:45:00,En hora,189,Boeing 737-800,U,EU,Jueves,Tarde
+1268,2025-11-27,Jet2,LS804,Manchester (MAN),13:50:00,En hora,189,Boeing 737-800,Y,INT,Jueves,Tarde
+1269,2025-11-27,Grupo Ryanair,FR2233,Al Aaroui (NDR),14:00:00,En hora,189,Boeing 737-800,Y,INT,Jueves,Tarde
+1270,2025-11-27,Air Baltic,BT684,Riga (RIX),14:05:00,En hora,148,Airbus A220-300,S,EU,Jueves,Tarde
+1271,2025-11-27,Grupo easy,EC7153,Milan (MXP),14:10:00,En hora,156,Airbus A319,R,EU,Jueves,Tarde
+1272,2025-11-27,SunExpress,XQ895,Izmir (ADB),14:15:00,En hora,189,Boeing 737-800,Y,INT,Jueves,Tarde
+1273,2025-11-27,Kuwait Airways,KU136,Kuwait City (KWI),14:25:00,En hora,278,Airbus A330-900,W,INT,Jueves,Tarde
+1274,2025-11-27,Norwegian Air Sweden AOC,D85502,Stockholm (ARN),14:40:00,En hora,189,Boeing 737-800,U,EU,Jueves,Tarde
+1275,2025-11-27,Bluebird Airways,BZ251,Tel Aviv (TLV),14:45:00,En hora,189,Boeing 737-800,W,INT,Jueves,Tarde
+1276,2025-11-27,SmartWings,QS1059,Prague (PRG),14:55:00,En hora,149,Airbus A220-300,U,EU,Jueves,Tarde
+1277,2025-11-27,Grupo Ryanair,FR3189,Fes (FEZ),15:00:00,Retrasado,189,Boeing 737-800,Y,INT,Jueves,Tarde
+1278,2025-11-27,Grupo Ryanair,FR149,Berlin (BER),15:40:00,En hora,189,Boeing 737-800,S,EU,Jueves,Tarde
+1279,2025-11-27,Grupo wizz,W46728,Venice (VCE),15:40:00,En hora,239,Airbus A321neo,S,EU,Jueves,Tarde
+1280,2025-11-27,Grupo Ryanair,FR2922,Brussels (BRU),16:05:00,En hora,189,Boeing 737-800,U,EU,Jueves,Tarde
+1281,2025-11-27,Volotea,V73573,Asturias (OVD),16:05:00,En hora,156,Airbus A319,S,NAC,Jueves,Tarde
+1282,2025-11-27,Volotea,V73700,Vitoria (VIT),16:15:00,En hora,180,Airbus A320,S,NAC,Jueves,Tarde
+1283,2025-11-27,Grupo Ryanair,FR9045,London (STN),16:30:00,En hora,197,Boeing 737 MAX 8,Y,INT,Jueves,Tarde
+1284,2025-11-27,Grupo Ryanair,FR9913,Tallinn (TLL),16:30:00,En hora,197,Boeing 737 MAX 8,U,EU,Jueves,Tarde
+1285,2025-11-27,Grupo Ryanair,FR4585,Porto (OPO),16:35:00,En hora,197,Boeing 737 MAX 8,U,EU,Jueves,Tarde
+1286,2025-11-27,Grupo easy,EC1378,Geneva (GVA),16:50:00,Retrasado,180,Airbus A320,R,EU,Jueves,Tarde
+1287,2025-11-27,Grupo Ryanair,FR2098,Bologna (BLQ),17:15:00,En hora,189,Boeing 737-800,U,EU,Jueves,Tarde
+1288,2025-11-27,Grupo easy,EC7173,Berlin (BER),17:25:00,En hora,156,Airbus A319,R,EU,Jueves,Tarde
+1289,2025-11-27,Grupo Ryanair,RR8394,Budapest (BUD),17:30:00,Retrasado,189,Boeing 737-800,U,EU,Jueves,Tarde
+1290,2025-11-27,Volotea,V72327,Strasbourg (SXB),17:30:00,En hora,180,Airbus A320,S,EU,Jueves,Tarde
+1291,2025-11-27,Transavia,HV5136,Amsterdam (AMS),17:45:00,En hora,189,Boeing 737-800,U,EU,Jueves,Tarde
+1292,2025-11-27,Grupo Ryanair,RR6300,Sofia (SOF),17:45:00,En hora,189,Boeing 737-800,S,EU,Jueves,Tarde
+1293,2025-11-27,Grupo Ryanair,FR5718,Bratislava (BTS),18:00:00,Retrasado,189,Boeing 737-800,U,EU,Jueves,Tarde
+1294,2025-11-27,Grupo Ryanair,FR6341,Rome (FCO),18:00:00,En hora,189,Boeing 737-800,S,EU,Jueves,Tarde
+1295,2025-11-27,Grupo easy,EC7139,Rennes/Saint-Jacques (RNS),18:15:00,En hora,180,Airbus A320,R,EU,Jueves,Tarde
+1296,2025-11-27,Grupo Ryanair,FR3078,Lisbon (LIS),18:30:00,En hora,189,Boeing 737-800,U,EU,Jueves,Tarde
+1297,2025-11-27,Grupo Ryanair,FR6394,Dublin (DUB),18:30:00,En hora,197,Boeing 737 MAX 8,W,INT,Jueves,Tarde
+1298,2025-11-27,Grupo easy,EC7103,"Basel, Switzerland/Mulhouse (BSL)",18:40:00,En hora,156,Airbus A319,R,EU,Jueves,Tarde
+1299,2025-11-27,Grupo Ryanair,FR3800,Birmingham (BHX),18:45:00,En hora,189,Boeing 737-800,Y,INT,Jueves,Tarde
+1300,2025-11-27,Grupo wizz,W43180,Bucharest (OTP),18:45:00,En hora,230,Airbus A321,S,EU,Jueves,Tarde
+1301,2025-11-27,Grupo wizz,W61176,Katowice (KTW),18:55:00,En hora,180,Airbus A320,U,EU,Jueves,Tarde
+1302,2025-11-27,Grupo Ryanair,RR3193,Riga (RIX),19:05:00,En hora,189,Boeing 737-800,U,EU,Jueves,Tarde
+1303,2025-11-27,Grupo easy,EC7155,Milan (MXP),19:15:00,En hora,156,Airbus A319,R,EU,Jueves,Tarde
+1304,2025-11-27,Grupo Ryanair,FR1342,Palma de Mallorca (PMI),19:25:00,En hora,189,Boeing 737-800,R,NAC,Jueves,Tarde
+1305,2025-11-27,Grupo Ryanair,FR8217,London (STN),19:25:00,En hora,189,Boeing 737-800,W,INT,Jueves,Tarde
+1306,2025-11-27,Grupo wizz,W64406,Sofia (SOF),19:35:00,En hora,239,Airbus A321neo,U,EU,Jueves,Tarde
+1307,2025-11-27,Air Arabia Maroc,3O378,Tanger (TNG),19:40:00,Retrasado,174,Airbus A320,Y,INT,Jueves,Tarde
+1308,2025-11-27,Eurowings,EW2521,Stuttgart (STR),19:40:00,Retrasado,232,Airbus A321neo,S,EU,Jueves,Tarde
+1309,2025-11-27,Grupo wizz,W61478,Warsaw (WAW),19:40:00,En hora,239,Airbus A321neo,U,EU,Jueves,Tarde
+1310,2025-11-27,Grupo Ryanair,FR8598,Reggio Calabria (REG),19:45:00,En hora,189,Boeing 737-800,U,EU,Jueves,Tarde
+1311,2025-11-27,Grupo easy,U28058,London (LGW),19:45:00,En hora,156,Airbus A319,M,INT,Jueves,Tarde
+1312,2025-11-27,Grupo Ryanair,FR8631,Tanger (TNG),19:55:00,En hora,189,Boeing 737-800,Y,INT,Jueves,Tarde
+1313,2025-11-27,Volotea,V72167,Lille/Lesquin (LIL),19:55:00,En hora,180,Airbus A320,S,EU,Jueves,Tarde
+1314,2025-11-27,Transavia,HV6788,Eindhoven (EIN),20:00:00,En hora,189,Boeing 737-800,U,EU,Jueves,Noche
+1315,2025-11-27,Grupo easy,EC1956,Milan (LIN),20:15:00,En hora,180,Airbus A320,R,EU,Jueves,Noche
+1316,2025-11-27,Air Arabia Maroc,3O376,Al Aaroui (NDR),20:25:00,Retrasado,174,Airbus A320,Y,INT,Jueves,Noche
+1317,2025-11-27,Grupo Ryanair,FR3143,Milan (BGY),20:25:00,En hora,197,Boeing 737 MAX 8,R,EU,Jueves,Noche
+1318,2025-11-27,Grupo Ryanair,FR4587,Porto (OPO),20:45:00,En hora,197,Boeing 737 MAX 8,R,EU,Jueves,Noche
+1319,2025-11-27,Grupo wizz,W62378,Budapest (BUD),20:45:00,En hora,239,Airbus A321neo,S,EU,Jueves,Noche
+1320,2025-11-27,Transavia,TO4759,Paris (ORY),20:50:00,En hora,186,Airbus A320neo,U,EU,Jueves,Noche
+1321,2025-11-27,Grupo easy,U22324,London (LTN),20:55:00,En hora,186,Airbus A320neo,M,INT,Jueves,Noche
+1322,2025-11-27,Grupo wizz,W64738,Skopje (SKP),20:55:00,En hora,239,Airbus A321neo,W,INT,Jueves,Noche
+1323,2025-11-27,Grupo Ryanair,RR333,Gdansk (GDN),21:00:00,En hora,189,Boeing 737-800,R,EU,Jueves,Noche
+1324,2025-11-27,Aer Lingus,EI565,Dublin (DUB),21:05:00,En hora,174,Airbus A320,Y,INT,Jueves,Noche
+1325,2025-11-27,Grupo easy,EC1380,Geneva (GVA),21:15:00,Retrasado,180,Airbus A320,R,EU,Jueves,Noche
+1326,2025-11-27,Grupo Ryanair,FR1527,Valletta (MLA),21:20:00,Retrasado,189,Boeing 737-800,U,EU,Jueves,Noche
+1327,2025-11-27,Grupo wizz,W43178,Bucharest (BBU),21:20:00,En hora,230,Airbus A321,S,EU,Jueves,Noche
+1328,2025-11-27,Grupo wizz,W43406,Cluj-Napoca (CLJ),21:25:00,En hora,180,Airbus A320,R,EU,Jueves,Noche
+1329,2025-11-27,Grupo Ryanair,RR3035,Krakow (KRK),21:30:00,En hora,197,Boeing 737 MAX 8,U,EU,Jueves,Noche
+1330,2025-11-27,Grupo Ryanair,RR4084,Warsaw (WMI),21:30:00,En hora,189,Boeing 737-800,S,EU,Jueves,Noche
+1331,2025-11-27,Grupo wizz,W46020,Rome (FCO),21:35:00,En hora,230,Airbus A321,S,EU,Jueves,Noche
+1332,2025-11-27,Grupo wizz,W64116,Belgrade (BEG),22:10:00,Retrasado,239,Airbus A321neo,W,INT,Jueves,Noche
+1333,2025-11-27,Grupo wizz,W45154,Tirana (TIA),22:45:00,En hora,230,Airbus A321,Y,INT,Jueves,Noche
+1334,2025-11-28,Grupo easy,EC7105,Geneva (GVA),06:10:00,En hora,156,Airbus A319,R,EU,Viernes,Mañana
+1335,2025-11-28,Grupo Ryanair,FR8183,Bologna (BLQ),06:10:00,En hora,189,Boeing 737-800,U,EU,Viernes,Mañana
+1336,2025-11-28,Grupo Ryanair,FR8231,London (STN),06:10:00,En hora,189,Boeing 737-800,W,INT,Viernes,Mañana
+1337,2025-11-28,Grupo Ryanair,FR777,Venice (VCE),06:20:00,En hora,197,Boeing 737 MAX 8,U,EU,Viernes,Mañana
+1338,2025-11-28,Grupo Ryanair,FR846,Milan (BGY),06:25:00,Retrasado,189,Boeing 737-800,S,EU,Viernes,Mañana
+1339,2025-11-28,Grupo Ryanair,FR133,Berlin (BER),06:35:00,Retrasado,189,Boeing 737-800,U,EU,Viernes,Mañana
+1340,2025-11-28,Grupo Ryanair,FR4545,Porto (OPO),06:45:00,En hora,189,Boeing 737-800,S,EU,Viernes,Mañana
+1341,2025-11-28,Grupo easy,EC7101,"Basel, Switzerland/Mulhouse (BSL)",07:20:00,En hora,156,Airbus A319,R,EU,Viernes,Mañana
+1342,2025-11-28,Grupo easy,EC7199,Edinburgh (EDI),07:20:00,En hora,156,Airbus A319,M,INT,Viernes,Mañana
+1343,2025-11-28,Grupo Ryanair,LW2889,Palma de Mallorca (PMI),07:40:00,En hora,180,Airbus A320,R,NAC,Viernes,Mañana
+1344,2025-11-28,Norwegian Air Sweden AOC,D85502,Stockholm (ARN),08:00:00,En hora,189,Boeing 737-800,U,EU,Viernes,Mañana
+1345,2025-11-28,Grupo Ryanair,FR3976,Dublin (DUB),08:00:00,En hora,197,Boeing 737 MAX 8,Y,INT,Viernes,Mañana
+1346,2025-11-28,Grupo Ryanair,FR3185,Rabat (RBA),08:10:00,En hora,189,Boeing 737-800,W,INT,Viernes,Mañana
+1347,2025-11-28,Grupo Ryanair,FR6973,Rome (FCO),08:15:00,En hora,197,Boeing 737 MAX 8,U,EU,Viernes,Mañana
+1348,2025-11-28,Grupo easy,EC1376,Geneva (GVA),08:40:00,En hora,156,Airbus A319,R,EU,Viernes,Mañana
+1349,2025-11-28,Grupo Ryanair,FR5752,Valletta (MLA),08:40:00,Retrasado,197,Boeing 737 MAX 8,U,EU,Viernes,Mañana
+1350,2025-11-28,Grupo Ryanair,FR1165,Sevilla (SVQ),09:00:00,En hora,189,Boeing 737-800,S,NAC,Viernes,Mañana
+1351,2025-11-28,Grupo wizz,W62048,Krakow (KRK),09:05:00,Retrasado,239,Airbus A321neo,S,EU,Viernes,Mañana
+1352,2025-11-28,Grupo easy,EC3737,Milan (MXP),09:10:00,Retrasado,180,Airbus A320,R,EU,Viernes,Mañana
+1353,2025-11-28,Grupo Ryanair,FR2834,Charleroi (CRL),09:15:00,En hora,189,Boeing 737-800,U,EU,Viernes,Mañana
+1354,2025-11-28,Air Arabia Maroc,3O374,Casablanca (CMN),09:25:00,En hora,174,Airbus A320,W,INT,Viernes,Mañana
+1355,2025-11-28,Grupo Ryanair,LW12,Vienna (VIE),09:25:00,Retrasado,180,Airbus A320,R,EU,Viernes,Mañana
+1356,2025-11-28,Grupo wizz,W43176,Bucharest (OTP),09:25:00,En hora,230,Airbus A321,S,EU,Viernes,Mañana
+1357,2025-11-28,Grupo wizz,W45088,Tirana (TIA),09:25:00,En hora,230,Airbus A321,Y,INT,Viernes,Mañana
+1358,2025-11-28,Grupo wizz,W62376,Budapest (BUD),09:25:00,En hora,239,Airbus A321neo,U,EU,Viernes,Mañana
+1359,2025-11-28,Grupo Ryanair,FR3028,Ibiza (IBZ),09:40:00,En hora,197,Boeing 737 MAX 8,S,NAC,Viernes,Mañana
+1360,2025-11-28,Grupo Ryanair,FR3320,Milan (BGY),09:45:00,Retrasado,189,Boeing 737-800,R,EU,Viernes,Mañana
+1361,2025-11-28,Transavia,HV6788,Eindhoven (EIN),09:45:00,En hora,189,Boeing 737-800,R,EU,Viernes,Mañana
+1362,2025-11-28,Grupo easy,U26654,Birmingham (BHX),09:45:00,Retrasado,180,Airbus A320,M,INT,Viernes,Mañana
+1363,2025-11-28,Air Arabia Maroc,3O378,Tanger (TNG),09:50:00,En hora,174,Airbus A320,W,INT,Viernes,Mañana
+1364,2025-11-28,Grupo easy,EC7656,Lisbon (LIS),09:55:00,Retrasado,230,Airbus A321,R,EU,Viernes,Mañana
+1365,2025-11-28,Air Serbia,JU581,Belgrade (BEG),09:55:00,En hora,144,Airbus A319,Y,INT,Viernes,Mañana
+1366,2025-11-28,Grupo Ryanair,FR9015,London (STN),10:00:00,En hora,189,Boeing 737-800,W,INT,Viernes,Mañana
+1367,2025-11-28,Grupo wizz,W46018,Rome (FCO),10:00:00,Retrasado,239,Airbus A321neo,S,EU,Viernes,Mañana
+1368,2025-11-28,Grupo Ryanair,FR6920,Dublin (DUB),10:05:00,En hora,189,Boeing 737-800,Y,INT,Viernes,Mañana
+1369,2025-11-28,Transavia,HV5132,Amsterdam (AMS),10:05:00,Retrasado,232,Airbus A321neo,U,EU,Viernes,Mañana
+1370,2025-11-28,Eurowings,EW7521,Hamburg (HAM),10:10:00,En hora,180,Airbus A320,S,EU,Viernes,Mañana
+1371,2025-11-28,Grupo wizz,W61476,Warsaw (WAW),10:15:00,En hora,239,Airbus A321neo,S,EU,Viernes,Mañana
+1372,2025-11-28,Grupo Ryanair,FR2239,Marrakech (RAK),10:20:00,En hora,189,Boeing 737-800,Y,INT,Viernes,Mañana
+1373,2025-11-28,Grupo easy,U22002,Manchester (MAN),10:25:00,En hora,186,Airbus A320neo,M,INT,Viernes,Mañana
+1374,2025-11-28,Grupo easy,EC7131,Nice/Cote D'Azur (NCE),10:30:00,Retrasado,156,Airbus A319,R,EU,Viernes,Mañana
+1375,2025-11-28,Grupo Ryanair,FR6267,Edinburgh (EDI),10:30:00,En hora,189,Boeing 737-800,W,INT,Viernes,Mañana
+1376,2025-11-28,Grupo easy,EC4212,Napoli (NAP),10:35:00,En hora,180,Airbus A320,R,EU,Viernes,Mañana
+1377,2025-11-28,Transavia,HV6064,Rotterdam (RTM),10:40:00,En hora,189,Boeing 737-800,U,EU,Viernes,Mañana
+1378,2025-11-28,Grupo easy,U22704,Bristol (BRS),10:50:00,Retrasado,186,Airbus A320neo,M,INT,Viernes,Mañana
+1379,2025-11-28,Grupo Ryanair,FR5270,Manchester (MAN),10:55:00,En hora,197,Boeing 737 MAX 8,Y,INT,Viernes,Mañana
+1380,2025-11-28,Grupo Ryanair,RR8384,Budapest (BUD),11:00:00,En hora,189,Boeing 737-800,S,EU,Viernes,Mañana
+1381,2025-11-28,Grupo Ryanair,FR3166,Palermo (PMO),11:10:00,En hora,189,Boeing 737-800,S,EU,Viernes,Mañana
+1382,2025-11-28,FLYONE Armenia,3F232,Yerevan (EVN),11:30:00,En hora,180,Airbus A320,W,INT,Viernes,Mañana
+1383,2025-11-28,Aer Lingus,EI563,Dublin (DUB),11:35:00,En hora,174,Airbus A320,Y,INT,Viernes,Mañana
+1384,2025-11-28,Grupo Ryanair,FR3121,Beauvais (BVA),11:35:00,En hora,197,Boeing 737 MAX 8,R,EU,Viernes,Mañana
+1385,2025-11-28,Grupo Ryanair,LW2896,Palma de Mallorca (PMI),11:35:00,En hora,180,Airbus A320,S,NAC,Viernes,Mañana
+1386,2025-11-28,Grupo easy,EC7141,Strasbourg (SXB),11:45:00,En hora,156,Airbus A319,R,EU,Viernes,Mañana
+1387,2025-11-28,Grupo Ryanair,RR3049,Krakow (KRK),11:45:00,En hora,189,Boeing 737-800,U,EU,Viernes,Mañana
+1388,2025-11-28,Grupo easy,U28056,London (LGW),11:45:00,En hora,156,Airbus A319,M,INT,Viernes,Mañana
+1389,2025-11-28,Icelandair,FI597,Keflavik (KEF),11:50:00,Retrasado,184,Boeing 757-200,S,EU,Viernes,Mañana
+1390,2025-11-28,Grupo Ryanair,FR774,Torino (TRN),11:55:00,En hora,189,Boeing 737-800,U,EU,Viernes,Mañana
+1391,2025-11-28,Grupo easy,EC8064,London (LGW),12:15:00,Retrasado,156,Airbus A319,M,INT,Viernes,Tarde
+1392,2025-11-28,Grupo Ryanair,FR4585,Porto (OPO),12:15:00,En hora,197,Boeing 737 MAX 8,U,EU,Viernes,Tarde
+1393,2025-11-28,Norwegian Air Sweden AOC,D83657,Copenhagen (CPH),12:30:00,Retrasado,189,Boeing 737 MAX 8,U,EU,Viernes,Tarde
+1394,2025-11-28,Grupo Ryanair,FR575,Bologna (BLQ),12:45:00,En hora,197,Boeing 737 MAX 8,R,EU,Viernes,Tarde
+1395,2025-11-28,Grupo Ryanair,FR58,Napoli (NAP),12:45:00,Retrasado,189,Boeing 737-800,U,EU,Viernes,Tarde
+1396,2025-11-28,Pegasus Airlines,PC1092,Istanbul (SAW),12:45:00,En hora,239,Airbus A321neo,Y,INT,Viernes,Tarde
+1397,2025-11-28,Grupo Ryanair,FR6874,Dublin (DUB),12:55:00,Retrasado,189,Boeing 737-800,W,INT,Viernes,Tarde
+1398,2025-11-28,Grupo wizz,W67022,Bratislava (BTS),12:55:00,Retrasado,230,Airbus A321,S,EU,Viernes,Tarde
+1399,2025-11-28,Grupo wizz,W46330,Milan (MXP),13:10:00,Retrasado,239,Airbus A321neo,S,EU,Viernes,Tarde
+1400,2025-11-28,HiSky,H4264,Bucharest (OTP),13:20:00,En hora,186,Airbus A320,R,EU,Viernes,Tarde
+1401,2025-11-28,Norwegian Air Shuttle,DY1741,Oslo (OSL),13:25:00,En hora,189,Boeing 737-800,S,EU,Viernes,Tarde
+1402,2025-11-28,Pegasus Airlines,PC1528,Izmir (ADB),13:30:00,En hora,180,Airbus A320,Y,INT,Viernes,Tarde
+1403,2025-11-28,Turkish Airlines,TK608,Ankara (ESB),13:40:00,En hora,165,Boeing 737-800,W,INT,Viernes,Tarde
+1404,2025-11-28,Grupo Ryanair,FR6078,Ouarzazate (OZZ),13:50:00,Retrasado,189,Boeing 737-800,W,INT,Viernes,Tarde
+1405,2025-11-28,Jet2,LS804,Manchester (MAN),13:50:00,Retrasado,189,Boeing 737-800,W,INT,Viernes,Tarde
+1406,2025-11-28,Grupo Ryanair,FR3180,Rome (FCO),13:55:00,En hora,189,Boeing 737-800,S,EU,Viernes,Tarde
+1407,2025-11-28,Air Baltic,BT684,Riga (RIX),14:05:00,En hora,148,Airbus A220-300,U,EU,Viernes,Tarde
+1408,2025-11-28,Grupo easy,EC7153,Milan (MXP),14:20:00,En hora,156,Airbus A319,R,EU,Viernes,Tarde
+1409,2025-11-28,Grupo Ryanair,LW7351,Vienna (VIE),14:20:00,En hora,180,Airbus A320,R,EU,Viernes,Tarde
+1410,2025-11-28,Transavia,TO4755,Paris (ORY),14:20:00,Retrasado,186,Airbus A320neo,U,EU,Viernes,Tarde
+1411,2025-11-28,Grupo Ryanair,FR8215,London (STN),14:35:00,En hora,189,Boeing 737-800,Y,INT,Viernes,Tarde
+1412,2025-11-28,Grupo easy,EC7107,Geneva (GVA),14:40:00,En hora,156,Airbus A319,R,EU,Viernes,Tarde
+1413,2025-11-28,Volotea,V71443,Ancona (AOI),14:45:00,En hora,180,Airbus A320,S,EU,Viernes,Tarde
+1414,2025-11-28,Grupo wizz,W64406,Sofia (SOF),14:50:00,Retrasado,239,Airbus A321neo,R,EU,Viernes,Tarde
+1415,2025-11-28,Grupo Ryanair,FR2507,Cologne-Bonn (CGN),14:55:00,En hora,189,Boeing 737-800,S,EU,Viernes,Tarde
+1416,2025-11-28,Grupo Ryanair,FR867,Venice (VCE),14:55:00,En hora,189,Boeing 737-800,U,EU,Viernes,Tarde
+1417,2025-11-28,SmartWings,QS1059,Prague (PRG),14:55:00,En hora,149,Airbus A220-300,U,EU,Viernes,Tarde
+1418,2025-11-28,Grupo Ryanair,FR1342,Palma de Mallorca (PMI),15:00:00,En hora,189,Boeing 737-800,U,NAC,Viernes,Tarde
+1419,2025-11-28,Grupo Ryanair,FR5718,Bratislava (BTS),15:10:00,En hora,189,Boeing 737-800,S,EU,Viernes,Tarde
+1420,2025-11-28,Volotea,V73735,Corvera (RMU),15:15:00,En hora,156,Airbus A319,S,EU,Viernes,Tarde
+1421,2025-11-28,Grupo Ryanair,FR483,Malaga (AGP),15:25:00,Retrasado,197,Boeing 737 MAX 8,R,NAC,Viernes,Tarde
+1422,2025-11-28,Grupo wizz,W46728,Venice (VCE),15:40:00,En hora,239,Airbus A321neo,S,EU,Viernes,Tarde
+1423,2025-11-28,Pegasus Airlines,PC1094,Istanbul (SAW),15:45:00,Retrasado,239,Airbus A321neo,Y,INT,Viernes,Tarde
+1424,2025-11-28,Grupo Ryanair,FR9045,London (STN),16:05:00,Retrasado,189,Boeing 737-800,Y,INT,Viernes,Tarde
+1425,2025-11-28,Norwegian Air Sweden AOC,D85510,Copenhagen (CPH),16:15:00,En hora,189,Boeing 737-800,U,EU,Viernes,Tarde
+1426,2025-11-28,Grupo Ryanair,FR2925,Brussels (BRU),16:15:00,En hora,189,Boeing 737-800,U,EU,Viernes,Tarde
+1427,2025-11-28,Grupo Ryanair,FR6985,Rome (FCO),16:15:00,En hora,189,Boeing 737-800,U,EU,Viernes,Tarde
+1428,2025-11-28,Grupo wizz,W43564,Timisoara (TSR),16:25:00,En hora,180,Airbus A320,S,EU,Viernes,Tarde
+1429,2025-11-28,Grupo Ryanair,FR3129,Ibiza (IBZ),16:45:00,En hora,189,Boeing 737-800,R,NAC,Viernes,Tarde
+1430,2025-11-28,Grupo easy,EC7173,Berlin (BER),16:50:00,Retrasado,156,Airbus A319,R,EU,Viernes,Tarde
+1431,2025-11-28,Volotea,V73700,Vitoria (VIT),16:50:00,En hora,180,Airbus A320,S,NAC,Viernes,Tarde
+1432,2025-11-28,Grupo Ryanair,FR878,Venice (VCE),16:55:00,En hora,189,Boeing 737-800,U,EU,Viernes,Tarde
+1433,2025-11-28,Grupo Ryanair,FR4587,Porto (OPO),17:05:00,En hora,197,Boeing 737 MAX 8,S,EU,Viernes,Tarde
+1434,2025-11-28,Grupo wizz,W67920,Kopitnari (KUT),17:15:00,En hora,239,Airbus A321neo,Y,INT,Viernes,Tarde
+1435,2025-11-28,Grupo Ryanair,FR3076,Stockholm (ARN),17:30:00,En hora,197,Boeing 737 MAX 8,U,EU,Viernes,Tarde
+1436,2025-11-28,Volotea,V73573,Asturias (OVD),17:40:00,En hora,156,Airbus A319,S,NAC,Viernes,Tarde
+1437,2025-11-28,Transavia,HV5134,Amsterdam (AMS),17:45:00,Retrasado,189,Boeing 737-800,U,EU,Viernes,Tarde
+1438,2025-11-28,Grupo Ryanair,FR6341,Rome (FCO),18:00:00,En hora,189,Boeing 737-800,U,EU,Viernes,Tarde
+1439,2025-11-28,Grupo Ryanair,FR6353,Milan (BGY),18:00:00,En hora,197,Boeing 737 MAX 8,S,EU,Viernes,Tarde
+1440,2025-11-28,Grupo easy,EC7205,Southampton (SOU),18:10:00,En hora,156,Airbus A319,M,INT,Viernes,Tarde
+1441,2025-11-28,Air Arabia Maroc,3O398,Rabat (RBA),18:30:00,Retrasado,174,Airbus A320,W,INT,Viernes,Tarde
+1442,2025-11-28,FlyOne,5F5512,Chisinau (KIV),18:30:00,En hora,180,Airbus A320,Y,INT,Viernes,Tarde
+1443,2025-11-28,Grupo wizz,W43686,Iasi (IAS),18:30:00,En hora,180,Airbus A320,S,EU,Viernes,Tarde
+1444,2025-11-28,Grupo Ryanair,FR2098,Bologna (BLQ),18:35:00,En hora,189,Boeing 737-800,U,EU,Viernes,Tarde
+1445,2025-11-28,Grupo easy,EC7103,"Basel, Switzerland/Mulhouse (BSL)",18:45:00,En hora,156,Airbus A319,R,EU,Viernes,Tarde
+1446,2025-11-28,Grupo Ryanair,FR3189,Fes (FEZ),18:50:00,Retrasado,189,Boeing 737-800,Y,INT,Viernes,Tarde
+1447,2025-11-28,Grupo wizz,W61478,Warsaw (WAW),19:00:00,En hora,230,Airbus A321,S,EU,Viernes,Tarde
+1448,2025-11-28,Grupo easy,EC7155,Milan (MXP),19:10:00,En hora,156,Airbus A319,R,EU,Viernes,Tarde
+1449,2025-11-28,Grupo Ryanair,FR149,Berlin (BER),19:15:00,En hora,197,Boeing 737 MAX 8,U,EU,Viernes,Tarde
+1450,2025-11-28,Grupo Ryanair,FR3078,Lisbon (LIS),19:20:00,En hora,189,Boeing 737-800,S,EU,Viernes,Tarde
+1451,2025-11-28,Grupo Ryanair,RR6330,Sofia (SOF),19:20:00,En hora,189,Boeing 737-800,S,EU,Viernes,Tarde
+1452,2025-11-28,Volotea,V72165,Nantes/Atlantique (NTE),19:30:00,En hora,156,Airbus A319,S,EU,Viernes,Tarde
+1453,2025-11-28,Eurowings,EW9443,Dusseldorf (DUS),19:35:00,Retrasado,232,Airbus A321neo,U,EU,Viernes,Tarde
+1454,2025-11-28,Grupo Ryanair,FR2330,Al Aaroui (NDR),19:35:00,En hora,189,Boeing 737-800,W,INT,Viernes,Tarde
+1455,2025-11-28,Grupo Ryanair,LW7362,Vienna (VIE),19:40:00,Retrasado,180,Airbus A320,R,EU,Viernes,Tarde
+1456,2025-11-28,Grupo easy,U28058,London (LGW),19:40:00,En hora,156,Airbus A319,M,INT,Viernes,Tarde
+1457,2025-11-28,Grupo Ryanair,FR6374,Beauvais (BVA),19:45:00,Retrasado,189,Boeing 737-800,U,EU,Viernes,Tarde
+1458,2025-11-28,Eurowings,EW2521,Stuttgart (STR),19:55:00,Retrasado,232,Airbus A321neo,U,EU,Viernes,Tarde
+1459,2025-11-28,Volotea,V71415,Verona (VRN),19:55:00,En hora,180,Airbus A320,S,EU,Viernes,Tarde
+1460,2025-11-28,Grupo wizz,W64666,Larnaca (LCA),19:55:00,En hora,230,Airbus A321,Y,INT,Viernes,Tarde
+1461,2025-11-28,Grupo Ryanair,FR1527,Valletta (MLA),20:05:00,En hora,189,Boeing 737-800,R,EU,Viernes,Noche
+1462,2025-11-28,Grupo Ryanair,FR2402,Sevilla (SVQ),20:10:00,Retrasado,197,Boeing 737 MAX 8,R,NAC,Viernes,Noche
+1463,2025-11-28,Grupo Ryanair,FR6275,Edinburgh (EDI),20:10:00,Retrasado,189,Boeing 737-800,Y,INT,Viernes,Noche
+1464,2025-11-28,Grupo Ryanair,FR6305,Milan (BGY),20:10:00,En hora,189,Boeing 737-800,U,EU,Viernes,Noche
+1465,2025-11-28,Grupo wizz,W62096,Krakow (KRK),20:10:00,En hora,239,Airbus A321neo,S,EU,Viernes,Noche
+1466,2025-11-28,Grupo easy,EC1956,Milan (LIN),20:15:00,En hora,180,Airbus A320,R,EU,Viernes,Noche
+1467,2025-11-28,Grupo wizz,W42940,Vienna (VIE),20:20:00,En hora,239,Airbus A321neo,S,EU,Viernes,Noche
+1468,2025-11-28,Grupo Ryanair,FR3792,Birmingham (BHX),20:25:00,En hora,189,Boeing 737-800,W,INT,Viernes,Noche
+1469,2025-11-28,T'Way Air,TW408,Seoul/Incheon (ICN),20:30:00,En hora,246,Airbus A330-200,W,INT,Viernes,Noche
+1470,2025-11-28,Volotea,V72135,Bordeaux (BOD),20:30:00,Retrasado,180,Airbus A320,S,EU,Viernes,Noche
+1471,2025-11-28,Grupo Ryanair,FR7539,Milan (MXP),20:35:00,En hora,189,Boeing 737-800,S,EU,Viernes,Noche
+1472,2025-11-28,Grupo Ryanair,FR8631,Tanger (TNG),20:35:00,Retrasado,189,Boeing 737-800,Y,INT,Viernes,Noche
+1473,2025-11-28,Air Serbia,JU585,Belgrade (BEG),20:35:00,En hora,144,Airbus A319,Y,INT,Viernes,Noche
+1474,2025-11-28,Grupo Ryanair,RR1786,Vilnius (VNO),20:35:00,Retrasado,197,Boeing 737 MAX 8,U,EU,Viernes,Noche
+1475,2025-11-28,Luxair,LG3592,Luxembourg (LUX),20:40:00,Retrasado,141,Boeing 737-700,R,EU,Viernes,Noche
+1476,2025-11-28,Grupo wizz,W62378,Budapest (BUD),20:45:00,Retrasado,239,Airbus A321neo,S,EU,Viernes,Noche
+1477,2025-11-28,Grupo Ryanair,FR5710,Napoli (NAP),20:50:00,Retrasado,197,Boeing 737 MAX 8,U,EU,Viernes,Noche
+1478,2025-11-28,Transavia,TO4759,Paris (ORY),20:50:00,Retrasado,186,Airbus A320neo,U,EU,Viernes,Noche
+1479,2025-11-28,Grupo easy,U22326,London (LTN),20:55:00,En hora,186,Airbus A320neo,M,INT,Viernes,Noche
+1480,2025-11-28,Grupo Ryanair,RR8394,Budapest (BUD),21:00:00,En hora,189,Boeing 737-800,R,EU,Viernes,Noche
+1481,2025-11-28,Aer Lingus,EI565,Dublin (DUB),21:05:00,Retrasado,174,Airbus A320,Y,INT,Viernes,Noche
+1482,2025-11-28,Grupo easy,U23374,Liverpool (LPL),21:05:00,Retrasado,180,Airbus A320,M,INT,Viernes,Noche
+1483,2025-11-28,Grupo Ryanair,FR3174,Ibiza (IBZ),21:10:00,Retrasado,189,Boeing 737-800,R,NAC,Viernes,Noche
+1484,2025-11-28,Grupo easy,EC1380,Geneva (GVA),21:15:00,En hora,180,Airbus A320,R,EU,Viernes,Noche
+1485,2025-11-28,Grupo wizz,W43178,Bucharest (BBU),21:20:00,En hora,230,Airbus A321,S,EU,Viernes,Noche
+1486,2025-11-28,Grupo wizz,W43406,Cluj-Napoca (CLJ),21:25:00,En hora,180,Airbus A320,S,EU,Viernes,Noche
+1487,2025-11-28,Grupo Ryanair,RR6944,Warsaw (WMI),21:30:00,En hora,189,Boeing 737-800,R,EU,Viernes,Noche
+1488,2025-11-28,Grupo Ryanair,FR7808,London (LTN),21:35:00,En hora,189,Boeing 737-800,Y,INT,Viernes,Noche
+1489,2025-11-28,Grupo wizz,W46020,Rome (FCO),21:35:00,En hora,239,Airbus A321neo,S,EU,Viernes,Noche
+1490,2025-11-28,Grupo Ryanair,FR8669,Dublin (DUB),21:40:00,Retrasado,189,Boeing 737-800,W,INT,Viernes,Noche
+1491,2025-11-28,Grupo Ryanair,FR9811,London (STN),21:40:00,En hora,189,Boeing 737-800,W,INT,Viernes,Noche
+1492,2025-11-28,Grupo easy,EC7682,Lisbon (LIS),21:45:00,En hora,230,Airbus A321,R,EU,Viernes,Noche
+1493,2025-11-28,Grupo Ryanair,FR2495,Palma de Mallorca (PMI),21:45:00,En hora,189,Boeing 737-800,S,NAC,Viernes,Noche
+1494,2025-11-28,Grupo Ryanair,FR6597,Manchester (MAN),21:45:00,En hora,189,Boeing 737-800,W,INT,Viernes,Noche
+1495,2025-11-28,Grupo Ryanair,FR2250,Marrakech (RAK),21:55:00,En hora,189,Boeing 737-800,Y,INT,Viernes,Noche
+1496,2025-11-28,Grupo wizz,W64116,Belgrade (BEG),21:55:00,En hora,230,Airbus A321,W,INT,Viernes,Noche
+1497,2025-11-28,Grupo Ryanair,FR3080,Malaga (AGP),22:30:00,En hora,197,Boeing 737 MAX 8,R,NAC,Viernes,Noche
+1498,2025-11-28,Grupo wizz,W45154,Tirana (TIA),22:45:00,En hora,239,Airbus A321neo,Y,INT,Viernes,Noche
+1499,2025-11-28,Grupo wizz,W61706,Gdansk (GDN),22:50:00,En hora,239,Airbus A321neo,S,EU,Viernes,Noche
+1500,2025-11-28,Grupo Ryanair,FR9814,London (STN),23:10:00,En hora,189,Boeing 737-800,Y,INT,Viernes,Noche
+1501,2025-11-29,Grupo Ryanair,FR846,Milan (BGY),06:00:00,En hora,189,Boeing 737-800,U,EU,Sábado,Mañana
+1502,2025-11-29,Grupo easy,EC7105,Geneva (GVA),06:10:00,En hora,156,Airbus A319,R,EU,Sábado,Mañana
+1503,2025-11-29,Grupo Ryanair,FR5718,Bratislava (BTS),06:10:00,En hora,189,Boeing 737-800,S,EU,Sábado,Mañana
+1504,2025-11-29,Grupo Ryanair,FR4545,Porto (OPO),06:15:00,En hora,197,Boeing 737 MAX 8,U,EU,Sábado,Mañana
+1505,2025-11-29,Grupo Ryanair,FR1342,Palma de Mallorca (PMI),06:20:00,En hora,189,Boeing 737-800,S,NAC,Sábado,Mañana
+1506,2025-11-29,Grupo Ryanair,FR777,Venice (VCE),06:30:00,En hora,189,Boeing 737-800,U,EU,Sábado,Mañana
+1507,2025-11-29,Grupo easy,EC7151,Milan (MXP),07:30:00,En hora,156,Airbus A319,R,EU,Sábado,Mañana
+1508,2025-11-29,Grupo Ryanair,FR2918,Brussels (BRU),08:05:00,En hora,189,Boeing 737-800,U,EU,Sábado,Mañana
+1509,2025-11-29,Grupo Ryanair,FR3180,Rome (FCO),08:15:00,En hora,189,Boeing 737-800,R,EU,Sábado,Mañana
+1510,2025-11-29,Air Arabia Maroc,3O376,Al Aaroui (NDR),08:35:00,En hora,174,Airbus A320,W,INT,Sábado,Mañana
+1511,2025-11-29,Grupo Ryanair,FR1165,Sevilla (SVQ),08:50:00,En hora,197,Boeing 737 MAX 8,U,NAC,Sábado,Mañana
+1512,2025-11-29,Grupo Ryanair,FR575,Bologna (BLQ),08:50:00,En hora,189,Boeing 737-800,U,EU,Sábado,Mañana
+1513,2025-11-29,Grupo Ryanair,FR3166,Palermo (PMO),09:00:00,En hora,189,Boeing 737-800,S,EU,Sábado,Mañana
+1514,2025-11-29,Grupo wizz,W43938,Chisinau (KIV),09:00:00,Retrasado,180,Airbus A320,W,INT,Sábado,Mañana
+1515,2025-11-29,Grupo wizz,W62048,Krakow (KRK),09:05:00,En hora,239,Airbus A321neo,S,EU,Sábado,Mañana
+1516,2025-11-29,Grupo Ryanair,FR2834,Charleroi (CRL),09:15:00,En hora,189,Boeing 737-800,R,EU,Sábado,Mañana
+1517,2025-11-29,Grupo Ryanair,FR133,Berlin (BER),09:20:00,En hora,189,Boeing 737-800,S,EU,Sábado,Mañana
+1518,2025-11-29,Grupo Ryanair,FR2239,Marrakech (RAK),09:20:00,En hora,189,Boeing 737-800,Y,INT,Sábado,Mañana
+1519,2025-11-29,Grupo Ryanair,FR3028,Ibiza (IBZ),09:20:00,En hora,189,Boeing 737-800,R,NAC,Sábado,Mañana
+1520,2025-11-29,Grupo wizz,W61914,Vilnius (VNO),09:20:00,Retrasado,239,Airbus A321neo,S,EU,Sábado,Mañana
+1521,2025-11-29,Grupo wizz,W43176,Bucharest (OTP),09:25:00,Retrasado,239,Airbus A321neo,U,EU,Sábado,Mañana
+1522,2025-11-29,Grupo wizz,W62376,Budapest (BUD),09:25:00,Retrasado,239,Airbus A321neo,S,EU,Sábado,Mañana
+1523,2025-11-29,Grupo Ryanair,RR3049,Krakow (KRK),09:30:00,En hora,189,Boeing 737-800,R,EU,Sábado,Mañana
+1524,2025-11-29,Grupo wizz,W42938,Vienna (VIE),09:35:00,En hora,239,Airbus A321neo,U,EU,Sábado,Mañana
+1525,2025-11-29,Air Serbia,JU581,Belgrade (BEG),09:55:00,Retrasado,144,Airbus A319,W,INT,Sábado,Mañana
+1526,2025-11-29,Grupo Ryanair,FR6559,Liverpool (LPL),10:00:00,En hora,189,Boeing 737-800,Y,INT,Sábado,Mañana
+1527,2025-11-29,Grupo wizz,W46018,Rome (FCO),10:00:00,En hora,239,Airbus A321neo,U,EU,Sábado,Mañana
+1528,2025-11-29,Transavia,HV5132,Amsterdam (AMS),10:05:00,En hora,232,Airbus A321neo,U,EU,Sábado,Mañana
+1529,2025-11-29,Grupo wizz,W61476,Warsaw (WAW),10:15:00,En hora,239,Airbus A321neo,U,EU,Sábado,Mañana
+1530,2025-11-29,Grupo Ryanair,FR9171,Stockholm (ARN),10:20:00,En hora,197,Boeing 737 MAX 8,S,EU,Sábado,Mañana
+1531,2025-11-29,Grupo easy,U22326,London (LTN),10:20:00,En hora,156,Airbus A319,M,INT,Sábado,Mañana
+1532,2025-11-29,Grupo Ryanair,FR3168,Newcastle (NCL),10:25:00,En hora,189,Boeing 737-800,Y,INT,Sábado,Mañana
+1533,2025-11-29,Grupo Ryanair,FR9307,Cork (ORK),10:30:00,Retrasado,197,Boeing 737 MAX 8,W,INT,Sábado,Mañana
+1534,2025-11-29,Grupo Ryanair,LW12,Vienna (VIE),10:30:00,En hora,180,Airbus A320,R,EU,Sábado,Mañana
+1535,2025-11-29,Grupo easy,U28056,London (LGW),10:35:00,En hora,156,Airbus A319,M,INT,Sábado,Mañana
+1536,2025-11-29,Azerbaijan Airlines,J246,Baku (GYD),10:45:00,Retrasado,122,Airbus A319,W,INT,Sábado,Mañana
+1537,2025-11-29,SkyUp MT,U5406,Chisinau (KIV),10:50:00,En hora,149,Boeing 737-700,W,INT,Sábado,Mañana
+1538,2025-11-29,Grupo easy,U22704,Bristol (BRS),10:55:00,En hora,186,Airbus A320neo,M,INT,Sábado,Mañana
+1539,2025-11-29,Grupo Ryanair,FR6394,Dublin (DUB),11:00:00,En hora,197,Boeing 737 MAX 8,Y,INT,Sábado,Mañana
+1540,2025-11-29,Grupo Ryanair,FR4597,Porto (OPO),11:20:00,En hora,197,Boeing 737 MAX 8,U,EU,Sábado,Mañana
+1541,2025-11-29,Grupo easy,EC7193,Leeds Bradford (LBA),11:30:00,En hora,156,Airbus A319,M,INT,Sábado,Mañana
+1542,2025-11-29,Aer Lingus,EI563,Dublin (DUB),11:30:00,Retrasado,174,Airbus A320,Y,INT,Sábado,Mañana
+1543,2025-11-29,Grupo Ryanair,FR2507,Cologne-Bonn (CGN),11:55:00,En hora,189,Boeing 737-800,S,EU,Sábado,Mañana
+1544,2025-11-29,Grupo Ryanair,FR3108,Luxembourg (LUX),12:05:00,Retrasado,189,Boeing 737-800,U,EU,Sábado,Tarde
+1545,2025-11-29,Grupo easy,EC8064,London (LGW),12:10:00,En hora,156,Airbus A319,M,INT,Sábado,Tarde
+1546,2025-11-29,Grupo Ryanair,FR8231,London (STN),12:25:00,Retrasado,189,Boeing 737-800,Y,INT,Sábado,Tarde
+1547,2025-11-29,Pegasus Airlines,PC1092,Istanbul (SAW),12:45:00,Retrasado,220,Airbus A321,W,INT,Sábado,Tarde
+1548,2025-11-29,Grupo wizz,W67022,Bratislava (BTS),12:55:00,En hora,239,Airbus A321neo,U,EU,Sábado,Tarde
+1549,2025-11-29,Grupo Ryanair,FR483,Malaga (AGP),13:05:00,Retrasado,189,Boeing 737-800,S,NAC,Sábado,Tarde
+1550,2025-11-29,Boliviana de Aviacion,OB775,Santa Cruz (VVI),13:10:00,Retrasado,246,Airbus A330-200,Y,INT,Sábado,Tarde
+1551,2025-11-29,Grupo wizz,W46330,Milan (MXP),13:10:00,En hora,239,Airbus A321neo,S,EU,Sábado,Tarde
+1552,2025-11-29,Grupo easy,EC7101,"Basel, Switzerland/Mulhouse (BSL)",13:20:00,En hora,156,Airbus A319,R,EU,Sábado,Tarde
+1553,2025-11-29,Grupo Ryanair,FR7808,London (LTN),13:20:00,Retrasado,197,Boeing 737 MAX 8,Y,INT,Sábado,Tarde
+1554,2025-11-29,Grupo Ryanair,RK6597,Manchester (MAN),13:25:00,En hora,189,Boeing 737-800,Y,INT,Sábado,Tarde
+1555,2025-11-29,Grupo Ryanair,FR2098,Bologna (BLQ),13:30:00,En hora,189,Boeing 737-800,S,EU,Sábado,Tarde
+1556,2025-11-29,Air Arabia Maroc,3O378,Tanger (TNG),13:35:00,Retrasado,174,Airbus A320,W,INT,Sábado,Tarde
+1557,2025-11-29,Grupo easy,EC7153,Milan (MXP),13:35:00,En hora,156,Airbus A319,R,EU,Sábado,Tarde
+1558,2025-11-29,AJet 608,VF608,Ankara (ESB),13:40:00,En hora,186,Airbus A320,W,INT,Sábado,Tarde
+1559,2025-11-29,Grupo Ryanair,FR1681,Frankfurt-Hahn (HHN),14:00:00,En hora,189,Boeing 737-800,S,EU,Sábado,Tarde
+1560,2025-11-29,Air Baltic,BT684,Riga (RIX),14:05:00,Retrasado,148,Airbus A220-300,U,EU,Sábado,Tarde
+1561,2025-11-29,Grupo Ryanair,RR6920,Dublin (DUB),14:05:00,En hora,189,Boeing 737-800,W,INT,Sábado,Tarde
+1562,2025-11-29,Grupo Ryanair,FR58,Napoli (NAP),14:15:00,En hora,189,Boeing 737-800,U,EU,Sábado,Tarde
+1563,2025-11-29,Kuwait Airways,KU136,Kuwait City (KWI),14:25:00,En hora,235,Airbus A330-800,W,INT,Sábado,Tarde
+1564,2025-11-29,Grupo Ryanair,FR3070,Palma de Mallorca (PMI),14:40:00,En hora,189,Boeing 737-800,U,NAC,Sábado,Tarde
+1565,2025-11-29,Grupo Ryanair,FR774,Torino (TRN),14:45:00,En hora,189,Boeing 737-800,S,EU,Sábado,Tarde
+1566,2025-11-29,Grupo Ryanair,FR3121,Beauvais (BVA),14:50:00,En hora,189,Boeing 737-800,U,EU,Sábado,Tarde
+1567,2025-11-29,Grupo Ryanair,FR6300,Sofia (SOF),14:55:00,En hora,189,Boeing 737-800,U,EU,Sábado,Tarde
+1568,2025-11-29,Grupo Ryanair,FR3189,Fes (FEZ),15:30:00,En hora,189,Boeing 737-800,Y,INT,Sábado,Tarde
+1569,2025-11-29,Grupo wizz,W46728,Venice (VCE),15:40:00,En hora,239,Airbus A321neo,U,EU,Sábado,Tarde
+1570,2025-11-29,Grupo Ryanair,FR3807,Charleroi (CRL),16:05:00,En hora,197,Boeing 737 MAX 8,U,EU,Sábado,Tarde
+1571,2025-11-29,Grupo Ryanair,RR8384,Budapest (BUD),16:10:00,En hora,189,Boeing 737-800,U,EU,Sábado,Tarde
+1572,2025-11-29,Grupo Ryanair,FR7543,Manchester (MAN),16:20:00,Retrasado,189,Boeing 737-800,Y,INT,Sábado,Tarde
+1573,2025-11-29,Grupo Ryanair,FR3146,Oujda (OUD),16:45:00,En hora,189,Boeing 737-800,Y,INT,Sábado,Tarde
+1574,2025-11-29,Grupo Ryanair,FR269,Milan (MXP),16:50:00,En hora,189,Boeing 737-800,U,EU,Sábado,Tarde
+1575,2025-11-29,Grupo Ryanair,FR9015,London (STN),17:00:00,En hora,197,Boeing 737 MAX 8,W,INT,Sábado,Tarde
+1576,2025-11-29,Grupo Ryanair,FR5752,Valletta (MLA),17:10:00,Retrasado,197,Boeing 737 MAX 8,S,EU,Sábado,Tarde
+1577,2025-11-29,Grupo Ryanair,FR6874,Dublin (DUB),17:40:00,En hora,189,Boeing 737-800,Y,INT,Sábado,Tarde
+1578,2025-11-29,Grupo Ryanair,FR2233,Al Aaroui (NDR),17:50:00,En hora,189,Boeing 737-800,W,INT,Sábado,Tarde
+1579,2025-11-29,Grupo Ryanair,FR2925,Brussels (BRU),17:50:00,En hora,197,Boeing 737 MAX 8,S,EU,Sábado,Tarde
+1580,2025-11-29,Grupo Ryanair,FR6353,Milan (BGY),17:55:00,En hora,189,Boeing 737-800,U,EU,Sábado,Tarde
+1581,2025-11-29,Bluebird Airways,BZ251,Tel Aviv (TLV),18:00:00,Retrasado,180,Airbus A320,Y,INT,Sábado,Tarde
+1582,2025-11-29,Grupo easy,EC7103,"Basel, Switzerland/Mulhouse (BSL)",18:00:00,En hora,156,Airbus A319,R,EU,Sábado,Tarde
+1583,2025-11-29,Norwegian Air Shuttle,DY1741,Oslo (OSL),18:15:00,Retrasado,189,Boeing 737-800,U,EU,Sábado,Tarde
+1584,2025-11-29,Grupo Ryanair,FR878,Venice (VCE),18:15:00,Retrasado,197,Boeing 737 MAX 8,U,EU,Sábado,Tarde
+1585,2025-11-29,Transavia,HV5134,Amsterdam (AMS),18:15:00,Retrasado,232,Airbus A321neo,U,EU,Sábado,Tarde
+1586,2025-11-29,Grupo Ryanair,FR3035,Krakow (KRK),18:20:00,En hora,197,Boeing 737 MAX 8,S,EU,Sábado,Tarde
+1587,2025-11-29,Grupo Ryanair,FR3792,Birmingham (BHX),18:55:00,En hora,197,Boeing 737 MAX 8,Y,INT,Sábado,Tarde
+1588,2025-11-29,Grupo wizz,W61176,Katowice (KTW),18:55:00,En hora,239,Airbus A321neo,S,EU,Sábado,Tarde
+1589,2025-11-29,Grupo wizz,W61478,Warsaw (WAW),19:00:00,En hora,239,Airbus A321neo,S,EU,Sábado,Tarde
+1590,2025-11-29,Grupo Ryanair,FR9045,London (STN),19:05:00,En hora,189,Boeing 737-800,W,INT,Sábado,Tarde
+1591,2025-11-29,Grupo Ryanair,FR5270,Manchester (MAN),19:20:00,En hora,189,Boeing 737-800,W,INT,Sábado,Tarde
+1592,2025-11-29,Volotea,V72327,Strasbourg (SXB),19:20:00,Retrasado,180,Airbus A320,S,EU,Sábado,Tarde
+1593,2025-11-29,Transavia,TO4757,Paris (ORY),19:25:00,En hora,186,Airbus A320neo,U,EU,Sábado,Tarde
+1594,2025-11-29,Grupo Ryanair,FR149,Berlin (BER),19:35:00,Retrasado,189,Boeing 737-800,U,EU,Sábado,Tarde
+1595,2025-11-29,Grupo wizz,W64406,Sofia (SOF),19:35:00,Retrasado,230,Airbus A321,S,EU,Sábado,Tarde
+1596,2025-11-29,Air Baltic,BT878,Tallinn (TLL),19:40:00,Retrasado,148,Airbus A220-300,S,EU,Sábado,Tarde
+1597,2025-11-29,Grupo Ryanair,FR3078,Lisbon (LIS),19:55:00,En hora,189,Boeing 737-800,S,EU,Sábado,Tarde
+1598,2025-11-29,Grupo Ryanair,LW7351,Vienna (VIE),20:05:00,En hora,180,Airbus A320,R,EU,Sábado,Noche
+1599,2025-11-29,Grupo easy,EC1380,Geneva (GVA),20:10:00,En hora,180,Airbus A320,R,EU,Sábado,Noche
+1600,2025-11-29,Grupo Ryanair,FR867,Venice (VCE),20:20:00,Retrasado,189,Boeing 737-800,U,EU,Sábado,Noche
+1601,2025-11-29,Grupo Ryanair,FR9581,Sevilla (SVQ),20:25:00,En hora,189,Boeing 737-800,S,NAC,Sábado,Noche
+1602,2025-11-29,T'Way Air,TW408,Seoul/Incheon (ICN),20:30:00,Retrasado,294,BOEING 777-300ER,W,INT,Sábado,Noche
+1603,2025-11-29,Grupo Ryanair,FR3182,Malaga (AGP),20:45:00,En hora,189,Boeing 737-800,S,NAC,Sábado,Noche
+1604,2025-11-29,Grupo Ryanair,FR3928,Trieste (TRS),20:45:00,En hora,189,Boeing 737-800,U,EU,Sábado,Noche
+1605,2025-11-29,Transavia,TO4759,Paris (ORY),20:45:00,En hora,186,Airbus A320neo,S,EU,Sábado,Noche
+1606,2025-11-29,Grupo wizz,W62378,Budapest (BUD),20:45:00,En hora,239,Airbus A321neo,U,EU,Sábado,Noche
+1607,2025-11-29,Grupo Ryanair,FR4585,Porto (OPO),20:50:00,En hora,189,Boeing 737-800,U,EU,Sábado,Noche
+1608,2025-11-29,Grupo Ryanair,FR6267,Edinburgh (EDI),20:55:00,En hora,189,Boeing 737-800,W,INT,Sábado,Noche
+1609,2025-11-29,Grupo Ryanair,FR3174,Ibiza (IBZ),21:20:00,En hora,189,Boeing 737-800,S,NAC,Sábado,Noche
+1610,2025-11-29,Grupo wizz,W43178,Bucharest (BBU),21:20:00,En hora,230,Airbus A321,U,EU,Sábado,Noche
+1611,2025-11-29,Grupo wizz,W43406,Cluj-Napoca (CLJ),21:25:00,En hora,180,Airbus A320,S,EU,Sábado,Noche
+1612,2025-11-29,Grupo Ryanair,FR5220,Bologna (BLQ),21:30:00,En hora,189,Boeing 737-800,S,EU,Sábado,Noche
+1613,2025-11-29,Grupo Ryanair,RR3039,Prague (PRG),21:35:00,En hora,197,Boeing 737 MAX 8,R,EU,Sábado,Noche
+1614,2025-11-29,Grupo wizz,W46020,Rome (FCO),21:35:00,En hora,239,Airbus A321neo,S,EU,Sábado,Noche
+1615,2025-11-29,Grupo Ryanair,FR3800,Birmingham (BHX),21:55:00,Retrasado,189,Boeing 737-800,Y,INT,Sábado,Noche
+1616,2025-11-29,Grupo Ryanair,FR8574,Rome (FCO),22:10:00,En hora,189,Boeing 737-800,U,EU,Sábado,Noche
+1617,2025-11-29,Grupo wizz,W64116,Belgrade (BEG),22:10:00,Retrasado,239,Airbus A321neo,W,INT,Sábado,Noche
+1618,2025-11-29,Air Arabia Maroc,3O642,Tanger (TNG),22:15:00,En hora,174,Airbus A320,Y,INT,Sábado,Noche
+1619,2025-11-30,Grupo Ryanair,FR3180,Rome (FCO),06:00:00,En hora,189,Boeing 737-800,S,EU,Domingo,Mañana
+1620,2025-11-30,Grupo Ryanair,FR2834,Charleroi (CRL),06:10:00,En hora,197,Boeing 737 MAX 8,U,EU,Domingo,Mañana
+1621,2025-11-30,Grupo Ryanair,FR2918,Brussels (BRU),06:25:00,En hora,189,Boeing 737-800,S,EU,Domingo,Mañana
+1622,2025-11-30,Grupo Ryanair,FR4084,Warsaw (WMI),06:25:00,En hora,189,Boeing 737-800,U,EU,Domingo,Mañana
+1623,2025-11-30,Grupo Ryanair,FR2239,Marrakech (RAK),06:30:00,En hora,189,Boeing 737-800,W,INT,Domingo,Mañana
+1624,2025-11-30,Grupo Ryanair,FR2507,Cologne-Bonn (CGN),06:40:00,En hora,189,Boeing 737-800,U,EU,Domingo,Mañana
+1625,2025-11-30,Grupo easy,EC7101,"Basel, Switzerland/Mulhouse (BSL)",06:50:00,En hora,156,Airbus A319,R,EU,Domingo,Mañana
+1626,2025-11-30,Grupo easy,EC7191,Glasgow (GLA),07:20:00,En hora,156,Airbus A319,M,INT,Domingo,Mañana
+1627,2025-11-30,Grupo Ryanair,FR6597,Manchester (MAN),07:30:00,En hora,189,Boeing 737-800,W,INT,Domingo,Mañana
+1628,2025-11-30,Grupo Ryanair,FR3108,Luxembourg (LUX),07:35:00,En hora,189,Boeing 737-800,S,EU,Domingo,Mañana
+1629,2025-11-30,Grupo Ryanair,FR1165,Sevilla (SVQ),07:50:00,En hora,189,Boeing 737-800,S,NAC,Domingo,Mañana
+1630,2025-11-30,Norwegian Air Sweden AOC,D85510,Copenhagen (CPH),08:00:00,En hora,189,Boeing 737-800,U,EU,Domingo,Mañana
+1631,2025-11-30,Grupo easy,EC7131,Nice/Cote D'Azur (NCE),08:00:00,En hora,156,Airbus A319,R,EU,Domingo,Mañana
+1632,2025-11-30,Grupo easy,EC3754,Milan (MXP),08:25:00,En hora,180,Airbus A320,R,EU,Domingo,Mañana
+1633,2025-11-30,Grupo Ryanair,FR878,Venice (VCE),08:30:00,En hora,189,Boeing 737-800,U,EU,Domingo,Mañana
+1634,2025-11-30,Grupo easy,EC1376,Geneva (GVA),08:35:00,En hora,156,Airbus A319,R,EU,Domingo,Mañana
+1635,2025-11-30,Volotea,V73735,Murcia (RMU),08:40:00,En hora,180,Airbus A320,S,NAC,Domingo,Mañana
+1636,2025-11-30,Grupo Ryanair,RR1786,Vilnius (VNO),09:00:00,En hora,197,Boeing 737 MAX 8,U,EU,Domingo,Mañana
+1637,2025-11-30,Grupo Ryanair,FR3028,Ibiza (IBZ),09:05:00,En hora,197,Boeing 737 MAX 8,S,NAC,Domingo,Mañana
+1638,2025-11-30,Grupo wizz,W62048,Krakow (KRK),09:05:00,Retrasado,239,Airbus A321neo,S,EU,Domingo,Mañana
+1639,2025-11-30,Grupo Ryanair,RR3193,Riga (RIX),09:10:00,En hora,189,Boeing 737-800,U,EU,Domingo,Mañana
+1640,2025-11-30,Eurowings,EW7521,Hamburg (HAM),09:25:00,Retrasado,150,Airbus A319,U,EU,Domingo,Mañana
+1641,2025-11-30,Grupo wizz,W43176,Bucharest (OTP),09:25:00,En hora,230,Airbus A321,S,EU,Domingo,Mañana
+1642,2025-11-30,Grupo wizz,W45088,Tirana (TIA),09:25:00,En hora,230,Airbus A321,W,INT,Domingo,Mañana
+1643,2025-11-30,Grupo wizz,W62376,Budapest (BUD),09:25:00,Retrasado,239,Airbus A321neo,S,EU,Domingo,Mañana
+1644,2025-11-30,Grupo Ryanair,FR4545,Porto (OPO),09:35:00,En hora,189,Boeing 737-800,R,EU,Domingo,Mañana
+1645,2025-11-30,Grupo wizz,W42938,Vienna (VIE),09:35:00,En hora,239,Airbus A321neo,S,EU,Domingo,Mañana
+1646,2025-11-30,Grupo easy,EC7656,Lisbon (LIS),09:45:00,En hora,230,Airbus A321,R,EU,Domingo,Mañana
+1647,2025-11-30,Grupo Ryanair,RR333,Gdansk (GDN),09:45:00,Retrasado,189,Boeing 737-800,U,EU,Domingo,Mañana
+1648,2025-11-30,Grupo Ryanair,RR8384,Budapest (BUD),09:45:00,Retrasado,197,Boeing 737 MAX 8,S,EU,Domingo,Mañana
+1649,2025-11-30,Grupo Ryanair,FR2495,Palma de Mallorca (PMI),09:50:00,En hora,189,Boeing 737-800,R,NAC,Domingo,Mañana
+1650,2025-11-30,Grupo Ryanair,FR6341,Rome (FCO),09:55:00,En hora,189,Boeing 737-800,U,EU,Domingo,Mañana
+1651,2025-11-30,Grupo Ryanair,RR3049,Krakow (KRK),09:55:00,Retrasado,197,Boeing 737 MAX 8,R,EU,Domingo,Mañana
+1652,2025-11-30,Grupo Ryanair,FR8231,London (STN),10:00:00,En hora,189,Boeing 737-800,W,INT,Domingo,Mañana
+1653,2025-11-30,Grupo wizz,W46018,Rome (FCO),10:00:00,En hora,239,Airbus A321neo,U,EU,Domingo,Mañana
+1654,2025-11-30,Grupo Ryanair,FR6874,Dublin (DUB),10:05:00,En hora,197,Boeing 737 MAX 8,Y,INT,Domingo,Mañana
+1655,2025-11-30,Grupo Ryanair,LW7351,Vienna (VIE),10:10:00,En hora,180,Airbus A320,S,EU,Domingo,Mañana
+1656,2025-11-30,Grupo wizz,W61476,Warsaw (WAW),10:15:00,En hora,239,Airbus A321neo,U,EU,Domingo,Mañana
+1657,2025-11-30,Grupo Ryanair,FR575,Bologna (BLQ),10:20:00,En hora,189,Boeing 737-800,U,EU,Domingo,Mañana
+1658,2025-11-30,Grupo Ryanair,FR6267,Edinburgh (EDI),10:30:00,En hora,189,Boeing 737-800,Y,INT,Domingo,Mañana
+1659,2025-11-30,Grupo Ryanair,FR7543,Manchester (MAN),10:40:00,En hora,197,Boeing 737 MAX 8,W,INT,Domingo,Mañana
+1660,2025-11-30,Grupo Ryanair,FR1279,Copenhagen (CPH),10:45:00,En hora,189,Boeing 737-800,S,EU,Domingo,Mañana
+1661,2025-11-30,Grupo Ryanair,FR3143,Milan (BGY),10:45:00,En hora,197,Boeing 737 MAX 8,U,EU,Domingo,Mañana
+1662,2025-11-30,Azerbaijan Airlines,J246,Baku (GYD),10:45:00,Retrasado,174,Airbus A320,Y,INT,Domingo,Mañana
+1663,2025-11-30,Grupo Ryanair,FR3166,Palermo (PMO),11:00:00,Retrasado,189,Boeing 737-800,S,EU,Domingo,Mañana
+1664,2025-11-30,Norwegian Air Shuttle,DY1741,Oslo (OSL),11:15:00,En hora,189,Boeing 737 MAX 8,S,EU,Domingo,Mañana
+1665,2025-11-30,Aer Lingus,EI563,Dublin (DUB),11:30:00,En hora,186,Airbus A320neo,W,INT,Domingo,Mañana
+1666,2025-11-30,Grupo easy,EC7139,Rennes/Saint-Jacques (RNS),11:45:00,En hora,180,Airbus A320,R,EU,Domingo,Mañana
+1667,2025-11-30,Icelandair,FI597,Keflavik (KEF),11:50:00,En hora,160,Boeing 737 MAX 8,R,EU,Domingo,Mañana
+1668,2025-11-30,Grupo Ryanair,LW2889,Palma de Mallorca (PMI),11:55:00,En hora,180,Airbus A320,R,NAC,Domingo,Mañana
+1669,2025-11-30,Volotea,V72327,Strasbourg (SXB),11:55:00,En hora,156,Airbus A319,S,EU,Domingo,Mañana
+1670,2025-11-30,Grupo Ryanair,FR3129,Ibiza (IBZ),12:05:00,En hora,189,Boeing 737-800,S,NAC,Domingo,Tarde
+1671,2025-11-30,Grupo Ryanair,FR3976,Dublin (DUB),12:25:00,En hora,197,Boeing 737 MAX 8,W,INT,Domingo,Tarde
+1672,2025-11-30,Grupo Ryanair,FR1527,Valletta (MLA),12:30:00,En hora,189,Boeing 737-800,U,EU,Domingo,Tarde
+1673,2025-11-30,Grupo Ryanair,FR2402,Sevilla (SVQ),12:30:00,En hora,189,Boeing 737-800,S,NAC,Domingo,Tarde
+1674,2025-11-30,Volotea,V72167,Lille/Lesquin (LIL),12:35:00,En hora,180,Airbus A320,S,EU,Domingo,Tarde
+1675,2025-11-30,Grupo Ryanair,FR6300,Sofia (SOF),12:45:00,En hora,189,Boeing 737-800,S,EU,Domingo,Tarde
+1676,2025-11-30,Pegasus Airlines,PC1092,Istanbul (SAW),12:45:00,En hora,220,Airbus A321,Y,INT,Domingo,Tarde
+1677,2025-11-30,Grupo Ryanair,FR2511,Cologne-Bonn (CGN),12:55:00,En hora,189,Boeing 737-800,U,EU,Domingo,Tarde
+1678,2025-11-30,Grupo Ryanair,FR8598,Reggio Calabria (REG),13:05:00,En hora,189,Boeing 737-800,U,EU,Domingo,Tarde
+1679,2025-11-30,Volotea,V71445,Olbia (OLB),13:05:00,En hora,180,Airbus A320,S,EU,Domingo,Tarde
+1680,2025-11-30,Grupo wizz,W46330,Milan (MXP),13:10:00,Retrasado,230,Airbus A321,S,EU,Domingo,Tarde
+1681,2025-11-30,Grupo Ryanair,FR3121,Beauvais (BVA),13:20:00,En hora,189,Boeing 737-800,U,EU,Domingo,Tarde
+1682,2025-11-30,Grupo easy,U28056,London (LGW),13:25:00,En hora,156,Airbus A319,M,INT,Domingo,Tarde
+1683,2025-11-30,Grupo easy,EC1380,Geneva (GVA),13:40:00,En hora,180,Airbus A320,R,EU,Domingo,Tarde
+1684,2025-11-30,Grupo Ryanair,FR9811,London (STN),13:40:00,En hora,189,Boeing 737-800,W,INT,Domingo,Tarde
+1685,2025-11-30,Grupo Ryanair,FR483,Malaga (AGP),13:50:00,En hora,189,Boeing 737-800,S,NAC,Domingo,Tarde
+1686,2025-11-30,Air Baltic,BT684,Riga (RIX),14:05:00,En hora,148,Airbus A220-300,S,EU,Domingo,Tarde
+1687,2025-11-30,Grupo easy,EC7153,Milan (MXP),14:05:00,En hora,156,Airbus A319,R,EU,Domingo,Tarde
+1688,2025-11-30,Grupo Ryanair,FR1342,Palma de Mallorca (PMI),14:05:00,En hora,189,Boeing 737-800,U,NAC,Domingo,Tarde
+1689,2025-11-30,Grupo Ryanair,FR6920,Dublin (DUB),14:05:00,En hora,197,Boeing 737 MAX 8,W,INT,Domingo,Tarde
+1690,2025-11-30,Grupo Ryanair,FR4585,Porto (OPO),14:10:00,En hora,189,Boeing 737-800,S,EU,Domingo,Tarde
+1691,2025-11-30,SunExpress,XQ895,Izmir (ADB),14:15:00,En hora,189,Boeing 737-800,Y,INT,Domingo,Tarde
+1692,2025-11-30,Transavia,HV5132,Amsterdam (AMS),14:20:00,En hora,189,Boeing 737-800,U,EU,Domingo,Tarde
+1693,2025-11-30,Grupo easy,EC7107,Geneva (GVA),14:25:00,En hora,156,Airbus A319,R,EU,Domingo,Tarde
+1694,2025-11-30,Norwegian Air Sweden AOC,D85502,Stockholm (ARN),14:40:00,En hora,189,Boeing 737-800,U,EU,Domingo,Tarde
+1695,2025-11-30,Bluebird Airways,BZ251,Tel Aviv (TLV),14:45:00,En hora,189,Boeing 737-800,Y,INT,Domingo,Tarde
+1696,2025-11-30,Grupo Ryanair,FR269,Milan (MXP),14:55:00,En hora,189,Boeing 737-800,S,EU,Domingo,Tarde
+1697,2025-11-30,SmartWings,QS1059,Prague (PRG),14:55:00,En hora,189,Boeing 737-800,U,EU,Domingo,Tarde
+1698,2025-11-30,Grupo Ryanair,FR3320,Milan (BGY),15:00:00,En hora,189,Boeing 737-800,S,EU,Domingo,Tarde
+1699,2025-11-30,Grupo Ryanair,FR774,Torino (TRN),15:15:00,En hora,189,Boeing 737-800,S,EU,Domingo,Tarde
+1700,2025-11-30,Grupo Ryanair,RR3072,Prague (PRG),15:15:00,En hora,189,Boeing 737-800,U,EU,Domingo,Tarde
+1701,2025-11-30,Transavia,TO4755,Paris (ORY),15:15:00,Retrasado,186,Airbus A320neo,U,EU,Domingo,Tarde
+1702,2025-11-30,Grupo easy,EC7694,Lisbon (LIS),15:20:00,Retrasado,180,Airbus A320,R,EU,Domingo,Tarde
+1703,2025-11-30,Grupo Ryanair,FR6973,Rome (FCO),15:30:00,Retrasado,197,Boeing 737 MAX 8,S,EU,Domingo,Tarde
+1704,2025-11-30,Air Arabia Maroc,3O378,Tanger (TNG),15:35:00,Retrasado,174,Airbus A320,Y,INT,Domingo,Tarde
+1705,2025-11-30,Grupo wizz,W46728,Venice (VCE),15:40:00,En hora,239,Airbus A321neo,U,EU,Domingo,Tarde
+1706,2025-11-30,Grupo Ryanair,FR133,Berlin (BER),16:15:00,En hora,189,Boeing 737-800,S,EU,Domingo,Tarde
+1707,2025-11-30,Grupo Ryanair,FR2922,Brussels (BRU),16:15:00,En hora,189,Boeing 737-800,S,EU,Domingo,Tarde
+1708,2025-11-30,Grupo easy,EC7173,Berlin (BER),16:30:00,En hora,180,Airbus A320,R,EU,Domingo,Tarde
+1709,2025-11-30,Grupo Ryanair,FR9814,London (STN),16:40:00,En hora,189,Boeing 737-800,W,INT,Domingo,Tarde
+1710,2025-11-30,Grupo Ryanair,FR8669,Dublin (DUB),16:55:00,En hora,189,Boeing 737-800,W,INT,Domingo,Tarde
+1711,2025-11-30,Air Arabia Maroc,3O374,Casablanca (CMN),17:00:00,En hora,174,Airbus A320,Y,INT,Domingo,Tarde
+1712,2025-11-30,Grupo Ryanair,FR2250,Marrakech (RAK),17:00:00,Retrasado,189,Boeing 737-800,Y,INT,Domingo,Tarde
+1713,2025-11-30,Grupo Ryanair,RR8394,Budapest (BUD),17:15:00,Retrasado,197,Boeing 737 MAX 8,U,EU,Domingo,Tarde
+1714,2025-11-30,Grupo Ryanair,FR5718,Bratislava (BTS),17:20:00,Retrasado,189,Boeing 737-800,S,EU,Domingo,Tarde
+1715,2025-11-30,Grupo Ryanair,FR12,Vienna (VIE),17:40:00,En hora,189,Boeing 737-800,S,EU,Domingo,Tarde
+1716,2025-11-30,Volotea,V73573,Asturias (OVD),17:40:00,Retrasado,156,Airbus A319,U,NAC,Domingo,Tarde
+1717,2025-11-30,Grupo Ryanair,RR5252,Krakow (KRK),17:50:00,En hora,189,Boeing 737-800,U,EU,Domingo,Tarde
+1718,2025-11-30,Grupo Ryanair,FR1681,Frankfurt-Hahn (HHN),18:00:00,En hora,189,Boeing 737-800,U,EU,Domingo,Tarde
+1719,2025-11-30,Grupo Ryanair,FR777,Venice (VCE),18:00:00,En hora,197,Boeing 737 MAX 8,U,EU,Domingo,Tarde
+1720,2025-11-30,Grupo Ryanair,FR6305,Milan (BGY),18:05:00,En hora,189,Boeing 737-800,S,EU,Domingo,Tarde
+1721,2025-11-30,Grupo easy,EC7109,Geneva (GVA),18:15:00,En hora,156,Airbus A319,R,EU,Domingo,Tarde
+1722,2025-11-30,Volotea,V73700,Vitoria (VIT),18:20:00,En hora,180,Airbus A320,U,NAC,Domingo,Tarde
+1723,2025-11-30,Grupo Ryanair,FR2406,Sevilla (SVQ),18:30:00,En hora,189,Boeing 737-800,U,NAC,Domingo,Tarde
+1724,2025-11-30,Grupo wizz,W43686,Iasi (IAS),18:30:00,En hora,180,Airbus A320,S,EU,Domingo,Tarde
+1725,2025-11-30,Jet2,LS804,Manchester (MAN),18:35:00,En hora,189,Boeing 737-800,W,INT,Domingo,Tarde
+1726,2025-11-30,Grupo easy,EC7103,"Basel, Switzerland/Mulhouse (BSL)",18:45:00,Retrasado,156,Airbus A319,R,EU,Domingo,Tarde
+1727,2025-11-30,Grupo Ryanair,FR8631,Tanger (TNG),18:45:00,En hora,189,Boeing 737-800,W,INT,Domingo,Tarde
+1728,2025-11-30,Transavia,HV6066,Rotterdam (RTM),18:50:00,En hora,189,Boeing 737-800,S,EU,Domingo,Tarde
+1729,2025-11-30,Grupo easy,U25716,Southend (SEN),18:55:00,En hora,186,Airbus A320neo,M,INT,Domingo,Tarde
+1730,2025-11-30,Grupo wizz,W61176,Katowice (KTW),18:55:00,En hora,180,Airbus A320,S,EU,Domingo,Tarde
+1731,2025-11-30,Grupo wizz,W61478,Warsaw (WAW),19:00:00,En hora,239,Airbus A321neo,S,EU,Domingo,Tarde
+1732,2025-11-30,Grupo easy,EC7159,Milan (LIN),19:05:00,Retrasado,156,Airbus A319,R,EU,Domingo,Tarde
+1733,2025-11-30,Grupo wizz,W43180,Bucharest (OTP),19:05:00,En hora,230,Airbus A321,S,EU,Domingo,Tarde
+1734,2025-11-30,Grupo Ryanair,FR6394,Dublin (DUB),19:10:00,En hora,197,Boeing 737 MAX 8,Y,INT,Domingo,Tarde
+1735,2025-11-30,Grupo Ryanair,FR3160,Bristol (BRS),19:25:00,Retrasado,189,Boeing 737-800,Y,INT,Domingo,Tarde
+1736,2025-11-30,Volotea,V72165,Nantes/Atlantique (NTE),19:30:00,En hora,156,Airbus A319,S,EU,Domingo,Tarde
+1737,2025-11-30,Grupo wizz,W64406,Sofia (SOF),19:35:00,En hora,239,Airbus A321neo,U,EU,Domingo,Tarde
+1738,2025-11-30,Grupo Ryanair,FR2233,Al Aaroui (NDR),19:40:00,En hora,189,Boeing 737-800,W,INT,Domingo,Tarde
+1739,2025-11-30,Grupo easy,EC3750,Milan (MXP),19:45:00,Retrasado,180,Airbus A320,R,EU,Domingo,Tarde
+1740,2025-11-30,Grupo Ryanair,FR5710,Napoli (NAP),19:45:00,En hora,189,Boeing 737-800,U,EU,Domingo,Tarde
+1741,2025-11-30,Grupo Ryanair,FR9015,London (STN),19:45:00,En hora,189,Boeing 737-800,Y,INT,Domingo,Tarde
+1742,2025-11-30,Grupo easy,U28058,London (LGW),19:45:00,En hora,180,Airbus A320,M,INT,Domingo,Tarde
+1743,2025-11-30,Grupo wizz,W64666,Larnaca (LCA),19:55:00,Retrasado,230,Airbus A321,W,INT,Domingo,Tarde
+1744,2025-11-30,Grupo Ryanair,FR8136,Ibiza (IBZ),20:10:00,En hora,189,Boeing 737-800,R,NAC,Domingo,Noche
+1745,2025-11-30,Grupo wizz,W62096,Krakow (KRK),20:10:00,Retrasado,239,Airbus A321neo,S,EU,Domingo,Noche
+1746,2025-11-30,Grupo easy,EC4212,Napoli (NAP),20:20:00,En hora,180,Airbus A320,R,EU,Domingo,Noche
+1747,2025-11-30,Transavia,HV6788,Eindhoven (EIN),20:20:00,En hora,189,Boeing 737-800,S,EU,Domingo,Noche
+1748,2025-11-30,Grupo wizz,W67022,Bratislava (BTS),20:20:00,Retrasado,239,Airbus A321neo,S,EU,Domingo,Noche
+1749,2025-11-30,Grupo Ryanair,FR6985,Rome (FCO),20:30:00,Retrasado,197,Boeing 737 MAX 8,R,EU,Domingo,Noche
+1750,2025-11-30,Eurowings,EW521,Cologne-Bonn (CGN),20:35:00,Retrasado,180,Airbus A320,U,EU,Domingo,Noche
+1751,2025-11-30,Air Serbia,JU585,Belgrade (BEG),20:35:00,Retrasado,144,Airbus A319,Y,INT,Domingo,Noche
+1752,2025-11-30,Norwegian Air Sweden AOC,D83659,Copenhagen (CPH),20:40:00,En hora,189,Boeing 737 MAX 8,S,EU,Domingo,Noche
+1753,2025-11-30,Eurowings,EW2521,Stuttgart (STR),20:40:00,En hora,180,Airbus A320,U,EU,Domingo,Noche
+1754,2025-11-30,Grupo Ryanair,FR4587,Porto (OPO),20:40:00,En hora,189,Boeing 737-800,R,EU,Domingo,Noche
+1755,2025-11-30,Luxair,LG3596,Luxembourg (LUX),20:40:00,Retrasado,141,Boeing 737-700,U,EU,Domingo,Noche
+1756,2025-11-30,Transavia,TO4759,Paris (ORY),20:45:00,En hora,189,Boeing 737-800,U,EU,Domingo,Noche
+1757,2025-11-30,Grupo wizz,W62378,Budapest (BUD),20:45:00,Retrasado,239,Airbus A321neo,S,EU,Domingo,Noche
+1758,2025-11-30,Grupo Ryanair,FR6275,Edinburgh (EDI),20:50:00,En hora,197,Boeing 737 MAX 8,W,INT,Domingo,Noche
+1759,2025-11-30,Grupo Ryanair,RR6944,Warsaw (WMI),20:50:00,En hora,189,Boeing 737-800,R,EU,Domingo,Noche
+1760,2025-11-30,Grupo easy,U22326,London (LTN),20:55:00,En hora,186,Airbus A320neo,M,INT,Domingo,Noche
+1761,2025-11-30,Grupo wizz,W64738,Skopje (SKP),20:55:00,Retrasado,239,Airbus A321neo,W,INT,Domingo,Noche
+1762,2025-11-30,Grupo Ryanair,RR8615,Budapest (BUD),21:00:00,En hora,189,Boeing 737-800,R,EU,Domingo,Noche
+1763,2025-11-30,Aer Lingus,EI565,Dublin (DUB),21:05:00,En hora,174,Airbus A320,W,INT,Domingo,Noche
+1764,2025-11-30,Grupo Ryanair,FR2896,Palma de Mallorca (PMI),21:15:00,En hora,189,Boeing 737-800,R,NAC,Domingo,Noche
+1765,2025-11-30,Transavia,HV5134,Amsterdam (AMS),21:15:00,Retrasado,189,Boeing 737-800,S,EU,Domingo,Noche
+1766,2025-11-30,Grupo Ryanair,FR3792,Birmingham (BHX),21:20:00,En hora,189,Boeing 737-800,Y,INT,Domingo,Noche
+1767,2025-11-30,Grupo wizz,W43178,Bucharest (BBU),21:20:00,En hora,230,Airbus A321,U,EU,Domingo,Noche
+1768,2025-11-30,Grupo wizz,W43406,Cluj-Napoca (CLJ),21:25:00,Retrasado,180,Airbus A320,U,EU,Domingo,Noche
+1769,2025-11-30,Grupo easy,U28060,London (LGW),21:30:00,En hora,156,Airbus A319,M,INT,Domingo,Noche
+1770,2025-11-30,Grupo wizz,W46020,Rome (FCO),21:35:00,Retrasado,239,Airbus A321neo,S,EU,Domingo,Noche
+1771,2025-11-30,Grupo Ryanair,FR5752,Valletta (MLA),21:45:00,En hora,197,Boeing 737 MAX 8,S,EU,Domingo,Noche
+1772,2025-11-30,Grupo easy,U22706,Bristol (BRS),21:50:00,En hora,186,Airbus A320neo,M,INT,Domingo,Noche
+1773,2025-11-30,Volotea,V71415,Verona (VRN),21:55:00,En hora,180,Airbus A320,U,EU,Domingo,Noche
+1774,2025-11-30,Grupo wizz,W64116,Belgrade (BEG),21:55:00,En hora,239,Airbus A321neo,W,INT,Domingo,Noche
+1775,2025-11-30,Grupo wizz,W45154,Tirana (TIA),22:45:00,Retrasado,230,Airbus A321,W,INT,Domingo,Noche
+1776,2025-11-30,Grupo Ryanair,FR5220,Bologna (BLQ),22:50:00,En hora,197,Boeing 737 MAX 8,S,EU,Domingo,Noche
+1777,2025-11-30,Grupo wizz,W61706,Gdansk (GDN),22:50:00,En hora,230,Airbus A321,U,EU,Domingo,Noche
+1778,2025-11-30,Grupo Ryanair,FR9406,Fes (FEZ),23:15:00,En hora,189,Boeing 737-800,Y,INT,Domingo,Noche
