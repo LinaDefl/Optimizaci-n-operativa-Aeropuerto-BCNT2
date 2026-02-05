@@ -13,7 +13,6 @@ La gestión de la afluencia de pasajeros en las distintas zonas clave (check-in,
 4. limpieza de clima (notebook 16)
 5. DIstribución y conversion a tabla por horas (notebook 17)
 6. Modelo de afluencia (notebook 18,19,20)
-
 Para una mayor privacidad se limita la visualización de datos del notebook 12 y 13 en el cual se trabaja con datos internos.
 -------------------------------
 #### OBJETIVO: 
