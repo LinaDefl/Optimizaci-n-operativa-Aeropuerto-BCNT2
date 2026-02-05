@@ -23,6 +23,10 @@ Reconstruir la afluencia real de pasajeros por zona aeroportuaria.
 - Visualizar resultados de forma intuitiva mediante Streamlit y mapas interactivos.
 
 #### PROCEDIMIENTO: 
+Se inicia con la recolección de datos, seguida de un exhaustivo proceso de limpieza y estandarización. Una vez completada esta etapa, procedemos a predecir la ocupación de los vuelos cuya información aún falta, con el fin de conocer el número de pasajeros. Esto nos permite abordar la carencia de datos y transformar nuestra tabla de vuelos a una representación por horas. Debido a la falta de datos sensoriales del aeropuerto, establecemos ciertas reglas de llegada basadas en nuestra experiencia de tres años en el sector, así como en nuestra especialización en gestión de hostelería y turismo. El objetivo es reflejar de manera más realista la llegada de pasajeros en las diferentes áreas.
+
+Finalmente, avanzamos hacia la modelización, donde, para aumentar la precisión, realizamos predicciones para cada zona utilizando modelos distintos, lo que facilita un mejor aprendizaje de los patrones. En cuanto al análisis de la ocupación, se lleva a cabo un análisis preliminar de un día utilizando Pandas, mientras que el análisis total se realiza en Power BI. Por otro lado, los datos generales sobre vuelos y pasajeros se analizan en Tableau.
+
 METOLOGÍA para convertir tabla en horas: Expansión temporal a nivel minuto:
 - Los datos originales están agregados por vuelo y hora de salida.
 - Para ganar precisión: Se define un intervalo operativo por vuelo (apertura y cierre) y se expande cada vuelo a múltiples filas por minuto usando pd.date_range(freq="1min").Cada vuelo pasa a representarse como una distribución temporal continua.
