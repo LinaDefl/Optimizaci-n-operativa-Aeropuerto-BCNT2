@@ -27,22 +27,23 @@ Se inicia con la recolección de datos, seguida de un exhaustivo proceso de limp
 
 Finalmente, avanzamos hacia la modelización, donde, para aumentar la precisión, realizamos predicciones para cada zona utilizando modelos distintos, lo que facilita un mejor aprendizaje de los patrones. En cuanto al análisis de la ocupación, se lleva a cabo un análisis preliminar de un día utilizando Pandas, mientras que el análisis total se realiza en Power BI. Por otro lado, los datos generales sobre vuelos y pasajeros se analizan en Tableau.
 
-METOLOGÍA para convertir tabla en horas: Expansión temporal a nivel minuto:
+##### METOLOGÍA para convertir tabla en horas: Expansión temporal a nivel minuto:
 - Los datos originales están agregados por vuelo y hora de salida.
 - Para ganar precisión: Se define un intervalo operativo por vuelo (apertura y cierre) y se expande cada vuelo a múltiples filas por minuto usando pd.date_range(freq="1min").Cada vuelo pasa a representarse como una distribución temporal continua.
 
-#### Asignación ponderada por tramos:
-Cada intervalo se divide en tramos temporales, representando patrones reales de llegada de pasajeros.
+##### Asignación ponderada por tramos:
+Cada intervalo se divide en tramos temporales, representando patrones reales de llegada de pasajeros. 
 Ejemplo en Check-in:
 - Tramo 1: llegada temprana
 - Tramo 2: llegada tardía
 
-#### Selección de pasajeros que entran al sistema: No todos los pasajeros pasan por todas las zonas: 
+##### Selección de pasajeros que entran al sistema: No todos los pasajeros pasan por todas las zonas: 
 - Se define un porcentaje de pasajeros que NO pasan por check-in, distinto por tipo de vuelo.
 - Conservación de masa: Tras la distribución: Se valida que la suma de pasajeros por vuelo coincide con el total original. Para garantizar que ningún pasajero desaparece artificialmente se aplica un factor de normalización para corregir errores numéricos acumulados.
 
 #### Modelado predictivo: 
-Se entrenan 3 modelos para predecir la afluencia en cada zona: Series temporales con Random forest. Métricas usadas:(R²,RMSE) Se trabaja en un entorno concreto, el mismo que en streamlit. 
+- se modela 2 modelos para conocer la ocupación de cada vuelo entrenados con una parte obtenida. Se utiliza dos modelos para una mayor precisión de los datos. 
+- Se entrenan 3 modelos para predecir la afluencia en cada zona: Series temporales con Random forest. Métricas usadas:(R²,RMSE) Se trabaja en un entorno concreto, el mismo que en streamlit. 
 
 #### Visualización e interfaz:
 El proyecto incluye una aplicación Streamlit con: KPIs diarios por zona, gráficos históricos por horas, días y semanas, mapa interactivo (Folium). Esto permite: análisis histórico, toma de decisiones visual e intuitiva.
