@@ -49,3 +49,22 @@ Ejemplo en Check-in:
 El proyecto incluye una aplicación Streamlit con: KPIs diarios por zona, gráficos históricos por horas, días y semanas, mapa interactivo (Folium). Esto permite: análisis histórico, toma de decisiones visual e intuitiva.
 
 Puedes visualizar la app en este link: https://app-afluencia-aeropuertobcnt2.streamlit.app/
+
+### Tecnologías utilizadas
+
+    - Python
+    - Pandas
+    - NumPy
+    - Scikit-learn
+    - Random Forest (ML)
+    - SKforecast (series temporales)
+    - Matplotlib
+    - Seaborn
+    - Jupyter Notebook
+    - Streamlit
+    - Power bi
+    - Tabeau
+    - Selenium
+    - Beautiful Soup
+    
+
