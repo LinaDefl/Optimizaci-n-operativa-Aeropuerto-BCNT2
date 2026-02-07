@@ -14,6 +14,8 @@ La gestión de la afluencia de pasajeros en las distintas zonas clave (check-in,
 4. limpieza de clima (notebook 16)
 5. DIstribución y conversion a tabla por horas (notebook 17)
 6. Modelo de afluencia (notebook 18,19,20)
+
+En el código se adjunta un esquema para visualizar el flujo del proyecto. 
 -------------------------------
 #### OBJETIVO: 
 Reconstruir la afluencia real de pasajeros por zona aeroportuaria.
